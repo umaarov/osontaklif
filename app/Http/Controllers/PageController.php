@@ -4,17 +4,17 @@ namespace App\Http\Controllers;
 
 class PageController extends Controller
 {
-    public function home()
+    final function home(): object
     {
         return view('pages.home');
     }
 
-    public function mock()
+    final function mock(): object
     {
         return view('pages.mock');
     }
 
-    public function requirements()
+    final function requirements(): object
     {
         return view('pages.requirements');
     }
