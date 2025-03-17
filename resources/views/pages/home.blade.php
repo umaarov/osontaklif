@@ -5,10 +5,10 @@
     <p>Your best place for job interview questions.</p>
 
     <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-        @foreach ($professions as $key => $profession)
-            <a href="{{ route('profession', $key) }}"
+        @foreach ($professions as $profession)
+            <a href="{{ route('profession', $profession->name) }}"
                style="border: 1px solid #ccc; padding: 20px; text-align: center; display: block; text-decoration: none; color: black;">
-                <h2>{{ $profession }}</h2>
+                <h2>{{ $profession->name }}</h2>
             </a>
         @endforeach
     </div>

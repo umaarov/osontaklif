@@ -2,22 +2,29 @@
 
 namespace Database\Seeders;
 
-use App\Models\User;
-// use Illuminate\Database\Console\Seeds\WithoutModelEvents;
+use App\Models\Profession;
+use App\Models\Question;
 use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
 {
-    /**
-     * Seed the application's database.
-     */
     public function run(): void
     {
-        // User::factory(10)->create();
+        $professions = [
+            'android' => 'Android',
+            'vue' => 'Vue.js',
+            'react' => 'React.js',
+            'php' => 'PHP',
+            'java' => 'Java',
+            'python' => 'Python'
+        ];
 
-        User::factory()->create([
-            'name' => 'Test User',
-            'email' => 'test@example.com',
-        ]);
+        foreach ($professions as $key => $name) {
+            $profession = Profession::create(['name' => $name]);
+
+            Question::create(['profession_id' => $profession->id, 'question' => 'What is ' . $name . '?', 'chance' => 'High']);
+            Question::create(['profession_id' => $profession->id, 'question' => 'Explain a key feature of ' . $name . '.', 'chance' => 'Medium']);
+        }
     }
 }
+
