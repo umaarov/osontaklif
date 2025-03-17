@@ -3,20 +3,29 @@
 @section('content')
     <h1>{{ $profession->name }} Interview Questions</h1>
 
-    <table border="1" style="width: 100%; border-collapse: collapse;">
+    <form method="GET">
+        <input type="text" name="search" value="{{ $search }}" placeholder="Search questions..."/>
+        <button type="submit">Search</button>
+
+        <select name="sort" onchange="this.form.submit()">
+            <option value="desc" {{ $sort == 'desc' ? 'selected' : '' }}>High to Low</option>
+            <option value="asc" {{ $sort == 'asc' ? 'selected' : '' }}>Low to High</option>
+        </select>
+
+    </form>
+
+    <table border="1" style="margin-top: 20px; width: 100%; border-collapse: collapse;">
         <thead>
         <tr>
-            <th>ID</th>
+            <th>Chance (%)</th>
             <th>Question</th>
-            <th>Chance of Asking</th>
         </tr>
         </thead>
         <tbody>
         @foreach ($questions as $q)
             <tr>
-                <td>{{ $q->id }}</td>
-                <td>{{ $q->question }}</td>
-                <td>{{ $q->chance }}</td>
+                <td>{{ $q->chance }}%</td>
+                <td><a href="{{ route('question', $q->id) }}">{{ $q->question }}</a></td>
             </tr>
         @endforeach
         </tbody>
