@@ -11,7 +11,8 @@ return new class extends Migration {
             $table->id();
             $table->foreignId('profession_id')->constrained('professions')->onDelete('cascade');
             $table->text('question');
-            $table->string('chance'); // High, Medium, Low
+            $table->text('content');
+            $table->integer('chance')->unsigned();
             $table->timestamps();
         });
     }

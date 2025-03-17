@@ -8,7 +8,6 @@ use Illuminate\Database\Eloquent\Model;
 class Profession extends Model
 {
     use HasFactory;
-
     protected $fillable = ['name'];
 
     public function questions()
@@ -16,3 +15,4 @@ class Profession extends Model
         return $this->hasMany(Question::class);
     }
 }
+
