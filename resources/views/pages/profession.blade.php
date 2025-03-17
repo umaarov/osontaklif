@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>{{ $name }} Interview Questions</h1>
+    <h1>{{ $profession->name }} Interview Questions</h1>
 
     <table border="1" style="width: 100%; border-collapse: collapse;">
         <thead>
@@ -14,9 +14,9 @@
         <tbody>
         @foreach ($questions as $q)
             <tr>
-                <td>{{ $q['id'] }}</td>
-                <td>{{ $q['question'] }}</td>
-                <td>{{ $q['chance'] }}</td>
+                <td>{{ $q->id }}</td>
+                <td>{{ $q->question }}</td>
+                <td>{{ $q->chance }}</td>
             </tr>
         @endforeach
         </tbody>
