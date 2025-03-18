@@ -2,6 +2,7 @@
 
 namespace Database\Seeders;
 
+use App\Models\Interview;
 use App\Models\Profession;
 use App\Models\Question;
 use Illuminate\Database\Seeder;
@@ -11,16 +12,18 @@ class DatabaseSeeder extends Seeder
     public function run(): void
     {
         $professions = [
-            'android' => 'Android',
-            'vue' => 'Vue.js',
-            'react' => 'React.js',
-            'php' => 'PHP',
-            'java' => 'Java',
-            'python' => 'Python'
+            'android' => 'Android Developer',
+            'vue' => 'Vue.js Developer',
+            'react' => 'React.js Developer',
+            'php' => 'PHP Developer',
+            'java' => 'Java Developer',
+            'python' => 'Python Developer'
         ];
 
+        $grades = ['Junior', 'Middle', 'Senior'];
+
         foreach ($professions as $key => $name) {
-            $profession = Profession::create(['name' => $name]);
+            $profession = Profession::firstOrCreate(['name' => $name]);
 
             Question::create([
                 'profession_id' => $profession->id,
@@ -35,8 +38,15 @@ class DatabaseSeeder extends Seeder
                 'content' => "Detailed content about a feature of $name...",
                 'chance' => rand(30, 100),
             ]);
+
+            foreach ($grades as $grade) {
+                Interview::create([
+                    'title' => "$name Interview",
+                    'link' => 'https://kun.uz',
+                    'profession_id' => $profession->id,
+                    'grade' => $grade,
+                ]);
+            }
         }
     }
 }
-
-

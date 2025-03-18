@@ -2,6 +2,7 @@
 
 namespace App\Http\Controllers;
 
+use App\Models\Interview;
 use App\Models\Profession;
 use App\Models\Question;
 use Illuminate\Http\Request;
@@ -37,10 +38,27 @@ class PageController extends Controller
         return view('pages.question', compact('question'));
     }
 
-    final function mock(): object
+    public function mock(Request $request)
     {
-        return view('pages.mock');
+        $positions = Profession::all();
+
+        $query = Interview::query()->with('profession');
+
+        if ($request->filled('position')) {
+            $query->whereHas('profession', function ($q) use ($request) {
+                $q->where('id', $request->position);
+            });
+        }
+
+        if ($request->filled('grade')) {
+            $query->where('grade', $request->grade);
+        }
+
+        $interviews = $query->get();
+
+        return view('pages.mock', compact('interviews', 'positions'));
     }
+
 
     final function requirements(): object
     {
