@@ -5,7 +5,7 @@ use Illuminate\Database\Seeder;
 
 class ProfessionSeeder extends Seeder
 {
-    public function run()
+    final function run(): void
     {
         $professions = ['Android Developer', 'iOS Developer', 'Backend Developer'];
 

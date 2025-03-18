@@ -6,7 +6,7 @@ use App\Models\Profession;
 
 class InterviewSeeder extends Seeder
 {
-    public function run()
+    final function run(): void
     {
         $android = Profession::where('name', 'Android Developer')->first();
         $ios = Profession::where('name', 'iOS Developer')->first();

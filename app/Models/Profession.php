@@ -4,6 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\HasMany;
 
 class Profession extends Model
 {
@@ -11,12 +12,12 @@ class Profession extends Model
 
     protected $fillable = ['name'];
 
-    public function questions()
+    final function questions(): HasMany
     {
         return $this->hasMany(Question::class);
     }
 
-    public function interviews()
+    final function interviews(): HasMany
     {
         return $this->hasMany(Interview::class);
     }

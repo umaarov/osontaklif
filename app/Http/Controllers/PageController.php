@@ -9,13 +9,13 @@ use Illuminate\Http\Request;
 
 class PageController extends Controller
 {
-    public function home(Request $request)
+    final function home(): object
     {
         $professions = Profession::all();
         return view('pages.home', compact('professions'));
     }
 
-    public function profession($name, Request $request)
+    final function profession($name, Request $request): object
     {
         $profession = Profession::where('name', $name)->firstOrFail();
 
@@ -32,13 +32,13 @@ class PageController extends Controller
         return view('pages.profession', compact('profession', 'questions', 'search', 'sort'));
     }
 
-    public function question($id)
+    final function question($id): object
     {
         $question = Question::findOrFail($id);
         return view('pages.question', compact('question'));
     }
 
-    public function mock(Request $request)
+    final function mock(Request $request): object
     {
         $positions = Profession::all();
 

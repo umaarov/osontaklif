@@ -4,6 +4,7 @@ namespace App\Models;
 
 use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
+use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
 class Interview extends Model
 {
@@ -11,7 +12,7 @@ class Interview extends Model
 
     protected $fillable = ['title', 'link', 'profession_id', 'grade'];
 
-    public function profession()
+    final function profession(): BelongsTo
     {
         return $this->belongsTo(Profession::class);
     }
