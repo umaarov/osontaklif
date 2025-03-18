@@ -18,27 +18,27 @@ class ProfessionController extends Controller
         $profession = Profession::where('name', $name)->firstOrFail();
         $searchQuery = urlencode($profession->name);
 
-        $response = Http::get("https://api.hh.ru/vacancies", [
+        $response = Http::withHeaders([
+            'User-Agent' => 'OsonTaklif (hs.umarov21@gmail.com)',
+        ])->get("https://api.hh.uz/vacancies", [
             'text' => $searchQuery,
-            'area' => 'uz',
+            'area' => '113',
             'per_page' => 50,
         ]);
 
         if ($response->failed()) {
-            return view('pages.requirements_show', [
-                'profession' => $profession,
-                'skills' => [],
-                'error' => 'Failed to fetch data from HeadHunter',
-            ]);
+            dd($response->json());
         }
 
         $vacancies = $response->json()['items'] ?? [];
-
         $skillsCount = [];
 
         foreach ($vacancies as $vacancy) {
-            $details = Http::get($vacancy['url'])->json();
+            $details = Http::withHeaders([
+                'User-Agent' => 'MyApp (your-email@example.com)',
+            ])->get($vacancy['url'])->json();
 
+            // Extract key skills
             if (!empty($details['key_skills'])) {
                 foreach ($details['key_skills'] as $skill) {
                     $skillName = strtolower($skill['name']);
@@ -46,8 +46,8 @@ class ProfessionController extends Controller
                 }
             }
 
+            // Extract from description
             $description = strtolower(strip_tags($details['description'] ?? ''));
-
             preg_match_all('/\b[a-zA-Z0-9#.+-]+\b/', $description, $matches);
             foreach ($matches[0] as $word) {
                 $skillsCount[$word] = ($skillsCount[$word] ?? 0) + 1;
@@ -62,5 +62,6 @@ class ProfessionController extends Controller
             'error' => null
         ]);
     }
+
 
 }
