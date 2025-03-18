@@ -9,7 +9,7 @@ use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
 {
-    public function run(): void
+    final function run(): void
     {
         $professions = [
             'android' => 'Android Developer',
