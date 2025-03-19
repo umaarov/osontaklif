@@ -9,5 +9,5 @@ Route::get('/profession/{name}', [PageController::class, 'profession'])->name('p
 Route::get('/question/{id}', [PageController::class, 'question'])->name('question');
 
 Route::get('/mock', [PageController::class, 'mock'])->name('mock');
-Route::get('/requirements', [ProfessionController::class, 'index'])->name('requirements');
-Route::get('/requirements/{name}', [ProfessionController::class, 'show'])->name('profession.show');
+Route::get('/requirements', [PageController::class, 'requirements'])->name('requirements');
+Route::get('/requirements/{name}', [PageController::class, 'requirements_show'])->name('requirements_show');
