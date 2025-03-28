@@ -62,6 +62,13 @@ class PageController extends Controller
 
     final function requirements(): object
     {
-        return view('pages.requirements');
+        $professions = Profession::all();
+        return view('pages.requirements', compact('professions'));
+    }
+
+    final function requirement_show($name): object
+    {
+        $profession = Profession::where('name', $name)->firstOrFail();
+        return view('pages.requirement_show', compact('profession'));
     }
 }

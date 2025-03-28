@@ -9,3 +9,4 @@ Route::get('/question/{id}', [PageController::class, 'question'])->name('questio
 
 Route::get('/mock', [PageController::class, 'mock'])->name('mock');
 Route::get('/requirements', [PageController::class, 'requirements'])->name('requirements');
+Route::get('/requirements/{name}', [PageController::class, 'requirement_show'])->name('requirements.show');
