@@ -1,0 +1,7 @@
+---
+deployment:
+
+  tasks:
+
+    - export DEPLOYPATH=/home/urverseu/project.urverse.uz/
+    - /bin/cp -R * $DEPLOYPATH
