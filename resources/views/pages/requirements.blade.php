@@ -1,13 +1,12 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1>Job Requirements</h1>
-    <p>Find job interview requirements here.</p>
+    <h1 class="page-title">Job Requirements</h1>
+    <p class="page-subtitle">Find job interview requirements here.</p>
 
-    <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 20px; margin-top: 25px">
+    <div class="card-grid">
         @foreach ($professions as $profession)
-            <a href="{{ route('requirements.show', $profession->name) }}"
-               style="border: 1px solid #ccc; padding: 15px; text-align: center; display: block; text-decoration: none; color: black;">
+            <a href="{{ route('requirements.show', $profession->name) }}" class="item-card">
                 <h4>{{ $profession->name }}</h4>
             </a>
         @endforeach

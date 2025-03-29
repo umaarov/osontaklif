@@ -34,10 +34,10 @@ class PageController extends Controller
         return view('pages.profession', compact('profession', 'questions', 'search', 'sort'));
     }
 
-    final function question($id): object
+    final function question($id, $profession = null): object
     {
         $question = Question::findOrFail($id);
-        return view('pages.question', compact('question'));
+        return view('pages.question', compact('question', 'profession'));
     }
 
     final function mock(Request $request): object

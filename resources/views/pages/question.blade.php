@@ -1,17 +1,22 @@
 @extends('layouts.app')
 
 @section('content')
+    <h3 class="page-title">{{ $question->question }}</h3>
 
-    <h3>{{ $question->question }}</h3>
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px">
-        <div
-            style="border: 1px solid #D2D2D2; padding-left: 10px; padding-right: 10px; padding-top: 15px; min-width: 60%; flex: 3; position: relative;">
-            <p>{{ $question->content }}</p>
-            <p style="bottom: -8px; left: 10px; font-size: 0.9em; color: #777;">
-                {{ $question->created_at->format('Y-m-d H:i') }}
-            </p>
+    <div class="content-container">
+        <div class="main-content">
+            <div class="content-box main-content">
+                <p>{{ $question->content }}</p>
+                <p class="timestamp">
+                    {{ $question->created_at->format('Y-m-d H:i') }}
+                </p>
+            </div>
+            <div style="margin-top: 20px;">
+                <a href="{{ route('profession', ['name' => $profession]) }}" class="btn-outline">
+                    Back to Questions
+                </a>
+            </div>
         </div>
-
         @include("partials.ad")
     </div>
 @endsection
