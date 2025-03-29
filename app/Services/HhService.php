@@ -83,7 +83,8 @@ class HhService
 
             $skillsCount = $this->countSkills($filteredVacancies);
 
-            $this->updateSkillsInDatabase($profession, $skillsCount);
+//            $this->updateSkillsInDatabase($profession, $skillsCount);
+            $this->updateSkillsInDatabase($profession, $skillsCount, $totalProcessed);
 
             $executionTime = microtime(true) - $startTime;
             Log::info("Completed fetching skills for {$profession->name} in " . round($executionTime, 2) . " seconds");
@@ -206,11 +207,18 @@ class HhService
         return $skillCount;
     }
 
-    private function updateSkillsInDatabase(Profession $profession, array $skillsCount): void
+    private function updateSkillsInDatabase(Profession $profession, array $skillsCount, int $totalProcessed): void
     {
         ProfessionSkill::where('profession_id', $profession->id)->delete();
 
         $now = Carbon::now();
+
+        ProfessionSkill::create([
+            'profession_id' => $profession->id,
+            'skill_name' => '_total_processed',
+            'count' => $totalProcessed,
+            'last_updated' => $now
+        ]);
 
         foreach ($skillsCount as $skill => $count) {
             ProfessionSkill::create([
@@ -221,6 +229,7 @@ class HhService
             ]);
         }
 
-        Log::info("Updated {$profession->name} skills in database: " . count($skillsCount) . " skills");
+        Log::info("Updated {$profession->name} skills in database: " . count($skillsCount) . " skills, $totalProcessed total vacancies");
     }
+
 }

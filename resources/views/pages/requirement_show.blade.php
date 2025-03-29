@@ -7,7 +7,12 @@
         postings in Uzbekistan.</p>
 
     @if($lastUpdated)
-        <p class="page-subtitle">Last updated: {{ Carbon::parse($lastUpdated)->format('Y-m-d H:i') }}</p>
+        <p class="page-subtitle">
+            Анализ проведен {{ Carbon::parse($lastUpdated)->format('F d, Y') }}, на основе <a
+                href="https://hh.uz/search/vacancy?text={{ urlencode($profession->name) }}&area=97">поискового
+                запроса</a>.
+            Вакансий обработано: {{ $totalProcessed ?? 0 }}.
+        </p>
     @endif
 
     <div class="content-container">
