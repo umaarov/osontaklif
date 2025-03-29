@@ -1,23 +1,20 @@
 @extends('layouts.app')
 
 @section('content')
-    <h3 style="margin-top: 8px; margin-bottom: 8px">Публичные собеседования</h3>
+    <h3 class="page-title">Публичные собеседования</h3>
 
-    <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-top: 20px">
-        <div style="flex: 3; min-width: 60%;">
-            <form method="GET" action="{{ route('mock') }}"
-                  style="margin-bottom: 20px; display: flex; align-items: center; gap: 10px;">
-                <select name="position"
-                        style="padding: 4px; border: 1px solid #ccc; border-radius: 5px; font-size: 16px;">
+    <div class="content-container">
+        <div class="main-content">
+            <form method="GET" action="{{ route('mock') }}" class="filter-container">
+                <select name="position" class="filter-select">
                     <option value="">---------</option>
                     @foreach($positions as $position)
-                        <option
-                            value="{{ $position->id }}" {{ request('position') == $position->id ? 'selected' : '' }}>
+                        <option value="{{ $position->id }}" {{ request('position') == $position->id ? 'selected' : '' }}>
                             {{ $position->name }}
                         </option>
                     @endforeach
                 </select>
-                <div>
+                <div class="radio-group">
                     <label><input type="radio" name="grade"
                                   value="Junior" {{ request('grade') == 'Junior' ? 'checked' : '' }}> Junior</label>
                     <label><input type="radio" name="grade"
@@ -25,28 +22,27 @@
                     <label><input type="radio" name="grade"
                                   value="Senior" {{ request('grade') == 'Senior' ? 'checked' : '' }}> Senior</label>
                 </div>
-                <button type="submit"
-                        style="padding: 6px 12px; border: 1px solid #007bff; background-color: #007bff; color: white; border-radius: 5px; cursor: pointer;">
+                <button type="submit" class="btn-primary">
                     Выбрать
                 </button>
             </form>
 
-            <table style="margin-top: 20px; width: 100%; border-collapse: collapse;">
+            <table class="data-table">
                 <thead>
-                <tr style="border-bottom: 2px solid #ddd;">
-                    <th style="padding: 8px; text-align: left;">Название</th>
-                    <th style="padding: 8px; text-align: left;">Должность</th>
-                    <th style="padding: 8px; text-align: left;">Грейд</th>
+                <tr>
+                    <th>Название</th>
+                    <th>Должность</th>
+                    <th>Грейд</th>
                 </tr>
                 </thead>
                 <tbody>
                 @foreach ($interviews as $interview)
-                    <tr style="border-bottom: 1px solid #eee;">
-                        <td style="padding: 8px;"><a href="{{ $interview->link }}"
-                                                     style="text-decoration: none; color: #007bff;">{{ $interview->title }}</a>
+                    <tr>
+                        <td>
+                            <a href="{{ $interview->link }}" class="table-link">{{ $interview->title }}</a>
                         </td>
-                        <td style="padding: 8px;">{{ $interview->profession->name }}</td>
-                        <td style="padding: 8px;">{{ $interview->grade }}</td>
+                        <td>{{ $interview->profession->name }}</td>
+                        <td>{{ $interview->grade }}</td>
                     </tr>
                 @endforeach
                 </tbody>

@@ -34,10 +34,10 @@ class PageController extends Controller
         return view('pages.profession', compact('profession', 'questions', 'search', 'sort'));
     }
 
-    final function question($id): object
+    final function question($id, $profession = null): object
     {
         $question = Question::findOrFail($id);
-        return view('pages.question', compact('question'));
+        return view('pages.question', compact('question', 'profession'));
     }
 
     final function mock(Request $request): object
@@ -71,8 +71,16 @@ class PageController extends Controller
     final function requirement_show($name, HhService $hhService): object
     {
         $profession = Profession::where('name', $name)->firstOrFail();
+        $search = request()->query('search');
+        $sort = request()->query('sort', 'desc');
+        $skills = $profession->skills()
+            ->when($search, function ($query, $search) {
+                return $query->where('name', 'LIKE', "%$search%");
+            })
+            ->orderBy('count', $sort)
+            ->get();
 
-        $skills = $profession->skills()->orderBy('count', 'desc')->get();
+//        $skills = $profession->skills()->orderBy('count', 'desc')->get();
 
         $needsRefresh = $skills->isEmpty() ||
             ($skills->isNotEmpty() &&
@@ -86,6 +94,6 @@ class PageController extends Controller
 
         $lastUpdated = $skills->isNotEmpty() ? $skills->first()->last_updated : null;
 
-        return view('pages.requirement_show', compact('profession', 'skills', 'lastUpdated', 'needsRefresh'));
+        return view('pages.requirement_show', compact('profession', 'skills', 'lastUpdated', 'needsRefresh', 'sort', 'search'));
     }
 }

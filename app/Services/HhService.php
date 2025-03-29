@@ -16,7 +16,7 @@ class HhService
     private int $perPage = 100;
     private int $maxPages = 20;
 
-    public function fetchSkillsForProfession(Profession $profession): bool
+    final function fetchSkillsForProfession(Profession $profession): bool
     {
         try {
             Log::info("Starting to fetch skills for profession: {$profession->name}");
@@ -75,7 +75,6 @@ class HhService
                 }
 
                 if ($page < $this->maxPages - 1 && $totalProcessed < $totalFound) {
-                    // Avoid hitting rate limits
                     usleep(500000);
                 } else {
                     break;
@@ -84,7 +83,6 @@ class HhService
 
             $skillsCount = $this->countSkills($filteredVacancies);
 
-            // Update the database with new skills data
             $this->updateSkillsInDatabase($profession, $skillsCount);
 
             $executionTime = microtime(true) - $startTime;
@@ -98,7 +96,7 @@ class HhService
         }
     }
 
-    private function makeApiRequest(string $url)
+    private function makeApiRequest(string $url): ?array
     {
         Log::debug("Making request to: $url");
 
@@ -210,12 +208,10 @@ class HhService
 
     private function updateSkillsInDatabase(Profession $profession, array $skillsCount): void
     {
-        // First, mark all existing skills for this profession as needing update
         ProfessionSkill::where('profession_id', $profession->id)->delete();
 
         $now = Carbon::now();
 
-        // Then insert new or update existing skills
         foreach ($skillsCount as $skill => $count) {
             ProfessionSkill::create([
                 'profession_id' => $profession->id,

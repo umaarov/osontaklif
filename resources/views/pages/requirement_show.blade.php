@@ -1,27 +1,35 @@
 @extends('layouts.app')
 
 @section('content')
-    <div class="container">
-        <h1>{{ $profession->name }} Requirements</h1>
-        <p>Here are the key skills required for the {{ $profession->name }} position based on job postings in Uzbekistan.</p>
+    <h3 class="page-title">{{ $profession->name }} Requirements</h3>
+    <p class="page-subtitle">Here are the key skills required for the {{ $profession->name }} position based on job postings in Uzbekistan.</p>
 
-        @if($needsRefresh)
-            <div class="alert alert-info">
-                Data is being refreshed in the background. Refresh the page in a few minutes to see updated results.
-            </div>
-        @endif
+    @if($needsRefresh)
+        <div class="alert alert-info">
+            Data is being refreshed in the background. Refresh the page in a few minutes to see updated results.
+        </div>
+    @endif
 
-        @if($lastUpdated)
-            <p class="text-muted">Last updated: {{ \Carbon\Carbon::parse($lastUpdated)->format('Y-m-d H:i') }}</p>
-        @endif
+    @if($lastUpdated)
+        <p class="page-subtitle">Last updated: {{ \Carbon\Carbon::parse($lastUpdated)->format('Y-m-d H:i') }}</p>
+    @endif
 
-        @if($skills->isEmpty())
-            <div class="alert alert-warning">
-                No skills data available for this profession yet. Please check back later.
-            </div>
-        @else
-            <div class="table-responsive">
-                <table class="table table-striped">
+    <div class="content-container">
+        <div class="main-content">
+            @if($skills->isEmpty())
+                <div class="alert alert-warning">
+                    No skills data available for this profession yet. Please check back later.
+                </div>
+            @else
+                <form method="GET" class="search-form">
+                    <input type="text" name="search" value="{{ $search }}"
+                           placeholder="Search questions..." class="search-input">
+                    <button type="submit" class="btn-outline" style="margin-left: 6px;">
+                        Search
+                    </button>
+                </form>
+
+                <table class="data-table">
                     <thead>
                     <tr>
                         <th>#</th>
@@ -39,11 +47,15 @@
                     @endforeach
                     </tbody>
                 </table>
-            </div>
-        @endif
+            @endif
 
-        <div class="mt-4">
-            <a href="{{ route('requirements') }}" class="btn btn-secondary">Back to Requirements</a>
+            <div style="margin-top: 20px;">
+                <a href="{{ route('requirements') }}" class="btn-outline">
+                    Back to Requirements
+                </a>
+            </div>
         </div>
+
+        @include("partials.ad")
     </div>
 @endsection
