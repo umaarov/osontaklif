@@ -22,7 +22,7 @@
                 </div>
             @else
                 <form method="GET" class="search-form">
-                    <input type="text" name="search" value="{{ $search }}"
+                    <input type="text" name="search" value="{{ $validatedSearch }}"
                            placeholder="Search questions..." class="search-input">
                     <button type="submit" class="btn-outline" style="margin-left: 6px;">
                         Search
