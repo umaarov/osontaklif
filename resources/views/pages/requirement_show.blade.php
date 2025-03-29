@@ -1,24 +1,20 @@
+@php use Carbon\Carbon; @endphp
 @extends('layouts.app')
 
 @section('content')
     <h3 class="page-title">{{ $profession->name }} Requirements</h3>
-    <p class="page-subtitle">Here are the key skills required for the {{ $profession->name }} position based on job postings in Uzbekistan.</p>
-
-    @if($needsRefresh)
-        <div class="alert alert-info">
-            Data is being refreshed in the background. Refresh the page in a few minutes to see updated results.
-        </div>
-    @endif
+    <p class="page-subtitle">Here are the key skills required for the {{ $profession->name }} position based on job
+        postings in Uzbekistan.</p>
 
     @if($lastUpdated)
-        <p class="page-subtitle">Last updated: {{ \Carbon\Carbon::parse($lastUpdated)->format('Y-m-d H:i') }}</p>
+        <p class="page-subtitle">Last updated: {{ Carbon::parse($lastUpdated)->format('Y-m-d H:i') }}</p>
     @endif
 
     <div class="content-container">
         <div class="main-content">
             @if($skills->isEmpty())
                 <div class="alert alert-warning">
-                    No skills data available for this profession yet. Please check back later.
+                    No skills data available for this profession yet.
                 </div>
             @else
                 <form method="GET" class="search-form">
