@@ -4,6 +4,7 @@ namespace App\Http\Controllers;
 
 use App\Models\Interview;
 use App\Models\Profession;
+use App\Models\ProfessionSkill;
 use App\Models\Question;
 use Carbon\Carbon;
 use Illuminate\Http\Request;
@@ -76,7 +77,14 @@ class PageController extends Controller
         $validatedSearch = filter_var($search, FILTER_SANITIZE_STRING);
         $validatedSort = in_array($sort, ['asc', 'desc']) ? $sort : 'desc';
 
+        $metaRecord = ProfessionSkill::where('profession_id', $profession->id)
+            ->where('skill_name', '_total_processed')
+            ->first();
+
+        $totalProcessed = $metaRecord ? $metaRecord->count : 0;
+
         $skills = $profession->skills()
+            ->where('skill_name', '!=', '_total_processed')
             ->when($validatedSearch, function ($query, $validatedSearch) {
                 return $query->where('skill_name', 'LIKE', "%$validatedSearch%");
             })
@@ -88,6 +96,14 @@ class PageController extends Controller
             ($skills->isNotEmpty() &&
                 Carbon::parse($skills->first()->last_updated)->diffInHours(now()) >= 48);
 
-        return view('pages.requirement_show', compact('profession', 'skills', 'lastUpdated', 'needsRefresh', 'validatedSort', 'validatedSearch'));
+        return view('pages.requirement_show', compact(
+            'profession',
+            'skills',
+            'lastUpdated',
+            'needsRefresh',
+            'validatedSort',
+            'validatedSearch',
+            'totalProcessed'
+        ));
     }
 }
