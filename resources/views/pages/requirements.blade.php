@@ -1,8 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h1 class="page-title">Job Requirements</h1>
-    <p class="page-subtitle">Find job interview requirements here.</p>
+    <h3 class="page-title">Требования на должность</h3>
 
     <div class="card-grid">
         @foreach ($professions as $profession)
