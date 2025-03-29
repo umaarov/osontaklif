@@ -5,13 +5,14 @@ namespace App\Console\Commands;
 use App\Models\Profession;
 use App\Services\HhService;
 use Illuminate\Console\Command;
+use Symfony\Component\Console\Command\Command as CommandAlias;
 
 class FetchProfessionSkills extends Command
 {
     protected $signature = 'skills:fetch {profession?}';
     protected $description = 'Fetch skills for professions from HeadHunter API';
 
-    public function handle(HhService $hhService): int
+    final function handle(HhService $hhService): int
     {
         $professionName = $this->argument('profession');
 
@@ -19,7 +20,7 @@ class FetchProfessionSkills extends Command
             $profession = Profession::where('name', $professionName)->first();
             if (!$profession) {
                 $this->error("Profession '{$professionName}' not found.");
-                return Command::FAILURE;
+                return CommandAlias::FAILURE;
             }
 
             $this->info("Fetching skills for profession: {$profession->name}");
@@ -27,10 +28,10 @@ class FetchProfessionSkills extends Command
 
             if ($success) {
                 $this->info("Successfully fetched skills for {$profession->name}");
-                return Command::SUCCESS;
+                return CommandAlias::SUCCESS;
             } else {
                 $this->error("Failed to fetch skills for {$profession->name}");
-                return Command::FAILURE;
+                return CommandAlias::FAILURE;
             }
         } else {
             $professions = Profession::all();
@@ -51,7 +52,6 @@ class FetchProfessionSkills extends Command
 
                 $bar->advance();
 
-                // Sleep to avoid hitting API rate limits
                 sleep(2);
             }
 
@@ -61,7 +61,7 @@ class FetchProfessionSkills extends Command
             $this->info("Finished fetching skills for all professions");
             $this->info("Successful: {$successful}, Failed: {$failed}");
 
-            return $failed === 0 ? Command::SUCCESS : Command::FAILURE;
+            return $failed === 0 ? CommandAlias::SUCCESS : CommandAlias::FAILURE;
         }
     }
 }

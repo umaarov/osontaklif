@@ -15,7 +15,11 @@ return Application::configure(basePath: dirname(__DIR__))
     })
     ->withSchedule(
         function ($schedule) {
-            $schedule->command('skills:fetch')->dailyAt('02:00')->withoutOverlapping();
+            $randomHour = rand(1, 5);
+            $randomMinute = rand(0, 59);
+            $schedule->command('skills:fetch')
+                ->cron("$randomMinute $randomHour */2 * *")
+                ->withoutOverlapping();
         }
     )
     ->withExceptions(function (Exceptions $exceptions) {
