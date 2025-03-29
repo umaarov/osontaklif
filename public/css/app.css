@@ -60,7 +60,7 @@ html, body {
 /* Cards and Grids */
 .card-grid {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 20px;
     margin-top: 25px;
 }
@@ -119,6 +119,8 @@ html, body {
 .filter-container {
     margin-bottom: 20px;
     display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
     align-items: center;
     gap: 10px;
 }
@@ -212,4 +214,29 @@ html, body {
     padding: 20px;
     text-align: center;
     border-radius: 5px;
+}
+
+@media (min-width: 768px) {
+    .card-grid {
+        grid-template-columns: repeat(2, 1fr); /* Two columns on tablets */
+    }
+}
+
+@media (min-width: 992px) {
+    .card-grid {
+        grid-template-columns: repeat(3, 1fr); /* Three columns on small desktops */
+    }
+}
+
+@media (min-width: 1200px) {
+    .card-grid {
+        grid-template-columns: repeat(4, 1fr); /* Four columns on larger desktops */
+    }
+}
+
+@media (max-width: 767px) {
+    .navbar-collapse {
+        max-height: 80vh;
+        overflow-y: auto;
+    }
 }

@@ -9,7 +9,8 @@
                 <select name="position" class="filter-select">
                     <option value="">---------</option>
                     @foreach($positions as $position)
-                        <option value="{{ $position->id }}" {{ request('position') == $position->id ? 'selected' : '' }}>
+                        <option
+                            value="{{ $position->id }}" {{ request('position') == $position->id ? 'selected' : '' }}>
                             {{ $position->name }}
                         </option>
                     @endforeach
@@ -48,7 +49,7 @@
                 </tbody>
             </table>
         </div>
-
         @include("partials.ad")
+
     </div>
 @endsection

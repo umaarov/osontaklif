@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <title>OsonTaklif</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
 </head>
+<body class="d-flex flex-column min-vh-100">
 <header class="header">
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark"
          style="position: fixed; top: 0; width: 100%; z-index: 100;">
@@ -26,13 +27,12 @@
         </div>
     </nav>
 </header>
-<body>
+
 <div class="content-wrapper">
     <div class="container">
         @yield('content')
     </div>
 </div>
-</body>
 
 <footer class="footer text-center mt-auto">
     <div class="container d-flex flex-column align-items-center py-3 mb-4">
@@ -52,4 +52,5 @@
 </footer>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
 </html>
