@@ -31,6 +31,7 @@
             <table class="data-table">
                 <thead>
                 <tr>
+                    <th>#</th>
                     <th>Название</th>
                     <th>Должность</th>
                     <th>Грейд</th>
@@ -39,6 +40,7 @@
                 <tbody>
                 @foreach ($interviews as $interview)
                     <tr>
+                        <td>{{ ($interviews->currentPage() - 1) * $interviews->perPage() + $loop->iteration }}</td>
                         <td>
                             <a href="{{ $interview->link }}" class="table-link">{{ $interview->title }}</a>
                         </td>
@@ -48,8 +50,20 @@
                 @endforeach
                 </tbody>
             </table>
+
+            <div class="pagination-container">
+                @if ($interviews->lastPage() > 1)
+                    <div class="simple-pagination">
+                        @for ($i = 1; $i <= $interviews->lastPage(); $i++)
+                            <a href="{{ $interviews->url($i) }}"
+                               class="page-button {{ $interviews->currentPage() == $i ? 'active' : '' }}">
+                                {{ $i }}
+                            </a>
+                        @endfor
+                    </div>
+                @endif
+            </div>
         </div>
         @include("partials.ad")
-
     </div>
 @endsection

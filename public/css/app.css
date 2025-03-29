@@ -216,6 +216,53 @@ html, body {
     border-radius: 5px;
 }
 
+/* Simple pagination styling */
+.pagination-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.simple-pagination {
+    display: inline-block;
+}
+
+.page-button {
+    display: inline-block;
+    padding: 5px 10px;
+    margin: 0 2px;
+    border: 1px solid #ddd;
+    text-decoration: none;
+    color: #333;
+}
+
+.page-button.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+}
+
+.page-button:hover:not(.active) {
+    background-color: #f5f5f5;
+}
+
+/* Load More styling */
+.load-more-container {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.load-more-text {
+    display: inline-block;
+    padding: 5px 10px;
+    color: #007bff;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.load-more-text:hover {
+    text-decoration: none;
+}
+
 @media (min-width: 768px) {
     .card-grid {
         grid-template-columns: repeat(2, 1fr); /* Two columns on tablets */
