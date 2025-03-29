@@ -73,14 +73,16 @@ class PageController extends Controller
         $profession = Profession::where('name', $name)->firstOrFail();
         $search = request()->query('search');
         $sort = request()->query('sort', 'desc');
-        $skills = $profession->skills()
-            ->when($search, function ($query, $search) {
-                return $query->where('name', 'LIKE', "%$search%");
-            })
-            ->orderBy('count', $sort)
-            ->get();
 
-//        $skills = $profession->skills()->orderBy('count', 'desc')->get();
+        $validatedSearch = filter_var($search, FILTER_SANITIZE_STRING);
+        $validatedSort = in_array($sort, ['asc', 'desc']) ? $sort : 'desc';
+
+        $skills = $profession->skills()
+            ->when($validatedSearch, function ($query, $validatedSearch) {
+                return $query->where('skill_name', 'LIKE', "%$validatedSearch%");
+            })
+            ->orderBy('count', $validatedSort)
+            ->get();
 
         $needsRefresh = $skills->isEmpty() ||
             ($skills->isNotEmpty() &&
@@ -94,6 +96,6 @@ class PageController extends Controller
 
         $lastUpdated = $skills->isNotEmpty() ? $skills->first()->last_updated : null;
 
-        return view('pages.requirement_show', compact('profession', 'skills', 'lastUpdated', 'needsRefresh', 'sort', 'search'));
+        return view('pages.requirement_show', compact('profession', 'skills', 'lastUpdated', 'needsRefresh', 'validatedSort', 'validatedSearch'));
     }
 }
