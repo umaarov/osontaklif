@@ -21,5 +21,10 @@ class Profession extends Model
     {
         return $this->hasMany(Interview::class);
     }
+
+    final function skills(): HasMany
+    {
+        return $this->hasMany(ProfessionSkill::class);
+    }
 }
 
