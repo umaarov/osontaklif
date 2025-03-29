@@ -5,6 +5,8 @@ namespace App\Http\Controllers;
 use App\Models\Interview;
 use App\Models\Profession;
 use App\Models\Question;
+use App\Services\HhService;
+use Carbon\Carbon;
 use Illuminate\Http\Request;
 
 class PageController extends Controller
@@ -66,9 +68,24 @@ class PageController extends Controller
         return view('pages.requirements', compact('professions'));
     }
 
-    final function requirement_show($name): object
+    final function requirement_show($name, HhService $hhService): object
     {
         $profession = Profession::where('name', $name)->firstOrFail();
-        return view('pages.requirement_show', compact('profession'));
+
+        $skills = $profession->skills()->orderBy('count', 'desc')->get();
+
+        $needsRefresh = $skills->isEmpty() ||
+            ($skills->isNotEmpty() &&
+                Carbon::parse($skills->first()->last_updated)->diffInHours(now()) >= 24);
+
+        if ($needsRefresh && !request()->ajax()) {
+            dispatch(function () use ($profession, $hhService) {
+                $hhService->fetchSkillsForProfession($profession);
+            })->afterResponse();
+        }
+
+        $lastUpdated = $skills->isNotEmpty() ? $skills->first()->last_updated : null;
+
+        return view('pages.requirement_show', compact('profession', 'skills', 'lastUpdated', 'needsRefresh'));
     }
 }
