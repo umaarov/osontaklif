@@ -88,10 +88,8 @@
                             const parser = new DOMParser();
                             const doc = parser.parseFromString(html, 'text/html');
 
-                            // Get all rows from the fetched page
                             const newRows = doc.querySelectorAll('#skills-table tbody tr');
 
-                            // Append new rows to the current table
                             const currentTable = document.querySelector('#skills-table tbody');
                             newRows.forEach(row => {
                                 currentTable.appendChild(row.cloneNode(true));
