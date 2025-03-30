@@ -120,4 +120,26 @@ class PageController extends Controller
             'name'
         ));
     }
+
+    final function about(): object
+    {
+        return view('pages.about');
+    }
+
+    final function terms(): object
+    {
+        return view('pages.terms');
+    }
+
+    final function donate(): object
+    {
+        return view('pages.donate');
+    }
+
+    final function ads(): object
+    {
+        return view('pages.ads');
+    }
+
+
 }
