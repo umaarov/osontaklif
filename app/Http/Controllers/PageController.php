@@ -23,7 +23,7 @@ class PageController extends Controller
 
         $search = $request->query('search');
         $sort = $request->query('sort', 'desc');
-        $perPage = 15; // Number of items per page
+        $perPage = 50;
 
         $questions = $profession->questions()
             ->when($search, function ($query, $search) {
@@ -31,7 +31,7 @@ class PageController extends Controller
             })
             ->orderBy('chance', $sort)
             ->paginate($perPage)
-            ->withQueryString(); // This preserves other query parameters when navigating
+            ->withQueryString();
 
         return view('pages.profession', compact('profession', 'questions', 'search', 'sort'));
     }
@@ -45,7 +45,7 @@ class PageController extends Controller
     final function mock(Request $request): object
     {
         $positions = Profession::all();
-        $perPage = 10; // Number of items per page
+        $perPage = 50;
 
         $query = Interview::query()->with('profession');
 
@@ -76,7 +76,7 @@ class PageController extends Controller
         $search = request()->query('search');
         $sort = request()->query('sort', 'desc');
         $page = request()->query('page', 1);
-        $limit = request()->query('limit', 20);
+        $limit = request()->query('limit', 50);
         $offset = ($page - 1) * $limit;
 
         $validatedSearch = filter_var($search, FILTER_SANITIZE_STRING);
@@ -120,4 +120,26 @@ class PageController extends Controller
             'name'
         ));
     }
+
+    final function about(): object
+    {
+        return view('pages.about');
+    }
+
+    final function terms(): object
+    {
+        return view('pages.terms');
+    }
+
+    final function donate(): object
+    {
+        return view('pages.donate');
+    }
+
+    final function ads(): object
+    {
+        return view('pages.ads');
+    }
+
+
 }

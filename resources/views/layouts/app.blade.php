@@ -7,6 +7,9 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
     <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2989575196315667"
+            crossorigin="anonymous"></script>
+    <meta name="google-adsense-account" content="ca-pub-2989575196315667">
 </head>
 <body class="d-flex flex-column min-vh-100">
 <header class="header">
@@ -18,11 +21,16 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="navbarNav">
-                <ul class="navbar-nav">
+                <ul class="navbar-nav me-auto">
                     <li class="nav-item"><a class="nav-link" href="{{ route('home') }}">Home</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('mock') }}">Mock</a></li>
                     <li class="nav-item"><a class="nav-link" href="{{ route('requirements') }}">Requirements</a></li>
                 </ul>
+                <div class="d-flex">
+                    <a href="https://www.buymeacoffee.com/umarov" target="_blank" class="btn btn-warning btn-sm">
+                        <i class="fa fa-coffee me-1"></i> Buy me a coffee
+                    </a>
+                </div>
             </div>
         </div>
     </nav>
