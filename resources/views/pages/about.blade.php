@@ -2,7 +2,6 @@
 
 @section('content')
     <div class="container">
-        <h1>Biz Haqimizda</h1>
-        <p>OsonTaklif haqida ma'lumot...</p>
+        <h1>About us</h1>
     </div>
 @endsection
