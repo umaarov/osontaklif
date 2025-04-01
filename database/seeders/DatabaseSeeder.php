@@ -28,9 +28,9 @@ class DatabaseSeeder extends Seeder
             'js' => 'JavaScript',
             'golang' => 'Golang',
             'sql' => 'SQL',
-            'qa' => 'QA',
+            'qa' => 'Quality Assurance',
             'ux-ui' => 'UX & UI',
-            'project' => 'PM',
+            'project' => 'Project Manager',
             'seo' => 'SEO',
         ];
 
