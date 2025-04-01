@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h3 class="page-title">Публичные собеседования</h3>
+    <h3 class="page-title">{{ __('mock_title') }}</h3>
 
     <div class="content-container">
         <div class="main-content">
@@ -24,7 +24,7 @@
                                   value="Senior" {{ request('grade') == 'Senior' ? 'checked' : '' }}> Senior</label>
                 </div>
                 <button type="submit" class="btn-primary">
-                    Выбрать
+                    {{ __('mock_select_btn') }}
                 </button>
             </form>
 
@@ -32,9 +32,9 @@
                 <thead>
                 <tr>
                     <th>#</th>
-                    <th>Название</th>
-                    <th>Должность</th>
-                    <th>Грейд</th>
+                    <th>{{ __('mock_table_title_1') }}</th>
+                    <th>{{ __('mock_table_title_2') }}</th>
+                    <th>{{ __('mock_table_title_3') }}</th>
                 </tr>
                 </thead>
                 <tbody>

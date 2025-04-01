@@ -44,7 +44,7 @@
 
 <footer class="footer text-center mt-auto">
     <div class="container d-flex flex-column align-items-center py-3 mb-4">
-        <p class="mb-2 text-secondary fw-semibold">Osontaklif by Umarov Ismoiljon</p>
+        <p class="mb-2 text-secondary fw-semibold">{{__('osontaklif_by_umarov_ismoiljon')}}</p>
         <div class="d-flex gap-3">
             <a href="https://telegram.me/dribbblxr" target="_blank" class="text-dark">
                 <i class="fab fa-telegram fa-lg"></i>

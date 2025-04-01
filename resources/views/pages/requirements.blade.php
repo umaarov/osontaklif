@@ -1,7 +1,7 @@
 @extends('layouts.app')
 
 @section('content')
-    <h3 class="page-title">Требования на должность</h3>
+    <h3 class="page-title">{{__('requirement_title')}}</h3>
 
     <div class="card-grid">
         @foreach ($professions as $profession)
