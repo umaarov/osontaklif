@@ -13,7 +13,7 @@
             </div>
             <div style="margin-top: 20px;">
                 <a href="{{ route('profession', ['name' => $profession]) }}" class="btn-outline">
-                    Back to Questions
+                    {{__('back_to_questions')}}
                 </a>
             </div>
         </div>

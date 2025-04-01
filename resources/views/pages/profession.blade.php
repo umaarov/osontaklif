@@ -1,16 +1,16 @@
 @extends('layouts.app')
 
 @section('content')
-    <h3 class="page-title">Вопросы с собеседований на {{ $profession->name }}</h3>
-    <p class="page-subtitle">Total Questions: {{ $questions->total() }}</p>
+    <h3 class="page-title">{{__('profession_title')}} - {{ $profession->name }}</h3>
+    <p class="page-subtitle">{{__('profession_total_questions')}} {{ $questions->total() }}</p>
 
     <div class="content-container">
         <div class="main-content">
             <form method="GET" class="search-form">
                 <input type="text" name="search" value="{{ $search }}"
-                       placeholder="Search questions..." class="search-input">
+                       placeholder="{{__('profession_search_placeholder')}}" class="search-input">
                 <button type="submit" class="btn-outline" style="margin-left: 6px;">
-                    Search
+                    {{__('profession_search_btn')}}
                 </button>
             </form>
 
@@ -18,8 +18,8 @@
                 <thead>
                 <tr>
                     <th>#</th>
-                    <th>Question</th>
-                    <th>Chance (%)</th>
+                    <th>{{__('profession_table_title_1')}}</th>
+                    <th>{{__('profession_table_title_2')}}</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -54,7 +54,7 @@
 
             <div style="margin-top: 20px;">
                 <a href="{{ route('home') }}" class="btn-outline">
-                    Back to Home
+                    {{__('back_to_home')}}
                 </a>
             </div>
         </div>

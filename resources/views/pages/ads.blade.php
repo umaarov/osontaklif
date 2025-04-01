@@ -1,26 +1,26 @@
 @extends('layouts.app')
 
 @section('content')
-    <h3 class="page-title">Reklama</h3>
+    <h3 class="page-title">{{ __('ad_title') }}</h3>
 
     <div class="content-container">
         <div class="main-content">
             <div class="content-box main-content">
-                <p>Agar siz platformada xizmat yoki mahsulotingizni targ'ib qilmoqchi bo'lsangiz, sizga quyidagi imkoniyatlarni taqdim etamiz:</p>
+                <p>{{ __('ad_desc_1') }}</p>
 
-                <p><strong>Reklama imkoniyatlari:</strong></p>
+                <p><strong>{{ __('ad_desc_2') }}</strong></p>
                 <ul>
-                    <li>Banner reklama (saytning asosiy sahifalarida).</li>
-                    <li>Homiylik maqolalari va mahsus kontent.</li>
-                    <li>Maqsadli auditoriyaga yo'naltirigan reklamalar.</li>
+                    <li>{{ __('ad_desc_3') }}</li>
+                    <li>{{ __('ad_desc_4') }}</li>
+                    <li>{{ __('ad_desc_5') }}</li>
                 </ul>
 
-                <p>Reklama shartlari va imkoniyatlari bo‘yicha batafsil ma’lumot olish uchun biz bilan <a href="https://t.me/dribbblxr">bog‘laning.</a></p>
+                <p>{{ __('ad_desc_6') }} <a href="https://t.me/dribbblxr">{{ __('ad_desc_7') }}</a>.</p>
 
             </div>
             <div style="margin-top: 20px;">
                 <a href="{{ route('home') }}" class="btn-outline">
-                    Back to Home
+                    {{ __('back_to_home') }}
                 </a>
             </div>
         </div>
