@@ -23,7 +23,7 @@ class DatabaseSeeder extends Seeder
             'vue' => 'Vue',
             'html-css' => 'HTML & CSS',
             'devops' => 'DevOps',
-            'csharp' => 'C#',
+            'csharp' => 'CSharp',
             'cpp' => 'C++',
             'js' => 'JavaScript',
             'golang' => 'Golang',
