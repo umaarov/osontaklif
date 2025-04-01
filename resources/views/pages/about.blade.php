@@ -6,7 +6,7 @@
     <div class="content-container">
         <div class="main-content">
             <div class="content-box main-content">
-                <p>Nimadir</p>
+                <p><strong>Osontaklif.uz</strong> - IT mutaxassislari uchun o'zbek tilidagi eng katta intervyu savollari bazasi. </p>
             </div>
             <div style="margin-top: 20px;">
                 <a href="{{ route('home') }}" class="btn-outline">

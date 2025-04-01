@@ -7,7 +7,7 @@
         <div class="footer-links">
             <a href="{{ route('about') }}">Biz Haqimizda</a>
             <a href="{{ route('terms') }}">Foydalanish shartlari</a>
-            <a href="{{ route('donate') }}">Homiylik</a>
+            <a href="{{ route('sponsorship') }}">Homiylik</a>
             <a href="{{ route('ads') }}">Reklama</a>
         </div>
 
