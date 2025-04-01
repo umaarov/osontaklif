@@ -12,12 +12,26 @@ class DatabaseSeeder extends Seeder
     final function run(): void
     {
         $professions = [
-            'android' => 'Android Developer',
-            'vue' => 'Vue.js Developer',
-            'react' => 'React.js Developer',
-            'php' => 'PHP Developer',
-            'java' => 'Java Developer',
-            'python' => 'Python Developer'
+            'java' => 'Java',
+            'python' => 'Python',
+            'php' => 'PHP',
+            'android' => 'Android',
+            'ios' => 'iOS',
+            'flutter' => 'Flutter',
+            'node' => 'Node.js',
+            'react' => 'React',
+            'vue' => 'Vue',
+            'html-css' => 'HTML & CSS',
+            'devops' => 'DevOps',
+            'csharp' => 'C#',
+            'cpp' => 'C++',
+            'js' => 'JavaScript',
+            'golang' => 'Golang',
+            'sql' => 'SQL',
+            'qa' => 'QA',
+            'ux-ui' => 'UX & UI',
+            'project' => 'PM',
+            'seo' => 'SEO',
         ];
 
         $grades = ['Junior', 'Middle', 'Senior'];
