@@ -13,6 +13,7 @@ return new class extends Migration {
             $table->text('question');
             $table->text('content');
             $table->integer('chance')->unsigned();
+            $table->string('tag')->nullable();
             $table->timestamps();
         });
     }

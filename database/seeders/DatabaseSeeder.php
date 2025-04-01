@@ -44,6 +44,7 @@ class DatabaseSeeder extends Seeder
                 'question' => "What is $name?",
                 'content' => "A detailed explanation of $name...",
                 'chance' => rand(30, 100),
+                'tag' => 'Core',
             ]);
 
             Question::create([
@@ -51,6 +52,7 @@ class DatabaseSeeder extends Seeder
                 'question' => "Explain a key feature of $name.",
                 'content' => "Detailed content about a feature of $name...",
                 'chance' => rand(30, 100),
+                'tag' => 'OOP',
             ]);
 
             foreach ($grades as $grade) {
