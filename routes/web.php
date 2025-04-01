@@ -14,5 +14,5 @@ Route::get('/requirements/{name}', [PageController::class, 'requirement_show'])-
 
 Route::get('/about', [PageController::class, 'about'])->name('about');
 Route::get('/terms', [PageController::class, 'terms'])->name('terms');
-Route::get('/donate', [PageController::class, 'donate'])->name('donate');
+Route::get('/sponsorship', [PageController::class, 'sponsorship'])->name('sponsorship');
 Route::get('/ads', [PageController::class, 'ads'])->name('ads');

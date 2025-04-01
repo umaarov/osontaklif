@@ -131,9 +131,9 @@ class PageController extends Controller
         return view('pages.terms');
     }
 
-    final function donate(): object
+    final function sponsorship(): object
     {
-        return view('pages.donate');
+        return view('pages.sponsorship');
     }
 
     final function ads(): object
