@@ -20,6 +20,7 @@
                     <th>#</th>
                     <th>{{__('profession_table_title_1')}}</th>
                     <th>{{__('profession_table_title_2')}}</th>
+                    <th>{{__('profession_table_title_3')}}</th>
                 </tr>
                 </thead>
                 <tbody>
@@ -33,6 +34,7 @@
                             </a>
                         </td>
                         <td>{{ $q->chance }}%</td>
+                        <td>{{ $q->tag }}</td>
                     </tr>
                 @endforeach
                 </tbody>

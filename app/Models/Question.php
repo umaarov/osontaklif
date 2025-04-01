@@ -10,7 +10,7 @@ class Question extends Model
 {
     use HasFactory;
 
-    protected $fillable = ['profession_id', 'question', 'content', 'chance'];
+    protected $fillable = ['profession_id', 'question', 'content', 'chance', 'tag'];
 
     final function profession(): BelongsTo
     {
