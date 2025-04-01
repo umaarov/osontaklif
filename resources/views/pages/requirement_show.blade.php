@@ -2,17 +2,16 @@
 @extends('layouts.app')
 
 @section('content')
-    <h3 class="page-title">{{ $profession->name }} Requirements</h3>
-    <p class="page-subtitle">Here are the key skills required for the {{ $profession->name }} position based on job
-        postings in Uzbekistan.</p>
+    <h3 class="page-title">{{__('requirement_show_title')}} {{ $profession->name }}</h3>
+    <p class="page-subtitle">{{__('requirement_show_desc_1')}} {{ $profession->name }} {{__('requirement_show_desc_2')}}</p>
 
     @if($lastUpdated)
         <p class="page-subtitle">
-            Анализ проведен {{ Carbon::parse($lastUpdated)->format('F d, Y') }}, на основе <a
-                href="https://hh.uz/search/vacancy?text={{ urlencode($profession->name) }}&area=97">поискового
-                запроса</a>.
-            Вакансий обработано: {{ $totalProcessed ?? 0 }}.
-            Навыков обработано: {{ $totalSkills ?? 0 }}.
+            {{__('requirement_show_desc_3')}} {{ Carbon::parse($lastUpdated)->format('F d, Y') }} {{__('requirement_show_desc_4')}}
+            <a
+                href="https://hh.uz/search/vacancy?text={{ urlencode($profession->name) }}&area=97">{{__('requirement_show_desc_5')}} </a> {{__('requirement_show_desc_6')}}
+            {{__('requirement_show_desc_7')}} {{ $totalProcessed ?? 0 }}.
+            {{__('requirement_show_desc_8')}} {{ $totalSkills ?? 0 }}.
         </p>
     @endif
 
@@ -20,15 +19,15 @@
         <div class="main-content">
             @if($skills->isEmpty() && $page == 1)
                 <div class="alert alert-warning">
-                    No skills data available for this profession yet.
+                    {{__('requirement_show_no_skills_data')}}
                 </div>
             @else
                 <form method="GET" class="search-form">
                     <input type="text" name="search" value="{{ $validatedSearch }}"
-                           placeholder="Search questions..." class="search-input">
+                           placeholder="{{__('requirement_show_search_placeholder')}}" class="search-input">
                     <input type="hidden" name="page" value="1">
                     <button type="submit" class="btn-outline" style="margin-left: 6px;">
-                        Search
+                        {{__('requirement_show_search_btn')}}
                     </button>
                 </form>
 
@@ -36,8 +35,8 @@
                     <thead>
                     <tr>
                         <th>#</th>
-                        <th>Skill</th>
-                        <th>Frequency</th>
+                        <th>{{__('requirement_show_table_title_1')}}</th>
+                        <th>{{__('requirement_show_table_title_2')}}</th>
                     </tr>
                     </thead>
                     <tbody>
@@ -56,7 +55,7 @@
                         <a href="{{ url('/requirements/'.$name.'?search='.$validatedSearch.'&sort='.$validatedSort.'&page='.($page + 1).'&limit='.$limit) }}"
                            class="load-more-text"
                            id="load-more-btn">
-                            Load More
+                            {{__('load_more')}}
                         </a>
                     </div>
                 @endif
@@ -64,7 +63,7 @@
 
             <div style="margin-top: 20px;">
                 <a href="{{ url('/requirements') }}" class="btn-outline">
-                    Back to Requirements
+                    {{__('back_to_requirements')}}
                 </a>
             </div>
         </div>

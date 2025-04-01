@@ -1,44 +1,37 @@
 @extends('layouts.app')
 
 @section('content')
-    <h3 class="page-title">Foydalanish shartlari</h3>
+    <h3 class="page-title">{{__('terms_title')}}</h3>
 
     <div class="content-container">
         <div class="main-content">
             <div class="content-box main-content">
-                <p>Platformadan foydalanish quyidagi
-                    shartlarga asosan amalga oshiriladi:</p>
-                <p><strong>1. Umumiy qoidalar</strong></p>
+                <p>{{__('terms_desc_0')}}</p>
+                <p><strong>{{__('terms_desc_1')}}</strong></p>
                 <ul>
-                    <li>"Osontaklif.uz" faqat axborot maqsadida intervyu savollari bazasini taqdim etadi.</li>
-                    <li>Platformadan foydalanish orqali foydalanuvchilar ushbu shartlarga rozilik bildiradilar.</li>
+                    <li>{{__('terms_desc_2')}}</li>
+                    <li>{{__('terms_desc_3')}}</li>
                 </ul>
 
-                <p><strong>2. Foydalanuvchining majburiyatlari</strong></p>
+                <p><strong>{{__('terms_desc_4')}}</strong></p>
                 <ul>
-                    <li>Platformadagi ma’lumotlardan faqat shaxsiy va ta’limiy maqsadlarda foydalanish mumkin.</li>
-                    <li>Har qanday nusxalash, tarqatish va boshqa shakllarda foydalanish faqat manba ko'rsatilishi
-                        orqali amalga oshirilishi mumkin.
-                    </li>
+                    <li>{{__('terms_desc_5')}}</li>
+                    <li>{{__('terms_desc_6')}}</li>
                 </ul>
 
-                <p><strong>3. Mas’uliyat cheklovi</strong></p>
+                <p><strong>{{__('terms_desc_7')}}</strong></p>
                 <ul>
-                    <li>"Osontaklif.uz" dagi ma’lumotlarning to‘g‘riligi kafolatlanmaydi va ulardan foydalanish natijasida
-                        yuzaga keladigan oqibatlar uchun javobgarlik olinmaydi.
-                    </li>
+                    <li>{{__('terms_desc_8')}}</li>
                 </ul>
 
-                <p><strong>4. Shartlarga o‘zgartirish kiritish</strong></p>
+                <p><strong>{{__('terms_desc_9')}}</strong></p>
                 <ul>
-                    <li>Platforma istalgan vaqtda ushbu shartlarni o‘zgartirish huquqiga ega. Foydalanuvchilar
-                        o‘zgarishlarni kuzatib borishlari lozim.
-                    </li>
+                    <li>{{__('terms_desc_10')}}</li>
                 </ul>
             </div>
             <div style="margin-top: 20px;">
                 <a href="{{ route('home') }}" class="btn-outline">
-                    Back to Home
+                    {{__('back_to_home')}}
                 </a>
             </div>
         </div>
