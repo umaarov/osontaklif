@@ -4,7 +4,6 @@ namespace Database\Seeders;
 
 use App\Models\Interview;
 use App\Models\Profession;
-use App\Models\Question;
 use Illuminate\Database\Seeder;
 
 class DatabaseSeeder extends Seeder
@@ -38,23 +37,6 @@ class DatabaseSeeder extends Seeder
 
         foreach ($professions as $key => $name) {
             $profession = Profession::firstOrCreate(['name' => $name]);
-
-            Question::create([
-                'profession_id' => $profession->id,
-                'question' => "What is $name?",
-                'content' => "A detailed explanation of $name...",
-                'chance' => rand(30, 100),
-                'tag' => 'Core',
-            ]);
-
-            Question::create([
-                'profession_id' => $profession->id,
-                'question' => "Explain a key feature of $name.",
-                'content' => "Detailed content about a feature of $name...",
-                'chance' => rand(30, 100),
-                'tag' => 'OOP',
-            ]);
-
             foreach ($grades as $grade) {
                 Interview::create([
                     'title' => "$name Interview",
@@ -64,5 +46,7 @@ class DatabaseSeeder extends Seeder
                 ]);
             }
         }
+        $this->call(AndroidQuestionsSeeder::class);
+        $this->command->info('All specified seeders have been run.');
     }
 }

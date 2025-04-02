@@ -1,0 +1,10 @@
+<p class="card-text"><p> object - это анонимный класс</p>
+<pre>
+<code>val helloWorld = object { 
+ val hello = "Hello" 
+ val world = "World" 
+ // тип анонимных объектов - Any, поэтому `override` необходим в `toString()`
+ override fun toString() = "$hello $world" 
+}
+</code></pre>
+<p>companion object — это альтернатива статическим методам, либо объектам класса.</p></p>

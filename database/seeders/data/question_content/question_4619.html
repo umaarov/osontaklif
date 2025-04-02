@@ -1,0 +1,33 @@
+<p class="card-text"><p>Методы<strong> `equals()` </strong>и <strong>`hashCode()`</strong> имеют важное значение для корректной работы коллекций, таких как <strong>`HashSet`</strong>, <strong>`HashMap` </strong>и<strong> `HashTable`</strong>. Чтобы эти методы работали правильно, необходимо соблюдать определенные правила при их переопределении. Вот основные принципы и правила для <strong>`equals()` </strong>и <strong>`hashCode()`</strong>:</p>
+<p>Метод<strong> `equals(Object obj)`</strong></p>
+<p>Определяет логику сравнения объектов на эквивалентность. При переопределении этого метода следует соблюдать следующие правила:</p>
+<p><strong>1. Рефлексивность: </strong>Для любого ненулевого ссылочного значения <strong>`x`</strong>, <strong>`x.equals(x)` </strong>должно возвращать <strong>`true`</strong>.<br/>
+<strong>2. Симметричность: </strong>Для любых ненулевых ссылочных значений <strong>`x`</strong> и <strong>`y`</strong>, <strong>`x.equals(y)` </strong>должно возвращать `true` тогда и только тогда, когда <strong>`y.equals(x)`</strong> возвращает<strong> `true`</strong>.<br/>
+<strong>3. Транзитивность: </strong>Для любых ненулевых ссылочных значений<strong> `x`</strong>,<strong> `y`</strong> и <strong>`z`</strong>, если <strong>`x.equals(y)`</strong> возвращает <strong>`true` </strong>и <strong>`y.equals(z)`</strong> возвращает <strong>`true`</strong>, тогда и <strong>`x.equals(z)` </strong>должно возвращать <strong>`true`</strong>.<br/>
+<strong>4. Консистентность:</strong> Многократные вызовы<strong> `x.equals(y)` </strong>должны возвращать одно и то же значение, при условии, что информация, используемая в <strong>`equals()`</strong> для сравнения объектов, не изменяется.<br/>
+<strong>5. Сравнение с `null`: </strong>Для любого ненулевого ссылочного значения<strong> `x`</strong>, <strong>`x.equals(null)`</strong> должно возвращать<strong> `false`</strong>.</p>
+<pre>
+<code>```java
+@Override
+public boolean equals(Object obj) {
+    if (this == obj) return true;
+    if (obj == null || getClass() != obj.getClass()) return false;
+    MyObject other = (MyObject) obj;
+    return field1.equals(other.field1) &amp;&amp; field2.equals(other.field2);
+}
+```</code></pre>
+<p>Метод <strong>`hashCode()`</strong></p>
+<p>Возвращает хеш-код объекта, который используется хэш-таблицами. Важные правила для него включают:</p>
+<p><strong>1. Внутреннее согласование:</strong> Если во время выполнения программы информация, используемая в<strong> `equals()`</strong> для сравнения объектов, не изменяется, то многократные вызовы <strong>`hashCode()` </strong>должны возвращать одно и то же значение.<br/>
+<strong>2. Согласование с `equals()`: </strong>Если два объекта равны согласно методу <strong>`equals(Object)`</strong>, то вызов <strong>`hashCode()` </strong>для каждого из них должен возвращать одинаковое значение.<br/>
+3. Необязательное различие значений: Если два объекта не равны согласно <strong>`equals(Object)`</strong>, это не обязательно означает, что <strong>`hashCode()` </strong>должен возвращать различные значения. Однако разные значения <strong>`hashCode()`</strong> помогают улучшить производительность хэш-таблиц.</p>
+<pre>
+<code>```java
+@Override
+public int hashCode() {
+    int result = field1.hashCode();
+    result = 31 * result + field2.hashCode();
+    return result;
+}
+```</code></pre>
+<p>Правильная реализация<strong> `equals()`</strong> и<strong> `hashCode()`</strong> критически важна для корректной работы Java-коллекций, использующих хэширование. Несоблюдение вышеупомянутых правил может привести к непредсказуемому поведению и ошибкам в работе приложения.</p></p>
