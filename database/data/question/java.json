@@ -1,2137 +1,1984 @@
 [
   {
     "id": "18",
-    "question": "Расскажи о себе",
+    "question": "O'zingiz haqingizda gapirib bering",
     "chance": "93",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "19",
-    "question": "Что такое ООП",
+    "question": "OOP nima",
     "chance": "81",
-    "tag": "ООП"
+    "tag": "OOP"
   },
   {
     "id": "2725",
-    "question": "В чем разница между checked и unchecked исключениями",
+    "question": "checked va unchecked exceptionlar o'rtasidagi farq nima",
     "chance": "75",
     "tag": "Java Core"
   },
   {
     "id": "2727",
-    "question": "Какие методы в классе Object знаешь",
+    "question": "Object classdagi qanday methodlarni bilasiz?",
     "chance": "68",
     "tag": "Java Core"
   },
   {
     "id": "2726",
-    "question": "Расскажи про иерархию исключений",
+    "question": "Exceptionlarni ierarxiyasini aytib bering",
     "chance": "68",
     "tag": "Java Core"
   },
   {
     "id": "6921",
-    "question": "Расскажи об иерархии коллекций в Java",
+    "question": "Collectionlarni ierarxiyasini aytib bering",
     "chance": "62",
     "tag": "Java Collections"
   },
   {
     "id": "20",
-    "question": "Что такое SOLID",
+    "question": "SOLID nima?",
     "chance": "62",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "6923",
-    "question": "Как организована HashMap",
+    "question": "Hashmapni tuzilishi qanday?",
     "chance": "56",
     "tag": "Java Collections"
   },
   {
     "id": "6925",
-    "question": "Чем отличаются LinkedList и ArrayList",
+    "question": "LinkedList va ArrayList o'rtasidagi farq nima?",
     "chance": "56",
     "tag": "Java Collections"
   },
   {
     "id": "2730",
-    "question": "В чём различие между интерфейсом и абстрактным классом",
+    "question": "Abstract class va interface o'rtasidagi farq nima?",
     "chance": "56",
     "tag": "Java Core"
   },
   {
     "id": "2728",
-    "question": "Расскажи про Hash Code & Equals Contract",
+    "question": "Hash Code & Equals Contract haqida gapirib bering",
     "chance": "56",
     "tag": "Java Core"
   },
   {
     "id": "2729",
-    "question": "В чём разница между примитивом и ссылочным типом данных",
+    "question": "Primitive va Reference tiplar o'rtasidagi farq nima?",
     "chance": "56",
     "tag": "Java Core"
   },
   {
     "id": "21",
-    "question": "Какой есть опыт в программировании",
+    "question": "Dasturlashda qancha tajribangiz bor?",
     "chance": "50",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "2731",
-    "question": "Что знаешь о классе object",
+    "question": "Object sinfi haqida nimalarni bilasiz? ",
     "chance": "50",
     "tag": "Java Core"
   },
   {
     "id": "65",
-    "question": "Какие есть принципы ООП",
+    "question": "OOP ni qanday printsiplari bor?",
     "chance": "50",
-    "tag": "ООП"
+    "tag": "OOP"
   },
   {
     "id": "7150",
-    "question": "Что такое ACID",
+    "question": "ACID nima?",
     "chance": "43",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7100",
-    "question": "что такое  Stream в Java ?",
+    "question": "Javada Stream nima?",
     "chance": "43",
     "tag": "Java 8"
   },
   {
     "id": "2392",
-    "question": "Какие Spring Scope знаешь",
+    "question": "Qanday Spring Scopelar bor?",
     "chance": "43",
     "tag": "Spring"
   },
   {
     "id": "7101",
-    "question": "Что такое функциональный интерфейс",
+    "question": "Functional Interface nima?",
     "chance": "37",
     "tag": "Java 8"
   },
   {
     "id": "7121",
-    "question": "Что такое ExecutorService",
+    "question": "ExecutorService nima?",
     "chance": "31",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7153",
-    "question": "В чём разница между SQL и NoSQL",
+    "question": "SQL va NoSQL o'rtasidagi farq nima?",
     "chance": "31",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "2732",
-    "question": "Какие правила переопределения hashcode и equals",
+    "question": "hashcode va equals metodlarini override qilish qoidalari qanday?",
     "chance": "31",
     "tag": "Java Core"
   },
   {
     "id": "7102",
-    "question": "Что такое Lambda",
+    "question": "Lambda nima?",
     "chance": "31",
     "tag": "Java 8"
   },
   {
     "id": "7151",
-    "question": "Что такое индексы",
+    "question": "Indekslar nima?",
     "chance": "31",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7152",
-    "question": "Что такое нормализация баз данных",
+    "question": "Database normalization nima?",
     "chance": "31",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "2393",
-    "question": "Что такое bean",
+    "question": "Bean nima?",
     "chance": "31",
     "tag": "Spring"
   },
   {
     "id": "7120",
-    "question": "Расскажи про deadlock",
+    "question": "Deadlock haqida gapirib bering",
     "chance": "31",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "6927",
-    "question": "Каким образом HashMap связан с Set'ом",
+    "question": "HashMap Set bilan qanday bog'langan?",
     "chance": "25",
     "tag": "Java Collections"
   },
   {
     "id": "7123",
-    "question": "Что такое процесс и поток, чем они отличаются",
+    "question": "Protsess va potok nima, ularning farqi nimada?",
     "chance": "25",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "6929",
-    "question": "Расскажи про HashMap",
+    "question": "HashMap haqida gapirib bering",
     "chance": "25",
     "tag": "Java Collections"
   },
   {
     "id": "92",
-    "question": "Какие знаешь паттерны проектирования",
+    "question": "Qanday dizayn patternlarini bilasiz?",
     "chance": "25",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "2734",
-    "question": "Какие участки памяти в JVM знаешь",
+    "question": "JVM da xotira qanday qismlarga bo'linadi?",
     "chance": "25",
     "tag": "Java Core"
   },
   {
     "id": "2733",
-    "question": "Зачем вообще нужен класс object",
+    "question": "Object klassi nima uchun kerak?",
     "chance": "25",
     "tag": "Java Core"
   },
   {
     "id": "2736",
-    "question": "Какие примитивные типы данных есть в Java",
+    "question": "Javada qanday primitiv ma'lumot turlari mavjud?",
     "chance": "25",
     "tag": "Java Core"
   },
   {
     "id": "66",
-    "question": "Что такое полиморфизм",
+    "question": "Polimorfizm nima?",
     "chance": "25",
-    "tag": "ООП"
+    "tag": "OOP"
   },
   {
     "id": "2735",
-    "question": "В чём разница между  final vs. finally vs. finalize",
+    "question": "final, finally va finalize o'rtasidagi farq nima?",
     "chance": "25",
     "tag": "Java Core"
   },
   {
     "id": "10549",
-    "question": "Знаком с SQL",
+    "question": "SQL bilan tanishmisiz?",
     "chance": "25",
     "tag": "SQL"
   },
   {
     "id": "91",
-    "question": "Чем singleton отличается от prototype",
+    "question": "Singleton prototypedan nima bilan farq qiladi?",
     "chance": "25",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "7124",
-    "question": "Расскажи про race condition",
+    "question": "Race condition haqida gapirib bering",
     "chance": "25",
-    "tag": "Многопоточность"
-  },
-  {
-    "id": "120",
-    "question": "Вы знакомы с SQL",
-    "chance": "25",
-    "tag": "SQL"
+    "tag": "Multithreading"
   },
   {
     "id": "2394",
-    "question": "Какой цикл жизни Spring Beans",
+    "question": "Spring Beanlarning hayot sikli qanday?",
     "chance": "25",
     "tag": "Spring"
   },
   {
-    "id": "7122",
-    "question": "В чем идея многопоточности",
-    "chance": "25",
-    "tag": "Многопоточность"
-  },
-  {
     "id": "3876",
-    "question": "В чём разница между JDK и JRE",
+    "question": "JDK va JRE o'rtasidagi farq nima?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "6935",
-    "question": "В чём разница между  TreeSet и  HashSet",
+    "question": "TreeSet va HashSet o'rtasidagi farq nima?",
     "chance": "18",
     "tag": "Java Collections"
   },
   {
     "id": "3900",
-    "question": "Что такое исключение",
+    "question": "Exception nima?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "2737",
-    "question": "Какие типы данных бывают в java",
+    "question": "Javada qanday ma'lumot turlari mavjud?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "3880",
-    "question": "Что такое инкапсуляция",
-    "chance": "18",
-    "tag": "Java Core"
-  },
-  {
-    "id": "3883",
-    "question": "Какая основная идея equals и HashCode",
+    "question": "Inkapsulyatsiya nima?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "1760",
-    "question": "Что такое ORM",
+    "question": "ORM nima?",
     "chance": "18",
-    "tag": "Фреймворки"
+    "tag": "Framework"
   },
   {
     "id": "3878",
-    "question": "Чем отличается операция map от flatMap",
+    "question": "map operation flatMap operationdan nima bilan farq qiladi?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "2396",
-    "question": "В чем разница между dependency injection и inverhuron of control",
+    "question": "Dependency Injection va Inversion of Control o'rtasidagi farq nima?",
     "chance": "18",
     "tag": "Spring"
   },
   {
     "id": "3887",
-    "question": "Что знаешь про String",
+    "question": "String haqida nimalarni bilasiz?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "93",
-    "question": "Почему синглтон называют антипаттерном",
+    "question": "Nima uchun singleton antipattern deb ataladi?",
     "chance": "18",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "3906",
-    "question": "Что такое hashcode",
+    "question": "hashcode nima?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "3889",
-    "question": "Что такое ключевое слово final",
+    "question": "final kalit so'zi nima?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "7154",
-    "question": "Назови сколько существует нормальных форм в SQL",
+    "question": "SQLda nechta normal form mavjudligini ayting",
     "chance": "18",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7155",
-    "question": "Чем отличаются LEFT JOIN от INNER JOIN",
+    "question": "LEFT JOIN INNER JOINdan nima bilan farq qiladi?",
     "chance": "18",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "3904",
-    "question": "Что такое модификаторы доступа и какие они есть",
+    "question": "Access modifikatorlari nima va ular qanday turlari bor?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
-    "id": "7125",
-    "question": "Что такое оптимистичная и пессимистичная блокировки",
-    "chance": "18",
-    "tag": "Многопоточность"
-  },
-  {
-    "id": "7126",
-    "question": "Что такое монитор",
-    "chance": "18",
-    "tag": "Многопоточность"
-  },
-  {
     "id": "22",
-    "question": "Почему именно Java",
+    "question": "Nima uchun aynan Java?",
     "chance": "18",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "122",
-    "question": "Какие виды join знаешь",
+    "question": "join ning qanday turlarini bilasiz?",
     "chance": "18",
     "tag": "SQL"
   },
   {
     "id": "121",
-    "question": "Чем отличается where от having",
+    "question": "where having dan nima bilan farq qiladi?",
     "chance": "18",
     "tag": "SQL"
   },
   {
     "id": "7109",
-    "question": "Что такое hibernate",
+    "question": "Hibernate nima?",
     "chance": "18",
     "tag": "Hibernate"
   },
   {
     "id": "6932",
-    "question": "В чем разница меду hashmap и hashtable",
+    "question": "HashMap va Hashtable o'rtasidagi farq nima?",
     "chance": "18",
     "tag": "Java Collections"
   },
   {
     "id": "3893",
-    "question": "Что такое пул строк",
+    "question": "String pool nima?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "6930",
-    "question": "Почему Map стоит особняком в иерархии коллекций",
+    "question": "Nima uchun Map kolleksiyalar ierarxiyasida alohida turadi?",
     "chance": "18",
     "tag": "Java Collections"
   },
   {
     "id": "2395",
-    "question": "Какие Scop'ы есть у bean'ов",
+    "question": "Beanlarda qanday Scope'lar mavjud?",
     "chance": "18",
     "tag": "Spring"
   },
   {
     "id": "2397",
-    "question": "Зачем нужен Spring Framework",
+    "question": "Spring Framework nima uchun kerak?",
     "chance": "18",
     "tag": "Spring"
   },
   {
     "id": "2398",
-    "question": "Что такое Spring контекст",
+    "question": "Spring context nima?",
     "chance": "18",
     "tag": "Spring"
   },
   {
     "id": "3896",
-    "question": "Что такое итератор и зачем он нужен",
+    "question": "Iterator nima va u nima uchun kerak?",
     "chance": "18",
     "tag": "Java Core"
   },
   {
     "id": "111",
-    "question": "Чем rebase отличается от merge?",
+    "question": "rebase merge dan nima bilan farq qiladi?",
     "chance": "12",
     "tag": "Git"
   },
   {
     "id": "3976",
-    "question": "Что делает ключевое слово transient",
+    "question": "transient kalit so'zi nima qiladi?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3975",
-    "question": "Что такое finalize",
+    "question": "finalize nima?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3972",
-    "question": "Что знаешь о методе clone",
+    "question": "clone metodi haqida nimalarni bilasiz?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3971",
-    "question": "В чём отличие Supplier'а от Consumer'а",
-    "chance": "12",
-    "tag": "Java Core"
-  },
-  {
-    "id": "3973",
-    "question": "Что такое строка в Java",
+    "question": "Supplier va Consumer o'rtasidagi farq nima?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3967",
-    "question": "С чем работает Garbage Collector",
+    "question": "Garbage Collector nima bilan ishlaydi?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3965",
-    "question": "В чем идея Stream API",
+    "question": "Stream API nima?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3968",
-    "question": "В чём идея полиморфизма",
+    "question": "Nima uchun polimorfizm kerak?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3974",
-    "question": "Можно ли переопределить статические методы",
+    "question": "Statik metodlarni override qilsa bo'ladimi?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3958",
-    "question": "Какие методы располагаются в интерфейсе",
+    "question": "Interfeysda qanday metodlar joylashadi?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3956",
-    "question": "Как работает оператор try with resourses",
+    "question": "try-with-resources operatori qanday ishlaydi?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3960",
-    "question": "Что знаешь про функциональный интерфейс Java 8+",
+    "question": "Java 8+ dagi funksional interfeys haqida nimalarni bilasiz?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3952",
-    "question": "String Builder и String Buffer , в чём различия",
+    "question": "StringBuilder va StringBufferni farqi nimada?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
-    "id": "25",
-    "question": "Что такое принципы SOLID",
-    "chance": "12",
-    "tag": "Общие"
-  },
-  {
     "id": "3954",
-    "question": "Может ли примитивный тип данных попасть в Hip",
+    "question": "Primitiv ma'lumot turi Heap'ga tushishi mumkinmi?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3962",
-    "question": "Что такое Parallel Stream",
-    "chance": "12",
-    "tag": "Java Core"
-  },
-  {
-    "id": "3946",
-    "question": "Основная идея инкапсуляции",
+    "question": "Parallel Stream nima?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3944",
-    "question": "Почему нельзя сравнивать объекты через «==»",
+    "question": "Nima uchun obyektlarni '==' orqali solishtirib bo'lmaydi?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3948",
-    "question": "Зачем нужен String Pool",
-    "chance": "12",
-    "tag": "Java Core"
-  },
-  {
-    "id": "3969",
-    "question": "В чём смысл инкапсуляции",
+    "question": "String Pool nima uchun kerak?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3937",
-    "question": "Что такое JVM, JDK, JRE",
-    "chance": "12",
-    "tag": "Java Core"
-  },
-  {
-    "id": "3951",
-    "question": "В чем взаимосвязь контракта equals и hashCode",
+    "question": "JVM, JDK, JRE nima?",
     "chance": "12",
     "tag": "Java Core"
   },
   {
     "id": "3963",
-    "question": "Каким образом можно реализовать множественное наследование в Java",
+    "question": "Javada ko'p merosxo'rlikni (multiple inheritance) qanday amalga oshirish mumkin?",
     "chance": "12",
     "tag": "Java Core"
-  },
-  {
-    "id": "3970",
-    "question": "Что такое string pool",
-    "chance": "12",
-    "tag": "Java Core"
-  },
-  {
-    "id": "94",
-    "question": "Какие шаблоны проектирования знаешь",
-    "chance": "12",
-    "tag": "Паттерны"
   },
   {
     "id": "67",
-    "question": "В чем преимущества и недостатки ООП по сравнению с процедурным и функциональным программированием",
+    "question": "OOPning protsedurali va funksional dasturlashga nisbatan afzalliklari va kamchiliklari nimada?",
     "chance": "12",
-    "tag": "ООП"
-  },
-  {
-    "id": "3940",
-    "question": "Какие типы данных существуют в Java",
-    "chance": "12",
-    "tag": "Java Core"
+    "tag": "OOP"
   },
   {
     "id": "1729",
-    "question": "Что такое mock в тестирование",
+    "question": "Testlashda mock nima?",
     "chance": "12",
     "tag": "Tools"
   },
   {
     "id": "7133",
-    "question": "Что такое volatile",
+    "question": "volatile nima?",
     "chance": "12",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7158",
-    "question": "Что такое партиционирование",
+    "question": "Partitioning nima?",
     "chance": "12",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7128",
-    "question": "Что такое синхронизация и зачем она нужна",
+    "question": "Sinxronizatsiya nima va u nima uchun kerak?",
     "chance": "12",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7129",
-    "question": "Что такое future",
+    "question": "Future nima?",
     "chance": "12",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7110",
-    "question": "Какие состояния объекта есть в Hibernate",
+    "question": "Hibernate'da obyektning qanday statelari mavjud?",
     "chance": "12",
     "tag": "Hibernate"
   },
   {
     "id": "7130",
-    "question": "Что такое CompletableFuture",
+    "question": "CompletableFuture nima?",
     "chance": "12",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7159",
-    "question": "В чем разница char и varchar в SQL",
+    "question": "SQLda char va varchar o'rtasidagi farq nima?",
     "chance": "12",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "1727",
-    "question": "Что такое JDBC",
+    "question": "JDBC nima?",
     "chance": "12",
     "tag": "Tools"
   },
   {
     "id": "6950",
-    "question": "Какую структуру данных реализуем в LinkedList",
+    "question": "LinkedList'da qanday ma'lumotlar strukturasi amalga oshirilgan?",
     "chance": "12",
     "tag": "Java Collections"
   },
   {
     "id": "6946",
-    "question": "Является ли коллекция HashMap потоко безопасной",
-    "chance": "12",
-    "tag": "Java Collections"
-  },
-  {
-    "id": "6940",
-    "question": "Какие в java есть коллекции",
-    "chance": "12",
-    "tag": "Java Collections"
-  },
-  {
-    "id": "6942",
-    "question": "Что такое коллекции и зачем они нужны",
+    "question": "HashMap kolleksiyasi potok uchun xavfsizmi (thread-safe)?",
     "chance": "12",
     "tag": "Java Collections"
   },
   {
     "id": "6948",
-    "question": "Массив статическая структура данных или динамическая",
+    "question": "Massiv ma'lumotlar strukturasi statikmi yoki dinamikmi?",
     "chance": "12",
     "tag": "Java Collections"
   },
   {
     "id": "6955",
-    "question": "Расскажи о скоростях доступа к элементам в HashMap при выполнении базовых операций",
+    "question": "HashMap'da asosiy operatsiyalarni bajarishda elementlarga kirish tezligi haqida gapirib bering",
     "chance": "12",
     "tag": "Java Collections"
   },
   {
     "id": "2400",
-    "question": "Что лежит в основе Spring",
+    "question": "Springni asosida nima yotadi?",
     "chance": "12",
     "tag": "Spring"
   },
   {
     "id": "6951",
-    "question": "HashTable и ConcurrentHashMap - отличия и что эффективнее",
+    "question": "Hashtable va ConcurrentHashMap - farqlari va qaysi biri samaraliroq?",
     "chance": "12",
     "tag": "Java Collections"
   },
   {
     "id": "6953",
-    "question": "Расскажи про сложность поиска элемента по ключу в HashMap",
+    "question": "HashMap'da kalit bo'yicha elementni qidirish murakkabligi haqida gapirib bering",
     "chance": "12",
     "tag": "Java Collections"
   },
   {
-    "id": "68",
-    "question": "Что такое столп \"наследование\"",
-    "chance": "12",
-    "tag": "ООП"
-  },
-  {
     "id": "2404",
-    "question": "Что такое Dispatcher Servlet",
+    "question": "Dispatcher Servlet nima?",
     "chance": "12",
     "tag": "Spring"
   },
   {
     "id": "6937",
-    "question": "Что такое Deque",
+    "question": "Deque nima?",
     "chance": "12",
     "tag": "Java Collections"
   },
   {
     "id": "2406",
-    "question": "Какие виды внедрения зависимости есть",
+    "question": "Dependency injectionning qanday turlari mavjud?",
     "chance": "12",
     "tag": "Spring"
   },
   {
     "id": "6938",
-    "question": "Что такое Vector",
+    "question": "Vector nima?",
     "chance": "12",
     "tag": "Java Collections"
   },
   {
-    "id": "2408",
-    "question": "Для чего используется Spring boot",
-    "chance": "12",
-    "tag": "Spring"
-  },
-  {
     "id": "7160",
-    "question": "В чём различие между LeftJoin , RightJoin и InnerJoin",
+    "question": "Left Join, Right Join va Inner Join o'rtasidagi farq nima?",
     "chance": "12",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "24",
-    "question": "Что такое CI/CD",
+    "question": "CI/CD nima?",
     "chance": "12",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "26",
-    "question": "Какие виды тестирования ты знаешь",
+    "question": "Testlashning qanday turlarini bilasiz?",
     "chance": "12",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "2411",
-    "question": "Что такое spring boot и в чём его основное преимущество",
+    "question": "Spring Boot nima va uning asosiy afzalligi nimada?",
     "chance": "12",
     "tag": "Spring"
-  },
-  {
-    "id": "2410",
-    "question": "Какие знаешь Bean Scope",
-    "chance": "12",
-    "tag": "Spring"
-  },
-  {
-    "id": "69",
-    "question": "Как ты можешь описать абстракцию",
-    "chance": "12",
-    "tag": "ООП"
   },
   {
     "id": "2409",
-    "question": "Что такое SpringScope",
+    "question": "Spring Scope nima?",
     "chance": "12",
     "tag": "Spring"
   },
   {
-    "id": "7161",
-    "question": "Какие бывают ограничения в Базе Данных",
-    "chance": "12",
-    "tag": "Базы данных"
-  },
-  {
     "id": "112",
-    "question": "Какими командами пользуешься в Git",
+    "question": "Git'da asosan qanday komandalardan foydalanasiz?",
     "chance": "6",
     "tag": "Git"
   },
   {
     "id": "31",
-    "question": "Как ты используешь SOLID принцип открытости-закрытости при проектировании",
+    "question": "Loyihalashda SOLIDning open-closed prinsipini qanday qo'llaysiz?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "110",
-    "question": "В чем разница между шаблоном проектирования Builder и Facade",
+    "question": "Builder va Facade dizayn patternlari o'rtasidagi farq nima?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "109",
-    "question": "В чем недостаток паттернов",
+    "question": "Patternlarning kamchiligi nimada?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "34",
-    "question": "Какие знаешь подходы к организации процесса разработки",
+    "question": "Dasturiy ta'minotni ishlab chiqish jarayonini tashkil etishning qanday yondashuvlarini bilasiz?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "57",
-    "question": "Какое отношение между JS и Java",
+    "question": "JS va Java o'rtasida qanday aloqa bor?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "108",
-    "question": "Что такое паттерны проектирования",
+    "question": "Dizayn patternlar nima?",
     "chance": "6",
-    "tag": "Паттерны"
-  },
-  {
-    "id": "107",
-    "question": "Расскажи про свой опыт проектирования",
-    "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "35",
-    "question": "Какие цели ставишь перед собой",
+    "question": "O'z oldingizga qanday maqsadlar qo'yasiz?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "106",
-    "question": "Какие паттерны проектирования используешь",
+    "question": "Qanday dizayn patternlaridan foydalanasiz?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "105",
-    "question": "Какие бы каналы синхронизации использовал при организации взаимодействия нескольких сервисов",
+    "question": "Bir nechta servislar o'rtasidagi o'zaro aloqani tashkil qilishda qanday sinxronizatsiya kanallaridan foydalangan bo'lar edingiz?",
     "chance": "6",
-    "tag": "Паттерны"
-  },
-  {
-    "id": "36",
-    "question": "Какие интересные задачи приходилось решать",
-    "chance": "6",
-    "tag": "Общие"
+    "tag": "Patterns"
   },
   {
     "id": "58",
-    "question": "Что такое TDD",
+    "question": "TDD nima?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "42",
-    "question": "Назови самый простой способ реализации кэширования",
+    "question": "Keshlashni amalga oshirishning eng oddiy usulini ayting",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "1808",
-    "question": "Какие виды отношений существуют в структурной диаграмме классов",
+    "question": "Strukturaviy klasslar diagrammasida qanday relationship turlari mavjud?",
     "chance": "6",
     "tag": "UML"
   },
   {
     "id": "1807",
-    "question": "Какие существуют типы диаграмм",
+    "question": "Diagrammalarning qanday turlari mavjud?",
     "chance": "6",
     "tag": "UML"
   },
   {
     "id": "104",
-    "question": "Как бы организовывал взаимодействие нескольких сервисов",
+    "question": "Bir nechta servislar o'rtasidagi o'zaro aloqani qanday tashkil qilgan bo'lar edingiz?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "1806",
-    "question": "Что такое UML Что такое «диаграмма», «нотация» и «метамодель» в UML",
+    "question": "UML nima? UMLdagi 'diagramma', 'notatsiya' va 'metamodel' nima?",
     "chance": "6",
     "tag": "UML"
   },
   {
     "id": "1797",
-    "question": "Что такое XSLT",
+    "question": "XSLT nima?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "103",
-    "question": "Какие плюсы у микросервисов есть перед монолитом",
+    "question": "Mikroservislarning monolitga nisbatan qanday afzalliklari bor?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "37",
-    "question": "Какие языки еще ты знаешь, которые используют байт-код",
+    "question": "Bayt-kod ishlatadigan yana qanday tillarni bilasiz?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "1795",
-    "question": "Что такое JAXP",
+    "question": "JAXP nima?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "1793",
-    "question": "Какие знаешь способы записи XML",
+    "question": "XMLni yozishning qanday usullarini bilasiz?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "102",
-    "question": "Расскажи что-нибудь про микросервисное взаимодействие",
+    "question": "Mikroservislararo o'zaro aloqa haqida biror narsa aytib bering",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "1791",
-    "question": "Когда следует использовать DOM, а когда SAX, StAX анализаторы",
+    "question": "Qachon DOM, qachon SAX, StAX analizatorlaridan foydalanish kerak?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "1790",
-    "question": "Какие знаешь методы чтения XML, опиши сильные и слабые стороны каждого метода",
+    "question": "XMLni o'qishning qanday usullarini bilasiz, har bir usulning kuchli va zaif tomonlarini tasvirlab bering",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "101",
-    "question": "Какая структура действует максимально быстро к паттерну Comand, чем его можно заменить",
+    "question": "Command patterniga eng tez ishlaydigan struktura qaysi, uni nima bilan almashtirish mumkin?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "38",
-    "question": "Для чего используется кэширование",
+    "question": "Keshlash nima uchun ishlatiladi?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "1788",
-    "question": "Какие типы существуют в XSD",
+    "question": "XSDda qanday tiplar mavjud?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "1786",
-    "question": "Что такое «пространство имен» в XML",
+    "question": "XMLda namespace nima?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "100",
-    "question": "Зачем нужен паттерн Comand",
+    "question": "Command patterni nima uchun kerak?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "1784",
-    "question": "Чем well-formed XML отличается от valid XML",
+    "question": "Well-formed XML valid XMLdan nima bilan farq qiladi?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "1783",
-    "question": "Что такое DTD",
+    "question": "DTD nima?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "99",
-    "question": "Пользуешься ли паттерном Comand в работе",
+    "question": "Ishingizda Command patternidan foydalanasizmi?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "39",
-    "question": "Кэширование работает только с базами данных или нет",
+    "question": "Keshlash faqat ma'lumotlar bazalari bilan ishlaydimi yoki yo'qmi?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "2479",
-    "question": "Какие действия необходимо проделать при создании сервлетов",
+    "question": "Servletlarni yaratishda qanday amallarni bajarish kerak?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "1782",
-    "question": "Что такое xsd схема",
+    "question": "xsd sxemasi nima?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "2478",
-    "question": "Что такое «дескриптор развертывания»",
+    "question": "'Deployment descriptor' nima?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2477",
-    "question": "Как контейнер сервлетов управляет жизненным циклом сервлета, когда и какие методы вызываются",
+    "question": "Servlet konteyneri servletning hayot siklini qanday boshqaradi, qachon va qanday metodlar chaqiriladi?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "1780",
-    "question": "Что такое xml",
+    "question": "xml nima?",
     "chance": "6",
     "tag": "XML"
   },
   {
     "id": "98",
-    "question": "В чем преимущество паттерна Builder перед конструктором",
+    "question": "Builder patternining konstruktor oldidagi afzalligi nimada?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "2480",
-    "question": "В каком случае требуется переопределять метод service()",
+    "question": "Qaysi holatda service() metodini override qilish talab etiladi?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2481",
-    "question": "Есть ли смысл определять для сервлета конструктор, каким образом лучше инициализировать данные",
+    "question": "Servlet uchun konstruktor aniqlashning ma'nosi bormi, ma'lumotlarni initsializatsiya qilishning eng yaxshi usuli qanday?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2476",
-    "question": "Зачем нужны сервера приложений, если есть контейнеры сервлетов",
+    "question": "Servlet konteynerlari mavjud bo'lsa, application serverlar nima uchun kerak?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2488",
-    "question": "Как обработать в приложении исключения, выброшенные другим сервлетом",
+    "question": "Ilovada boshqa servlet tomonidan tashlangan exceptionlarni qanday qayta ishlash mumkin?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2487",
-    "question": "Как реализовать запуск сервлета одновременно с запуском приложения",
+    "question": "Servletni ilova ishga tushishi bilan bir vaqtda ishga tushirishni qanday amalga oshirish mumkin?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2486",
-    "question": "Когда стоит использовать фильтры сервлетов, а когда слушателей",
+    "question": "Qachon servlet filtrlaridan, qachon esa listenerlardan foydalanish kerak?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2485",
-    "question": "Зачем в сервлетах используются различные listener",
+    "question": "Servletlarda turli xil listenerlar nima uchun ishlatiladi?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2490",
-    "question": "Что представляет собой ServletContext",
+    "question": "ServletContext o'zi nima?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2491",
-    "question": "В чем отличия ServletContext и ServletConfig",
+    "question": "ServletContext va ServletConfig o'rtasidagi farqlar nimada?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2492",
-    "question": "Для чего нужен интерфейс ServletResponse",
+    "question": "ServletResponse interfeysi nima uchun kerak?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2493",
-    "question": "Для чего нужен интерфейс ServletRequest",
+    "question": "ServletRequest interfeysi nima uchun kerak?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2494",
-    "question": "Что такое Request Dispatcher",
+    "question": "Request Dispatcher nima?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2495",
-    "question": "Как из одного сервлета вызвать другой сервлет",
+    "question": "Bir servletdan boshqa servletni qanday chaqirish mumkin?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2496",
-    "question": "Чем отличается sendRedirect() от forward()",
+    "question": "sendRedirect() forward() dan nima bilan farq qiladi?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2497",
-    "question": "Для чего используются атрибуты сервлетов и как происходит работа с ними",
+    "question": "Servlet atributlari nima uchun ishlatiladi va ular bilan qanday ishlanadi?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2498",
-    "question": "В чем отличия GenericServlet и HttpServlet",
+    "question": "GenericServlet va HttpServlet o'rtasidagi farqlar nimada?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2499",
-    "question": "Почему HttpServlet класс объявлен как абстрактный",
+    "question": "Nima uchun HttpServlet klassi abstrakt deb e'lon qilingan?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2500",
-    "question": "Какие основные методы присутствуют в классе HttpServlet",
+    "question": "HttpServlet klassida qanday asosiy metodlar mavjud?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2501",
-    "question": "Какой метод HTTP не является неизменяемым",
+    "question": "Qaysi HTTP metodi immutable emas?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2502",
-    "question": "Какие есть методы отправки данных с клиента на сервер",
+    "question": "Clientdan serverga ma'lumotlarni yuborishning qanday metodlari bor?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2503",
-    "question": "В чем разница между методами GET и POST",
+    "question": "GET va POST metodlari o'rtasidagi farq nima?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2504",
-    "question": "В чем разница между PrintWriter и ServletOutputStream",
+    "question": "PrintWriter va ServletOutputStream o'rtasidagi farq nima?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2506",
-    "question": "Расскажите об интерфейсе SingleThreadModel",
+    "question": "SingleThreadModel interfeysi haqida gapirib bering",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2508",
-    "question": "Какие различные методы управления сессией в сервлетах знаешь",
+    "question": "Servletlarda sessiyani boshqarishning qanday turli usullarini bilasiz?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2484",
-    "question": "Что знаешь о сервлетных фильтрах",
+    "question": "Servlet filtrlar haqida nimalarni bilasiz?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2510",
-    "question": "Какие методы для работы с cookies предусмотрены в сервлетах",
+    "question": "Servletlarda cookie'lar bilan ishlash uchun qanday metodlar ko'zda tutilgan?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2483",
-    "question": "Какие наиболее распространенные задачи выполняются в контейнере сервлетов",
+    "question": "Servlet konteynerida qanday eng keng tarqalgan vazifalar bajariladi?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2512",
-    "question": "Зачем нужны и чем отличаются методы encodeURL() и encodeRedirectURL()",
+    "question": "encodeURL() va encodeRedirectURL() metodlari nima uchun kerak va ularning farqi nimada?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2514",
-    "question": "Как уведомить объект в сессии, что сессия недействительна или закончилась",
+    "question": "Sessiyadagi obyektni sessiya haqiqiy emasligi yoki tugagani haqida qanday xabardor qilish mumkin?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2482",
-    "question": "Почему необходимо переопределить только init() метод без аргументов",
+    "question": "Nima uchun faqat argumentsiz init() metodini override qilish kerak?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2516",
-    "question": "Как мы можем обеспечить transport layer security для нашего веб приложения",
+    "question": "Veb ilovamiz uchun transport layer securityni qanday ta'minlashimiz mumkin?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2518",
-    "question": "Какие основные особенности появились в спецификации Servlet 3",
+    "question": "Servlet 3 spetsifikatsiyasida qanday asosiy xususiyatlar paydo bo'ldi?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2520",
-    "question": "Что такое Java Server Pages JSP",
+    "question": "Java Server Pages (JSP) nima?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2522",
-    "question": "Опиши, как обрабатываются JSP страницы, начиная от запроса к серверу, заканчивая ответом пользователю.",
+    "question": "JSP sahifalari serverga so'rovdan boshlab foydalanuvchiga javobgacha qanday qayta ishlanishini tasvirlab bering.",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2524",
-    "question": "Расскажи о методах жизненного цикла JSP",
+    "question": "JSP hayot sikli metodlari haqida gapirib bering",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2526",
-    "question": "Как можно предотвратить прямой доступ к JSP странице из браузера",
+    "question": "Brauzerdan JSP sahifasiga to'g'ridan-to'g'ri kirishni qanday oldini olish mumkin?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2528",
-    "question": "Какие существуют основные типы тегов JSP",
+    "question": "JSP teglarining qanday asosiy turlari mavjud?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2532",
-    "question": "Какие неявные, внутренние объекты и методы есть на JSP странице",
+    "question": "JSP sahifasida qanday yashirin (implicit), ichki obyektlar va metodlar mavjud?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2534",
-    "question": "Что знаешь о PageContext и какие преимущества его использования",
+    "question": "PageContext haqida nimalarni bilasiz va undan foydalanishning afzalliklari nimada?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2536",
-    "question": "Почему не рекомендуется использовать скриплеты, скриптовые элементы, в JSP",
+    "question": "Nima uchun JSPda skriptletlar, skript elementlaridan foydalanish tavsiya etilmaydi?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2475",
-    "question": "Что такое «контейнер сервлетов»",
+    "question": "'Servlet konteyneri' nima?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "1763",
-    "question": "Расскажи про транзитивность",
+    "question": "Tranzitivlik haqida gapirib bering",
     "chance": "6",
     "tag": "Фреймворки"
   },
   {
     "id": "2474",
-    "question": "Какова структура веб-проекта",
+    "question": "Veb-loyiha strukturasi qanday?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "2473",
-    "question": "В чем заключаются преимущества технологии сервлетов над CGI Common Gateway Interface",
+    "question": "Servlet texnologiyasining CGI (Common Gateway Interface) ga nisbatan afzalliklari nimada?",
     "chance": "6",
     "tag": "Servlets"
   },
   {
     "id": "1762",
-    "question": "Что используешь mavel или gradel при сборке проекта",
+    "question": "Loyihani yig'ishda Maven yoki Gradle'dan qaysi birini ishlatasiz?",
     "chance": "6",
     "tag": "Фреймворки"
   },
   {
     "id": "97",
-    "question": "Какие паттерны использовал кроме Singleton",
+    "question": "Singletondan tashqari qanday patternlarni ishlatgansiz?",
     "chance": "6",
-    "tag": "Паттерны"
-  },
-  {
-    "id": "44",
-    "question": "Занимался ли ещё где-то Java",
-    "chance": "6",
-    "tag": "Общие"
+    "tag": "Patterns"
   },
   {
     "id": "59",
-    "question": "Что такое Lombok",
+    "question": "Lombok nima?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "33",
-    "question": "Расскажи о своем самом интересном проекте",
+    "question": "O'zingizning eng qiziqarli loyihangiz haqida gapirib bering",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "2471",
-    "question": "Слышал ли что-нибудь про Spring MVC",
+    "question": "Spring MVC haqida biror narsa eshitganmisiz?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2470",
-    "question": "Что нам даёт dependency injectoin",
+    "question": "Dependency injection bizga nima beradi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2469",
-    "question": "В чем разница между IOC и dependency injection",
+    "question": "IOC va dependency injection o'rtasidagi farq nima?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1741",
-    "question": "Для чего нужен Swagger",
+    "question": "Swagger nima uchun kerak?",
     "chance": "6",
     "tag": "Tools"
   },
   {
     "id": "96",
-    "question": "Где можно использовать Singleton",
+    "question": "Singleton qayerda ishlatilishi mumkin?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "2468",
-    "question": "Какие могут быть возвращаемые типы данных в Spring MVC",
+    "question": "Spring MVC da qanday qaytariladigan ma'lumot turlari bo'lishi mumkin?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2467",
-    "question": "Может ли оказаться так что контроллера в контексте нет",
+    "question": "Kontekstda kontroller bo'lmasligi mumkinmi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1740",
-    "question": "Что такое message-брокеры",
+    "question": "Message brokerlar nima?",
     "chance": "6",
     "tag": "Tools"
   },
   {
     "id": "2466",
-    "question": "Что нам нужно чтобы Spring MVC заработал",
+    "question": "Spring MVC ishlashi uchun bizga nima kerak?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2465",
-    "question": "Что такое Scope",
+    "question": "Scope nima?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1738",
-    "question": "Чем docker отличается от виртуальной машины",
+    "question": "Docker virtual mashinadan nima bilan farq qiladi?",
     "chance": "6",
     "tag": "Tools"
   },
   {
     "id": "95",
-    "question": "Какие задачи решал с использованием паттернов",
+    "question": "Patternlardan foydalanib qanday vazifalarni hal qilgansiz?",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "46",
-    "question": "В каком универсистете ты занимался",
+    "question": "Qaysi universitetda o'qigansiz/shug'ullangansiz?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "2464",
-    "question": "Что такое контекст",
+    "question": "Kontekst nima?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2463",
-    "question": "Как dependency injectoin можно применить с SpringBean",
+    "question": "Dependency injection'ni Spring Bean bilan qanday qo'llash mumkin?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1736",
-    "question": "Чем отличается docker от kubernetes",
+    "question": "Docker Kubernetesdan nima bilan farq qiladi?",
     "chance": "6",
     "tag": "Tools"
   },
   {
     "id": "2462",
-    "question": "Что такое http тип",
+    "question": "http tipi nima?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2461",
-    "question": "Как Dispatcher Servlet \"понимает\" какой метод вызвать",
+    "question": "Dispatcher Servlet qaysi metodni chaqirishni qanday 'tushunadi'?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1735",
-    "question": "Для чего нужна секция dependence management",
+    "question": "Dependence management bo'limi nima uchun kerak?",
     "chance": "6",
     "tag": "Tools"
   },
   {
     "id": "2460",
-    "question": "Как клиент может понять что с сервера пришло в браузер",
+    "question": "Client serverdan brauzerga nima kelganini qanday tushunishi mumkin?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2459",
-    "question": "Зачем нужен Rest",
+    "question": "REST nima uchun kerak?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2458",
-    "question": "В чем разница между request mapping и put mapping",
+    "question": "Request mapping va put mapping o'rtasidagi farq nima?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2457",
-    "question": "Какие scope можно использовать для любого приложения",
+    "question": "Har qanday ilova uchun qanday scopelarni ishlatish mumkin?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1733",
-    "question": "Расскажи про структуру pom файла в менеджере пакетов Maven.",
+    "question": "Maven paketlar menejeridagi pom faylining strukturasi haqida gapirib bering.",
     "chance": "6",
     "tag": "Tools"
   },
   {
     "id": "1730",
-    "question": "Жизненный цикл Maven",
+    "question": "Maven hayot sikli",
     "chance": "6",
     "tag": "Tools"
   },
   {
     "id": "47",
-    "question": "Сколько ты совокупно занимаешься Java",
+    "question": "Umumiy hisobda qancha vaqt Java bilan shug'ullanasiz?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "2456",
-    "question": "Request мы можем использовать во всех Spring приложениях",
-    "chance": "6",
-    "tag": "Spring"
-  },
-  {
-    "id": "2455",
-    "question": "Как используешь dependency injection",
+    "question": "Request'dan barcha Spring ilovalarida foydalana olamizmi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2454",
-    "question": "Какие знаешь реализации ioC",
+    "question": "IoC ning qanday realizatsiyalarini bilasiz?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2453",
-    "question": "Что в spring'е из себя представляет Spring ioC контейнер",
+    "question": "Springda Spring IoC konteyneri nimani anglatadi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2452",
-    "question": "Какие области видимости в Spring знаешь",
-    "chance": "6",
-    "tag": "Spring"
-  },
-  {
-    "id": "2451",
-    "question": "Какие виды внедрения зависимости знаешь",
+    "question": "Springda qanday scopelarni bilasiz?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2450",
-    "question": "Расскажи что такое inversion of Conrol",
+    "question": "Inversion of Control nima ekanligini aytib bering",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2449",
-    "question": "Что такое spring framework",
+    "question": "Spring framework nima?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1675",
-    "question": "Что такое «представление»,view, и для чего оно применяется",
+    "question": "View nima?",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "1672",
-    "question": "Что такое «временная таблица», для чего она используется",
+    "question": "Temporary table nima, u nima uchun ishlatiladi?",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "2448",
-    "question": "Где удобнее применять конфигурацию Java, а где конфигурацию XML",
+    "question": "Qayerda Java konfiguratsiyasini, qayerda esa XML konfiguratsiyasini qo'llash qulayroq?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2447",
-    "question": "Какую конфигурацию бы убрал",
+    "question": "Qaysi konfiguratsiyani olib tashlagan bo'lar edingiz?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1668",
-    "question": "Что означает NULL в SQL",
+    "question": "SQLda NULL nimani anglatadi?",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "2446",
-    "question": "Какую из конфигурация, XML, Java Annotation,предпочитаешь больше, почему",
+    "question": "XML, Java, Annotatsiya konfiguratsiyalaridan qaysi birini ko'proq afzal ko'rasiz va nima uchun?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2445",
-    "question": "Какая конфигурация выполнится приорететней: XML, Java или Annotation",
+    "question": "Qaysi konfiguratsiya ustuvorroq: XML, Java yoki Annotatsiya?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1666",
-    "question": "Какие существуют операторы SQL",
+    "question": "SQL operatorlarining qanday turlari mavjud?",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "2444",
-    "question": "Сейчас в Spring'е не надо указывать аннотацию AutoWired, почему это так",
+    "question": "Hozir Springda @Autowired annotatsiyasini ko'rsatish shart emas, nima uchun shunday?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2443",
-    "question": "Как создать контроллер в Spring'е",
+    "question": "Springda kontrollerni qanday yaratish mumkin?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2442",
-    "question": "Как можно создать Servlett в Spring'е",
+    "question": "Springda Servletni qanday yaratish mumkin?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2441",
-    "question": "Как работает контекст",
+    "question": "Kontekst qanday ishlaydi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1665",
-    "question": "Что такое курсор в реляционной БД",
+    "question": "Relyatsion ma'lumotlar bazasida kursor nima?",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "1663",
-    "question": "Что такое триггеры в реляционной БД",
+    "question": "Relyatsion ma'lumotlar bazasida triggerlar nima?",
     "chance": "6",
     "tag": "SQL"
   },
   {
-    "id": "48",
-    "question": "Что побудило остановиться на другом языке программирования",
-    "chance": "6",
-    "tag": "Общие"
-  },
-  {
     "id": "49",
-    "question": "Как ты себя оцениваешь",
+    "question": "O'zingizni qanday baholaysiz?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "2440",
-    "question": "Есть ли возможность создать два Singleton'а в Spring'е",
+    "question": "Springda ikkita Singleton yaratish imkoniyati bormi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2439",
-    "question": "Много ли контекстов может быть",
+    "question": "Kontekstlar ko'p bo'lishi mumkinmi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1657",
-    "question": "Расскажи о полный синтаксис SELECT в реляционной БД",
+    "question": "Relyatsion ma'lumotlar bazasida SELECT ning to'liq sintaksisi haqida gapirib bering",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "2438",
-    "question": "Что делает компонент scan",
+    "question": "Component scan nima qiladi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2437",
-    "question": "Чем отличаются Filters, Interceptors, и Listeners в Spring",
+    "question": "Springda Filters, Interceptors va Listeners nima bilan farq qiladi?",
     "chance": "6",
     "tag": "Spring"
   },
+  ###############################################3
+  ################################################
+  ##############################################
   {
     "id": "1655",
-    "question": "Для чего в SQL есть HAVING",
+    "question": "SQLda HAVING nima uchun kerak?",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "2436",
-    "question": "Чем отличается компонент от бина",
+    "question": "Komponent bindan nima bilan farq qiladi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2435",
-    "question": "В чем разница между Spring аннотациями Component, Repository и Service",
+    "question": "Springning @Component, @Repository va @Service annotatsiyalari o'rtasidagi farq nima?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "1652",
-    "question": "Что делает merge",
+    "question": "merge nima qiladi?",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "2434",
-    "question": "Какой жизненный цикл объекта, который создает Spring",
+    "question": "Spring yaratadigan obyektning hayot sikli qanday?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2433",
-    "question": "Чем отличается аутентификация от авторизации",
+    "question": "Autentifikatsiya avtorizatsiyadan nima bilan farq qiladi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "125",
-    "question": "Что такое join",
+    "question": "join nima?",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "50",
-    "question": "Где учился",
+    "question": "Qayerda o'qigansiz?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "2432",
-    "question": "Для чего нужен JWT",
+    "question": "JWT nima uchun kerak?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2431",
-    "question": "Как бы организовал метод delete",
+    "question": "delete metodini qanday tashkil qilgan bo'lar edingiz?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2430",
-    "question": "Чем SOAP отличается от REST",
+    "question": "SOAP RESTdan nima bilan farq qiladi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "2578",
-    "question": "Как закрыть соединение с базой данных",
+    "question": "Ma'lumotlar bazasi bilan bog'lanishni qanday yopish kerak?",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "2577",
-    "question": "Как вызвать хранимую процедуру",
+    "question": "Saqlanadigan protsedurani (stored procedure) qanday chaqirish mumkin?",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "2429",
-    "question": "Как на Java писать веб-приложение",
+    "question": "Java'da veb-ilovani qanday yozish mumkin?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "124",
-    "question": "Что такое хранимые процедуры и какой способ вызова через JDBC",
+    "question": "Saqlanadigan protseduralar (stored procedures) nima va ularni JDBC orqali chaqirish usuli qanday?",
     "chance": "6",
     "tag": "SQL"
   },
   {
     "id": "2576",
-    "question": "Как осуществляется запрос к базе данных и обработка результатов",
+    "question": "Ma'lumotlar bazasiga so'rov qanday amalga oshiriladi va natijalar qanday qayta ishlanadi?",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "2575",
-    "question": "При помощи чего формируются запросы к базе данных",
+    "question": "Ma'lumotlar bazasiga so'rovlar nima yordamida shakllantiriladi?",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "2428",
-    "question": "Зачем нужен спринг",
+    "question": "Spring nima uchun kerak?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "3978",
-    "question": "Что нужно, чтобы написанная на Java программа, заработала",
+    "question": "Java'da yozilgan dastur ishlashi uchun nima kerak?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "2574",
-    "question": "Какие уровни изоляции транзакций поддерживаются в JDBC",
+    "question": "JDBCda tranzaksiyalarning qanday izolyatsiya darajalari qo'llab-quvvatlanadi?",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "3980",
-    "question": "Что может рассказать о манифесте файла jar",
+    "question": "jar faylining manifesti haqida nima deya olasiz?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3981",
-    "question": "Расскажи про области памяти и Garbage Collector",
+    "question": "Xotira sohalari va Garbage Collector haqida gapirib bering",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3982",
-    "question": "Какие типы данных есть в контексте JVM",
+    "question": "JVM kontekstida qanday ma'lumotlar turlari mavjud?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "2573",
-    "question": "Как зарегистрировать драйвер JDBC",
+    "question": "JDBC drayverini qanday ro'yxatdan o'tkazish mumkin?",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "3984",
-    "question": "Какие области памяти можете вспомнить кроме стэка и кучи",
+    "question": "Stack va heapdan tashqari qanday xotira sohalarini eslay olasiz?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3985",
-    "question": "Какие минусы есть у пула строк с точки зрения безопасности",
+    "question": "Xavfsizlik nuqtai nazaridan satrlar pulining (string pool) qanday kamchiliklari bor?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3986",
-    "question": "Как изначально создается пул строк",
+    "question": "Satrlar puli (string pool) dastlab qanday yaratiladi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "2427",
-    "question": "Для чего нужна аннотация Bean",
+    "question": "@Bean annotatsiyasi nima uchun kerak?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "3988",
-    "question": "За счет чего работают Lambda-выражения, что происходит \"под капотом\"",
+    "question": "Lambda-ifodalar nima hisobiga ishlaydi, 'kapot ostida' nima sodir bo'ladi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3989",
-    "question": "Используешь в работе Lambda-выражения",
+    "question": "Ishingizda Lambda-ifodalardan foydalanasizmi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3990",
-    "question": "На базе чего работают Lambda выражения",
+    "question": "Lambda ifodalari nima asosida ishlaydi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "2572",
-    "question": "Опиши основные этапы работы с базой данных с использованием JDBC",
+    "question": "JDBCdan foydalanib ma'lumotlar bazasi bilan ishlashning asosiy bosqichlarini tasvirlab bering",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "3992",
-    "question": "Откуда берутся методы equals и hashcode",
+    "question": "equals va hashcode metodlari qayerdan keladi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3993",
-    "question": "Почему hashcode могут быть равны",
+    "question": "Nima uchun hashcode'lar teng bo'lishi mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3994",
-    "question": "Что знаешь про модели памяти в Java",
+    "question": "Java'dagi xotira modellari haqida nimalarni bilasiz?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3995",
-    "question": "Когда stream начинает свое выполнение",
+    "question": "Stream qachon o'z ishini boshlaydi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3996",
-    "question": "Что такое модификатор default equals и hashcode",
+    "question": "default modifikatori nima? equals va hashcode?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3997",
-    "question": "Что такое heap, stack",
+    "question": "heap, stack nima?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3998",
-    "question": "Какие могут проблемы при реализации Hashcode",
+    "question": "Hashcode'ni realizatsiya qilishda qanday muammolar bo'lishi mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "3999",
-    "question": "Для чего нужно стирание типов",
+    "question": "Tiplarni o'chirish (type erasure) nima uchun kerak?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4000",
-    "question": "От скольки классов может наследоваться класс",
+    "question": "Bir klass nechta klassdan meros olishi mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4001",
-    "question": "Как создать свою аннотацию",
+    "question": "O'z annotatsiyangizni qanday yaratish mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4002",
-    "question": "Какие два класса не наследуются от Object",
+    "question": "Object'dan meros olmaydigan ikkita klass qaysi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4003",
-    "question": "Что такое затирание типов",
+    "question": "Tiplarni o'chirish (type erasure) nima?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4004",
-    "question": "Как передаются параметры",
+    "question": "Parametrlar qanday uzatiladi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4005",
-    "question": "Расскажи особенности языка Java",
+    "question": "Java tilining o'ziga xos xususiyatlarini aytib bering",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4006",
-    "question": "Каким образом Java машина помогает запускать код на операционных системах",
+    "question": "Java mashinasi kodni operatsion tizimlarda ishga tushirishga qanday yordam beradi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4007",
-    "question": "Как данные хранятся в Java",
+    "question": "Javada ma'lumotlar qanday saqlanadi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4008",
-    "question": "Как определить какой объект является мусором",
+    "question": "Qaysi obyekt keraksiz (musor) ekanligini qanday aniqlash mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4009",
-    "question": "Могут ли разработчики управлять сборкой мусора и параметрами памяти",
+    "question": "Dasturchilar keraksiz obyektlarni yig'ish (garbage collection) va xotira parametrlarini boshqara oladilarmi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4010",
-    "question": "Что такое объект в Java",
+    "question": "Javada obyekt nima?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "2571",
-    "question": "Из каких частей стоит JDBC",
+    "question": "JDBC qanday qismlardan iborat?",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "4012",
-    "question": "Из чего состоит класс",
+    "question": "Klass nimadan iborat?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "2570",
-    "question": "Перечисли основные типы данных используемые в JDBC, как они связаны с типами Java",
+    "question": "JDBCda ishlatiladigan asosiy ma'lumotlar turlarini sanab bering, ular Java tiplari bilan qanday bog'liq?",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "4014",
-    "question": "Для чего используется структура try finally",
+    "question": "try-finally strukturasi nima uchun ishlatiladi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "2569",
-    "question": "Что из себя представляет JDBC URL",
+    "question": "JDBC URL o'zi nima?",
     "chance": "6",
     "tag": "JDBC"
   },
   {
     "id": "4016",
-    "question": "Какие элементы из функционального программирования появились в Java8",
+    "question": "Java 8 da funksional dasturlashning qanday elementlari paydo bo'ldi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4017",
-    "question": "Чем примечательна Java в контексте платформы",
+    "question": "Platforma kontekstida Java nima bilan ajralib turadi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4018",
-    "question": "Что такое Garbage Collector",
+    "question": "Garbage Collector nima?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4019",
-    "question": "После какого момента GC понимает, что нужно собирать мусор",
+    "question": "Qaysi paytdan keyin GC keraksiz obyektlarni yig'ish kerakligini tushunadi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4020",
-    "question": "Какие GC знаешь",
+    "question": "Qanday GC (Garbage Collector)larni bilasiz?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4021",
-    "question": "Каким образом мы можем задавать параметры конфигурации GC",
+    "question": "GC konfiguratsiya parametrlarini qanday qilib belgilashimiz mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4022",
-    "question": "Какие плагины можно поставить при создании виртуальной машины",
+    "question": "Virtual mashina yaratishda qanday plaginlarni o'rnatish mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4023",
-    "question": "Чем отличаются equals и hashcode",
+    "question": "equals va hashcode nima bilan farq qiladi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4024",
-    "question": "Почему важно переопределять equals и hashcode",
+    "question": "Nima uchun equals va hashcode'ni override qilish (qayta aniqlash) muhim?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4025",
-    "question": "В контексте бизнеса обязательно ли учитывать в equals все поля сущности",
+    "question": "Biznes kontekstida equals'da obyektning (entity) barcha maydonlarini hisobga olish shartmi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4026",
-    "question": "Расскажи кратко об идее обработки ошибок в Java.",
+    "question": "Java'da xatoliklarni qayta ishlash g'oyasi haqida qisqacha gapirib bering.",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4027",
-    "question": "Какие конструкции в обработке ошибок знаешь",
+    "question": "Xatoliklarni qayta ishlashda qanday konstruksiyalarni bilasiz?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4028",
-    "question": "Когда может произойти ситуация, когда мы можем перезатереть исключение",
+    "question": "Qachon biz istisnoni (exception) qayta yozib yuborishimiz (overwrite) mumkin bo'lgan holat yuzaga kelishi mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4029",
-    "question": "Где в обработке исключений может применяться конструкция с finally",
+    "question": "Istisnolarni qayta ishlashda finally bilan konstruksiya qayerda qo'llanilishi mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4030",
-    "question": "Какая величина у байта",
+    "question": "Baytning kattaligi qancha?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4031",
-    "question": "Зачем и как переопределять hashcode",
+    "question": "Nima uchun va qanday qilib hashcode'ni override qilish (qayta aniqlash) kerak?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "2426",
-    "question": "Чем отличается RestController от Controller",
+    "question": "RestController Controllerdan nima bilan farq qiladi?",
     "chance": "6",
     "tag": "Spring"
   },
   {
     "id": "4033",
-    "question": "Как устроена строка \"под капотом\"",
+    "question": "Satr (String) 'kapot ostida' qanday tuzilgan?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4034",
-    "question": "Как привести строку в массивы символов",
+    "question": "Satrni (string) belgilar massiviga (char array) qanday o'tkazish mumkin?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4035",
-    "question": "Чем обеспечена иммутабельность",
+    "question": "O'zgarmaslik (immutability) nima bilan ta'minlangan?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4036",
-    "question": "Какими характеристиками должен обладать метод чтобы функциональный итерфейс был функциональным",
+    "question": "Funksional interfeys funksional bo'lishi uchun metod qanday xususiyatlarga ega bo'lishi kerak?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4037",
-    "question": "Что нужно делать для того чтобы принимать и возвращать значения",
+    "question": "Qiymatlarni qabul qilish va qaytarish uchun nima qilish kerak?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4038",
-    "question": "Можем ли мы без JDK вести Java разработку",
+    "question": "Biz JDKsiz Java dasturlash bilan shug'ullana olamizmi?",
     "chance": "6",
     "tag": "Java Core"
   },
   {
     "id": "4039",
-    "question": "Объясни чем обусловлено то, что int ограничен в размере",
+    "question": "int tipi hajmining cheklanganligi nima bilan bog'liqligini tushuntiring",
     "chance": "6",
     "tag": "Java Core"
   },
@@ -2457,7 +2304,7 @@
     "id": "53",
     "question": "Где занимался программированием",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "6759",
@@ -2661,7 +2508,7 @@
     "id": "9752",
     "question": "Чем отличаются вертикальный и горизонтальный партишн",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "2422",
@@ -2679,7 +2526,7 @@
     "id": "9735",
     "question": "Что делает аннотация componentscan",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "2561",
@@ -2799,13 +2646,13 @@
     "id": "28",
     "question": "Как оцениваешь свой уровень",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "55",
     "question": "Расскажи почему ты в Java",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "6873",
@@ -2889,13 +2736,13 @@
     "id": "9731",
     "question": "Какая структура данных лежит в ArrayList",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9733",
     "question": "Какие команды знаешь из SQL",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "6865",
@@ -2907,43 +2754,43 @@
     "id": "9737",
     "question": "Что при сборке может предоставить Maven",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9739",
     "question": "На фоне чего построена Spring Date",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9741",
     "question": "Что такое кеширование",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9744",
     "question": "Какая сложность поиска элемента в LinkedList",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9746",
     "question": "Какие есть виды стейтментов в JDBC",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9748",
     "question": "Какие выдвигаются требования к транзакции",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9750",
     "question": "Какое основное преимущество ресурсов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "2549",
@@ -2955,43 +2802,43 @@
     "id": "9754",
     "question": "Есть ли противопоказания к использованию индексов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9756",
     "question": "Можно ли сделать приватными переменными в интерфейсе",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9758",
     "question": "Обеспечит ли Stream API RandomAcess",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9760",
     "question": "Есть ли итератор в Stream",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9762",
     "question": "Что мы используем когда пишем for each",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9765",
     "question": "В чем отличие репликации от шарда",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9767",
     "question": "С какими URF  работал",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "2415",
@@ -3003,19 +2850,19 @@
     "id": "9771",
     "question": "Как из класса сделать поток",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9772",
     "question": "На основании какой структуры данных реализованн Linked List",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9773",
     "question": "На основании какой структуры данных реализованн Array List",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "116",
@@ -3027,19 +2874,19 @@
     "id": "9730",
     "question": "Что такое CAS",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9732",
     "question": "В чем отличие между put и comput",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9734",
     "question": "Какая примерная сложность поиска данных по индексу в бд",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "6864",
@@ -3051,43 +2898,43 @@
     "id": "9738",
     "question": "Как работать на Spring",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9740",
     "question": "В чем отличие JPA и Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9742",
     "question": "Что такое fetch type",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9745",
     "question": "Какие есть механизмы для сложных запросов с множеством параметров",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9747",
     "question": "В чем различие видов JDBC",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9749",
     "question": "В чем отличие атомарности и консистентностью",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9751",
     "question": "Класс Number это реальный или абстрактный класс",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "6863",
@@ -3099,19 +2946,19 @@
     "id": "9755",
     "question": "Есть опыт работы с облачными сервисами",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9757",
     "question": "С чем работаем внутри Stream",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9759",
     "question": "Какая сущность в коллекциях помогает получать доступ к объектам в коллекции",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "2548",
@@ -3123,7 +2970,7 @@
     "id": "9763",
     "question": "Что такое метод recuese в Stream",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "6862",
@@ -3135,7 +2982,7 @@
     "id": "9768",
     "question": "Расскажи про уровни кэширования",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "6861",
@@ -3375,7 +3222,7 @@
     "id": "29",
     "question": "На какую позицию хотел бы претендовать",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "6856",
@@ -3429,13 +3276,13 @@
     "id": "7136",
     "question": "Зачем нужна программа, которая работает в нескольких потоках, а не в одном",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7137",
     "question": "Зачем нужны однопоточные программы",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "6850",
@@ -3447,25 +3294,25 @@
     "id": "7139",
     "question": "Что такое Atomic Types, для чего они нужны",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7140",
     "question": "Что такое безопасность потока",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7141",
     "question": "В чем смысл ключевого слова volatile и связанные с ним проблемы",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7142",
     "question": "Какие знаешь базовые способы синхронизации",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "2542",
@@ -3477,31 +3324,31 @@
     "id": "7144",
     "question": "Что делает объект интерфейс runnable",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7145",
     "question": "В чём отличие между Runnable и  Cаllable",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7147",
     "question": "Что делает метод wait",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7148",
     "question": "Что такое поток \"демон\"",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "7149",
     "question": "В чём смысл ReadWRiteLock",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "6848",
@@ -3591,205 +3438,205 @@
     "id": "7168",
     "question": "Какие есть минусы в индексе",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7169",
     "question": "Что такое первичный и внешние ключи и какие ограничения существуют",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7170",
     "question": "Что такое денормализация баз данных",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7171",
     "question": "В чем заключается идея foreign key",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7172",
     "question": "В чем разница JPQL и HQL",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7173",
     "question": "Что такое реляционная модель данных",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7174",
     "question": "Какие возникают аномалии при выполнении параллельных транзакций",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7175",
     "question": "Что такое репликация баз данных",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7176",
     "question": "Как хранил данные в проектах",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7177",
     "question": "Как бы реализовал отправку сообщения клиенту, учитывая возможность отмены транзакции",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7178",
     "question": "Как избежать того, что пакет данных может отправится два раза",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7179",
     "question": "Какие базы данных использовал",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7180",
     "question": "Какие есть ограничения на ключи",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7181",
     "question": "Где использовал аннотацию transactional",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7182",
     "question": "Почему база данных лучше текстового файла",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7183",
     "question": "Что такое индексирование",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7184",
     "question": "Какие типы запросов знаешь",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7185",
     "question": "Слышал ли что-то про dml и ddl",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7186",
     "question": "Назови краткий перечень из трех ограничений",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7187",
     "question": "В чем смысл второй нормальной формы",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7188",
     "question": "Опиши форму кода",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7189",
     "question": "Что мы чаще всего используем в совокупности в агрегационными запросами",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7190",
     "question": "Что выполняется раньше where или join",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7191",
     "question": "Каким образом можешь добавить ограничения",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7192",
     "question": "При помощи чего мы можем указать constraint",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7193",
     "question": "Что такое диаграммы Венна",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7194",
     "question": "Как в базу данных добавить ограничения",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7195",
     "question": "В чём идея join",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7196",
     "question": "Что слышал про оператор Exists",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7197",
     "question": "Расскажи прервую и вторую форму нормализации",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "7198",
     "question": "Что такое конструктор для копирования",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7199",
     "question": "В чем идея Builder'а",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7200",
     "question": "К чему применяется Unique",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7201",
     "question": "Primari Key уникалный, или может дублироваться",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "2538",
@@ -3801,19 +3648,19 @@
     "id": "7203",
     "question": "Что лежит в основе Spring Framework",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7204",
     "question": "Можно ли внедрять зависимость не только через конструктор",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7205",
     "question": "Что выполняется раньше : конструктор , Setter или поле внедрения",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "2537",
@@ -3825,19 +3672,19 @@
     "id": "7207",
     "question": "Что означают отношения \"являюсь\" и \"имею\" в ООП",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7208",
     "question": "Где лучше применять наследования и ассоциацию",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7209",
     "question": "В чем разница между классом, объектом и интерфейсом",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "113",
@@ -3849,2713 +3696,2713 @@
     "id": "7211",
     "question": "Почему throws в сигнатуре метода плохо",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7212",
     "question": "Как правильно выбрасывать исключения",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7213",
     "question": "Почему выбрасывать RuntimeException плохо",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7214",
     "question": "Расскажи про класс File и его устройство",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7215",
     "question": "Как избежать принудительную обработку IOException",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7216",
     "question": "Что такое атомарность и консистентность",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7217",
     "question": "Почему Java Memory Model важно при работе с многопоточностью",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7218",
     "question": "В чем разница Synchronized и Lock",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7219",
     "question": "Что такое Callable",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7220",
     "question": "Преимущества реализации ExecutorService",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7221",
     "question": "Почему появился HashMap",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7222",
     "question": "Почему плохо делать ключом массив байтов для HashMap",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7223",
     "question": "В чем проблема HashTable",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7224",
     "question": "Что такое автоматическая инкрементация в разных БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7225",
     "question": "Какие есть уровни изоляции в SQL",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7226",
     "question": "Расскажи про идею фреймворка Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7227",
     "question": "Какие виды связи в Hibernate есть",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7228",
     "question": "Какие есть аннотации для создания бинов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7229",
     "question": "Какая ценность аннотации Bean",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7230",
     "question": "Что такое BeanDefinition и зачем он нужен",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7231",
     "question": "Как из Spring-приложения обратиться к другому сервису",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7232",
     "question": "В чем ценность Spring Boot",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7233",
     "question": "Какие распростаненные стартеры знаешь в Spring Boot",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7234",
     "question": "Надо ли обязательно отлавливать throws",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7235",
     "question": "Для чего нужна инкапсуляция",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7236",
     "question": "Stack , долгосрочное ли это хранилище",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7237",
     "question": "Как можно сравнивать между собой типы данных",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7238",
     "question": "Как примитивные типы данных можно сравнить между собой",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7239",
     "question": "Слышал ли что то про статиеские методы",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7240",
     "question": "Почему Equals нужно переопределять и для чего",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7241",
     "question": "Какие основные реализации листовых коллекций",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "7242",
     "question": "На что похож Вектор",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "30",
     "question": "Расскажи о том как ты понимаешь принципы SOLID исходя из своего опыта",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "9778",
     "question": "В чем преимущество hibernate перед jbc",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9779",
     "question": "Что такое кеширование в hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9780",
     "question": "Есть опыт написания тестов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9781",
     "question": "Знаком с принципами масштабирования системы",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9782",
     "question": "Что такое докер",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9783",
     "question": "С чем работал с точки зрения security",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9784",
     "question": "Из скольки частей состоит JVTToken",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9785",
     "question": "В чем особенность Spring Boot",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9786",
     "question": "Какие виды тестов знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9787",
     "question": "Что содержит задача которая пришла от аналитиков",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9788",
     "question": "Что такое метод main",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9789",
     "question": "Что дает слово static",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9790",
     "question": "Почему main считается статическим",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9791",
     "question": "Что такое массивы в Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9792",
     "question": "Какой класс реализует динамический массив в Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9793",
     "question": "За счет чего NIO обеспечивает неблокируемый доступ к ресурсам",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9794",
     "question": "В чем особенность CopyOnWriteArrayList",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9795",
     "question": "Что такое Stream в контекстке Stream API",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9796",
     "question": "Что принимает в себя ExecutorService на исполнение",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9797",
     "question": "Что понимается под буквой О в SOLID",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9798",
     "question": "Какие отличия между шаблонами ООП Стратегия и Состояние",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9799",
     "question": "Что такое адаптер",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9800",
     "question": "Что такое группировка в БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9801",
     "question": "Какие основные реаллизации ORM знаешь в Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9802",
     "question": "Какие уровни кэширования есть в Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9803",
     "question": "Что такое Docker",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9804",
     "question": "В чем отличие Докера от виртуальной машины",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9805",
     "question": "Как устроена память JVM",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9806",
     "question": "Что такое стеки",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9807",
     "question": "Как переходят данные между стеком и хит",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9808",
     "question": "Что такое сборка мусора",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9809",
     "question": "Что такое многопоточность, параллелизм и асинхронность",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9810",
     "question": "Для чего нужны классы Future и CompletableFuture",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9811",
     "question": "Что находится под буквой L в принципах SOLID",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9812",
     "question": "Что такое Result Set в JDBC",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9813",
     "question": "Особенности Result Set в JDBC и его конфигурации",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9814",
     "question": "Что такое SessionFactory  в Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9815",
     "question": "Расскажи про управление уровнями изоляции транзакций в Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9816",
     "question": "Что есть в иерархии Collections API",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9817",
     "question": "Класс TreeMap, какая стркутра данных лежит в основе",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9818",
     "question": "Какая сложность бинарного поиска",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9819",
     "question": "Зачем нужно future",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9820",
     "question": "Зачем нужен CompletableFuture",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9821",
     "question": "JDBC это реализация или спецификация",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9822",
     "question": "Зачем подгружать драйвер БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9823",
     "question": "Что такое statement",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9824",
     "question": "Какие виды statement есть",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9825",
     "question": "Что такое JPA",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9826",
     "question": "Что такое n+1 select проблема",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9827",
     "question": "Варианты использования final",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9828",
     "question": "Что такое интерфейс itterable",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9829",
     "question": "Что такое REST API",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9830",
     "question": "В чем отличие функционального подхода и объектно-ориентированного",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9831",
     "question": "Что такое передача параметров в Java и как это происходит",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9832",
     "question": "К какому принципу ООП относится переопределение методов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9833",
     "question": "Что такое объекты immutable",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9834",
     "question": "С каким функциональным интерфейсом мы работаем в методе map()",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9835",
     "question": "Что такое Named Query в Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9836",
     "question": "Что такое BeanPostProcessor",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9837",
     "question": "Что такое bean scope",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9838",
     "question": "Какие виды scope существуют",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9839",
     "question": "Что делает фреймворк Spring",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9840",
     "question": "Что такое IoC и DI",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9841",
     "question": "Чем отличается обычный объект от Bean",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9842",
     "question": "Что такое Maven",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9843",
     "question": "Для чего используем модификаторы доступа",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9844",
     "question": "Правильное ли высказываение что массив String, это массив char",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9845",
     "question": "Какие существуют ключевые классы exception",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9846",
     "question": "Как можно обработать исключения",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9847",
     "question": "Что такое фантомное чтение",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9848",
     "question": "Что означает fetchtype lazy",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9849",
     "question": "Какие сущности учавствуют в создании Bean",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9850",
     "question": "Что такое асинхронность",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9851",
     "question": "В чем преимущества композиции в ООП",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9852",
     "question": "К чему может привести нарушение принципов SOLID",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9853",
     "question": "Какие существуют имлементации интерфейса List",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9854",
     "question": "Когда стоит использовать LinkedList",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9855",
     "question": "Чем обусловлен диапазон допустимых значений \"примитивов\"",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9856",
     "question": "Что делает метод peek()",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9857",
     "question": "Как работает механизм CAS",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9858",
     "question": "Что дает принцип инкапсуляции в реальных системах",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9859",
     "question": "Расскажи про третью нормальную форму",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9860",
     "question": "Какая основная задача кэширования в ORM",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9861",
     "question": "Какие сложности могут возникать при работе с кэшированием",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9862",
     "question": "Какую проблему решает Framework Spring",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9863",
     "question": "Назов отличие ООП от функционального программирования",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9864",
     "question": "Что такое композиция",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9865",
     "question": "В чем преимущества композиции",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9866",
     "question": "Как понимаешь interface segregation",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9867",
     "question": "Что такое dependency inversion",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9868",
     "question": "Что такое ковариантность типов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9869",
     "question": "Как можно сделать класс неизменяемым",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9870",
     "question": "Какая сложность поиска метода по ключу в коллекции TreeMap",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9871",
     "question": "Что делает метод peek в StreamApi",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9872",
     "question": "Какой интерфейс получаем в методе forEach()",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9873",
     "question": "Где хранятся статические методы в памяти JVM",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9874",
     "question": "Как оптимизировать работу Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9875",
     "question": "Как идеально организовать процесс CI/CD",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9876",
     "question": "Почему запрещено множественное наследование",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9877",
     "question": "Когда происходит коллизия hashcode в HashMap",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9878",
     "question": "Что такое функциональная парадигма",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9879",
     "question": "Что стоит в центре парадигмы",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9880",
     "question": "Что такое Callable",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9881",
     "question": "В чем смысл многопоточности",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9882",
     "question": "К чему может привести нарушение нормализации",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9883",
     "question": "Как инициализируются бины в Spring",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9884",
     "question": "Что делает аннотация Transactional в Spring Data",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9885",
     "question": "Что такое механизм CAS",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9886",
     "question": "Чем отличается optimistic и pessimistic lock в Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9887",
     "question": "Какие знаешь потокобезопасные коллекции в Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9888",
     "question": "В чем особоенность LinkedHashMap",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9889",
     "question": "Что лежит \"под капотом\" parallelStream()",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9890",
     "question": "Расскажи про способы оптимизации запросов в БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9891",
     "question": "Какая алгоритмическая сложность поиска элемента по индексу",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9892",
     "question": "Чем отличается JOIN от UNION",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9893",
     "question": "Расскажи про Problem n+1 в Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9894",
     "question": "Что такое ApplicationContext в Spring",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9895",
     "question": "Как бы реализовал интеграционное тестирование",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9896",
     "question": "Где хранятся статические методы и переменные",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9897",
     "question": "Где хранятся объекты",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9898",
     "question": "Что такое \"мусор\" с точки зрения JVM",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9899",
     "question": "Что такое механизм CAS",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9900",
     "question": "Какие группы команд есть в SQL",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9901",
     "question": "Что такое уровни изоляции транзаций",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9902",
     "question": "Как происходит обработка запроса(HttpServlet)",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9903",
     "question": "Чем отличается композиция от наследования",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9904",
     "question": "Механизмы реализации полиморфизма",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9905",
     "question": "Что такое неизменяемые классы",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9906",
     "question": "Какая сложность вставки элемента в LinkedList",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9907",
     "question": "Чем отличается волатильность от атомарности",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9908",
     "question": "N+1 problem, пути решения в Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9909",
     "question": "Что такое уровни пропагации транзакций в Spring Data",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9910",
     "question": "Что такое идемпотентный метод в Spring Data",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9911",
     "question": "Что такое CAP теорема",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9912",
     "question": "Чем объект отличается от примитива",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9913",
     "question": "Какие алгоритмы поиска элемента по массиву известны",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9914",
     "question": "Расскажи про концепцию класса CompletableFuture",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9915",
     "question": "Для чего может пригодиться шаблон проектирования цепочка ответственности",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9916",
     "question": "Bean это класс или объект",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9917",
     "question": "Что такое уровни propagation в транзакциях",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9918",
     "question": "Что такое идепатентность метода",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9919",
     "question": "Что такое идепатентность метода",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9920",
     "question": "Расскажите о себе, какие цели ставите",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9921",
     "question": "Какой  диапазон допустимых значений для типа данных short",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9922",
     "question": "Чем отличается примитив short от class short",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9923",
     "question": "Как java понимает generics",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9924",
     "question": "Какую идею реализует ArrayList",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9925",
     "question": "Что означает транзиентный в java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9926",
     "question": "Что означает транзиентный в java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9927",
     "question": "Какую идею реализует LinkedList",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9928",
     "question": "Какая сложность вставки элемента в LinkedList",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9929",
     "question": "Для чего нужен интерфейс Comparable",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9930",
     "question": "К чему может привести нарушение нормализации данных",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9931",
     "question": "К чему можно приминить final",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9932",
     "question": "Что такое LinkedHashSet",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9933",
     "question": "Что такое HashSet",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9934",
     "question": "Что делает Phaser",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9935",
     "question": "Для чего  нужны scope Bean",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9936",
     "question": "Что такое socket",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9937",
     "question": "Для чего используется шаблон \"Стратегия\"",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9938",
     "question": "Что-то изучал кроме Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9939",
     "question": "Как понимаешь фразу Java это ООП",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9940",
     "question": "Массив это примитив или объект",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9941",
     "question": "Какая сложность добавления элемента в Array List",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9942",
     "question": "Какой знаешь максимально эффективный способ копирования массива",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9943",
     "question": "Что такое коллизия хэшкодов с точки зрения HashMap",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9944",
     "question": "Какую проблему решает валатайл",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9945",
     "question": "Какие задачи решаются с помощью join",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9946",
     "question": "Как подружить БД с приложением Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9947",
     "question": "Как называется документ в котором я могу посмотреть все про JDBC",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9948",
     "question": "Какие виды запросов я могу выполнять с помощью Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9949",
     "question": "Для сложных запросов где много параментров что нужно использовать",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9950",
     "question": "Что происходит от момента запуска Spring приложения до первого запроса в Postman",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9951",
     "question": "В чем отличие HashMap от HashSet",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9952",
     "question": "Что такое Spring Data Repository",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9953",
     "question": "Что такое Spring Data Specification",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9954",
     "question": "В чем отличия компонентных аннотаций",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9955",
     "question": "Чем отличается конфигурация от компонента",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9956",
     "question": "Что такое аннотация @Transactional",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9957",
     "question": "Что будет если в методе вызвать метод аннотации @Transactional",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9958",
     "question": "В чем разница @Controller и @RеstController",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9959",
     "question": "Как эффективно идентифицировать непроизводительные sql – запросы",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9960",
     "question": "Как бороться с аномалиями при выполнения транзакций",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9961",
     "question": "Что такое Message Broker",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9962",
     "question": "Что такое асинхронные сообщения",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9963",
     "question": "Что такое не блокирующие алгоритмы",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9964",
     "question": "В чем разница между Mono и Flux",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9965",
     "question": "Что будет если применить Volatile в объектах",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9966",
     "question": "Как обеспечить синхронизацию в многопоточной среде",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9967",
     "question": "Что такое блок synhronized  в java и какие там проблемы",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9968",
     "question": "Что такое шаблон Database-per-Service",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9969",
     "question": "ЧТо такое шаблон Even Sourcing",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9970",
     "question": "Какие задачи решает Distributed Tracing",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9971",
     "question": "Как выбрать стратегию, шаблон",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9972",
     "question": "Как себя поведёт prototype bean в рамках Singleton",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9973",
     "question": "Чем пользуешься в качестве трекинга ваших задач",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9974",
     "question": "Какие используешь flo при работе с task",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9975",
     "question": "Расскажи разницу между интерфейсом List и Set",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9976",
     "question": "Что такое экзекьютер-сервис",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9977",
     "question": "Что за исключение Interrupted Exception",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9978",
     "question": "Какие знаешь аннотации для создания бинов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9979",
     "question": "Что такое пропагация и распостранение транзакции",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9980",
     "question": "Кратко расскажи о своих проектах",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9981",
     "question": "Зачем нужно наследование",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9982",
     "question": "Какие есть альтернативы наследованию",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9983",
     "question": "Почему композицию чаще рекомендуют использовать, чем наследование",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9984",
     "question": "В чём основная идея адаптера",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9985",
     "question": "В чём идея  Autoboxing и Unboxing",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9986",
     "question": "Что нужно сделать , для того чтобы создать имутабельный класс в Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9987",
     "question": "Базовые отличия между List и Linked List",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9988",
     "question": "Какие способы обработки есть проверяемых исключений",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9989",
     "question": "Что такое try/catch",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9990",
     "question": "Возможно ли написание try без catch",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9991",
     "question": "Какие формы написания try/catch знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9992",
     "question": "В чём такая важность Stack Trace в исключениях",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9993",
     "question": "Что понимается под контекстом ошибки",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9994",
     "question": "Что такое констистентность и атамарность",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9995",
     "question": "Можно ли управлять монитором",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9996",
     "question": "Что такое парометеризированный тип",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9997",
     "question": "Есть ли конструктор у статического класса",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9998",
     "question": "Как создать статический дженерический метод",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "9999",
     "question": "Что  в Java означает два типа исключений",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10000",
     "question": "Какие способы обработки в Java существуют",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10001",
     "question": "Почему обязательно закрывать ресурс",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10002",
     "question": "Можно ли запускать Java приложение , имея только JRE",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10003",
     "question": "Что такое ODBC",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10004",
     "question": "Что означает статик в Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10005",
     "question": "В чём разница между Exception и Erorr",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10006",
     "question": "Передача данных в Java идет по ссылке или по значению",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10007",
     "question": "Что означает передача по значению",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10008",
     "question": "Зачем нужны имутабельные классы и их основные характеристики",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10009",
     "question": "В чём проявляется изоляция или её отсутствие",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10010",
     "question": "Можно ли понижать уровень модификатора доступа",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10011",
     "question": "Какие основные три метода есть у Servlet и в чем их задача",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10012",
     "question": "Как работает Servlet в многопоточном режиме",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10013",
     "question": "ArrayList , какая скорость доступа к последнему элементу",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10014",
     "question": "В чём различие между PreparedStatement и Statement",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10015",
     "question": "Какие есть отношения в БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10016",
     "question": "Что такое One to One",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10017",
     "question": "Приведи пример One to Many",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10018",
     "question": "Какие два основных вида целостности данных знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10019",
     "question": "Какие виды констрейнтов знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10020",
     "question": "Что такое DDL,DML,DCL",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10021",
     "question": "Как бороться в БД с SQL Injection",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10022",
     "question": "В чём разница между Union и Union All",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10023",
     "question": "В чём основные ограничения при работе с операцией Union",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10024",
     "question": "Что такое Commit в SQL",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10025",
     "question": "К какой проблеме может привести отстутствие транзакции",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10026",
     "question": "В чем принцип абстракции",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10027",
     "question": "В чем разница между абстракцией и полиморфизмом",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10028",
     "question": "В чем разница race condition и data race",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10029",
     "question": "Какие способы синхронизации в java знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10030",
     "question": "В чем разница между dependency injection и dependency inversion",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10031",
     "question": "Что такое dispatchers roulette",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10032",
     "question": "В чем разница между наследованием и полиморфизмом",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10033",
     "question": "ЧТо такое программирование по контракту",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10034",
     "question": "Почему так важно иметь контракт в Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10035",
     "question": "Какие основные два вида реализации SingleTone знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10036",
     "question": "Что такое декоратор",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10037",
     "question": "Для чего нужен декоратор",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10038",
     "question": "Что означает рефлексивность",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10039",
     "question": "Что означает симметричность",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10040",
     "question": "Почему объекты попадают в stringpoll",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10041",
     "question": "Как объекты попадают в stringpoll",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10042",
     "question": "В чем проблема конкатенации строк в Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10043",
     "question": "Каким образом StringBuilder решает проблему конкатенации",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10044",
     "question": "Быстрее ли StringBuilder чем StringBuffer если убрать синхронизацию",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10045",
     "question": "В чем причина существования Map как структуры данных и Collection в CollectionFramework",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10046",
     "question": "Какое основное призвание интерфейса Map",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10047",
     "question": "Какие есть базовые реализации InputOutput Stram'ов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10048",
     "question": "Какая самая минимальная единица для работы с потоками",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10049",
     "question": "В чем прогрессивность NIO",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10050",
     "question": "В чем смысл буферизированных потоков",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10051",
     "question": "В чем преимущество буферизации",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10052",
     "question": "В чем преимущество буферизации",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10054",
     "question": "Что будет если мы попытаемся изменить значение приватной переменной",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10055",
     "question": "В чем разница в аспектах между advice и point",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10056",
     "question": "В чем разница в аспектах между advice и point",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10057",
     "question": "Почему логирование очень часто связывают с аспектами",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10058",
     "question": "Приведи пример реляционной базы данных и нереляционной",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10059",
     "question": "В чем смысл ограничений",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10060",
     "question": "Какие бывают ограничения",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10061",
     "question": "Чем достигается скорость доступа в SQL",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10062",
     "question": "Primary Key является индексом и почему",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10063",
     "question": "Какими ограничениями обладает PrimaryKey",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10064",
     "question": "Что такое принцип asset",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10065",
     "question": "Какие знаешь негативные феномены в SQL",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10066",
     "question": "Что подразумевается под DirtyRead",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10067",
     "question": "Какие виды конфигураций знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10068",
     "question": "Почему нужно использовать конфигурацию через аннотации, и не стоит использовать аанотацию через конфигурацию",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10069",
     "question": "В каких случаях бы применял Java конфигурацию",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10070",
     "question": "Какие знаешь аннотации для сообщения Spring'у, чтобы он создал на основании этих аннотаций bean",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10071",
     "question": "В чем особенность dependcy injection",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10072",
     "question": "Что такое Spring Data",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10073",
     "question": "Чем отличается Spring Data от Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10074",
     "question": "Как у класса заполнить атрибуты",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10075",
     "question": "Что такое формат хранения данных json",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10076",
     "question": "Что характерно для html",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10077",
     "question": "Что такое select из SQL",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10078",
     "question": "Как сделать свой первый коммит, добавить все файлы",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10079",
     "question": "Как можно сделать связь с удаленным репозиторием",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10053",
     "question": "Как работает try-catch",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10080",
     "question": "Как скачать изменения с удаленного репозитория",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10081",
     "question": "Что такое Spring",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10082",
     "question": "Что дает модуель Spring Core",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10083",
     "question": "try catch with resources что это такое",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10084",
     "question": "Для чего нужен Git",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10085",
     "question": "Какие команды Git знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10086",
     "question": "Что такое Map",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10087",
     "question": "Может ли быть ключом примитив",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10088",
     "question": "Ключи в Map могут повторяться",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10089",
     "question": "Какие есть структуры данных из collection",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10090",
     "question": "Что такое Set",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10091",
     "question": "Что такое List",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10092",
     "question": "В чем отличие List от Set",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10093",
     "question": "Что такое Q и DQ",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10094",
     "question": "Реализует ли LinkedList интерфейсы Q/DQ",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10095",
     "question": "Что такое временная сложность",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10096",
     "question": "Что такое классы Exception, какие существуют виды",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10097",
     "question": "От чего наследуется Exception",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10098",
     "question": "Зачем нужны stream",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10099",
     "question": "Stream api какую парадигму использует",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10100",
     "question": "Какие есть виды stream",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10101",
     "question": "Может ли быть в интерфейсе приватный метод",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10102",
     "question": "Как называется функциональный интерфейс который принимает в себя фильтр",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10103",
     "question": "Что делает collect",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10104",
     "question": "Можно ли в Map преобразовать коллекцию",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10105",
     "question": "Может ли быть в интерфейсе конструктор",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10106",
     "question": "Перегрузка метода что это означает",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10107",
     "question": "Что такое сигнатура",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10108",
     "question": "Есть string, string builder, string buffer что это такое",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10109",
     "question": "Какой жизененный цикл Maven",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10110",
     "question": "Что такое ioc контейнер",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10111",
     "question": "Что знаешь про аннотацию predestroy",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10112",
     "question": "Что дает аннотация service",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10113",
     "question": "Что такое spring web",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10114",
     "question": "Что такое Mock, Stab, Spy",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10115",
     "question": "Как связать класс с бд",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10116",
     "question": "Lazy vs eager загрузка, в чем отличие",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10117",
     "question": "Зачем сделали разделение типов данных на int, long",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10118",
     "question": "В чем идея примитивных типов данных",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10119",
     "question": "Для чего нужны паттерны программирования",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10120",
     "question": "Что такое контейнер",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10121",
     "question": "Что такое внедрение зависимости",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10122",
     "question": "В чем отличие Spring Boot от Spring Context",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10123",
     "question": "Какая аннотация позволяет понять что поднимаются бины",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10124",
     "question": "Как подключить свою библиотеку в другом проекте",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10125",
     "question": "Какие должны быть условия чтобы база данных считалось реляционной",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10126",
     "question": "Как запретить оставлять пустую колонку",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10127",
     "question": "Зачем нужны ветки в git",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10128",
     "question": "Как посмотреть версию предыдущего коммита",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10129",
     "question": "Какие есть виды объединения веток",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10130",
     "question": "Как найти ошибку в программе",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10131",
     "question": "Как можно протестировать программу и обезопасить себя от ошибок",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10132",
     "question": "Какие типы циклов знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10133",
     "question": "Чем циклы отличаются друг от друга",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10134",
     "question": "Расскажи кратко с какими фреймворками работал",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10135",
     "question": "Что из литературы по Java читал",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10136",
     "question": "Какую литературу читал не по Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10137",
     "question": "Использовал ли java.util.concords в java 5",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10138",
     "question": "Что в последние время узнал или прочитал, что можешь посоветовать",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10139",
     "question": "Расскажи кратко чем занимался в программировании",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10140",
     "question": "Расскажи о своем опыте перевода проекта на Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10141",
     "question": "Что делать если в базе данных нет RIGHT JOIN, а есть LEFT JOIN",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10456",
     "question": "Что такое BDD",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10142",
     "question": "Какие существуют стратегии слияния с точки зрения разработчика баз данных",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10143",
     "question": "Как бы реализовывал таблицу в БД на 100 миллионов записей, с поиском по колонке int32",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10144",
     "question": "Как осуществить быстрый поиск без сортировки int массива на миллионы значений",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10145",
     "question": "Что думаете о проверяемом типе исключений в Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10146",
     "question": "Если бы разрабатывал библиотеку для работы с HTTP использовал бы исключения или что-то другое",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10147",
     "question": "Для чего нужны пулы соединений в БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10148",
     "question": "Как работает метод Close при работе с пуллом соединения к БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10149",
     "question": "Использовали Kotlin",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10150",
     "question": "Что бы хотел убрать из языка Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10151",
     "question": "Cталкивался ли с content",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10152",
     "question": "Делал ли какие-то проекты с многими потоками",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10153",
     "question": "Какие виды переменных бывают в java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10154",
     "question": "Какие элементы Java отвечают за наследование",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10155",
     "question": "Что такое переопределение метода",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10156",
     "question": "Что такое класс POJO",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10157",
     "question": "Чем JPA отличаеться от Hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10158",
     "question": "Может ли Entity класс быть абстрактным",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10159",
     "question": "Что такое Exception",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10160",
     "question": "Расскажи о своих успехах в программировании",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10161",
     "question": "Как можно оптимизировать высоконагруженный веб-сервис",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10162",
     "question": "Какими инструментами пользовался помимо Java",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10163",
     "question": "Что такое branch в Git",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10164",
     "question": "Как проверяешь, что твоя программа работает корректно",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10165",
     "question": "У нас есть веб-сервис и в логах написано \"record not found\" - как разбираться",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10166",
     "question": "Пользователь пришел и говорит, что данные не отображаются, твои действия",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10167",
     "question": "Нужна кнопка \"удалить отчет из системы\", твои  действия",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10168",
     "question": "Какое расстояние между Луной и Землей",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10169",
     "question": "Какие принципы программирования, помогающие писать красивый код знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10170",
     "question": "Расскажи про интерфейс segregation",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10171",
     "question": "Что такое методы HTTP",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10172",
     "question": "Какие есть методы HTTP запросов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10173",
     "question": "В чем разница между методами HTTP запросов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10174",
     "question": "Что такое сильная и слабая связанности в понимании кода",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10175",
     "question": "Что такое Atomic Types и для чего они нужны",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10176",
     "question": "Что такое интерфейсы-маркеры и почему их сейчас не создают",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10177",
     "question": "Какое эволюционное развитие получили интерфейсы-маркеры и что их заменило",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10178",
     "question": "С какой целью применяется сериализация",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10179",
     "question": "Что такое принцип PECS и как он используется",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10180",
     "question": "Зачем могут понадобится на практике immutable объекты",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10181",
     "question": "Что такое обработка ошибок",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10182",
     "question": "Что делать если вылетел Error, можем ли мы его поймать и как-то обработать",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10183",
     "question": "Известно, что при вызове метода А будет выдаваться исключение, твои действия",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10184",
     "question": "Как в однопоточной программе получить cant convert modification exception при работе с коллекцией",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10185",
     "question": "Стримы, какие есть операции и типы операций",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10186",
     "question": "Какие функциональные интерфейсы знаешь",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10187",
     "question": "Чем отличаются default-методы от static-методов",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10188",
     "question": "Какие знаешь типы баз данных",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10189",
     "question": "В чем преимущества и недостатки типов баз данных",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10190",
     "question": "Что такое нормализация данных в реляционной БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10191",
     "question": "Расскажи о синтаксисе создания таблицы в реляционной БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10192",
     "question": "Как изменить таблицу в реляционной БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10193",
     "question": "Знаешь что такое план запроса в реляционной БД",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10194",
     "question": "Как работает Spring \"под капотом\"",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10195",
     "question": "Зачем нужен hibernate",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10196",
@@ -6657,19 +6504,19 @@
     "id": "10212",
     "question": "Для чего нужна денормализация",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10213",
     "question": "Criteria API",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10214",
     "question": "Что такое HQL",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10215",
@@ -7509,43 +7356,43 @@
     "id": "10355",
     "question": "Назови основные характеристики шаблонов",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "10356",
     "question": "Типы шаблонов проектирования",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "10357",
     "question": "Приведи примеры основных шаблонов проектирования",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "10358",
     "question": "Приведи примеры порождающих шаблонов проектирования",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "10359",
     "question": "Приведи примеры структурных шаблонов проектирования",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "10360",
     "question": "Приведи примеры поведенческих шаблонов проектирования",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "10361",
     "question": "Что такое «антипаттерн», какие антипаттерны знаешь",
     "chance": "6",
-    "tag": "Паттерны"
+    "tag": "Patterns"
   },
   {
     "id": "10362",
@@ -7737,7 +7584,7 @@
     "id": "10455",
     "question": "Паттерн наблюдатель",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10393",
@@ -8067,397 +7914,397 @@
     "id": "10449",
     "question": "Что представляет собой «обмен сообщениями»",
     "chance": "6",
-    "tag": "ООП"
+    "tag": "OOP"
   },
   {
     "id": "10450",
     "question": "Расскажи про интерфейс",
     "chance": "6",
-    "tag": "ООП"
+    "tag": "OOP"
   },
   {
     "id": "10451",
     "question": "Что подразумевают в плане принципов ООП выражения «является» и «имеет»",
     "chance": "6",
-    "tag": "ООП"
+    "tag": "OOP"
   },
   {
     "id": "10452",
     "question": "В чем разница между композицией и агрегацией",
     "chance": "6",
-    "tag": "ООП"
+    "tag": "OOP"
   },
   {
     "id": "10453",
     "question": "Какие есть языки на JVM",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10454",
     "question": "Что такое реактивное программирование",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10457",
     "question": "Что такое DDD",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10458",
     "question": "Что такое FDD",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10459",
     "question": "Инструменты CI/CD",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10460",
     "question": "Утечка памяти",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10461",
     "question": "Утечки памяти в Java",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10462",
     "question": "Сложность быстрой сортировки",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10463",
     "question": "Что такое Big O",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10464",
     "question": "Что такое ленивая загрузка",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10465",
     "question": "В чём разница между «конкуренцией» и «параллелизмом»",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10466",
     "question": "Что такое «кооперативная многозадачность»",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10467",
     "question": "Какой тип многозадачности использует Java, чем обусловлен этот выбор",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10468",
     "question": "Что такое ordering",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10469",
     "question": "Что такое as-if-serial semantics",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10470",
     "question": "Что такое sequential consistency",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10471",
     "question": "Что такое visibility",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10472",
     "question": "Что такое atomicity",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10473",
     "question": "Что такое mutual exclusion",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10474",
     "question": "Что такое safe publication",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10475",
     "question": "Что такое «зелёные потоки» и есть ли они в Java",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10476",
     "question": "В чём заключается разница между методами start() и run()",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10477",
     "question": "Как принудительно запустить поток",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10478",
     "question": "В каких состояниях может находиться поток",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10479",
     "question": "Можно ли создавать новые экземпляры класса, пока выполняется static synchronized метод",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10480",
     "question": "Зачем может быть нужен private мьютекс",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10481",
     "question": "В чем разница между notify() и notifyAll()",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10482",
     "question": "Почему методы wait() и notify() вызываются только в синхронизированном блоке",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10483",
     "question": "Чем отличается работа метода wait() с параметром и без параметра",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10484",
     "question": "Чем отличаются методы Thread.sleep() и Thread.yield()",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10485",
     "question": "Как работает метод Thread.join()",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10486",
     "question": "Что такое livelock",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10487",
     "question": "Как проверить, удерживает ли поток монитор определённого ресурса",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10488",
     "question": "На каком объекте происходит синхронизация при вызове static synchronized метода",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10489",
     "question": "Для чего используется ключевое слово synchronized",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10490",
     "question": "В чём различия между volatile и Atomic переменными",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10491",
     "question": "В чём заключаются различия между java.util.concurrent.Atomic*.compareAndSwap() и java.util.concurrent.Atomic*.weakCompareAndSwap()",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10492",
     "question": "Можно ли сделать основной поток программы демоном",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10493",
     "question": "Что значит «усыпить» поток",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10494",
     "question": "Что такое FutureTask",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10495",
     "question": "В чем заключаются различия между CyclicBarrier и CountDownLatch",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10496",
     "question": "Существует ли способ решения проблемы race condition",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10497",
     "question": "Как остановить поток",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10498",
     "question": "Почему не рекомендуется использовать метод Thread.stop()",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10499",
     "question": "Что происходит, когда в потоке выбрасывается исключение",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10500",
     "question": "В чем разница между interrupted() и isInterrupted()",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10501",
     "question": "Что такое «пул потоков»",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10502",
     "question": "Какого размера должен быть пул потоков",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10503",
     "question": "Что будет, если очередь пула потоков уже заполнена, но подаётся новая задача",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10504",
     "question": "В чём заключается различие между методами submit() и execute() у пула потоков",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10505",
     "question": "В чем заключаются различия между cтеком (stack) и кучей (heap) с точки зрения многопоточности",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10506",
     "question": "Как поделиться данными между двумя потоками",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10507",
     "question": "Как получить дамп потока",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10508",
     "question": "Что такое ThreadLocal-переменная",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10509",
     "question": "Назовите различия между synchronized и ReentrantLock",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10510",
     "question": "Что такое «блокирующий метод»",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10511",
     "question": "Что такое «фреймворк Fork/Join»",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10512",
     "question": "Что такое double checked locking Singleton",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10513",
     "question": "Как создать потокобезопасный Singleton",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10514",
     "question": "Чем полезны неизменяемые объекты",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10515",
     "question": "Что такое busy spin",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10516",
     "question": "Перечисли принципы, которым вы следуешь в многопоточном программировании",
     "chance": "6",
-    "tag": "Многопоточность"
+    "tag": "Multithreading"
   },
   {
     "id": "10517",
@@ -8505,97 +8352,97 @@
     "id": "10524",
     "question": "Что такое SQL-инъекция",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10525",
     "question": "Какие бывают NoSQL базы данных",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10526",
     "question": "Что такое шардирование",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10527",
     "question": "Назови основные свойства транзакции",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10528",
     "question": "Когда полное сканирование набора данных выгоднее доступа по индексу",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10529",
     "question": "Имеет ли смысл индексировать данные, имеющие небольшое количество возможных значений",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10530",
     "question": "В чем отличие между кластерными и некластерными индексами",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10531",
     "question": "Какие типы индексов существуют",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10532",
     "question": "Какие существуют типы связей в базе данных, приведите примеры",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10533",
     "question": "Что такое альтернативный (alternate) ключ",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10534",
     "question": "Что такое потенциальный (candidate) ключ",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10535",
     "question": "Что такое составной (composite) ключ",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10536",
     "question": "Что такое простой ключ",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10537",
     "question": "Что такое «система управления базами данных»",
     "chance": "6",
-    "tag": "Базы данных"
+    "tag": "Database"
   },
   {
     "id": "10543",
     "question": "Кто вызывает методы контроллера",
     "chance": "6",
-    "tag": "Нет"
+    "tag": "Yo'q"
   },
   {
     "id": "10545",
     "question": "Что такое Lombok?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "10326",
@@ -8607,24 +8454,24 @@
     "id": "27",
     "question": "Расскажи про свой бэкграунд",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "32",
     "question": "Что такое D в SOLID?",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   },
   {
     "id": "70",
     "question": "В чем разница между статическим и динамическим связыванием в Java",
     "chance": "6",
-    "tag": "ООП"
+    "tag": "OOP"
   },
   {
     "id": "56",
     "question": "Какой у тебя совокупный опыт в Java",
     "chance": "6",
-    "tag": "Общие"
+    "tag": "Umumiy"
   }
 ]
