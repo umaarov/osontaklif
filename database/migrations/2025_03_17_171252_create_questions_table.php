@@ -11,7 +11,7 @@ return new class extends Migration {
             $table->id();
             $table->foreignId('profession_id')->constrained('professions')->onDelete('cascade');
             $table->text('question');
-            $table->text('content');
+            $table->text('content')->nullable();
             $table->integer('chance')->unsigned();
             $table->string('tag')->nullable();
             $table->timestamps();

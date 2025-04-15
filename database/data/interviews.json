@@ -1,0 +1,266 @@
+[
+    {
+        "title": "Java Backend Junior+/Middle Interview",
+        "link": "https://www.youtube.com/live/sACswzGDLZ8?si=rK88FyGi3Rtlp6ho",
+        "grade": "Middle",
+        "profession_id": 1
+    },
+    {
+        "title": "Java Backend Junior Interview",
+        "link": "https://www.youtube.com/live/6oVYV3pFHmE?si=qT6uIs5ZksLyI1iO",
+        "grade": "Junior",
+        "profession_id": 1
+    },
+    {
+        "title": "Java Tech Junior+/Middle Interview",
+        "link": "https://www.youtube.com/live/W-cRq9fwKqg?si=Oca1huNQ04G_gXay",
+        "grade": "Middle",
+        "profession_id": 1
+    },
+    {
+        "title": "Java Software Engineer Junior+/Middle Interview",
+        "link": "https://www.youtube.com/live/ORxq9QOds2k?si=hhndkEUvelY0tTMF",
+        "grade": "Middle",
+        "profession_id": 1
+    },
+    {
+        "title": "Mock Interview | Python backend | Uzbek Learners",
+        "link": "https://youtu.be/6Q3LLPeXmmw?si=JIYculMJO9ex8186",
+        "grade": "Junior",
+        "profession_id": 2
+    },
+    {
+        "title": "Interview #1 | Junior Web dasturchi bilan suhbat {php, oop, mysql}",
+        "link": "https://www.youtube.com/live/oxrj-jiwxJ0?si=ewCjnBS476xe76wF",
+        "grade": "Junior",
+        "profession_id": 3
+    },
+    {
+        "title": "Interview #2 | PHP backend dasturchi bilan savol - javob",
+        "link": "https://www.youtube.com/live/_ZEFLnK6VPg?si=rVkMNBvYdNKCKlW2",
+        "grade": "Junior",
+        "profession_id": 3
+    },
+    {
+        "title": "Interview #3 | PHP backend dasturchi bilan savol - javob",
+        "link": "https://www.youtube.com/live/TUwCO9WWqg4?si=DTWKKH7f5Uif8JAD",
+        "grade": "Junior",
+        "profession_id": 3
+    },
+    {
+        "title": "Interview #4 | PHP backend dasturchi bilan savol - javob",
+        "link": "https://www.youtube.com/live/Nbx1WM8YqFI?si=3zOAY5n1jCwOrErX",
+        "grade": "Junior",
+        "profession_id": 3
+    },
+    {
+        "title": "Backend dasturchi texnik intervyu savollari",
+        "link": "https://youtu.be/DJhQRGqHp6o?si=nXH4aCimFk7H5N2n",
+        "grade": "Junior",
+        "profession_id": 3
+    },
+    {
+        "title": "\uD83C\uDFA4 Mock Ish Intervyu – Talabalarimizni Haqiqiy Ish Uchun Tayyorlaymiz!",
+        "link": "https://youtu.be/WBijXyDSMhU?si=zo6Dshu7Tz2QgsaK",
+        "grade": "Junior",
+        "profession_id": 3
+    },
+    {
+        "title": "Android Interview with Jahongir Mannonov",
+        "link": "https://youtu.be/uR-57SXyhds?si=TufbactQDC6tNWt4",
+        "grade": "Junior",
+        "profession_id": 4
+    },
+    {
+        "title": "Android Interview with Jahongirmirzo To'lqinov",
+        "link": "https://youtu.be/fpO_MD3fi_w?si=Eh99EvmlmhrwICrm",
+        "grade": "Junior",
+        "profession_id": 4
+    },
+    {
+        "title": "Android Interview with Nurlibay Koshkinbaev",
+        "link": "https://youtu.be/9gX6EZKH9Zs?si=8GDS_XZDnlGM4d_F",
+        "grade": "Junior",
+        "profession_id": 4
+    },
+    {
+        "title": "Android Interview with Azizbek Rasulmetov",
+        "link": "https://youtu.be/UwDLXCqk7YQ?si=LwO4cX4hJSl4jq_Z",
+        "grade": "Junior",
+        "profession_id": 4
+    },
+    {
+        "title": "Android Interview with G'ayratjon O'rinov",
+        "link": "https://youtu.be/tSo9LoFZZpc?si=-2WroTnSjvDcO26r",
+        "grade": "Junior",
+        "profession_id": 4
+    },
+    {
+        "title": "Flutter Interview with Ulug'bek Axmedov",
+        "link": "https://youtu.be/tSo9LoFZZpc?si=-2WroTnSjvDcO26r",
+        "grade": "Junior",
+        "profession_id": 6
+    },
+    {
+        "title": "LIVE FLUTTER INTERVIEW with Bobirbek Anvarjonov",
+        "link": "https://www.youtube.com/live/0KvJdEC0cTY?si=k9dgZhFSuLKO3HVT",
+        "grade": "Junior",
+        "profession_id": 6
+    },
+    {
+        "title": "LIVE FLUTTER INTERVIEW with Bobirbek Anvarjonov",
+        "link": "https://www.youtube.com/live/0KvJdEC0cTY?si=k9dgZhFSuLKO3HVT",
+        "grade": "Junior",
+        "profession_id": 6
+    },
+    {
+        "title": "Flutter Interview with Muzaffar Abduboqiyev",
+        "link": "https://youtu.be/vkys1UPBF2k?si=daV0FqcTRaIYDtwt",
+        "grade": "Junior",
+        "profession_id": 6
+    },
+    {
+        "title": "Flutter Job Interview o'zbek tilida | Flutter suhbat savollari 1-qism",
+        "link": "https://youtu.be/pCQaii7erw4?si=gWhGQFdGcZ9vSPS_",
+        "grade": "Junior",
+        "profession_id": 6
+    },
+    {
+        "title": "Flutter Job Interview o'zbek tilida | Flutter suhbat savollari 2-qism",
+        "link": "https://youtu.be/Gbep69W_Evc?si=Mj67n8RQIc54vGm6",
+        "grade": "Junior",
+        "profession_id": 6
+    },
+    {
+        "title": "Middle Backend Dasturchi bilan Intervyu | Node.JS",
+        "link": "https://www.youtube.com/live/K_1VRrisxo8?si=5Tcg6e-ZCObvfIoG",
+        "grade": "Middle",
+        "profession_id": 7
+    },
+    {
+        "title": "#5 JUNIOR REACT DASTURCHI BILAN INTERVYU",
+        "link": "https://www.youtube.com/live/5X6UMUFGe7I?si=AC5TxwPIV6SJEFEY",
+        "grade": "Junior",
+        "profession_id": 8
+    },
+    {
+        "title": "#6 \uD83D\uDD25 Junior Frontend Dasturchi Bilan Texnik Interview | HTML, CSS, JavaScript, React \uD83D\uDD25",
+        "link": "https://youtu.be/MD5ctA2ACfE?si=-f6NiGrnMHZ6tHth",
+        "grade": "Junior",
+        "profession_id": 8
+    },
+    {
+        "title": "React.js intervyu | Junior/Middle+ darajasidagi savollar | Aqilbek Abilaev bilan",
+        "link": "https://youtu.be/L9_F-thz3Qc?si=YE3ip6OXo6x74j61",
+        "grade": "Middle",
+        "profession_id": 8
+    },
+    {
+        "title": "#1 JUNIOR FRONTEND DASTURCHI BILAN INTERVYU",
+        "link": "https://www.youtube.com/live/lyhDFlug_-c?si=Ps_ZkSgIoV9Nv2-5",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "#2 MIDDLE FRONTEND DASTURCHI BILAN INTERVYU",
+        "link": "https://www.youtube.com/live/xxxkudJM4Pc?si=fale40M4vmxEGpin",
+        "grade": "Middle",
+        "profession_id": 14
+    },
+    {
+        "title": "#3 JUNIOR FRONTEND DASTURCHI BILAN INTERVYU",
+        "link": "https://www.youtube.com/live/YhAryN3RRfE?si=JjaFbSLHO0rIKK-t",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "#1 JavaScript intervyu. Ilk ishtirokchi",
+        "link": "https://youtu.be/AhtWBLxnW0I?si=ohQS2o30h4G2lZbM",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "#2 JavaScript intervyu. Temurbek Valiev bilan suhbat.",
+        "link": "https://youtu.be/Te5yogobBbE?si=9_5SfrnN2Dmw-7v0",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "#3 JavaScript intervyu | Abbosbek Sulaymonov bilan",
+        "link": "https://youtu.be/CK0gkWhjBok?si=S8O86XNRG4OIJS6J",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "#4 JS intervyu: OOP va Functional Programming",
+        "link": "https://youtu.be/4K3vTEcB5pI?si=8eSomGtLj6vj24El",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "#5 JavaScript intervyu. DOM va BOM",
+        "link": "https://youtu.be/IGUcYzcxy04?si=XfvIhf7Wye7ZBCG4",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "Frontend intervyu | Muhammadamin Ibragimov bilan",
+        "link": "https://youtu.be/XrfMNjNrjus?si=98X-7KiM-2seLDLb",
+        "grade": "Senior",
+        "profession_id": 14
+    },
+    {
+        "title": "Mockint.uz: Frontend interview to'liq. (Junior/Strong Junior)",
+        "link": "https://youtu.be/sJqb6-HRlzA?si=tZ-4mHJyUcIj8yao",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "#1 Junior frontend dasturchi bilan interview! HTML, CSS, JAVASCRIPT",
+        "link": "https://youtu.be/ci9Wn2E8ZI4?si=0xDA0W0ZPXxq1-0q",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "#2 Junior Frontend Dasturchi Bilan Interview: HTML, CSS, JavaScript va React.js (Jumabek bilan)",
+        "link": "https://youtu.be/rZmg6qDPf-Q?si=Lx6ab7TfRosp_sST",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "Frontend ish o'rni uchun mock intervyu",
+        "link": "https://youtu.be/l6wQRDZ_Q7Y?si=oIa_ahhYuTUHerUO",
+        "grade": "Senior",
+        "profession_id": 14
+    },
+    {
+        "title": "#1 | INTERVYU | Internship/Stajirovka Frontend Developer pozitsiyasi uz",
+        "link": "https://youtu.be/-sxxbxQ2V4w?si=IY4AdIut-UpfCyQo",
+        "grade": "Senior",
+        "profession_id": 14
+    },
+    {
+        "title": "JavaScript Ishda qanday savol so'ralishi mumkun?!",
+        "link": "https://youtu.be/PnS3d6AkQck?si=J_9AQ2Wabns1oXcc",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "FRONTEND INTERVIEW",
+        "link": "https://www.youtube.com/live/paiGoqbRW14?si=ZfqE7fxjriUfx4Qk",
+        "grade": "Junior",
+        "profession_id": 14
+    },
+    {
+        "title": "#3 Middle Frontend Dasturchi Interview | JavaScript Texnik Savollar | HTML, CSS savollari!",
+        "link": "https://youtu.be/mdb40OE9WB0?si=1v3y4HiDkKOCXOD2",
+        "grade": "Middle",
+        "profession_id": 14
+    },
+    {
+        "title": "#4 Junior Frontend Dasturchi bilan Interview: Ko'p beriladigon Savollar va Javoblar",
+        "link": "https://youtu.be/eGnlUZP4vIs?si=coGYBwAQXE6_ZL_s",
+        "grade": "Junior    ",
+        "profession_id": 14
+    }
+]
