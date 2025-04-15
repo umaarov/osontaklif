@@ -32,16 +32,14 @@ class QuestionSeeder extends Seeder
                 continue;
             }
 
-            foreach ($questions as $index => $q) {
-                $contentFilePath = $contentPath . '/' . $q['content_file'];
+            foreach ($questions as $q) {
+                $contentFilePath = $contentPath . '/question_' . $q['id'] . '.html';
 
-                if (!File::exists($contentFilePath)) {
-                    $this->command->warn("Content file not found: {$q['content_file']}");
-                    continue;
-                }
+                $content = File::exists($contentFilePath)
+                    ? File::get($contentFilePath)
+                    : '';
 
-                $content = File::get($contentFilePath);
-                $tags = isset($q['tags']) && is_array($q['tags']) ? implode(',', $q['tags']) : null;
+                $tags = isset($q['tags']) && is_array($q['tags']) ? implode(',', $q['tags']) : ($q['tag'] ?? null);
 
                 Question::create([
                     'profession_id' => $profession->id,
