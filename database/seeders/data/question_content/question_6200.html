@@ -1,5 +1,0 @@
-<p class="card-text"><p style="margin-left:26px">Ссылки расположены от самых сильных к самым слабым.  </p>
-<p style="margin-left:26px; margin-right:3px">Strong references - любой объект, что имеет strong ссылку, запрещен для удаления сборщиком мусора до тех пор, пока он не ссылается на null. Это самые обычные ссылки, когда мы создаём объект new Class().  </p>
-<p style="margin-left:26px; margin-right:33px">SoftReference - такая ссылка будет удалена, как только системе потребуется больше памяти для работы. Он удалит эту ссылку, но не моментально, а отложено.  </p>
-<p style="margin-left:26px; margin-right:14px">Weak Reference — такая ссылка будет удалена, как только системе потребуется больше памяти для работы. New Weak Reference&lt;String&gt; </p>
-<p>Phantom Reference — эта ссылка может быть удалена в любой момент, но не может быть удалена пока она находится в ReferenceQueue. Из важного: у Phantom Reference ВСЕГДА вызывается finalize().</p></p>

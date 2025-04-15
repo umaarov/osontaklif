@@ -1,8 +1,0 @@
-<p class="card-text"><p>Это компонент, который наследует дерево объектов, которые инжектится родительским  компонентом. Компонент-родитель должен содержать методы, которые возвращают Factory для каждого из subcomponent, также они должны быть подключены через аннотацию  <strong>@Module</strong><strong>( subcomponents = [ RegistrationComponent::</strong><strong>class,</strong><strong>]). </strong>Поэтому, необходимо определить фактор-метод в субкомпоненте </p>
-<pre>
-<code>@Subcomponent.Factory 
-interface Factory { 
- fun create(): RegistrationComponent 
-} 
-</code></pre>
-<p>Создать инстанс субкомпонента можно только из инстанса родительского компонента, вызвав у него соответствующий метод.</p></p>
