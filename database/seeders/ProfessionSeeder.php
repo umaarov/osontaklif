@@ -17,19 +17,14 @@ class ProfessionSeeder extends Seeder
             'iOS',
             'Flutter',
             'Node.js',
-            'React',
-            'Vue',
-            'HTML & CSS',
+            'Frontend',
             'DevOps',
             'CSharp',
             'C++',
-            'JavaScript',
             'Golang',
             'SQL',
             'Quality Assurance',
-            'UX & UI',
             'Project Manager',
-            'SEO',
         ];
 
         foreach ($professions as $name) {
