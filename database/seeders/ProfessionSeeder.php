@@ -7,6 +7,7 @@ use Illuminate\Database\Seeder;
 
 class ProfessionSeeder extends Seeder
 {
+
     final public function run(): void
     {
         $professions = [
