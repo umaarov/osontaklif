@@ -1,0 +1,5324 @@
+[
+    {
+        "id": "593",
+        "question": "O'zingiz haqingizda gapirib bering",
+        "chance": "93",
+        "tag": "HR"
+    },
+    {
+        "id": "594",
+        "question": "O'z tajribangiz haqida gapirib bering",
+        "chance": "83",
+        "tag": "HR"
+    },
+    {
+        "id": "779",
+        "question": "Python'da qanday ma'lumot turlari mavjud?",
+        "chance": "83",
+        "tag": "Python"
+    },
+    {
+        "id": "595",
+        "question": "Eng yaxshi loyihalaringiz haqida gapirib bering",
+        "chance": "66",
+        "tag": "HR"
+    },
+    {
+        "id": "596",
+        "question": "Python dasturchisi bo'lishga nima undadi?",
+        "chance": "53",
+        "tag": "HR"
+    },
+    {
+        "id": "780",
+        "question": "Kontekst menejeri nima?",
+        "chance": "43",
+        "tag": "Python"
+    },
+    {
+        "id": "597",
+        "question": "Yaqin kelajak uchun rivojlanish bo'yicha qanday rejalaringiz bor?",
+        "chance": "43",
+        "tag": "HR"
+    },
+    {
+        "id": "781",
+        "question": "Iterator va generator o'rtasidagi farq nima?",
+        "chance": "40",
+        "tag": "Python"
+    },
+    {
+        "id": "332",
+        "question": "SOLID nima?",
+        "chance": "36",
+        "tag": "OOP"
+    },
+    {
+        "id": "782",
+        "question": "Dekoratorlar nima?",
+        "chance": "36",
+        "tag": "Python"
+    },
+    {
+        "id": "323",
+        "question": "Ishingizda qaysi ma'lumotlar bazalaridan foydalangansiz?",
+        "chance": "33",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "783",
+        "question": "__init__() __new__() dan nima bilan farq qiladi?",
+        "chance": "33",
+        "tag": "Python"
+    },
+    {
+        "id": "784",
+        "question": "Generator nima?",
+        "chance": "33",
+        "tag": "Python"
+    },
+    {
+        "id": "322",
+        "question": "Indekslar nima va ular qanday ishlaydi?",
+        "chance": "30",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "333",
+        "question": "OOPning qanday printsiplarini bilasiz?",
+        "chance": "30",
+        "tag": "OOP"
+    },
+    {
+        "id": "785",
+        "question": "Iterator nima?",
+        "chance": "30",
+        "tag": "Python"
+    },
+    {
+        "id": "334",
+        "question": "Polimorfizm nima?",
+        "chance": "26",
+        "tag": "OOP"
+    },
+    {
+        "id": "786",
+        "question": "Dictionaryda nima kalit bo'lishi mumkin?",
+        "chance": "26",
+        "tag": "Python"
+    },
+    {
+        "id": "788",
+        "question": "Lambda-funksiyalar nima?",
+        "chance": "23",
+        "tag": "Python"
+    },
+    {
+        "id": "337",
+        "question": "Inheritance nima?",
+        "chance": "23",
+        "tag": "OOP"
+    },
+    {
+        "id": "787",
+        "question": "MRO (Method Resolution Order) nima?",
+        "chance": "23",
+        "tag": "Python"
+    },
+    {
+        "id": "336",
+        "question": "Mixin nima?",
+        "chance": "23",
+        "tag": "OOP"
+    },
+    {
+        "id": "466",
+        "question": "Middleware dekoratori nima?",
+        "chance": "20",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "686",
+        "question": "REST prinsipining mohiyati nimada?",
+        "chance": "20",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "338",
+        "question": "Inkapsulyatsiya nima?",
+        "chance": "20",
+        "tag": "OOP"
+    },
+    {
+        "id": "321",
+        "question": "SQLdagi ACID nima?",
+        "chance": "20",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "489",
+        "question": "PEP8 nima uchun kerak?",
+        "chance": "20",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "226",
+        "question": "Asinxronlik nima?",
+        "chance": "20",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "792",
+        "question": "Magic/dunder metodlar nima?",
+        "chance": "16",
+        "tag": "Python"
+    },
+    {
+        "id": "794",
+        "question": "List tupledan nima bilan farq qiladi?",
+        "chance": "16",
+        "tag": "Python"
+    },
+    {
+        "id": "793",
+        "question": "Qaysi ma'lumot turlari o'zgaruvchan (mutable) va qaysilari o'zgarmas (immutable) hisoblanadi?",
+        "chance": "16",
+        "tag": "Python"
+    },
+    {
+        "id": "789",
+        "question": "List comprehension nima?",
+        "chance": "16",
+        "tag": "Python"
+    },
+    {
+        "id": "790",
+        "question": "Metaklasslar nima?",
+        "chance": "16",
+        "tag": "Python"
+    },
+    {
+        "id": "791",
+        "question": "@property dekoratori nima qiladi?",
+        "chance": "16",
+        "tag": "Python"
+    },
+    {
+        "id": "227",
+        "question": "Asinxronlik, threading va multiprotsessing o'rtasidagi farq nima?",
+        "chance": "16",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "797",
+        "question": "is va == orqali solishtirishning farqi nimada?",
+        "chance": "13",
+        "tag": "Python"
+    },
+    {
+        "id": "795",
+        "question": "Python kompilyatsiya qilinadigan yoki interpretatsiya qilinadigan tilmi?",
+        "chance": "13",
+        "tag": "Python"
+    },
+    {
+        "id": "598",
+        "question": "Kasbiy faoliyatingizda qaysi sohalar sizda kuchsizroq rivojlangan?",
+        "chance": "13",
+        "tag": "HR"
+    },
+    {
+        "id": "599",
+        "question": "O'qish davomida duch kelgan qiyinchiliklar haqida gapirib bering",
+        "chance": "13",
+        "tag": "HR"
+    },
+    {
+        "id": "796",
+        "question": "__slots__ nima?",
+        "chance": "13",
+        "tag": "Python"
+    },
+    {
+        "id": "339",
+        "question": "Singleton pattern haqida nimalarni bilasiz?",
+        "chance": "13",
+        "tag": "Patterns"
+    },
+    {
+        "id": "687",
+        "question": "Qaysi asosiy HTTP metodlarni bilasiz?",
+        "chance": "13",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "767",
+        "question": "ORM haqida nimalarni bilasiz?",
+        "chance": "13",
+        "tag": "ORM"
+    },
+    {
+        "id": "228",
+        "question": "Multiprotsessing nima?",
+        "chance": "13",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "229",
+        "question": "Threading nima?",
+        "chance": "13",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "609",
+        "question": "O'zingizning ideal jamoangizni qanday tasavvur qilasiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "605",
+        "question": "Jamoada ishlash tajribangiz bo'lganmi?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "606",
+        "question": "Jamoada qiyinchiliklarni qanday yenggan edingiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "603",
+        "question": "Dasturlashning qaysi yo'nalishi sizni qiziqtiradi?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "600",
+        "question": "O'zingizni dasturchi sifatida qanday baholaysiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "604",
+        "question": "O'z loyihalaringizda qanday muammolarga duch kelgansiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "178",
+        "question": "Big O notation nima?",
+        "chance": "10",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "40",
+        "question": "Asosan qaysi freymvork/kutubxonalardan foydalanasiz?",
+        "chance": "10",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "800",
+        "question": "GIL (Global Interpreter Lock) nima?",
+        "chance": "10",
+        "tag": "Python"
+    },
+    {
+        "id": "799",
+        "question": "Listda iteratsiya paytida nima sodir bo'ladi?",
+        "chance": "10",
+        "tag": "Python"
+    },
+    {
+        "id": "601",
+        "question": "Nima uchun dasturlash bilan shug'ullanishga qaror qildingiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "602",
+        "question": "Qo'yilgan vazifalarni boshqalarga topshirishga to'g'ri kelgan vaziyat haqida gapirib bering",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "801",
+        "question": "Python'da bittalik va ikkitalik pastki chiziq (_) o'rtasidagi farq",
+        "chance": "10",
+        "tag": "Python"
+    },
+    {
+        "id": "798",
+        "question": "@classmethod va @staticmethod dekoratorlari nima bilan farq qiladi?",
+        "chance": "10",
+        "tag": "Python"
+    },
+    {
+        "id": "607",
+        "question": "Full-time ishda ikki yildan keyin o'zingizni kim sifatida ko'rasiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "608",
+        "question": "Nima uchun backend yo'nalishini tanladingiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "802",
+        "question": "Funksiyaga argumentlar qanday uzatiladi: ssilka bo'yicha yoki qiymat bo'yicha?",
+        "chance": "10",
+        "tag": "Python"
+    },
+    {
+        "id": "467",
+        "question": "Middleware qanday ishlaydi?",
+        "chance": "10",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "43",
+        "question": "Docker nima?",
+        "chance": "10",
+        "tag": "Tools"
+    },
+    {
+        "id": "803",
+        "question": "Pythonning o'zgaruvchan va o'zgarmas tiplari haqida nimalarni bilasiz?",
+        "chance": "10",
+        "tag": "Python"
+    },
+    {
+        "id": "180",
+        "question": "Nima tezroq ishlaydi: dictionary yoki list?",
+        "chance": "10",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "179",
+        "question": "Algoritm murakkabligi haqida nimalarni bilasiz?",
+        "chance": "10",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "340",
+        "question": "Klassda super() metodi nima uchun kerak?",
+        "chance": "10",
+        "tag": "OOP"
+    },
+    {
+        "id": "341",
+        "question": "Abstrakt klasslar nima?",
+        "chance": "10",
+        "tag": "OOP"
+    },
+    {
+        "id": "45",
+        "question": "rebase'ning merge'dan farqlari",
+        "chance": "10",
+        "tag": "Tools"
+    },
+    {
+        "id": "319",
+        "question": "Norelyatsion (NoSQL) ma'lumotlar bazalari haqida nimalarni bilasiz?",
+        "chance": "10",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "320",
+        "question": "Tranzaksiya nima?",
+        "chance": "10",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "689",
+        "question": "HTTP javob kodlarining (status codes) qanday turlari bor?",
+        "chance": "10",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "688",
+        "question": "Serializator nima uchun kerak?",
+        "chance": "10",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "690",
+        "question": "HTTP so'rovlarining qanday turlarini bilasiz? Ularning farqlari nimada?",
+        "chance": "10",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "490",
+        "question": "Dasturlash patternlaridan qaysilarini bilasiz?",
+        "chance": "10",
+        "tag": "Patterns"
+    },
+    {
+        "id": "230",
+        "question": "Python'da coroutine nima?",
+        "chance": "10",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "41",
+        "question": "Git nima?",
+        "chance": "10",
+        "tag": "Tools"
+    },
+    {
+        "id": "64",
+        "question": "Loyihalarda Redis nima uchun ishlatiladi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "610",
+        "question": "Kelajakdagi ishdan nimalarni kutyapsiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "71",
+        "question": "cherry-pick (git buyrug'i) nima?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "611",
+        "question": "Shaxsiy loyihalarni yozish tajribangiz bo'lganmi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "579",
+        "question": "FastAPI nima bilan yaxshi?",
+        "chance": "6",
+        "tag": "FastAPI"
+    },
+    {
+        "id": "540",
+        "question": "Django'da many-to-many qanday amalga oshirilgan?",
+        "chance": "6",
+        "tag": "Django"
+    },
+    {
+        "id": "537",
+        "question": "Django'dagi QuerySet() nima?",
+        "chance": "6",
+        "tag": "Django"
+    },
+    {
+        "id": "536",
+        "question": "Django'dagi asosiy elementlarni (entities) ayting",
+        "chance": "6",
+        "tag": "Django"
+    },
+    {
+        "id": "495",
+        "question": "DRY (Don't Repeat Yourself) dasturlash prinsipi haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "51",
+        "question": "Git flow nima?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "492",
+        "question": "O'z ish vaqtingizni qanday taqsimlaysiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "534",
+        "question": "Model-View-Template (MVT) ning ma'nosini tushuntiring",
+        "chance": "6",
+        "tag": "Django"
+    },
+    {
+        "id": "539",
+        "question": "QuerySet'lar lazy ekanligi nimani anglatadi?",
+        "chance": "6",
+        "tag": "Django"
+    },
+    {
+        "id": "612",
+        "question": "Qiyinchiliklarga duch kelganda nima qilasiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "491",
+        "question": "Ilovaning biznes logikasini qayerda saqlash mumkin?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "493",
+        "question": "Sizning tushunchangizda to'g'ri kod nimani anglatadi?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "494",
+        "question": "KISS (Keep It Simple, Stupid) dasturlash prinsipi haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "535",
+        "question": "Django'da HTTP so'rovlarini qayta ishlash qanday amalga oshishini tushuntiring",
+        "chance": "6",
+        "tag": "Django"
+    },
+    {
+        "id": "349",
+        "question": "Python'da abstrakt klass qanday amalga oshiriladi?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "808",
+        "question": "MRO2 va MRO3 o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "810",
+        "question": "Listning barcha qiymatlarini qanday qilib unikal qilgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "814",
+        "question": "*args nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "815",
+        "question": "**kwargs nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "817",
+        "question": "Deep copy nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "818",
+        "question": "Shallow copy nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "821",
+        "question": "Process va thread o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "822",
+        "question": "Python'da o'zgaruvchilar qanday tuzilgan?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "824",
+        "question": "Python exceptionlar ierarxiyasi haqida gapirib bering",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "825",
+        "question": "Python'da tipizatsiya qanday: statik yoki dinamik?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "812",
+        "question": "Closures nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "813",
+        "question": "Modul nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "829",
+        "question": "Dunder metodlar nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "768",
+        "question": "Migratsiya nima?",
+        "chance": "6",
+        "tag": "ORM"
+    },
+    {
+        "id": "691",
+        "question": "HTTP va HTTPS nima?",
+        "chance": "6",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "769",
+        "question": "ORM'ning so'rovlarni qo'lda yaratishdan afzalligi nimada?",
+        "chance": "6",
+        "tag": "ORM"
+    },
+    {
+        "id": "186",
+        "question": "Xesh funksiyasi haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "185",
+        "question": "Rekursiya nima?",
+        "chance": "6",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "623",
+        "question": "Ishlagan texnologiyalaringiz haqida gapirib bering",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "620",
+        "question": "Agar loyihangizdagi biror kishi vazifani bajara olmasa, nima qilgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "183",
+        "question": "Rekursiyaning qanday yaqqol kamchiliklari bor?",
+        "chance": "6",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "618",
+        "question": "Backend dasturlashda qanday natijalarga erishgansiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "621",
+        "question": "Dasturchi ishida sizga eng ko'p nima yoqadi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "184",
+        "question": "Kolleksiyalardagi asosiy operatsiyalarning murakkabligi qanday?",
+        "chance": "6",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "614",
+        "question": "Universitetdagi o'qish bilan kurslarni qanday birga olib bordingiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "615",
+        "question": "Ushbu vakansiya sizni nima bilan qiziqtirdi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "52",
+        "question": "Docker Compose nima?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "616",
+        "question": "Jamoaviy ishlab chiqishda qanday qiyinchiliklarga duch kelgansiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "617",
+        "question": "Kelajakdagi kasbingizni backend bilan qanday bog'laysiz? Qanday maqsadlaringiz bor?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "347",
+        "question": "Python'da klass metodi qanday amalga oshiriladi?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "346",
+        "question": "self nima?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "348",
+        "question": "Python'da statik metod qanday amalga oshiriladi?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "343",
+        "question": "__new__ metodi nima qiladi?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "342",
+        "question": "__init__ metodi nima qaytaradi?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "344",
+        "question": "Klasslar nima?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "61",
+        "question": "Virtual environment uchun qanday vositalar ishlatiladi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "350",
+        "question": "OOPning oddiy funksiyalardan afzalligi nimada?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "60",
+        "question": "Virtual environment nima?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "345",
+        "question": "Klasslar miksinlardan (mixin) nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "234",
+        "question": "Asinxron operatsiyalar nima uchun mos keladi?",
+        "chance": "6",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "233",
+        "question": "Celery loyihasining mohiyati nimada?",
+        "chance": "6",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "232",
+        "question": "Celery'ni nima uchun ishlatish mumkin?",
+        "chance": "6",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "231",
+        "question": "async (kalit so'zi) nima?",
+        "chance": "6",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "62",
+        "question": "Linux konsolida diskdagi bo'sh joyni qanday bilish mumkin?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "63",
+        "question": "Git'ning qaysi asosiy buyruqlarini bilasiz?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "316",
+        "question": "Tranzaksiyalarning qanday izolyatsiya darajalari bor?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "315",
+        "question": "Sharding nima?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "317",
+        "question": "Indeksning qanday kamchiliklari bor?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "313",
+        "question": "Normalizatsiya haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "314",
+        "question": "Postgres va MySQL o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "318",
+        "question": "Tranzaksiyalarning to'rtta izolyatsiya darajasini ayting",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "181",
+        "question": "Binar daraxt haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "221",
+        "question": "Greedy algoritmlar nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "220",
+        "question": "Deykstra algoritmi nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "158",
+        "question": "Relyatsion ma'lumotlar bazalarining afzalliklari va kamchiliklari",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "219",
+        "question": "Python'da tail recursionni qanday optimallashtirish mumkin?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "218",
+        "question": "Tail recursion nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "157",
+        "question": "NoSQL ma'lumotlar bazalarining afzalliklari va kamchiliklari",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "87",
+        "question": "Linuxda qanday signallar bo'ladi?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "216",
+        "question": "Computational complexity tushunchasi haqida gapirib bering.",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "156",
+        "question": "Qaysi versiyalarni boshqarish tizimidan foydalanasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "215",
+        "question": "O(n) qayerdan keladi va nima uchun u O(n²)'dan yaxshiroq?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "214",
+        "question": "Bubble sortning murakkabligi qanday?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "155",
+        "question": "Cron va Apache Airflow o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "86",
+        "question": "git stash nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "213",
+        "question": "Nima uchun indeks bo'yicha murojaat qilsa tez ishlaydi?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "212",
+        "question": "Massivlar listlardan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "154",
+        "question": "Apache Airflow nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "211",
+        "question": "Nima uchun dictionaryda kalitlar bo'yicha qidirish tez ishlaydi?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "210",
+        "question": "Agar Python'da list bo'lmaganida, bunday ma'lumotlar strukturasini qanday qurgan bo'lar edingiz?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "153",
+        "question": "Google Cloud bilan qanday tajribangiz bor?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "85",
+        "question": "Bitta buyruq bilan barcha fayllarni indekslab, kommit qo'shish qanday amalga oshiriladi?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "209",
+        "question": "Xesh jadvalda kalit bo'yicha qidirish qanchalik murakkab?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "208",
+        "question": "Massivlar va xeshmaplarning murakkabligi nimada?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "152",
+        "question": "CSS'da preprotsessorlardan foydalanganmisiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "207",
+        "question": "Xesh map qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "206",
+        "question": "Xesh maplarning massivlardan afzalligi nimada?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "151",
+        "question": "AWS bilan ishlaganmisiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "84",
+        "question": "GIT'da branch nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "78",
+        "question": "Linuxda ishlayotgan protsesslar ro'yxatini qanday ko'rish mumkin?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "205",
+        "question": "Dinamik massiv qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "204",
+        "question": "Set massivdan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "150",
+        "question": "Docker'da volume nima uchun kerak?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "203",
+        "question": "Listga element qo'shishning murakkabligi qanday?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "202",
+        "question": "Binar qidiruvning murakkabligi qanday?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "149",
+        "question": "Docker konteyner nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "83",
+        "question": "Docker'da nima ishlar qilgansiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "309",
+        "question": "Avval SQL so'rovlarini qo'lda yozishga to'g'ri kelganmi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "201",
+        "question": "Indeks bo'yicha elementga murojaat qilish operatsiyasining murakkabligi qanday?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "308",
+        "question": "Ma'lumotlar bazasidagi modellar bilan qanday aloqalarni bilasiz?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "307",
+        "question": "Parsingdan keyingi ma'lumotlarni ma'lumotlar bazasiga qanday saqlagan bo'lar edingiz?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "200",
+        "question": "Ro'yxatning barcha elementlarini birma-bir ko'rib chiqish operatsiyasining murakkabligi qanday?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "148",
+        "question": "Docker image nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "310",
+        "question": "SQLda dialektlar bormi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "311",
+        "question": "Relyatsion ma'lumotlar bazalarini tahrirlash qanday amalga oshiriladi? Buning uchun qaysi til ishlatiladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "312",
+        "question": "SQLite va PostgreSQL o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "306",
+        "question": "MySQL va NoSQL ma'lumotlar bazalari o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "305",
+        "question": "RIGHT JOIN, LEFT JOIN, INNER JOIN nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "199",
+        "question": "Python'da dictionary lar qaysi ma'lumotlar strukturasi asosida amalga oshirilgan?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "304",
+        "question": "Bitta so'rov yordamida ikkita jadvaldan ma'lumotlarni qanday tanlash mumkin?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "303",
+        "question": "Ikkita jadvaldan join() metodisiz ma'lumotlarni qanday tanlash mumkin?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "198",
+        "question": "Rekursiya va iteratsiya o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "147",
+        "question": "Dockerda keshlashtirish qanday ishlatiladi?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "82",
+        "question": "Linuxdagi administrator buyruqlarini ayting",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "77",
+        "question": "Linuxni qanchalik yaxshi bilasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "302",
+        "question": "PostgreSQLda 'sekin so'rovni' qanday topish va tahlil qilish mumkin?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "301",
+        "question": "Ma'lumotlar bazasidagi locks nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "324",
+        "question": "CGI (Common Gateway Interface) nima? Afzalliklari, kamchiliklari",
+        "chance": "3",
+        "tag": "Web-dasturlash"
+    },
+    {
+        "id": "325",
+        "question": "Cookie'larni o'g'irlanishdan va qalbakilashtirishdan qanday himoya qilish mumkin?",
+        "chance": "3",
+        "tag": "Web-dasturlash"
+    },
+    {
+        "id": "326",
+        "question": "Autentifikatsiya va avtorizatsiya o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Web-dasturlash"
+    },
+    {
+        "id": "327",
+        "question": "XSS (Cross-Site Scripting) nima? Misollar. Ilovani qanday himoya qilish kerak?",
+        "chance": "3",
+        "tag": "Web-dasturlash"
+    },
+    {
+        "id": "328",
+        "question": "Modul nomini qanday olish mumkin?",
+        "chance": "3",
+        "tag": "Modullar / Paketlar"
+    },
+    {
+        "id": "329",
+        "question": "Modulli dasturlash nima?",
+        "chance": "3",
+        "tag": "Modullar / Paketlar"
+    },
+    {
+        "id": "330",
+        "question": "Python import paytida modullarni qanday qidiradi?",
+        "chance": "3",
+        "tag": "Modullar / Paketlar"
+    },
+    {
+        "id": "331",
+        "question": "import package.item konstruksiyasi haqida nima deya olasiz?",
+        "chance": "3",
+        "tag": "Modullar / Paketlar"
+    },
+    {
+        "id": "257",
+        "question": "EXPLAIN va EXPLAIN ANALYZE o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "300",
+        "question": "Postgres'da qanday blokirovkalar (locks) bo'ladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "299",
+        "question": "Postgres'da aniq maydonlarni (fields/columns) qanday bloklash mumkin?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "197",
+        "question": "Funksional dasturlashning asosiy g'oyasi nima?",
+        "chance": "3",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "146",
+        "question": ".dockerignore fayli nima uchun kerak?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "298",
+        "question": "SELECT ishlatganda ma'lumotlar bazasidagi bloklangan qatorlarni qanday o'tkazib yuborish mumkin?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "297",
+        "question": "Replikatsiya bilan ishlashning qanday o'ziga xosliklari bor?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "196",
+        "question": "Merge sortning eng yomon holatdagi murakkabligi qanday?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "296",
+        "question": "JOIN'larning qanday turlari bo'ladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "295",
+        "question": "WHERE va HAVING so'rovlari qaysi tartibda bajariladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "195",
+        "question": "Quick sort merge sortdan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "145",
+        "question": "Dockerfile nima uchun kerak?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "81",
+        "question": "Uzoqdagi mashinada portning mavjudligini qanday tekshirish mumkin?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "294",
+        "question": "CAP teoremasining ma'nosi nimada?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "293",
+        "question": "Qanday join metodlarini bilasiz?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "194",
+        "question": "Merge sort nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "292",
+        "question": "Ma'lumotlar bazasiga so'rovlarni profillash qanday amalga oshiriladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "291",
+        "question": "Alembic'ni nima uchun ishlatgansiz?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "193",
+        "question": "Qanday saralash algoritmlarini bilasiz?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "144",
+        "question": "Dockerning asosiy buyruqlarini ayting",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "290",
+        "question": "JOIN (INNER JOIN) LEFT JOINdan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "289",
+        "question": "SQL so'rovining matnini qaysi xususiyatda (property) ko'rish mumkin?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "192",
+        "question": "Dictionarydan kalit bo'yicha qiymat olishning algoritmik murakkabligi qanday?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "288",
+        "question": "Jadval replikatsiyasining qanday turlari bor?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "287",
+        "question": "Katta jadvallarga indeks qo'shishning qanday qiyinchiliklari/kamchiliklari bor?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "191",
+        "question": "1 dan 1000 gacha bo'lgan sonlarni olib, tarkibida yetti raqami bor sonlar miqdorini hisoblaydigan algoritmni tasvirlab bering",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "143",
+        "question": "Docker registry nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "79",
+        "question": "Protsessning PID'si nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "76",
+        "question": "Ish vaqtini tashkil qilish uchun nimadan foydalanasiz?",
+        "chance": "3",
+        "tag": "HR"
+    },
+    {
+        "id": "1253",
+        "question": "@functools.wraps nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "286",
+        "question": "Bazaga joriy ulanishlar (connections) sonini qanday ko'rish mumkin?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "285",
+        "question": "Ma'lumotlar bazasida sxemalar nima uchun kerak?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "190",
+        "question": "Queue strukturasi haqida nimalarni bilasiz?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "284",
+        "question": "Ma'lumotlar bazasidagi yozuvlarning taxminiy sonini qanday ko'rish mumkin?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "283",
+        "question": "MongoDB bilan qaysi drayverlar bilan ishlagansiz?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "189",
+        "question": "Stack va queue strukturalarining asosiy operatsiyalarini tasvirlab bering",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "142",
+        "question": "Docker registry nima uchun kerak?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "282",
+        "question": "Tranzaksiyalarning izolyatsiya darajalari nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "281",
+        "question": "Denormalizatsiya haqida gapirib bering, tajribangiz bo'lganmi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "280",
+        "question": "SQLda qanday indekslar bo'ladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "279",
+        "question": "SQLda WHERE va HAVING operatorlari nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "188",
+        "question": "Stack va queue ma'lumotlar strukturalari o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "141",
+        "question": "Docker daemon nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "278",
+        "question": "Postgres'dagi indekslar nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "277",
+        "question": "So'rov xeshini qayerda saqlash yaxshiroq: Redis yoki Postgres?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "276",
+        "question": "NoSQL'ning SQL oldidagi afzalligi nimada?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "275",
+        "question": "Ma'lumotlar bazasidagi qaysidir so'rov sekin ishlayotganini qanday tushunish mumkin?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "140",
+        "question": "Docker virtual mashinadan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "274",
+        "question": "Indeks ma'lumotlar bazasidagi so'rovlarni qanday tezlashtiradi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "273",
+        "question": "Qaysi NoSQL ma'lumotlar bazalarini bilasiz?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "272",
+        "question": "SQLda PK (Primary Key) va FK (Foreign Key) nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "271",
+        "question": "QuerySet ishlatganda bazaga so'rovlar qachon sodir bo'ladi?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "139",
+        "question": "Qaysi IDE'dan foydalanasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "75",
+        "question": "Qaysi operatsion tizimdan foydalanasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "270",
+        "question": "Ma'lumotlar bazasi bilan ishlashning qanday usullarini bilasiz?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "269",
+        "question": "JOIN so'rovlari nima uchun kerak?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "268",
+        "question": "JOIN so'rovlarining qanday turlari bo'ladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "267",
+        "question": "Relyatsion ma'lumotlar bazasining indeksi nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "138",
+        "question": "Git bilan ishlashda qanday vositalardan foydalanasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "266",
+        "question": "SQL Join nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "265",
+        "question": "SQL Join qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "264",
+        "question": "Nima uchun so'rovlarni optimallashtirish muhim ko'nikma?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "263",
+        "question": "Ma'lumotlar bazalari bilan ishlash ko'nikmalari deganda nimani tushunasiz?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "137",
+        "question": "Branch'ni nimadan (qaysi branchdan/commitdan) yaratasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "262",
+        "question": "Tranzaksiyalarni boshqarish buyruqlaridan qaysilarini bilasiz?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "439",
+        "question": "__getitem__, __setitem__ va __delitem__ metodlari",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "435",
+        "question": "__add__, __mul__, __sub__, __truediv__ metodlari",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "433",
+        "question": "Klass destruktori nima?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "431",
+        "question": "Qachon linearizatsiya qilish mumkin emas?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "427",
+        "question": "Klass obyekt hisoblanadimi?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "261",
+        "question": "Nested tranzaksiyalar nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "260",
+        "question": "Kursor nima va u nima uchun kerak?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "423",
+        "question": "MQ (Message Queue) ning qanday tayyor realizatsiyalarini bilasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "259",
+        "question": "PostgreSQLdagi VACUUM nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "177",
+        "question": "Production'dagi veb-ilovalarni monitoring qilish uchun qanday usullardan foydalangansiz yoki bilasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "422",
+        "question": "LRU (Least Recently Used) cache nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "421",
+        "question": "Visitor patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "258",
+        "question": "EXPLAIN nima?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "420",
+        "question": "Template Method patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "419",
+        "question": "Strategy patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "256",
+        "question": "Bir potoklilik (single-threading) nima?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "176",
+        "question": "Qaysi veb-servisni ishlatishni qanday hal qilgan bo'lar edingiz: REST yoki SOAP?",
+        "chance": "3",
+        "tag": "REST & SOAP"
+    },
+    {
+        "id": "418",
+        "question": "State patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "424",
+        "question": "RPC (Remote Procedure Call) nima?",
+        "chance": "3",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "425",
+        "question": "gRPC nima?",
+        "chance": "3",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "426",
+        "question": "OOP nima uchun kerak?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "417",
+        "question": "Observer patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "428",
+        "question": "Abstrakt metod nima?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "429",
+        "question": "Merosxo'rlikning turlari",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "430",
+        "question": "Merosxo'rlik muammosi nima?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "255",
+        "question": "Parallellik (parallelism) nima?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "432",
+        "question": "Klass konstruktori nima? / Obyekt qanday yaratiladi?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "416",
+        "question": "Memento patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "434",
+        "question": "__len__ va __abs__ metodlari",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "415",
+        "question": "Mediator patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "436",
+        "question": "__bool__ metodi",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "437",
+        "question": "__eq__, __ne__, __lt__, __le__, __gt__, __ge__ metodlari",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "438",
+        "question": "__call__ metodi",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "254",
+        "question": "Concurrency nima?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "440",
+        "question": "__enter__ va __exit__ metodlari",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "441",
+        "question": "Klasslarning qanday metodlari bor?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "442",
+        "question": "Instance, klass va statik metodlar o'rtasidagi farq nimada?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "175",
+        "question": "Docker registry nima uchun kerak?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "444",
+        "question": "@staticmethod nima?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "445",
+        "question": "@dataclass nima?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "446",
+        "question": "Klass atributi obyekt atributidan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "136",
+        "question": "Qaysi flow'dan foydalanasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "448",
+        "question": "Try Except nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "135",
+        "question": "Qaysi monitoring tizimlari bilan tanishsiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "450",
+        "question": "Agar with orqali bo'lmasa, faylning yopilishini yana qanday kafolatlashimiz mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "74",
+        "question": "Qaysi muharrirdan foydalanasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "452",
+        "question": "Monkey patching nima?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "453",
+        "question": "Testlash uchun qanday modullarni bilasiz?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "454",
+        "question": "Unit test nima?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "414",
+        "question": "Interpreter patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "456",
+        "question": "Mock nima?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "457",
+        "question": "Testlar har doim kerakmi?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "458",
+        "question": "Testlarning qanday turlari bo'ladi?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "413",
+        "question": "Command patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "460",
+        "question": "Agar faqat test qamroviga qaralsa, qanday muammolar bo'lishi mumkin?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "461",
+        "question": "Testlash piramidasi",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "462",
+        "question": "Mocking nima?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "253",
+        "question": "Asinxron dasturlash nima?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "464",
+        "question": "Agar test qilinayotgan funksiya ichidagi takrorlanuvchi operatsiyalarni bajarish uchun ko'p vaqt sarflasa, nima qilish kerak?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "465",
+        "question": "Integratsion testlash funksional testlashdan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Testlash"
+    },
+    {
+        "id": "412",
+        "question": "Chain of Responsibility patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "411",
+        "question": "Behavioral patternlari nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "252",
+        "question": "wait() funksiyasi nima?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "469",
+        "question": "So'rovni view'da qayta ishlaganimizdan keyin u bilan nima sodir bo'ladi?",
+        "chance": "3",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "470",
+        "question": "Ma'lumot validatsiyadan qanday o'tadi? Qachon buni amalga oshiradi?",
+        "chance": "3",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "471",
+        "question": "WSGI (Web Server Gateway Interface) nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "472",
+        "question": "Flask'dan tashqari qaysi veb-freymvorklardan foydalangansiz?",
+        "chance": "3",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "473",
+        "question": "Loyihani amalga oshirish uchun qaysi veb-freymvorkni tanlagan bo'lar edingiz?",
+        "chance": "3",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "474",
+        "question": "Qaysi ASGI serverlarini bilasiz?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "475",
+        "question": "Django'ning mikrofreymvorklardan, masalan, FastAPI'dan farqi nimada?",
+        "chance": "3",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "476",
+        "question": "Nima uchun ___ tildan Python'ga o'tdingiz?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "477",
+        "question": "Interpretatsiya qilinadigan til kompilyatsiya qilinadigan tildan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "478",
+        "question": "strong/weak va static/dynamic tipizatsiya turlari haqida nimalarni bilasiz?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "174",
+        "question": "Code Debt nima va u bilan qanday kurashish kerak?",
+        "chance": "3",
+        "tag": "SDLC"
+    },
+    {
+        "id": "480",
+        "question": "Dinamik va statik tipizatsiya nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "481",
+        "question": "C++ va Python o'rtasidagi farq",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "482",
+        "question": "Strong typing nimani anglatadi?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "483",
+        "question": "Qanday quyi darajadagi (low-level) dasturlash tillari mavjud?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "484",
+        "question": "Qanday yuqori darajadagi (high-level) dasturlash tillari mavjud?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "485",
+        "question": "Mashina kodi nima?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "486",
+        "question": "Python va JS o'rtasida qanday farqlar bor?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "487",
+        "question": "JavaScript'dagi listning analogi nima?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "410",
+        "question": "Proxy patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "409",
+        "question": "Flyweight patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "251",
+        "question": "gather() funksiyasi nima?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "408",
+        "question": "Facade patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "407",
+        "question": "Composite patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "250",
+        "question": "create_task() funksiyasi nima?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "173",
+        "question": "Agar loyihada testlar bo'lmasa va buyurtmachi ularni ishlab chiqishga vaqt va pul sarflashni xohlamasa, nima qilgan bo'lar edingiz?",
+        "chance": "3",
+        "tag": "SDLC"
+    },
+    {
+        "id": "496",
+        "question": "Avval xeshlashdan qanday maqsadda foydalangansiz?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "134",
+        "question": "Kubernetes nima uchun kerak?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "498",
+        "question": "Adaptiv sayt prototipini qanday verstka qilgan bo'lar edingiz?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "499",
+        "question": "Avval loyihada versiyalar bilan ishlash tizimini qanday tashkil qilgansiz?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "500",
+        "question": "Agile nima?",
+        "chance": "3",
+        "tag": "SDLC"
+    },
+    {
+        "id": "501",
+        "question": "Scrum nima?",
+        "chance": "3",
+        "tag": "SDLC"
+    },
+    {
+        "id": "502",
+        "question": "Ko'p importlarga ega Python faylini yuborishdan oldin nima qilish kerak?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "503",
+        "question": "requirements faylida har bir ishlatiladigan kutubxonaning versiyasini ko'rsatish kerakmi?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "504",
+        "question": "mypy kutubxonasi nima uchun?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "505",
+        "question": "Annotatsiya nima uchun qilinadi?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "506",
+        "question": "Agar testda emas, boshqa joyda ishlatsa, Monkey Patch'ning qanday kamchiliklari bor?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "507",
+        "question": "PEP8 bo'yicha satr uzunligi qanday?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "508",
+        "question": "Git flow'ning qanday variantlari bor?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "509",
+        "question": "Nima uchun SQL ma'lumotlarini Docker konteynerida saqlash yomon?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "510",
+        "question": "docstring nima uchun ishlatiladi va u nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "511",
+        "question": "YAGNI (You Ain't Gonna Need It) dasturlash prinsipi haqida nimalarni bilasiz?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "512",
+        "question": "SDLC (Software Development Life Cycle) nima?",
+        "chance": "3",
+        "tag": "SDLC"
+    },
+    {
+        "id": "513",
+        "question": "Izomorf ilova nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "514",
+        "question": "Mikroservis arxitekturasi monolit arxitekturadan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "515",
+        "question": "Nima uchun o'z exception turini yaratish kerak bo'lishi mumkin?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "516",
+        "question": "SRP (Single Responsibility Principle) nima?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "517",
+        "question": "Qanday dasturlash metodologiyalarini bilasiz?",
+        "chance": "3",
+        "tag": "SDLC"
+    },
+    {
+        "id": "518",
+        "question": "Mahsulotni ishlab chiqishning 6 bosqichi qaysilar?",
+        "chance": "3",
+        "tag": "SDLC"
+    },
+    {
+        "id": "519",
+        "question": "Xeshlash va shifrlash o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Security"
+    },
+    {
+        "id": "520",
+        "question": "Protsedurali uslubdagi kodning qanday mezonlarini yaxshi, qaysilarini yomon deb atash mumkin?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "521",
+        "question": "Dasturning ishlash tezligini qanday aniqlash mumkin?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "522",
+        "question": "Backend-dasturchi nimani bilishi kerak?",
+        "chance": "3",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "523",
+        "question": "Har doim kod takrorlanishidan xalos bo'lish kerakmi?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "524",
+        "question": "Qachon takrorlanishdan xalos bo'lish kerakligini qanday tushunasiz?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "525",
+        "question": "KISS va DRY prinsiplariga rioya qilish o'rtasida muvozanatni qanday topish mumkin?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "526",
+        "question": "Qachon yomon kod yozish kerak?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "527",
+        "question": "Yaxshi kod yozish uchun nima qilish kerak?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "528",
+        "question": "S - Single Responsibility Principle - yagona mas'uliyat prinsipi",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "529",
+        "question": "O - Open/Closed Principle - ochiqlik-yopiqlik prinsipi",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "530",
+        "question": "L - Liskov Substitution Principle - Barbara Liskov o'rniga qo'yish prinsipi",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "531",
+        "question": "I - Interface Segregation Principle - interfeyslarni ajratish prinsipi",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "533",
+        "question": "Agar hamkasbingiz bilan tortishuv bo'lsa, nima qilasiz?",
+        "chance": "3",
+        "tag": "HR"
+    },
+    {
+        "id": "543",
+        "question": "Django'da sqlparse, asgiref kutubxonalari nima uchun kerak?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "547",
+        "question": "Django request/response ni qanday qayta ishlaydi?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "549",
+        "question": "Migratsiyani qanday generatsiya qilish va qo'llash mumkin?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "551",
+        "question": "IntegerChoices nima uchun ishlatiladi?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "553",
+        "question": "APIView ViewSet'dan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "723",
+        "question": "Tarmoq bilan ishlash nima?",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "554",
+        "question": "Django'da foydalanuvchi modelini aniqlashning qanday variantlari mavjud?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "555",
+        "question": "Django'da custom avtorizatsiyani qanday qilish mumkin?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "556",
+        "question": "Django'da websocket bilan ishlash qanday amalga oshirilgan?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "557",
+        "question": "Djangodagi fat models nima?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "558",
+        "question": "Logikani qayerda joylashtirgan ma'qul: modellarda yoki serializatorda?",
+        "chance": "3",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "559",
+        "question": "Django bilan ishlash tajribangiz qanday?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "560",
+        "question": "Modellar nima?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "561",
+        "question": "Django ORM'da obyektni qanday yaratish mumkin?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "562",
+        "question": "Django'da qanday modellar bor?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "563",
+        "question": "Django'dagi manage.py haqida gapirib bering",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "564",
+        "question": "Django REST framework haqida gapirib bering",
+        "chance": "3",
+        "tag": "Freymvorklar"
+    },
+    {
+        "id": "565",
+        "question": "URLlarni qanday sozlash kerak?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "567",
+        "question": "Context processor nima?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "568",
+        "question": "Signallar (signals) nima?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "570",
+        "question": "Django bizga qanday asosiy klasslarni taqdim etadi?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "572",
+        "question": "Asosiy middlewarе'larni ayting, ular nima uchun kerak?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "574",
+        "question": "m2m aloqasi ma'lumotlar bazasi darajasida qanday amalga oshiriladi?",
+        "chance": "3",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "578",
+        "question": "Django'da autentifikatsiya tizimi qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Django"
+    },
+    {
+        "id": "406",
+        "question": "Bridge patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "405",
+        "question": "Adapter patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "582",
+        "question": "Nima uchun Flask'ni afzal ko'rasiz?",
+        "chance": "3",
+        "tag": "Flask"
+    },
+    {
+        "id": "249",
+        "question": "sleep() funksiyasi nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "584",
+        "question": "asyncio'ning o'ziga xosligi nimada?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "404",
+        "question": "Structural patternlar nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "586",
+        "question": "Qanday vazifalar yaxshi parallellashtiriladi, qaysilari yomon?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "403",
+        "question": "Prototype patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "588",
+        "question": "Python'dagi potoklar (threads) - bular native potoklarmi yoki yo'qmi?",
+        "chance": "3",
+        "tag": "GIL"
+    },
+    {
+        "id": "248",
+        "question": "run() funksiyasi nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "590",
+        "question": "Kod stilini tekshirish uchun qanday vositalarni bilasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "172",
+        "question": "Scrum va Kanban o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "SDLC"
+    },
+    {
+        "id": "592",
+        "question": "Reflection nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "402",
+        "question": "Factory Method patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "401",
+        "question": "Builder patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "247",
+        "question": "Nima uchun asinxron funksiyada katta hisoblashlarni bajarish yomon?",
+        "chance": "3",
+        "tag": "Asinxronlik"
+    },
+    {
+        "id": "400",
+        "question": "Abstract Factory patterni nima?",
+        "chance": "3",
+        "tag": "Patterns"
+    },
+    {
+        "id": "710",
+        "question": "WebSocket nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "711",
+        "question": "WebSocket oddiy soketdan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "712",
+        "question": "WebSocket qanday ochiladi?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "713",
+        "question": "JWT (JSON Web Token) nima?",
+        "chance": "3",
+        "tag": "Security"
+    },
+    {
+        "id": "714",
+        "question": "SOAP nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "715",
+        "question": "SOAP RESTdan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "716",
+        "question": "GET ishlatganda server bilan nima sodir bo'ladi?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "717",
+        "question": "AWS serverlari bilan ishlash uchun Python kutubxonasi (boto3) nima uchun kerak?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "718",
+        "question": "SPA (Single Page Application) nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "719",
+        "question": "Qaysi auth flow (avtorizatsiya jarayonini) bilasiz?",
+        "chance": "3",
+        "tag": "Security"
+    },
+    {
+        "id": "720",
+        "question": "Saytga murojaat qilganda nima sodir bo'ladi?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "721",
+        "question": "Nima uchun GET/POST so'rovlaridan oldin HTTP so'rovida OPTIONS yuboriladi?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "722",
+        "question": "Avtorizatsiya nima?",
+        "chance": "3",
+        "tag": "Security"
+    },
+    {
+        "id": "725",
+        "question": "Protokollar nima?",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "726",
+        "question": "REST va RPC o'rtasidagi farqlar",
+        "chance": "3",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "727",
+        "question": "POST (metodi) nima?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "728",
+        "question": "GET (metodi) nima?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "730",
+        "question": "Cookie nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "731",
+        "question": "Ko'p sonli HTTP so'rovlarining ishini qanday tezlashtirish mumkin?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "732",
+        "question": "TCP/IP nima?",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "733",
+        "question": "TCP/IP darajalari",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "734",
+        "question": "TCP (Transmission Control Protocol) nima?",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "735",
+        "question": "UDP (User Datagram Protocol) nima?",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "736",
+        "question": "IP (Internet Protocol) nima?",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "737",
+        "question": "URI (Uniform Resource Identifier) nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "738",
+        "question": "URL (Uniform Resource Locator) nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "739",
+        "question": "URI va URL farqi",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "740",
+        "question": "Port nima?",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "741",
+        "question": "Kesh nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "742",
+        "question": "Kesh va cookie farqi",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "743",
+        "question": "DNS (Domain Name System) nima va u qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "744",
+        "question": "Domen / Domen nomi nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "745",
+        "question": "Host nima?",
+        "chance": "3",
+        "tag": "Networking"
+    },
+    {
+        "id": "746",
+        "question": "Hosting nima?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "747",
+        "question": "HTTP so'rovi qanday ko'rinishda bo'ladi?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "748",
+        "question": "Hozir biz HTTPning qaysi versiyasidan foydalanamiz?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "749",
+        "question": "GET, POST va HEAD metodlarining farqi",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "750",
+        "question": "Nima uchun GET orqali avtorizatsiya qilish tavsiya etilmaydi, nima uchun POST ishlatgan yaxshiroq?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "751",
+        "question": "GET orqali fayl yuborish mumkinmi?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "752",
+        "question": "SSL va TLS nima?",
+        "chance": "3",
+        "tag": "Security"
+    },
+    {
+        "id": "753",
+        "question": "REST nima?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "754",
+        "question": "RESTful nima?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "755",
+        "question": "REST qaysi HTTP metodlarini qo'llab-quvvatlaydi?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "756",
+        "question": "Klient-server arxitekturasi nima?",
+        "chance": "3",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "757",
+        "question": "Mikroservis arxitekturasi nima? Afzalliklari va kamchiliklari",
+        "chance": "3",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "758",
+        "question": "Monolit arxitektura nima? Afzalliklari va kamchiliklari",
+        "chance": "3",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "759",
+        "question": "Veb-servislar arxitekturasi nima?",
+        "chance": "3",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "760",
+        "question": "HTTP protokoli qanday tuzilgan?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "761",
+        "question": "Yandex bosh sahifasiga raw so'rov yozing",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "762",
+        "question": "Klient so'rov muvaffaqiyatli bo'lganini yoki yo'qligini qanday tushunadi?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "763",
+        "question": "Boshqa sahifaga yo'naltirish (redirect) uchun brauzerga nima yuborish kerak?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "764",
+        "question": "HTTP'da keshlashtirishni qanday boshqarish mumkin?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "765",
+        "question": "Fayllar protokol darajasida qanday keshlanadi?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "766",
+        "question": "HTTP nima?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "770",
+        "question": "Flask'da qanday ORM'lardan foydalangansiz?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "771",
+        "question": "QuerySet'ning qanday metodlari bor?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "772",
+        "question": "Django ORM modelini meros olishda qanday qiyinchiliklar bor?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "773",
+        "question": "Django INSERT yoki UPDATE'ni chaqirishni qanday aniqlaydi?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "774",
+        "question": "save() metodini chaqirishda qaysi maydonlarni o'zgartirishni ko'rsatish mumkinmi?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "775",
+        "question": "on_delete xususiyatida qanday opsiyalar mavjud?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "776",
+        "question": "Django'da modellarni meros olish qanday amalga oshadi?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "777",
+        "question": "Agregatsiya annotatsiyasi nima?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "778",
+        "question": "QuerySet'da OR (yoki) qanday ishlatish mumkin?",
+        "chance": "3",
+        "tag": "ORM"
+    },
+    {
+        "id": "831",
+        "question": "O'z loyihangizda Beautiful Soup'ning ishlashi haqida gapirib bering",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "832",
+        "question": "Python ___ tildan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "833",
+        "question": "Nima uchun Python'da list indeksi noldan boshlanadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "834",
+        "question": "Ma'lumot turi mutable yoki yo'qligini qanday tekshirgan bo'lar edingiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "835",
+        "question": "Python'da dictionary qanday tuzilgan?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "836",
+        "question": "Pydantic yordamida qanday ma'lumotlar validatsiya qilinadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "837",
+        "question": "Python'da ma'lumot turini yana qanday tekshirish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "838",
+        "question": "Type Hinting haqida nima deya olasiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "839",
+        "question": "Python'dagi strings haqida nimalarni bilasiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "840",
+        "question": "Xesh-funksiya va mutability/immutability o'rtasida qanday bog'liqlik bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "841",
+        "question": "Generatorlarni yaratish sintaksisi qanday?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "842",
+        "question": "Range iterator hisoblanadimi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "843",
+        "question": "Hozir Python'ning qaysi versiyasida yozyapsiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "844",
+        "question": "Python 3.7 versiyasidan boshlab qanday yangiliklar paydo bo'ldi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "845",
+        "question": "Python xotirasida list'lar va tuple'lar qanday saqlanadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "846",
+        "question": "Agar listdagi ma'lumot turlari har xil bo'lishi mumkin bo'lsa, barcha elementlar uchun xotira katakchasining doimiy kattaligi nima hisobiga ta'minlanadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "847",
+        "question": "Nima uchun mutable tiplarni funksiya uchun default argument qilib bo'lmaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "848",
+        "question": "Python'da o'zgaruvchini scope bo'yicha qidirish qanday amalga oshadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "849",
+        "question": "Qanday scopelar mavjud?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "850",
+        "question": "global kalit so'zi nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "851",
+        "question": "Global ko'rinish doirasidan yuqoriroq yana qandaydir ko'rinish doirasi bormi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "852",
+        "question": "Python'da asinxronlik nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "853",
+        "question": "Ma'lumot turlarining farqi nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "854",
+        "question": "O'z kontekst menejeringizni nima yordamida yaratish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "855",
+        "question": "Ko'p potoklilik (multithreading)/ko'p protsessorlilik (multiprocessing) nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "856",
+        "question": "Dekoratorga o'zgaruvchini qanday yuborish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "857",
+        "question": "Qaysi dekoratorlardan foydalangansiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "858",
+        "question": "Python'da qanday mantiqiy operatorlar bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "859",
+        "question": "Python'da qanday ketma-ketliklar (sequences) bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "860",
+        "question": "Stringni baytlarga va aksincha qanday o'tkazish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "861",
+        "question": "Decimal va float o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "862",
+        "question": "Python'da timezone (vaqt mintaqasi) nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "863",
+        "question": "Qiymat dictionaryda mavjudligini qanday tekshirish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "864",
+        "question": "List bo'ylab iteratsiya qilib, ketma-ketlikning qandaydir id'sini (indeksini) qanday chiqarish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "865",
+        "question": "Dictionaryning nusxasini qanday yaratish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "866",
+        "question": "pip orqali kutubxonaning aniq versiyasini qanday yuklab olish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "867",
+        "question": "List qanday tuzilgan?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "868",
+        "question": "Kontekst menejerni qanday yaratish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "869",
+        "question": "Python'da magic metodlardan tashqari yana qanday asosiy metodlar bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "871",
+        "question": "Bo'sh dictionary True yoki False deb baholanadimi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "872",
+        "question": "Dataklasslar va namedtuple'ning o'xshashliklari va farqlari nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "873",
+        "question": "namedtuple'ga murojaat qanday amalga oshiriladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "874",
+        "question": "Oddiy tuple'da murojaat qanday amalga oshiriladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "875",
+        "question": "stderr'ga qanday usullar bilan chop etish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "876",
+        "question": "Morj operatori (walrus operator :=) nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "877",
+        "question": "pytz va datetime (zoneinfo) o'rtasidagi farqlar nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "878",
+        "question": "Union tip annotatsiyasi nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "879",
+        "question": "Optional tip annotatsiyasi nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "880",
+        "question": "Python kutubxonalarini paketlash (packaging) qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "881",
+        "question": "re.match() re.search() dan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "882",
+        "question": "Package nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "884",
+        "question": "Python'dagi exceptionlarning qanday o'ziga xosliklari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "885",
+        "question": "Nested exceptions qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "887",
+        "question": "Python'da qanday collectionlar bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "888",
+        "question": "Garbage collectorning birinchi va ikkinchi mexanizmi haqida gapirib bering",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "889",
+        "question": "dict va list o'rtasidagi farq",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "890",
+        "question": "List comprehension nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "891",
+        "question": "Listga aynan o'zi kabi ro'yxatni qanday qo'shgan bo'lar edingiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "892",
+        "question": "Agar dictionaryda .items() metodini ishlatsangiz nima bo'ladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "893",
+        "question": "map() funksiyasi haqida gapirib bering",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "894",
+        "question": "enumerate() funksiyasi nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "895",
+        "question": "Faylni o'qishda eng boshida nima qilish kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "896",
+        "question": "Agar faylni yopmasangiz nima bo'ladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "897",
+        "question": "finally bloki nima qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "898",
+        "question": "for va next() qanday bog'liq?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "899",
+        "question": "uset (yoki set/frozenset?) nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "900",
+        "question": "Kontekst menejerida mavjud bo'lgan bir nechta dunder metodlarni ayting",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "901",
+        "question": "Ternar operator nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "902",
+        "question": "GIL qanday muammolarni hal qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "903",
+        "question": "GIL'ning qanday afzalliklari va kamchiliklari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "904",
+        "question": "Nisbiy (relative) import va absolut import nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "905",
+        "question": "set nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "906",
+        "question": "Dict comprehension nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "907",
+        "question": "and, or, not operatorlari qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "908",
+        "question": "and, or, not operatorlari nima qaytaradi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "909",
+        "question": "copy() va deepcopy() ni qanday amalga oshirish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "910",
+        "question": "Python'da namespaces qanday joylashadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "911",
+        "question": "LEGB qoidasi qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "912",
+        "question": "global va nonlocal operatorlari qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "913",
+        "question": "map() funksiyasidan foydalanishga misollar keltiring",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "914",
+        "question": "filter() funksiyasidan foydalanishga misollar keltiring",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "983",
+        "question": "zip() funksiyasidan foydalanishga misollar keltiring",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "985",
+        "question": "Funksiya nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "986",
+        "question": "Funksiyalardan foydalanishning qanday afzalliklari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "987",
+        "question": "Agar return bo'lmasa, funksiyani bajarish natijasi qanday bo'ladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "988",
+        "question": "Tip annotatsiyalari qachon bajariladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "989",
+        "question": "Python'da rekursiyaning qanday cheklovlari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "990",
+        "question": "Generatorning funksiyaga nisbatan qanday afzalliklari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "991",
+        "question": "Generator comprehension nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "992",
+        "question": "Python'da exceptionlarni qayta ishlash uchun qanday bloklar mavjud?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "993",
+        "question": "Bir nechta except'dan foydalanish qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "995",
+        "question": "BaseExceptionGroup va ExceptionGroup klasslari nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "996",
+        "question": "except va except* o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "997",
+        "question": "except* nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "998",
+        "question": "O'z exception turini qanday yaratish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "999",
+        "question": "__init__.py fayli qachon bajariladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1000",
+        "question": "import foo va from foo import bar o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1002",
+        "question": "from foo import bar va from foo import * o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1004",
+        "question": "Import paytida as nima uchun ishlatiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1005",
+        "question": "Siklik import muammosi qachon yuzaga keladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1007",
+        "question": "Python'ni qanday tavsiflagan bo'lar edingiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1008",
+        "question": "Python qurilgan reference modelini qanday tushunasiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1010",
+        "question": "Python reference counteri nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1011",
+        "question": "Python'ning qanday asosiy (built-in) funksiyalarini bilasiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1012",
+        "question": "Garbage collector nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1013",
+        "question": "Package qanday yaratiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1014",
+        "question": "Siz uchun Python'ning qanday afzalliklari va kamchiliklari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1015",
+        "question": "Qaysi immutable ma'lumot turlarini bilasiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1016",
+        "question": "Nima uchun kontekst menejeridan foydalanish kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1017",
+        "question": "Iteratorning qanday metodlari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1018",
+        "question": "Iteratsiya uchun __next__() metodi nimani o'z ichiga olishi kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1019",
+        "question": "Setga qanday obyektlarni qo'yish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1020",
+        "question": "Klass xeshlanadigan (hashable) bo'lishi uchun unga nima qo'shish kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1021",
+        "question": "Setlar va dictionarylar ichkaridan qanday amalga oshirilgan?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1022",
+        "question": "Agar ikkita elementning xeshi bir xil bo'lsa, nima bo'ladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1023",
+        "question": "frozenset nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1025",
+        "question": "Qaysi hollarda dictionarylarni, qaysi hollarda listlarni ishlatamiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1026",
+        "question": "Listlar va setlar nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1027",
+        "question": "Immutable ma'lumot turlari yana qanday nomlanadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1029",
+        "question": "__iter__() metodi nima uchun javob beradi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1030",
+        "question": "Sikllar (looplar) nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1032",
+        "question": "Qanday kolleksiyalar bor va ularning ishlash tezligi hamda xotiradan foydalanish bo'yicha o'ziga xosliklari qanday?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1033",
+        "question": "iterator iterable'dan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1035",
+        "question": "2 ta o'zgaruvchining qiymatlarini joylarini qanday almashtirish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1037",
+        "question": "Funksiyalarning qanday argument turlari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1038",
+        "question": "Nima tezroq: list yoki tuple?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1039",
+        "question": "Xeshlanadigan (hashable) ma'lumot turlari nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1041",
+        "question": "Xesh nima va u dictionaryda qanday ishlatiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1043",
+        "question": "Kontekst menejeridan foydalanishga misol keltiring.",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1045",
+        "question": "Parametrlar bilan ishlaydigan dekoratorni qanday yozish kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1046",
+        "question": "Chaqiriladigan (callable) obyekt nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1048",
+        "question": "reduce() funksiyasi haqida gapirib bering",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1050",
+        "question": "Kompilyatsiya qilinadigan va interpretatsiya qilinadigan tillar o'rtasidagi farq",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1052",
+        "question": "Python'da funksional dasturlashni qo'llab-quvvatlash qanday?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1053",
+        "question": "Birinchi darajali (first-class) obyekt nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1054",
+        "question": "Yuqori tartibli (higher-order) funksiya nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1056",
+        "question": "Karrirovka (currying) nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1058",
+        "question": "filter() funksiyasini tasvirlang",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1059",
+        "question": "functools modulidan yana qanday funksiyalarni bilasiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1061",
+        "question": "itertools modulidan qanday funksiyalarni bilasiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1062",
+        "question": "operator moduli nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1063",
+        "question": "Nima uchun mutable obyektlarni default parametr sifatida ishlatish yomon? Yomon holatga misol keltiring. Qanday tuzatish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1065",
+        "question": "Funksiyani boshqa funksiyaga argument sifatida uzatish mumkinmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1066",
+        "question": "Funksiyani boshqa funksiya ichida e'lon qilish mumkinmi? U qayerda ko'rinadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1068",
+        "question": "Variable nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1070",
+        "question": "while for'dan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1071",
+        "question": "range() funksiyasi nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1073",
+        "question": "%s nimani anglatadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1074",
+        "question": "Listdan dublikat elementni qanday olib tashlash mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1076",
+        "question": "// arifmetik operatori haqida gapirib bering",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1078",
+        "question": "Python'ning ichki (built-in) funksiyalari",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1079",
+        "question": "append() va extend() o'rtasidagi farq",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1081",
+        "question": "help() va dir() o'rtasidagi farq",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1082",
+        "question": "Agar dir() ga atribut uzatilmasa nima bo'ladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1086",
+        "question": "Python case-sensitive mi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1087",
+        "question": "*args va **kwargs nima uchun ishlatiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1089",
+        "question": "Serializatsiya nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1091",
+        "question": "Deserializatsiya nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1092",
+        "question": "Pickling nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1093",
+        "question": "Unpickling nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1095",
+        "question": "Python funksiyasi qiymat qaytarishi shartmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1097",
+        "question": "Python'da main() funksiyasi bormi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1098",
+        "question": "match/case nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1100",
+        "question": "pass operatori nima uchun?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1101",
+        "question": "Slices nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1103",
+        "question": "func va func() o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1104",
+        "question": "filter() funksiyasi qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1105",
+        "question": "Python'da o'zgaruvchilar reference bo'yicha yoki qiymat bo'yicha uzatiladimi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1107",
+        "question": "Listni qanday teskari qilish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1108",
+        "question": "Stringlarni ko'paytirish qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1110",
+        "question": "Listni ko'paytirish qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1112",
+        "question": "Python'da listlarni qanday birlashtirish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1113",
+        "question": "Ikki massivni (yoki listni) qanday birlashtirish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1115",
+        "question": "Sonni uchta o'nlik belgisigacha qanday yaxlitlash mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1116",
+        "question": "Listni qanday qismlarga bo'lish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1117",
+        "question": "any() va all() qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1119",
+        "question": "Butun sonning ikkilik kodini qanday olish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1120",
+        "question": "Qiymat listda mavjudligini qanday tekshirish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1122",
+        "question": "Butun sonning absolut qiymatini qanday olish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1125",
+        "question": "Dictionaryni kalitlari bo'yicha alifbo tartibida qanday saralash mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1127",
+        "question": "Stringdan barcha bo'shliqlarni qanday olib tashlash mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1128",
+        "question": "pass, continue va break ifodalari o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1130",
+        "question": "Stringda faqat raqamlar yoki harflar borligini qanday tekshirish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1131",
+        "question": "Dictionarydan kalitlar ro'yxatini qanday olish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1133",
+        "question": "Stringni yuqori/quyi registrga qanday o'tkazish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1135",
+        "question": "remove(), del va pop() o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1136",
+        "question": "raise ifodasi nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1138",
+        "question": "Python'dagi sonlar",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1139",
+        "question": "Mutable/immutable farqi nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1140",
+        "question": "Tartiblangan / tartiblanmagan (ordered/unordered) farqi nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1142",
+        "question": "[list]",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1143",
+        "question": "{dict}",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1145",
+        "question": "(tuple)",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1146",
+        "question": "(bytearray)",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1148",
+        "question": "NoneType",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1149",
+        "question": "Array (array modulidan)",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1151",
+        "question": "Stringlarni birlashtirishning qanday turlari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1152",
+        "question": "Xotirada nechta None obyekti bo'lishi mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1155",
+        "question": "Qaysi hollarda ichki (built-in) kolleksiyalardan (list, tuple, set) foydalanish kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1157",
+        "question": "Python'da kalitlari tartiblangan dictionary yaratish mumkinmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1158",
+        "question": "dict'ga element qo'shish/chiqarishning murakkabligi qanday bo'ladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1159",
+        "question": "Xeshlash nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1161",
+        "question": "Kolliziyani qanday chetlab o'tish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1163",
+        "question": "Garbage collection nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1164",
+        "question": "Python xotira modeli nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1165",
+        "question": "Ketma-ketlik (sequence) nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1167",
+        "question": "Ko'pchilik ketma-ketliklar qanday operatsiyalarni qo'llab-quvvatlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1169",
+        "question": "String ichidagi alohida belgini o'zgartirish mumkinmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1173",
+        "question": "Stringlarni qanday kodlash (encode) va dekodlash (decode) mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1174",
+        "question": "Diapazon (range) nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1176",
+        "question": "Uchta elementdan iborat tuple bor. Uning qiymatlarini a, b, c o'zgaruvchilariga qanday tayinlash mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1179",
+        "question": "Obyekt xeshlanadigan (hashable) yoki yo'qligini qanday tushunish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1181",
+        "question": "Set nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1182",
+        "question": "Setlar nima uchun qo'llaniladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1184",
+        "question": "Setlar ustida qanday operatsiyalarni bajarish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1186",
+        "question": "Setlarni tenglikka tekshirish qanday amalga oshiriladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1188",
+        "question": "Mapping nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1191",
+        "question": "Mappings ustida qanday operatsiyalarni bajarish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1194",
+        "question": "Ikkita list bor - kalitlar va qiymatlar. Ulardan qanday qilib dictionary tuzish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1195",
+        "question": "Kolliziya nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1197",
+        "question": "type() nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1199",
+        "question": "Obyekt yaratishda metaklassni qidirish qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1201",
+        "question": "Metaklasslar qanday ishlaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1202",
+        "question": "Umuman olganda, metaklasslardan nima uchun foydalanish kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1204",
+        "question": "Obyekt atributlari ro'yxatini qanday olish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1205",
+        "question": "Klassda ota-klassga qanday murojaat qilish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1207",
+        "question": "_value, __value parametrlarining (atributlarining) ma'nosi nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1209",
+        "question": "Eski uslubdagi (old-style) va yangi uslubdagi (new-style) klasslar nima va ularning farqi nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1210",
+        "question": "Konteyner nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1212",
+        "question": "Iteratsiya qilinadigan (iterable) obyekt nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1214",
+        "question": "Generator funksiya nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1215",
+        "question": "yield nima qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1217",
+        "question": "[x for x in y] va (x for x in y) o'rtasidagi farq nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1218",
+        "question": "Generatorning o'ziga xosligi nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1220",
+        "question": "Generatordan listni qanday olish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1221",
+        "question": "Subgenerator nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1222",
+        "question": "Generatorlarning qanday metodlari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1223",
+        "question": "Generator elementini indeks bo'yicha olish mumkinmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1224",
+        "question": "Dictionary bo'yicha iteratsiya nima qaytaradi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1225",
+        "question": "Dictionaryni kalit-qiymat juftliklari bo'yicha qanday iteratsiya qilish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1226",
+        "question": "Qanday iteratorlarni bilasiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1227",
+        "question": "Iterator bu iterator ekanligini qanday tushunishimiz mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1228",
+        "question": "Python'dagi iterator, iteratsiya qilinadigan obyekt va generator o'rtasidagi farq",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1230",
+        "question": "Closure nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1232",
+        "question": "Klasslarni dekoratsiya qilish mumkinmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1233",
+        "question": "Klassdan dekorator yaratish mumkinmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1234",
+        "question": "Dekoratorni @ belgisisiz qanday chaqirish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1235",
+        "question": "Dekorator nima qaytaradi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1236",
+        "question": "Bitta funksiya uchun bir nechta dekoratordan foydalanish mumkinmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1237",
+        "question": "Exception handling nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1238",
+        "question": "try-finally konstruksiyasini except'siz nima uchun qo'llash mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1239",
+        "question": "Exceptionlarni har xil usulda to'g'ri qayta ishlash qanday?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1240",
+        "question": "Agar xatolik except bloki tomonidan qayta ishlanmasa nima bo'ladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1242",
+        "question": "Exception chaining nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1243",
+        "question": "else bloki nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1244",
+        "question": "Exception konstruktoriga nima uzatish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1246",
+        "question": "Qaysi hollarda SyntaxError'ni qayta ishlash mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1247",
+        "question": "Warnings nima uchun kerak va o'zingiznikini qanday yaratish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1248",
+        "question": "Warning moduli nima uchun kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1249",
+        "question": "Nima dekorator bo'lishi mumkin? Dekorator nimaga qo'llanilishi mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1250",
+        "question": "Agar dekorator hech narsa qaytarmasa nima bo'ladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1251",
+        "question": "@foobar va @foobar() o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1252",
+        "question": "Decorator factory nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1254",
+        "question": "File object nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1255",
+        "question": "Fayl obyektlarining qanday turlari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1256",
+        "question": "Text va binar fayllar o'rtasidagi farq nimada?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1257",
+        "question": "open() funksiyasidan qanday foydalanish kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1258",
+        "question": "tell() va seek() metodlari nima qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1260",
+        "question": "StringIO va BytesIO nima qiladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1261",
+        "question": "Fayl obyektlari kontekst menejerlari hisoblanadimi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1262",
+        "question": "json.dumps / json.dump , json.loads / json.load",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1264",
+        "question": "Agar standart json moduli tomonidan qo'llab-quvvatlanmaydigan ma'lumotlarni serializatsiya qilish kerak bo'lsa nima qilish kerak?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1265",
+        "question": "pickle.dumps / pickle.dump, pickle.loads / pickle.load",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1343",
+        "question": "Git Rebase nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "1344",
+        "question": "Force push nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "1345",
+        "question": "Pre-commit check nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "1346",
+        "question": "Server cookie'larni o'zgartira (qo'sha, o'chira) oladimi?",
+        "chance": "3",
+        "tag": "WEB"
+    },
+    {
+        "id": "1347",
+        "question": "Modul va paket o'rtasidagi farq",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1348",
+        "question": "Tipizatsiya turlari",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "1350",
+        "question": "Qaysi ma'lumot turlari ma'lumotlar strukturalariga kiradi?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "1351",
+        "question": "Lokal Git repozitoriyni qanday yaratish mumkin?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "1353",
+        "question": "git push nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "1354",
+        "question": "git commit nima qiladi?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "1356",
+        "question": "Virtual muhitni qanday o'rnatish mumkin?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "1358",
+        "question": "Stringlarni formatlash turlari",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1361",
+        "question": "Iteratsiya nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1365",
+        "question": "Foydalanuvchidan kiritishni qanday so'rash mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1366",
+        "question": "Type casting",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1368",
+        "question": "String ketma-ketlikmi yoki yo'qmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1369",
+        "question": "Listlarning qanday metodlari bor?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1371",
+        "question": "Python'da nima obyekt hisoblanmaydi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1373",
+        "question": "O'zgaruvchilarni nomlash",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1375",
+        "question": "Literallar nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1377",
+        "question": "Sonni stringga aylantirish mumkinmi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1378",
+        "question": "Modulni qanday import qilish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1380",
+        "question": "Modulning barcha tarkibini qanday import qilish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1381",
+        "question": "Dictionaryda nechta kalit-qiymat juftligi bo'lishi mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1383",
+        "question": "Dictionaryda qanday ma'lumot turi qiymat bo'lishi mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1384",
+        "question": "Elementning id'sini qanday bilish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1386",
+        "question": "Python versiyasini qanday bilish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1388",
+        "question": "Python 2'ning 3'dan farqlari",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1389",
+        "question": "Sikl bajarilishini qanday to'xtatish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1391",
+        "question": "continue nimani anglatadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1393",
+        "question": "Agar 5 va 5.0 solishtirilsa nima bo'ladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1395",
+        "question": "Nima tezroq: Python yoki C++?",
+        "chance": "3",
+        "tag": "Tillar"
+    },
+    {
+        "id": "1396",
+        "question": "Bayt kod nima?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1398",
+        "question": "Fayllarni import qilishda konfliktlardan qanday qochish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1399",
+        "question": "%d nimani anglatadi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1400",
+        "question": "Klassning nechta ota-onasi va merosxo'ri bo'lishi mumkin?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "1401",
+        "question": "Operator overloading nima?",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "1403",
+        "question": "Access modifikatorlar",
+        "chance": "3",
+        "tag": "OOP"
+    },
+    {
+        "id": "1404",
+        "question": "Python'da kommentariyalar qanday yoziladi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1406",
+        "question": "Listdagi elementlar tartibini qanday teskari qilish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1408",
+        "question": "Agar \"do-while\" sikli uchun string oxirida ikki nuqta qo'ymasak, u baribir ishlaydimi?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1409",
+        "question": "% arifmetik operatori haqida gapirib bering",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1410",
+        "question": "** arifmetik operatori haqida gapirib bering",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1411",
+        "question": "String uzunligini qanday hisoblash mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "1412",
+        "question": "XML nima?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1413",
+        "question": "HTML va XML nima bilan farqlanadi?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1414",
+        "question": "CRUD nima?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1415",
+        "question": "Django ilovasida ma'lumotlar bazasiga so'rov qaysi bosqichda amalga oshiriladi?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1416",
+        "question": "Post.objects.all() qanday natija beradi va qanday tipni qaytaradi?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1417",
+        "question": "SQL nima?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1418",
+        "question": "Qaysi so'rov yordamida jadvaldagi barcha ma'lumotlarni olishim mumkin?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1419",
+        "question": "Many-to-Many munosabati nima?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1421",
+        "question": "M2M munosabati SQL'da qanday realizatsiya qilinadi?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1422",
+        "question": "View (SQL yoki MVC/Django kontekstida) nima?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1426",
+        "question": "Klass yaratishning ikki usuli (masalan, class kalit so'zi va type() Python'da) qanday?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1427",
+        "question": ".pyc fayli .py faylidan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1429",
+        "question": "Nima Python'ni obyektga yo'naltirilgan til qiladi?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1431",
+        "question": "Python dasturini debugging qilish qanday amalga oshiriladi?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1432",
+        "question": "Listga obyektni ma'lum bir indeks ostida joylashishi uchun qanday qo'shish mumkin?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1434",
+        "question": "Funksiya qiymat qaytarishi uchun nima qilish kerak?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1437",
+        "question": "Agar funksiyada return bo'lmasa, u biror narsa qaytaradimi?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1439",
+        "question": "Listni stringga o'tkazish mumkin?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1441",
+        "question": "SQL'dagi HAVING operatori nima?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1442",
+        "question": "Ko'p merosxo'rlik nima?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1444",
+        "question": "Django'ning komponentlari qaysilar?",
+        "chance": "3",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "80",
+        "question": "Linux'da mavjud Operativ Xotira (RAM) miqdorini qanday ko'rish mumkin?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "7948",
+        "question": "Qanday NoSQL ma'lumotlar bazalarini bilasiz?",
+        "chance": "3",
+        "tag": "Malumotlar bazasi"
+    },
+    {
+        "id": "10538",
+        "question": "Qaysi IDEdan foydalanasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "10539",
+        "question": "Qaysi operatsion tizimdan foydalanasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "10540",
+        "question": "Ish vaqtini tashkil qilish uchun nimadan foydalanasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "10541",
+        "question": "Linux'ni qanchalik yaxshi bilasiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "1229",
+        "question": "Ketma-ketlikni iteratsiya qilishda nima uchun enumerate()dan foydalanamiz?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "10542",
+        "question": "WebSocket oddiy soketdan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "1231",
+        "question": "Argumentli dekoratorni qanday realizatsiya qilish mumkin?",
+        "chance": "3",
+        "tag": "Python"
+    },
+    {
+        "id": "72",
+        "question": "CI/CD jarayoniga tiplarni tekshirishni qanday kiritish mumkin?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "73",
+        "question": "CSV (Comma-Separated Values) nima?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "88",
+        "question": "Linux'da Makefiledan nima uchun foydalangansiz?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "89",
+        "question": "crontabdan foydalanishning minimal davriyligi qancha?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "129",
+        "question": "Linux'dagi permissions haqida gapirib bering.",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "131",
+        "question": "Docker'da default network yaratiladimi yoki o'zingiz yaratishingiz kerakmi?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "133",
+        "question": "CI/CD servisining uzluksiz ishlashini qanday ta'minlash mumkin?",
+        "chance": "3",
+        "tag": "Tools"
+    },
+    {
+        "id": "159",
+        "question": "One-to-One bog'lanishi qanday realizatsiya qilinadi?",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "160",
+        "question": "One-to-Many bog'lanishi qanday realizatsiya qilinadi?",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "161",
+        "question": "Primary key nima?",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "162",
+        "question": "Foreign key nima?",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "163",
+        "question": "Self join nima?",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "164",
+        "question": "GROUP BY nima?",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "165",
+        "question": "DELETE va TRUNCATE o'rtasidagi farq.",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "166",
+        "question": "Window functions nima?",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "167",
+        "question": "Window functions va GROUP BY o'rtasidagi farq.",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "169",
+        "question": "Triggerlar nima uchun kerak?",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "170",
+        "question": "N+1 nima?",
+        "chance": "3",
+        "tag": "SQL"
+    },
+    {
+        "id": "171",
+        "question": "CI (Continuous Integration) va CD (Continuous Delivery/Deployment) o'rtasidagi farq nima?",
+        "chance": "3",
+        "tag": "SDLC"
+    },
+    {
+        "id": "223",
+        "question": "Dinamik dasturlash nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "224",
+        "question": "K-eng yaqin qo'shnilar (k-NN) algoritmi nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "225",
+        "question": "Richard Feynman algoritmi nima?",
+        "chance": "3",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "235",
+        "question": "Sinxron dasturlashning (asinxronga nisbatan) qanday afzalliklari bor?",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "236",
+        "question": "asyncio'da qanday uch turdagi awaitable obyektlar mavjud?",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "237",
+        "question": "task shared_taskdan (Celery kontekstida) nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "238",
+        "question": "Asinxronlik va parallellik o'rtasidagi farq nimada?",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "239",
+        "question": "Event loop haqida gapirib bering.",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "240",
+        "question": "await nima?",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "241",
+        "question": "yield from konstruksiyasi nima uchun kerak?",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "242",
+        "question": "Korutinlar (odatda) bir potokdami yoki bir nechtasida bajariladimi?",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "243",
+        "question": "Asinxronlik ko'p potoklilikdan nima bilan farq qiladi?",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "244",
+        "question": "Python'da asinxronlikning qanday qiyinchiliklari va muammolarini bilasiz?",
+        "chance": "3",
+        "tag": "Asinxron"
+    },
+    {
+        "id": "246",
+        "question": "Asinxronlik nima hisobiga tezroq ishlaydi?",
+        "chance": "3",
+        "tag": "Asinxron"
+    }
+]
