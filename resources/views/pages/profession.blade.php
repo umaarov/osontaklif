@@ -41,7 +41,7 @@
             </table>
 
             <!-- Simple Numeric Pagination -->
-            <div class="pagination-c1ontainer">
+            <div class="pagination-container">
                 @if ($questions->lastPage() > 1)
                     <div class="simple-pagination">
                         @for ($i = 1; $i <= $questions->lastPage(); $i++)
