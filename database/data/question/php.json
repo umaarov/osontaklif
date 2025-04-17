@@ -1,0 +1,1994 @@
+[
+    {
+        "id": "984",
+        "question": "O'zingiz haqingizda gapirib bering.",
+        "chance": "93",
+        "tag": "HR"
+    },
+    {
+        "id": "954",
+        "question": "Abstrakt klass nega kerak?",
+        "chance": "60",
+        "tag": "OOP"
+    },
+    {
+        "id": "952",
+        "question": "Abstrakt klass interfeysdan nima bilan farq qiladi?",
+        "chance": "60",
+        "tag": "OOP"
+    },
+    {
+        "id": "951",
+        "question": "Abstrakt klass nima?",
+        "chance": "46",
+        "tag": "OOP"
+    },
+    {
+        "id": "922",
+        "question": "Qanday design patternlarni bilasiz?",
+        "chance": "46",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "1034",
+        "question": "Git bilan ishlash tajribangiz qanday?",
+        "chance": "40",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "924",
+        "question": "SOLID nima?",
+        "chance": "40",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "938",
+        "question": "Tranzaksiya nima?",
+        "chance": "40",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "920",
+        "question": "SOLID prinsiplari haqida gapirib bering.",
+        "chance": "40",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "918",
+        "question": "Middleware nima?",
+        "chance": "33",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "1293",
+        "question": "SOLID prinsiplari bilan tez-tez to'qnash kelishga to'g'ri keladimi?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1067",
+        "question": "Ish jarayonida qanday patternlardan foydalanasiz?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1313",
+        "question": "So'rovlarni optimallashtirish bilan shug'ullanishga to'g'ri kelganmi?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1467",
+        "question": "Qaysi hollarda indekslardan foydalaniladi?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "953",
+        "question": "Trait'lar nima?",
+        "chance": "33",
+        "tag": "OOP"
+    },
+    {
+        "id": "1024",
+        "question": "PHPda PSR va RFC nima?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1292",
+        "question": "SOLID prinsiplarini yaxshi tushunasizmi?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1028",
+        "question": "PHP'da qanday ma'lumotlar turlari mavjud?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10611",
+        "question": "Qaysi Databaselar bilan ishlagansiz?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10613",
+        "question": "Selection, join'lar haqida nima bilasiz?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1305",
+        "question": "final kalit so'zi nima uchun kerak?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "963",
+        "question": "self va $this (PHP'da) o'rtasidagi farq nima?",
+        "chance": "26",
+        "tag": "OOP"
+    },
+    {
+        "id": "10612",
+        "question": "SQL-so'rovlarni optimallashtirish va indekslar bilan ishlash tajribangiz haqida gapirib bering.",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1208",
+        "question": "WHERE va HAVING o'rtasidagi farq nimada?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "957",
+        "question": "OOP nima?",
+        "chance": "26",
+        "tag": "OOP"
+    },
+    {
+        "id": "955",
+        "question": "Abstrakt klass nima uchun kerak?",
+        "chance": "26",
+        "tag": "OOP"
+    },
+    {
+        "id": "1468",
+        "question": "Indekslarning qanday turlari mavjud?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "969",
+        "question": "HTTP-request nimalardan iborat?",
+        "chance": "26",
+        "tag": "WEB"
+    },
+    {
+        "id": "961",
+        "question": "Interfeyslar nima?",
+        "chance": "26",
+        "tag": "OOP"
+    },
+    {
+        "id": "972",
+        "question": "HTTP'ning birinchi versiyasi ikkinchisidan nima bilan farq qiladi?",
+        "chance": "20",
+        "tag": "WEB"
+    },
+    {
+        "id": "1349",
+        "question": "Git instrumenti haqida qanday bilimlarga egasiz?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1407",
+        "question": "Databaseda indeks nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "919",
+        "question": "Middleware nima uchun kerak?",
+        "chance": "20",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "942",
+        "question": "Jadvallarda birlashtirishning (JOIN) qanday turlari mavjud?",
+        "chance": "20",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "939",
+        "question": "Agregat funksiyalar nima?",
+        "chance": "20",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "960",
+        "question": "Static binding nima?",
+        "chance": "20",
+        "tag": "OOP"
+    },
+    {
+        "id": "1362",
+        "question": "Avtomatik testlashda tajribangiz bormi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1009",
+        "question": "Ishda qanday texnologiyalar, instrumentlardan foydalanasiz?",
+        "chance": "20",
+        "tag": "HR"
+    },
+    {
+        "id": "1064",
+        "question": "Qanday patternlarni bilasiz?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1280",
+        "question": "Polimorfizm haqida gapirib bering.",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "932",
+        "question": "SOLID'ning qaysi prinsipi ishga qo'shimcha o'zgartirishlar kiritishni ta'minlaydi?",
+        "chance": "20",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "1259",
+        "question": "Dinamik tipizatsiya nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1282",
+        "question": "Polimorfizm nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1031",
+        "question": "PHP 8'da qanday imkoniyatlar borligini o'rganib chiqqanmisiz?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1080",
+        "question": "Anonim funksiyalar nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1177",
+        "question": "Rekursiya nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1006",
+        "question": "Loyihalaringiz qanday yo'nalishda edi?",
+        "chance": "20",
+        "tag": "HR"
+    },
+    {
+        "id": "1166",
+        "question": "Inkrement va dekrement nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "915",
+        "question": "Deployment jarayoni qanday amalga oshiriladi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "982",
+        "question": "merge va rebase o'rtasidagi farq.",
+        "chance": "20",
+        "tag": "Git"
+    },
+    {
+        "id": "1428",
+        "question": "PHP'dan tashqari boshqa narsalar bilan shug'ullanishga to'g'ri kelganmi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1392",
+        "question": "PHP qanday ishlaydi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1397",
+        "question": "HTTP nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1456",
+        "question": "OOP prinsiplari qaysilar?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10614",
+        "question": "ACID nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "926",
+        "question": "Qanday mikroservis patternlarini bilasiz?",
+        "chance": "13",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "925",
+        "question": "Sessiyalar faylda saqlanmasligi uchun nima qilish kerak?",
+        "chance": "13",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "971",
+        "question": "Brauzer qayergadir o'tishi kerakligini qanday tushunadi?",
+        "chance": "13",
+        "tag": "WEB"
+    },
+    {
+        "id": "970",
+        "question": "HTTP status kodlari qanday guruhlarini bilasiz?",
+        "chance": "13",
+        "tag": "WEB"
+    },
+    {
+        "id": "941",
+        "question": "Foreign key nima?",
+        "chance": "13",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "940",
+        "question": "Primary key nima?",
+        "chance": "13",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "1352",
+        "question": "Git yordamida qanday murakkab vazifalarni yechishga to'g'ri kelgan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1327",
+        "question": "Generatorda (PHP'da yield yordamida) faylda bir vaqtning o'zida bitta obyekt bo'lishiga qanday erishiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1332",
+        "question": "Command linedan foydalanishni yoqtirasizmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "962",
+        "question": "Klassning qanday magik metodlarini bilasiz?",
+        "chance": "13",
+        "tag": "OOP"
+    },
+    {
+        "id": "1322",
+        "question": "Sizga PHP'da nima yoqmaydi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1316",
+        "question": "Git'da ishlashning qanday afzalliklari bor?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1323",
+        "question": "Boshqa tillarga nisbatan PHP'da struktura qanday realizatsiya qilingan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1337",
+        "question": "Dasturlashda birinchi loyihangiz qanday bo'lgan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "959",
+        "question": "Magik metodlar nima?",
+        "chance": "13",
+        "tag": "OOP"
+    },
+    {
+        "id": "923",
+        "question": "Agregat (DDD kontekstida) nima?",
+        "chance": "13",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "958",
+        "question": "Abstrakt klass o'zida private metod saqlashi mumkinmi va nima uchun?",
+        "chance": "13",
+        "tag": "OOP"
+    },
+    {
+        "id": "1278",
+        "question": "Inkapsulyatsiya nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1302",
+        "question": "PHP'ning qaysi versiyalari bilan ishlagansiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1211",
+        "question": "Loyihalarda aynan nima ish qilgansiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "917",
+        "question": "PHP-FPM nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1042",
+        "question": "composer.json'da require va require-dev nima bilan farqlanadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1040",
+        "question": "composer.json composer.lock'dan nima bilan farqlanadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1036",
+        "question": "Composer bilan tanishmisiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "934",
+        "question": "Adapter va Dekorator patternlari o'rtasidagi farq nimada?",
+        "chance": "13",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "1271",
+        "question": "PHP SQL'ni qayerda ishlatgansiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1303",
+        "question": "PHP 7.4 versiyasida nimalar paydo bo'ldi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1175",
+        "question": "Dinamik o'zgaruvchilar (PHP'da $$var) nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "931",
+        "question": "Dekorator patterni qanday tuzilgan?",
+        "chance": "13",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "930",
+        "question": "Dekorator patterni qanday muammoni hal qiladi?",
+        "chance": "13",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "1284",
+        "question": "stub mock'dan nima bilan farq qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1003",
+        "question": "Oxirgi ish joyingiz haqida gapirib bering.",
+        "chance": "13",
+        "tag": "HR"
+    },
+    {
+        "id": "1001",
+        "question": "Hozir qayerda ishlaysiz va nima bilan shug'ullanasiz, gapirib bering.",
+        "chance": "13",
+        "tag": "HR"
+    },
+    {
+        "id": "1193",
+        "question": "Namespace nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1144",
+        "question": "Qanday qiziqarli loyihalaringiz bo'lgan, gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "981",
+        "question": "pull va Workspace o'rtasidagi farq.",
+        "chance": "13",
+        "tag": "Git"
+    },
+    {
+        "id": "980",
+        "question": "Testning maqsadi har doim nimada bo'ladi?",
+        "chance": "13",
+        "tag": "Testing"
+    },
+    {
+        "id": "1472",
+        "question": "Qanday arxitektura turlari bilan to'qnash kelgansiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10615",
+        "question": "Strelochkali (=>) va anonim funksiyalar nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10617",
+        "question": "Replikatsiya nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10619",
+        "question": "MySQL'da primary key va unique key o'rtasidagi farq nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10620",
+        "question": "Monolitlar va mikroservislarning qanday kamchiliklari bor?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10622",
+        "question": "Mikroservislar haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10623",
+        "question": "OOP haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10624",
+        "question": "Interfeyslar nima va ular nima uchun kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10625",
+        "question": "Tipizatsiya nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10626",
+        "question": "self va static o'rtasidagi farq nimada?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10628",
+        "question": "final nima qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1118",
+        "question": "Anonim klasslarni nima uchun o'ylab topishgan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1129",
+        "question": "Mikroservis arxitekturasi nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1134",
+        "question": "Tranzaksiyalar nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1423",
+        "question": "LEFT JOIN RIGHT JOINdan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1430",
+        "question": "Test topshiriqlariga qanday qaraysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1435",
+        "question": "Singly linked list nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1438",
+        "question": "Sizningcha, PHP \"o'lyaptimi\" va necha yildan beri \"o'lyapti\"?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1443",
+        "question": "composer install buyrug'i composer updatedan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1446",
+        "question": "Qaysi funksiyalar \"toza\" (pure functions) deb ataladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1447",
+        "question": "Coupling (bog'liqlik) va Cohesion (uyushqoqlik) o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1448",
+        "question": "Immutable obyekt nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1449",
+        "question": "Agar classda public property bo'lsa, bu class immutable deganimi yoki yo'qmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1452",
+        "question": "ORM'ning qanday turlarini bilasiz, qaysilaridan foydalanasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1453",
+        "question": "Read operatsiyalari uchun ORM kerakmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1454",
+        "question": "Event sourcing patterni nima, uni qachon ishlatish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1455",
+        "question": "Qachon event sourcing'dan foydalanish maqsadga muvofiq?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1458",
+        "question": "PHP va JavaScript'dagi closurelar o'rtasida qanday farq bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1459",
+        "question": "Sessiyalarni saqlashni qanday qayta aniqlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1460",
+        "question": "Dependency injection haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1461",
+        "question": "MVC haqida nima bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1462",
+        "question": "Active Record patterni qaysi prinsipni buzadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1466",
+        "question": "Migratsiyalar nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1469",
+        "question": "Funksiyaga o'zgaruvchilar qanday uzatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1471",
+        "question": "Arxitekturani qaysi prinsiplarga asosan tanlagan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1473",
+        "question": "Agar ikkita trait'da bir xil nomli metod bo'lsa nima qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1477",
+        "question": "Qaysi mavzuda va qaysi loyihalar uchun testlar yozgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10629",
+        "question": "Nima uchun hozir PHP'da yozmasangiz ham, uni kuzatib borasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10630",
+        "question": "PHP 8'ning qaysi xususiyatlarini ajratib ko'rsata olasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10631",
+        "question": "Protokol nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10632",
+        "question": "Nginx haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10633",
+        "question": "PHP-FPM nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10634",
+        "question": "Xavfsizlik jarayoni (masalan, web-ilovada) qanday amalga oshiriladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10635",
+        "question": "PHP'da ma'lumotlar funksiyaga qanday uzatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10636",
+        "question": "Lambda funksiyalar va anonim funksiyalar haqida nima bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10637",
+        "question": "Docker Compose fayli nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10638",
+        "question": "Late Static Binding, (static::) haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10639",
+        "question": "Agar \"yuborish\" tugmasi bo'lgan biror forma yaratish vazifasi kelib tushsa, dizaynni o'zingiz qilasizmi yoki dizaynerlardan so'raysizmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10640",
+        "question": "CSS yordamida chekbokslarni kutubxonalarsiz qanday stilizatsiya qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10641",
+        "question": "Ikkilik (==) va uchlik (===) tenglik (operatorlari JS/PHPda) o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10642",
+        "question": "try, catch, finally nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10643",
+        "question": "Referential integrity nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10644",
+        "question": "Vertikal va gorizontal scaling o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10645",
+        "question": "Web-ilovalarning qanday arxitektura turlarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10646",
+        "question": "PHP'da qanday access modifikatorlar mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10647",
+        "question": "Singleton patterni nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10649",
+        "question": "Sphinx, Elasticsearch nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10650",
+        "question": "RabbitMQ nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10651",
+        "question": "Partitioning nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10652",
+        "question": "PHP-FPM va FastCGI nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10654",
+        "question": "Yaxshi tizim administratori (sysadmin) deganda nimani tushunasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10655",
+        "question": "Siz uchun yaxshi hamkasb qanday bo'lishi kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10656",
+        "question": "Mikroservis va monolit arxitekturadan tashqari yana qanday arxitekturalar bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10657",
+        "question": "Funksional dasturlash haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10658",
+        "question": "Monada nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10660",
+        "question": "PSR (PHP Standards Recommendations) haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10661",
+        "question": "Testlar bilan qancha foiz kod qoplami normal hisoblanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10662",
+        "question": "Statik analizator haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10663",
+        "question": "PHP'da generator (yield yordamida) qanday tuzilgan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10664",
+        "question": "Yaxshi yozilgan Task qanday bo'lishi kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10665",
+        "question": "Ilovani Docker'da tezroq deploy qilish uchun nima qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10666",
+        "question": "Pull/Push modeli Pub/Sub (Publish/Subscribe) modelidan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10667",
+        "question": "Factory pattern nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10668",
+        "question": "Service Locator pattern nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10669",
+        "question": "Dependency Injection Container nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10670",
+        "question": "Low coupling, high cohesion nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10672",
+        "question": "Hash indeks va B-tree indeksning afzalliklari nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10673",
+        "question": "List type nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10674",
+        "question": "Closure nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10675",
+        "question": "DBdagi kalitlar nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10676",
+        "question": "Qaysi buyruq bilan kommitni bekor qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10677",
+        "question": "merge rebasedan nima bilan farqlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10680",
+        "question": "Qanday tarmoq protokollarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10681",
+        "question": "TCP va UDP protokollari o'rtasida qanday farq bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10682",
+        "question": "Metrikalar nima? Ular nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10683",
+        "question": "Loglash nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10684",
+        "question": "SOLID'dagi D harfi va uning interfeyslar bilan bog'liqligi haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10686",
+        "question": "Mock, stub nima? Ular nima bilan farqlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10687",
+        "question": "Factory pattern haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10688",
+        "question": "Global funksiyalar oldidagi backslash (\\) (PHP'da namespace kontekstida) nima qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10689",
+        "question": "To'liq matnli (full-text) indeks nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10690",
+        "question": "Blokirovkalar (locking) nima, ular nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10691",
+        "question": "Slow query nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10692",
+        "question": "Kodning sifati bilan bog'liq patternlar/prinsiplar haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10693",
+        "question": "Binary tree qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10694",
+        "question": "Databasedagi normal formalar haqida nima bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10695",
+        "question": "Agregat funksiyalar haqida nima bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10696",
+        "question": "Ma'lumotlarni filtrlashni qayerda (Databaseda yoki ilovada) amalga oshiramiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10697",
+        "question": "Tranzaksiyalar nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10698",
+        "question": "PHP'da self va static nima qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10699",
+        "question": "PHP'da qanday tipizatsiyalar mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10700",
+        "question": "PHP'da polimorfizm qanday realizatsiya qilinadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10701",
+        "question": "Inkapsulyatsiya ma'lumotlarni yashirishdan tashqari yana nimani o'z ichiga oladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10702",
+        "question": "PHP'da final nimalarni taqiqlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10703",
+        "question": "Qanday loyihalarda Laravelni freymvork sifatida ishlatish tavsiya etilmaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10704",
+        "question": "So'rovning bajarilish tezligini nima yordamida kuzatish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10705",
+        "question": "POST PUTdan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10706",
+        "question": "Qaysi metod palindromlarni aniqlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1267",
+        "question": "Strict mode (declare(strict_types=1);) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10707",
+        "question": "Normalizatsiya, denormalizatsiya nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1270",
+        "question": "PHP SQL nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "916",
+        "question": "NGINX nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "927",
+        "question": "Stateful arxitektura nima?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "928",
+        "question": "Asinxron chaqiruvlarning afzalliklari va kamchiliklari nimada?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "933",
+        "question": "Adapter pattern qanday muammoni hal qiladi?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "935",
+        "question": "Facade patternining afzalligi nimada?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "936",
+        "question": "Agar klasslar darajasida emas, balki yuqoriroq darajada bo'lsangiz, modullarni qaysi prinsipga asosan ajratishga harakat qilgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "937",
+        "question": "CQRS (Command Query Responsibility Segregation) nima?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "943",
+        "question": "Entity (DB yoki DDD kontekstida) nima?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "944",
+        "question": "Gorizontal sharding nima?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "945",
+        "question": "Vertikal sharding nima?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "946",
+        "question": "Shifrlash nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "947",
+        "question": "Simmetrik shifrlashning afzalliklari nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "948",
+        "question": "Simmetrik shifrlashning kamchiliklari nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "949",
+        "question": "Asimmetrik shifrlashning afzalliklari nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "950",
+        "question": "Asimmetrik shifrlashning kamchiliklari nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "965",
+        "question": "Coupling nima?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "966",
+        "question": "Cohesion nima?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "967",
+        "question": "Coupling qanday ishlaydi?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "968",
+        "question": "Cohesion qanday ishlaydi?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "975",
+        "question": "307 (Temporary Redirect) va 302 (Found) Redirect'lar o'rtasida qanday farq bor?",
+        "chance": "6",
+        "tag": "WEB"
+    },
+    {
+        "id": "978",
+        "question": "SOAP nima?",
+        "chance": "6",
+        "tag": "WEB"
+    },
+    {
+        "id": "979",
+        "question": "Agar SOAP mavjud bo'lsa, nima uchun REST'dan foydalanish kerak?",
+        "chance": "6",
+        "tag": "WEB"
+    },
+    {
+        "id": "1281",
+        "question": "extends nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1047",
+        "question": "Keshlash, kodlash va shifrlash o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1049",
+        "question": "Dasturlashda keng tarqalgan qanday kodlash usullari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1051",
+        "question": "Kodlashning maqsadi nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1055",
+        "question": "Cookie'lar nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1057",
+        "question": "CSS nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1060",
+        "question": "Ish jarayonida Zero Downtime bilan to'qnash kelganmisiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1069",
+        "question": "Qanday zaiflik (vulnerability) turlarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1072",
+        "question": "Team Hitting (?) qayerda ishlatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1075",
+        "question": "PHP'da massivlarning qanday turlari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1077",
+        "question": "Qiymatni o'zlashtirish havola orqalimi yoki qiymat orqalimi amalga oshiriladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1083",
+        "question": "Qanday tarmoq funksiyalari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1085",
+        "question": "Sana/vaqt bilan ishlash uchun qanday funksiyalarni bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1088",
+        "question": "DateTime klassi nimani realizatsiya qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1090",
+        "question": "DateTimeImmutable DateTimedan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1094",
+        "question": "Agar iteratorlar mavjud bo'lsa, generatorlar nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1096",
+        "question": "Fibonachchi ketma-ketligi nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1099",
+        "question": "Fibonachchi ketma-ketligini rekursiya bilan yoki rekursiyasiz realizatsiya qilishningn qaysi biri afzal?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1106",
+        "question": "Klass obyektdan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1109",
+        "question": "Klasslarni avtomatik yuklash (autoloading) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1111",
+        "question": "require include'dan nima bilan farqlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1114",
+        "question": "PHP'da ko'p inheritance yo'qligi muammosi qanday hal qilingan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1121",
+        "question": "PHP'da operatorlarni qayta yuklash (operator overloading) mavjudmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1126",
+        "question": "Qanday dasturlash prinsiplarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1137",
+        "question": "SQL'da qanday blokirovka turlari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1141",
+        "question": "Jadvallarda qanday kalitlar bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1147",
+        "question": "Nima uchun aynan shu ish bozoriga chiqishga qaror qildingiz, siz uchun nima muhim?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1153",
+        "question": "Obyektga yo'naltirilgan paradigma haqida nima bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1162",
+        "question": "Sizningcha, qanchalik tez-tez suhbatlarga borib turish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1168",
+        "question": "Dekrement nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1171",
+        "question": "Postfiks (i++) va prefiks (++i) inkrement (yoki dekrement) o'rtasidagi farqlar nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1180",
+        "question": "= va == o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1183",
+        "question": "PHP'da qanday tiplar tizimi ishlatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1185",
+        "question": "Qanday magik metodlar mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1187",
+        "question": "Nima uchun magik metodlar \"magik\" deb ataladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1196",
+        "question": "Namespacelar nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1200",
+        "question": "MBBT (SUBD) ni qanday tushunish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1203",
+        "question": "Laravel'da qanday bog'lanish turlari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1206",
+        "question": "Laravel'da bog'lanish turlari qanday realizatsiya qilinadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1213",
+        "question": "PHP'da namespacelar nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1219",
+        "question": "global kalit so'zi nima uchun ishlatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1263",
+        "question": "Dinamik tipizatsiya qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1266",
+        "question": "Dinamik tipizatsiya bilan qayerda to'qnash kelgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1268",
+        "question": "Qachondir strict mode bilan to'qnash kelganmisiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1269",
+        "question": "Copy-on-write nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1272",
+        "question": "Agar 3 (int) raqamini \"4\" (string) satri bilan + orqali qo'shsak nima bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1273",
+        "question": "Bir tirnoq (') va qo'sh tirnoq (\") o'rtasida (PHP/JS kontekstida) qandaydir farq bormi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1274",
+        "question": "Algoritmik murakkablik nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1275",
+        "question": "Agar funksiya ichida ko'plab harakatlar bo'lsa, uning algoritmik murakkabligini qanday hisoblash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1276",
+        "question": "Dasturlashda qanday ma'lumotlar strukturalarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1277",
+        "question": "HashTablening ishlash prinsipi nimadan iborat?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1279",
+        "question": "Inheritance haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1283",
+        "question": "Interfeyslarda metodlar qaysi prinsip bo'yicha birlashtiriladi va ajratiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1285",
+        "question": "DRY va KISS prinsiplari nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1286",
+        "question": "Reflection nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1287",
+        "question": "Refleksiya qayerda ishlatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1288",
+        "question": "Autentifikatsiya avtorizatsiyadan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1289",
+        "question": "Indeksatsiya nima uchun ishlatiladi va u nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1290",
+        "question": "Doctrine'da \"has-many-through\" kabi munosabatni qanday realizatsiya qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1291",
+        "question": "Legacy (eski) kod bilan ishlashga to'g'ri kelganmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1294",
+        "question": "AVG() funksiyasi WHERE bilan ishlatiladimi yoki HAVING bilanmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1295",
+        "question": "AVG() nimaning o'rtacha qiymatini hisoblaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1296",
+        "question": "WHERE sharti nimaga qo'yiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1297",
+        "question": "Kardinallik (cardinality) tushunchasi nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1298",
+        "question": "Foreign Key nimagadir ta'sir qiladimi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1299",
+        "question": "MySQL'da EXPLAIN qilishga to'g'ri kelganmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1300",
+        "question": "Regulyar ifodalarni qanday ishlatgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1307",
+        "question": "unset() funksiyasi unlink()dan nima bilan farqlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1309",
+        "question": "Bridge patterni nima haqida?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1310",
+        "question": "Builder patterni nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1311",
+        "question": "So'nggi paytlarda nima bilan shug'ullanishga to'g'ri keldi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1312",
+        "question": "Laravel bilan shug'ullanishga to'g'ri kelganmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1314",
+        "question": "JOINdan qanday muammolar kelib chiqishi mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1315",
+        "question": "Ma'lumotlarni portsiyalarga ajratishni qanday usullar bilan tashkil qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1317",
+        "question": "Composer orqali autoload'ni qanday sozlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1318",
+        "question": "Test ilovalarini ishlab chiqish bo'yicha tajribangiz haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1319",
+        "question": "Nima uchun aynan backend?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1320",
+        "question": "Saytga yangi funksionallikni kiritishda qanday yondashuvlardan foydalanasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1321",
+        "question": "Toza arxitektura (Clean Architecture) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1324",
+        "question": "Python'da list dinamik massivmi yoki bog'langan ro'yxatmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1325",
+        "question": "Python'da listdan tashqari qanday kolleksiyalar mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1326",
+        "question": "ETL (Extract, Transform, Load) nima uchun kerakligini tasvirlab bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1329",
+        "question": "del va pass kalit so'zlariga nisbatan qandaydir munosabatingiz shakllanganmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1330",
+        "question": "passni nima bilan almashtirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1331",
+        "question": "Opensource bilan ishlash tajribangiz haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1333",
+        "question": "Sizningcha, bug haqida report berganda nimani ko'rsatish muhim?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1334",
+        "question": "Qaysi paytda bug tuzatilganini tushunasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1335",
+        "question": "Birovning kodida semantik jihatdan yomon narsani ko'rsangiz, unga buni qanday aytasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1336",
+        "question": "Opensource'dagi kelajagingizni qanday ko'rasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1338",
+        "question": "Enterprise Service Bus (ESB) nimadan iborat?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1339",
+        "question": "Ma'lumotlar bazasini qanday loyihalash kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1340",
+        "question": "Qaysi paytda IT sohasida ishlash vaqti kelganini tushundingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1342",
+        "question": "APS (?) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1355",
+        "question": "Branch'ni necha xil usulda yaratish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1357",
+        "question": "Testlash haqida qanday fikrdasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1360",
+        "question": "Composer instrumentidan odatda qanday foydalanasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1364",
+        "question": "Avtomatik testlash mavjud bo'lgan loyihalarda qanday instrumentlardan foydalanasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1367",
+        "question": "API endpoint uchun tipik test qanday tuzilgan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1370",
+        "question": "Siz uchun API endpoint uchun yaxshi bitta test nima hisoblanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1372",
+        "question": "Sizningcha, Code Review'da eng muhim narsa nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1382",
+        "question": "Ilovaning so'rov va javob formatlari nima uchun mo'ljallangan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1385",
+        "question": "Tarkibiy (composite) indeks nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1387",
+        "question": "Git qanday tuzilgan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1390",
+        "question": "Git nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1402",
+        "question": "Nima uchun Symfony, Yii yoki Laravel?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1470",
+        "question": "Unit testlar haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "1420",
+        "question": "JOINning qanday turlari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    }
+]
