@@ -1,0 +1,5105 @@
+[
+    {
+        "id": "2579",
+        "question": "O'zingiz haqingizda gapirib bering.",
+        "chance": "93",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2580",
+        "question": "Oldingi ish joyingizda qanday vazifalarni bajargansiz?",
+        "chance": "66",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2584",
+        "question": "data class nima uchun kerak?",
+        "chance": "60",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2582",
+        "question": "Activityning hayotiy sikli metodlarini bilasizmi va ular qanday ishlaydi?",
+        "chance": "60",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2581",
+        "question": "Android-ilovasining asosiy komponentlarini sanab o'ting.",
+        "chance": "53",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2620",
+        "question": "Android-dasturlashda qanday tajribangiz bor?",
+        "chance": "46",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2588",
+        "question": "Kotlin'ning afzalligi nimada?",
+        "chance": "46",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2587",
+        "question": "Nima uchun aynan Android dasturlash?",
+        "chance": "46",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2596",
+        "question": "Agar Activity mavjud bo'lsa, fragmentlar nima uchun kerak?",
+        "chance": "40",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2586",
+        "question": "Servislar nima uchun kerak?",
+        "chance": "40",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2585",
+        "question": "MVVM MVP'dan nima bilan farq qilishini bilasizmi?",
+        "chance": "40",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2595",
+        "question": "Nothing klassi (Kotlin'da) nima uchun kerak?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2591",
+        "question": "Korutinlar haqida batafsil gapirib bering.",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2598",
+        "question": "inline funksiyalar (Kotlin'da) nima?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2643",
+        "question": "HashMap qanday ishlaydi?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2763",
+        "question": "O'z kutubxonalaringizni yozish va publikatsiya qilish tajribangiz bormi?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2589",
+        "question": "Manifest (AndroidManifest.xml) nima uchun kerak?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2604",
+        "question": "Android uchun qanday loyihalar qilgansiz?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2594",
+        "question": "Kotlin'dagi Any, Unit, Nothing tiplari haqida gapirib bering.",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2593",
+        "question": "Garbage Collector nima?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2669",
+        "question": "data class oddiy klassdan nima bilan farq qiladi?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2660",
+        "question": "Kotlin'da qanday tajribangiz bor?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2603",
+        "question": "Jetpack Compose bilan ishlaganmisiz?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2601",
+        "question": "BroadcastReceiver nima?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2606",
+        "question": "LinkedList va ArrayList o'rtasidagi farq nimada?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2597",
+        "question": "RecyclerView haqida batafsil gapirib bering.",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2613",
+        "question": "SOLID prinsiplari nima?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2609",
+        "question": "Qachondir Custom View yozganmisiz?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2600",
+        "question": "Bir fragmentdan boshqasiga ma'lumotlarni qanday uzatish mumkin?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2602",
+        "question": "Korutinlar bilan qanday tajribangiz bor?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2666",
+        "question": "sealed klasslar nima va ular nima uchun kerak?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2614",
+        "question": "Toza arxitektura (Clean Architecture) haqida nima deya olasiz?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2599",
+        "question": "inline funksiyalar nima uchun kerak?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2622",
+        "question": "Kotlin'dagi object kalit so'zi haqida gapirib bering.",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2873",
+        "question": "Activity nima va u nima uchun ishlatiladi?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2616",
+        "question": "Qaysi texnologiyalar stekidan foydalanasiz?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2612",
+        "question": "Ilovalarning tizim oldidagi ustuvorligi qanday aniqlanadi?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2668",
+        "question": "Eng oddiy servis qaysi potokda ishga tushadi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2607",
+        "question": "Extension funksiyalar haqida gapirib bering.",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2656",
+        "question": "sealed klasslar bilan tanishmisiz? Ularning o'ziga xosligi nimada?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2608",
+        "question": "Viewning hayotiy sikllarini bilasizmi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2615",
+        "question": "Qaysi (dasturlash) tillarida yozasiz?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2645",
+        "question": "interface nima va u abstrakt klassdan nima bilan farq qiladi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2611",
+        "question": "launch async/awaitdan (korutinlar kontekstida) nima bilan farq qiladi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2610",
+        "question": "Siz uchun sifatli kod nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2617",
+        "question": "Karyerangizdagi eng katta xatoingiz haqida gapirib bering.",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2641",
+        "question": "Ko'p potoklilik bilan ishlashning qanday usullari mavjud?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2642",
+        "question": "Android freymvorkida ishlatiladigan qanday arxitektura patternlarini bilasiz?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2619",
+        "question": "Generiklarda Nothingni ishlatishning qanday o'ziga xosliklari bor?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2651",
+        "question": "Garbage Collector Roots nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2618",
+        "question": "Qanday ma'lumotlar strukturalari haqida bilasiz, gapirib bering.",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6214",
+        "question": "object / companion object (Kotlin'da) nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4583",
+        "question": "Android-dasturlashda Single Activity yondashuvi nimani anglatadi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4221",
+        "question": "Activityda fragmentlar qanday mavjud bo'ladi va nimaga bog'langanligi haqida gapirib bering.",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3604",
+        "question": "Fragmentning hayotiy sikli Activitynikidan nima bilan farq qiladi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4474",
+        "question": "Fragmentlarning hayotiy sikli Activity bilan bog'liqmi yoki o'zicha davom etadimi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2841",
+        "question": "data klasslar va sealed klasslar haqida gapirib bering.",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2827",
+        "question": "Java'ning sakkizinchi versiyasi Android'ning barcha versiyalari tomonidan qo'llab-quvvatlanadimi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2624",
+        "question": "Servislarning qanday turlari borligi haqida gapirib bering.",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2623",
+        "question": "Manifest'da qanday elementlar tavsiflanadi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2676",
+        "question": "equals va hashCode metodlari nima uchun kerak?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3541",
+        "question": "Java va Kotlin bilan qanday tajribangiz bor?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2621",
+        "question": "inlinedan foydalanib bo'lmaydigan holatlar bo'ladimi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2671",
+        "question": "O'z loyihalaringizda qaysi ma'lumotlar bazasidan foydalanasiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2670",
+        "question": "Kotlin Multiplatform bilan ishlaganmisiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2672",
+        "question": "Job va SupervisorJob (korutinlar kontekstida) o'rtasidagi farq nimada?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2667",
+        "question": "sealed klasslarning qanday cheklovlari bor?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2673",
+        "question": "CoroutineContext elementlari nimalar?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2661",
+        "question": "Fragmentning hayotiy sikli qanday?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2662",
+        "question": "Bir Activitydan boshqasiga ma'lumotlarni qanday uzatish mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2658",
+        "question": "Sof Android'da asinxron operatsiyalarni qanday ishga tushirish mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2657",
+        "question": "Siz asinxron operatsiyalar bilan qanday ishlaysiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2659",
+        "question": "ListViewning RecyclerViewga nisbatan kamchiliklarini bilasizmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2663",
+        "question": "Serializable va Parcelable obyektlar nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2654",
+        "question": "Nima uchun (ba'zi hollarda) Intent o'rniga PendingIntent ishlatiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2791",
+        "question": "Mobil ishlab chiqish uchun qaysi patternlar shaxsan sizga yoqadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2655",
+        "question": "Activity yo'q qilinganligini qanday bilish mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4607",
+        "question": "Toza arxitekturadagi loyihalaringiz bo'lganmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2790",
+        "question": "Mobil ishlab chiqishda an'anaviy ravishda qanday patternlar ishlatiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2653",
+        "question": "MVI (Model-View-Intent) ning afzalliklari va kamchiliklari haqida gapirib bering va u nima uchun kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2664",
+        "question": "crossinline (Kotlin'da) nima uchun kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2674",
+        "question": "Dispatcherlar (Korutinlar kontekstida) haqida nima bilasiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2648",
+        "question": "Android'da qanday ma'lumotlar bazalaridan foydalanish mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2647",
+        "question": "ContentProvider haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2649",
+        "question": "Qaysi Jetpack kutubxonalari bilan ishlagansiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2644",
+        "question": "Kotlin'da qanday kolleksiyalarni bilasiz va qaysilari bilan ishlagansiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2646",
+        "question": "Layout nima, uning qanday turlari bor va qachon ularni ishlatish kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2650",
+        "question": "SharedFlow nima va u StateFlowdan nima bilan farq qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2638",
+        "question": "Skroll paytida nima uchun list sekin ishlashi mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2637",
+        "question": "Agar legacy loyihada ilovaning sekin ishga tushishini tuzatishni so'rashsa nima qilasiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2785",
+        "question": "Asosiy potok (Main/UI thread) qanday ishlaydi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2804",
+        "question": "Klasslar kompozitsiyasi haqida nimadir bilasizmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2634",
+        "question": "Android dasturlashda qanday vazifalar bilan ishlashni xohlar edingiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2632",
+        "question": "Room kutubxonasi nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6318",
+        "question": "Dagger yordamida maydonga inject qilishning (field injection) qanday o'ziga xosliklari bor?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2625",
+        "question": "Agar LinkedList va ArrayListga element qo'shilsa, ular o'zini qanday tutadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "5780",
+        "question": "Unit va Nothing klasslari haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "5771",
+        "question": "Kotlin'da sizga nima yoqadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2628",
+        "question": "Arxitekturani qanday tanlagan bo'lar edingiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2629",
+        "question": "Activitylar bo'ylab navigatsiya qanday ishlaydi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "5772",
+        "question": "Kotlin'dagi barcha klasslar Anydan meros oladimi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2631",
+        "question": "Retrofit nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "5781",
+        "question": "Layout'larni resurs iste'moli tartibida joylashtiring.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2633",
+        "question": "Migratsiya nima va u nima uchun kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "5765",
+        "question": "Stack qanday ishlaydi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "5722",
+        "question": "Abstrakt klasslar va metodlar borasida Java va Kotlin o'rtasidagi asosiy farq nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "5766",
+        "question": "Stackning asosiy funksiyalari qaysilar?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4619",
+        "question": "equals va hashCode metodlari uchun qanday qoidalar mavjud?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4539",
+        "question": "O'z loyihangizda kanallardan (Channels, Kotlin Coroutines) foydalanganmisiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4629",
+        "question": "Dagger freymvorki haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "5767",
+        "question": "Qiymatni qo'shish LinkedListda tezroqmi yoki ArrayListdami?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10728",
+        "question": "Extensions (Kotlin'da) nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4215",
+        "question": "Siz yaratgan eng murakkab UIni tasvirlab bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3744",
+        "question": "Viewning qanday metodlari bor va har biri nima qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3777",
+        "question": "Nothing (tip iyerarxiyasida) qayerda joylashgan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3711",
+        "question": "Nima uchun Nothingni hamma joyga qo'yish mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3701",
+        "question": "Garbage collection ishi qanday amalga oshirilishini gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3702",
+        "question": "hashCode metodi nima uchun kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3725",
+        "question": "companion object qachon initsializatsiya qilinadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3602",
+        "question": "Fragmentlar qanday paydo bo'lganini bilasizmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3297",
+        "question": "Java va Kotlin'da sintaksis nuqtai nazaridan lambdalar nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2886",
+        "question": "Hilt nima va u nima uchun ishlatiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2882",
+        "question": "Android'da navigatsiya qanday amalga oshiriladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2887",
+        "question": "Dagger bilan tanishmisiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3635",
+        "question": "Xususiyat delegatlarining (property delegates, Kotlin'da) o'ziga xosligi nimada?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4500",
+        "question": "Push (notification) bilan qandaydir muammolar bo'lganmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10732",
+        "question": "Kesh xaritalar (masalan, LRUCache) qanday ishlashini bilasizmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2871",
+        "question": "Ko'p potoklilik nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2874",
+        "question": "View nimani anglatadi va uning vizual qismi uchun nima javob beradi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2856",
+        "question": "Abstrakt klass nima va u nima uchun ishlatiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4611",
+        "question": "Dagger nima uchun kerakligi haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2850",
+        "question": "(Kotlin/Java'da) Array Listdan nima bilan farq qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2842",
+        "question": "data-klasslar va sealed-klasslar nima bilan farqlanadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2853",
+        "question": "Kotlin'dagi inheritance haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4614",
+        "question": "Ilovaning asosiy bajarilish potogi qaysi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2675",
+        "question": "Java va Kotlin'dagi access modifikatorlar haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2679",
+        "question": "Android dasturlashni tanlashning afzalliklari nimada?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2837",
+        "question": "Kotlin'da garbage collector qachon va qanday ishlay boshlaydi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4626",
+        "question": "HashMapda obyektlarni saqlash qanday realizatsiya qilingan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2883",
+        "question": "Qanday navigatsiya usullarini bilasiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2826",
+        "question": "Android'da lambda-ifodalar qachon paydo bo'lganini eslaysizmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2840",
+        "question": "equals nima uchun ishlatilishi mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3545",
+        "question": "Sizning hozirgi loyihangizda qaysi til ishlatiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2761",
+        "question": "RecyclerViewni optimallashtirish uchun nimaga e'tibor berish kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3703",
+        "question": "HashMapdagi kolliziyalar haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2652",
+        "question": "Loyihada memory leakni qanday topish mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4174",
+        "question": "Kotlin'da klasslarni yaratishda Java'ga nisbatan nimalar o'zgargan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2722",
+        "question": "Fragmentlar qanday paydo bo'lganini va nima uchun ulardan foydalanish boshlanganini bilmaysizmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4620",
+        "question": "Java'da xotira qanday tuzilgan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10741",
+        "question": "Fragmentlar nima va nima uchun ularni ko'plab activity'lar o'rniga ishlatish qulayroq?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2797",
+        "question": "Ilovaga HTML qismlarini qanchalik tez-tez joylaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2796",
+        "question": "Runtime'da oldindan ko'zda tutilmagan dinamik ekranlarni qanday yaratish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2778",
+        "question": "IT sohasiga qachon kirib kelgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2795",
+        "question": "Agar ilovada ko'p ekranlar bo'lsa, ularni qanday bog'lash kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2810",
+        "question": "Softcode (?) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2784",
+        "question": "Handler (Android'da) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2794",
+        "question": "Nima uchun view va biznes-logikani ajratish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2777",
+        "question": "Qayerda o'qigansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2765",
+        "question": "Ilovani nima sekinlashtirishi mumkinligini taxmin qiling.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2783",
+        "question": "Looper nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2780",
+        "question": "Sizni IT sohasiga nima olib keldi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    #
+    ##########
+    ##########
+    ##########
+    #
+    Taglar
+    yoq
+    #
+    ##########
+    ##########
+    ##########
+    #
+    #
+    {
+        "id": "2793",
+        "question": "MVP qanday vazifani hal qiladi va usiz nima qilishga to'g'ri kelardi?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "2820",
+        "question": "Android freymvorki Factory patternini ishlatadigan holatga misol keltira olasizmi?",
+        "chance": "6",
+        "tag": "Patterns"
+    },
+    {
+        "id": "2792",
+        "question": "MVP haqida batafsilroq gapirib bering",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "2775",
+        "question": "Yoshingiz nechada?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2818",
+        "question": "Agar release build debug builddan farqli joyda ishdan chiqsa nima qilgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "2721",
+        "question": "onPause() va onStop() chaqiruvlaridan qochish mumkinmi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2817",
+        "question": "Middle-dasturchi pozitsiyasida ko'proq kod yozib, kamroq boshqarishga to'g'ri kelishi sizni qoniqtiradimi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2720",
+        "question": "Background service foreground service'dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2719",
+        "question": "Service'dan foydalanganmisiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2716",
+        "question": "Resurslarda (resources) nima joylashgan va ularda qanday ma'lumotlarni saqlash mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2821",
+        "question": "Factory va Builder patternlari nima?",
+        "chance": "6",
+        "tag": "Patterns"
+    },
+    {
+        "id": "2758",
+        "question": "Komponentlardan birortasini Manifest'da tavsiflamaslik mumkinmi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2756",
+        "question": "Job obyekti (Kotlin Coroutines) nima uchun kerak?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "2754",
+        "question": "Kotlin'da qanday Object turlarini bilasiz va ular qanday kompilyatsiya qilinadi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2752",
+        "question": "Data class ko'p metodlar generatsiya qilishi qandaydir zarar keltirishi mumkinmi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2750",
+        "question": "Kod sifatining qandaydir aniq mezonlarini ayting",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "2749",
+        "question": "Kod sifatini saqlab turish uchun nimadan foydalanasiz?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "2748",
+        "question": "Tasavvur qiling, 5 daqiqada ixtiyoriy bitta ko'nikmani egallashingiz mumkin, nimani tanlar edingiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2747",
+        "question": "Ishda sizni nima demotivatsiya qilishi mumkin?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2751",
+        "question": "2-4 ming qatorli juda uzun klasslarga qanday qaraysiz?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "2746",
+        "question": "Kod revyu bahosiga qo'shilmagan vaziyatlardan qanday chiqqansiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2753",
+        "question": "Kotlin'da ikkitalik (==) va uchtalik (===) tenglik nima bilan farq qiladi va nima uchun uchtalik tenglik o'ylab topilgan?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2755",
+        "question": "Oddiy Object (singleton) qaysi paytda initsializatsiya qilinadi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2745",
+        "question": "Oldingi jamoada kod revyu bo'lganmi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2757",
+        "question": "async/await qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "2744",
+        "question": "Kompaniya tanlashda nimaga e'tibor berasiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2759",
+        "question": "Agar ilovani ishga tushirishdan oldin analitika yig'ish kerak bo'lsa, uni qayerda tavsiflagan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "SDLC"
+    },
+    {
+        "id": "2743",
+        "question": "Yangi ish joyidan qanday kutilmalaringiz bor?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2742",
+        "question": "MVVM'ning asosiy afzalligi nimada?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "2770",
+        "question": "Kursorda limit nima uchun kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2741",
+        "question": "Ma'lumotlar bazasini qanday yaratgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2740",
+        "question": "GET so'rovini tavsiflash uchun nima qilish kerak?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "2739",
+        "question": "Tema (theme) sozlamalarini qanday saqlash va qo'llash kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2822",
+        "question": "Android'dagi qandaydir builder'lar (pattern) haqida gapirib bera olasizmi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2738",
+        "question": "add() va replace() (FragmentTransaction metodlari) nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2724",
+        "question": "Activity'ni fragmentlarga o'xshatib qanday qilish mumkin?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "2723",
+        "question": "Nima uchun ko'pchilik MVP'dan voz kechmoqda?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "2830",
+        "question": "Desugaring nima ekanligini bilasizmi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "2834",
+        "question": "Nima uchun data class'dagi listlar bilan muammolar bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2715",
+        "question": "Kodni qanday build qilinadi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "2714",
+        "question": "Loyiha qanday qismlardan iborat va qaysi qism nima uchun javob beradi?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "2816",
+        "question": "Server soketida qayta ishlash kerak bo'lgan qanday hodisalar (events) bor?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "2815",
+        "question": "Socket ishini qaysi klasslar ta'minlaydi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "2773",
+        "question": "Boshqa ilova avtorizatsiya tokenini xavfsiz olishi uchun nima qilish kerak?",
+        "chance": "6",
+        "tag": "Security"
+    },
+    {
+        "id": "4603",
+        "question": "Java'da extension function analogini yaratish mumkinmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2713",
+        "question": "Kotlin'da bitta klassda bir nechta konstruktor qanday yaratish mumkin?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2712",
+        "question": "Data class'da konstruktorlar nima uchun kerak va ularsiz ishlasa bo'ladimi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2711",
+        "question": "val va var o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2710",
+        "question": "O'zgaruvchini e'lon qilish qanday amalga oshadi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2814",
+        "question": "DDP (Distributed Data Protocol) protokolining qanday o'ziga xosliklari bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2709",
+        "question": "Kotlin'da primitiv tiplarni ishlatish mumkinmi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2707",
+        "question": "Qanday yordamchi (scope) funksiyalarni bilasiz yoki ishlatgansiz?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2706",
+        "question": "Inline funksiyalarni ishlatganda overload qachon sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2813",
+        "question": "Android ilovasining server bilan o'zaro aloqasi haqida nima deya olasiz?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "2705",
+        "question": "Inline funksiyalardan foydalanganmisiz?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2704",
+        "question": "Kotlin'da oddiy metod va extension metod o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2703",
+        "question": "TextView'ni qandaydir metod bilan qanday kengaytirgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2702",
+        "question": "Java'da extension funksiyani qanday yozgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "2812",
+        "question": "O'z loyihalaringizda qanday qiyinchiliklarga duch kelgansiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2701",
+        "question": "Kotlin'da statik field, metod, klass qanday qilish mumkin?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2700",
+        "question": "Klass merosxo'r ekanligini qanday tushunish mumkin?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2699",
+        "question": "Kotlin'da ikki klass o'rtasida merosxo'rlikni qanday yozgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2698",
+        "question": "Ikki undov belgisi (!!) nima uchun ishlatiladi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2811",
+        "question": "Beautiful Columns antipatterniga duch kelganmisiz?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "2788",
+        "question": "Kotlin'dagi properties (xususiyatlar), get va set metodlari haqida nima deya olasiz?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2771",
+        "question": "Tizim qaysi protsessni o'ldirishni qanday hal qiladi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2697",
+        "question": "Agar nullable obyekt maydoniga murojaat qilinsa nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2696",
+        "question": "Xatoliklar (Error/Exception) ierarxiyasi haqida bilasizmi?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "2695",
+        "question": "Bitta Try'da bir nechta Catch bo'lishi mumkinmi?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "2694",
+        "question": "Try Catch blokidan foydalanganmisiz?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "2809",
+        "question": "Hardkodni qanday ko'rish mumkin, qanday belgilari bor?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "2693",
+        "question": "Java'da xatoliklar qanday qayta ishlanadi va ular bilan qanday ishlash kerak?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "2692",
+        "question": "Semaforlar bilan ishlaganmisiz?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "2691",
+        "question": "Race condition bilan kurashishning volatile'dan tashqari yana qanday usuli bor?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "2690",
+        "question": "Nima uchun race condition sodir bo'ladi va u bilan qanday kurashish kerak?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "2808",
+        "question": "Kodda nimani yomon deb hisoblaysiz, nimani darhol almashtirishni xohlaysiz?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "2787",
+        "question": "Ko'p modullilik (multi-module architecture) nima?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "2689",
+        "question": "Kodni parallel (main bo'lmagan) potokda qanday bajarish mumkin?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "2688",
+        "question": "List'ning qanday implementationlari bor?",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "2687",
+        "question": "Kolleksiyalarning qanday implementationlari bor?",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "2686",
+        "question": "Java'da qanday kolleksiyalar bor?",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "2807",
+        "question": "Antipatternlar haqida gapirib bering",
+        "chance": "6",
+        "tag": "Patterns"
+    },
+    {
+        "id": "2685",
+        "question": "Kotlin'da qanday primitivlar bor, Java'da-chi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2684",
+        "question": "Java'dagi access modifikatorlari haqida gapirib bering",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "2683",
+        "question": "Reference tiplarni primitivlarga va aksincha qanday o'tkazish mumkin?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "2682",
+        "question": "Primitiv va reference tiplarining farqi nimada?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "2806",
+        "question": "Facade patternining asosiy g'oyasi nimada?",
+        "chance": "6",
+        "tag": "Patterns"
+    },
+    {
+        "id": "2786",
+        "question": "Asosiy potokning overload muammosini tuzatish qiyinmi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "2769",
+        "question": "Ilovalar o'rtasida ma'lumotlarni uzatish usullarining har biri nima uchun ishlatiladi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4613",
+        "question": "View'ni qayta chizadigan metodlar haqida gapirib bering",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2681",
+        "question": "Object klassining qanday metodlari bor?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "2680",
+        "question": "Java'da barcha klasslar qaysi obyekt(klass)dan meros oladi?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3351",
+        "question": "MVVM'ni o'zingiz qanday amalga oshirgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3347",
+        "question": "Java'da Extension funksiyalar qanday qo'llaniladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3343",
+        "question": "Ayni paytda nima va qanday o'rganyapsiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "3334",
+        "question": "Qaysi UI arxitekturasi bilan ma'lumotlar yetkaziladi va chiziladi?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3316",
+        "question": "Videoni xavfsiz va ishonchli yuklashni umumiy tarzda qanday amalga oshirish mumkin?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "3313",
+        "question": "Git'da bir nechta kommitni bittaga qanday birlashtirish mumkin?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3309",
+        "question": "Android arxitektura komponentlarida view modelining holatini qanday saqlash mumkin?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3305",
+        "question": "Kotlin'da Java metodiga lambda uzatishda qanday xavflar mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3300",
+        "question": "Java'da lambdaning tipi qanday?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3319",
+        "question": "Foydalanuvchining lokal vaqti va server vaqtini qanday sinxronlashtirish mumkin?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3325",
+        "question": "Server real vaqtda ma'lumotlarni qaysi protokollar orqali uzatadi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "3329",
+        "question": "Ma'lumotlarni qayta ishlash uchun qanday asinxron primitivlar ishlatiladi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3337",
+        "question": "Stringni qanday teskari qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3341",
+        "question": "Karyerangizdagi eng katta xatoni qanday qilib oldini olish mumkin edi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "3342",
+        "question": "Kodda xatoliklar borligini tekshirish uchun UI testlardan tashqari nima qilish kerak?",
+        "chance": "6",
+        "tag": "Testing"
+    },
+    {
+        "id": "3344",
+        "question": "Qaysi hollarda null safety zarar keltirishi mumkin?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3345",
+        "question": "Kod miqdori uning ishlash samaradorligiga ta'sir qiladimi?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "3346",
+        "question": "Data class'da equals'ni har doim override qilmaslik mumkinmi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3348",
+        "question": "Arxitekturadan qanday foyda olamiz?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3349",
+        "question": "Presentation layer patterni bilan nima qilgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3350",
+        "question": "View'ni Presenter'da saqlash nima uchun yomon?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3352",
+        "question": "MVI bilan saqlash kerak bo'lmagan hodisalarni (events) qanday qayta ishlash mumkin?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3353",
+        "question": "Nimani tanlagan bo'lar edingiz: MVI yoki MVVM?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3354",
+        "question": "Qaysi hollarda korutinlar va RxJava'dan foydalanish tavsiya etilmaydi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3293",
+        "question": "Garbage collector ishini ko'rsatadigan referencelar bormi?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3356",
+        "question": "Korutinlarning RxJava oldidagi qanday afzalliklari bor?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3357",
+        "question": "Dependency Injectiondan foydalanasiz?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3358",
+        "question": "Dagger'ning qanday muammolari bor?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3360",
+        "question": "Subkomponentlarning asosiy muammosi nimada?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3361",
+        "question": "Scope nima, ular qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3362",
+        "question": "Scope performansga qanday ta'sir qilishi mumkin?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3288",
+        "question": "Runtime nima uchun javob beradi?",
+        "chance": "6",
+        "tag": "JVM"
+    },
+    {
+        "id": "3364",
+        "question": "Qaysi UI frameworkni tanlaysiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3365",
+        "question": "UI bilan ishlashni qanday to'g'ri tashkil qilish kerak?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3366",
+        "question": "Delegatda matn va rasmlar bilan ishlashni qanday tashkil qilish kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2892",
+        "question": "CharSequence nima?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3368",
+        "question": "DiffUtils uchun adapterlarni qanday yaratgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3369",
+        "question": "ListAdapter haqida eshitganmisiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3370",
+        "question": "Qaysi hollarda diff hisoblash background potokda yomon ishlaydi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3372",
+        "question": "Qachon png va webp, qachon esa svg ishlatgan ma'qul?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3373",
+        "question": "Nima yaxshiroq: png yoki webp?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3374",
+        "question": "Qaysi ImageLoader'dan foydalanasiz?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "2891",
+        "question": "Retrofit yordamida tarmoq so'rovlarini qanday qilish kerak?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "3376",
+        "question": "Keshni qanday qilish kerak?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3377",
+        "question": "Qaysi hollarda atomic, qaysi hollarda synchronized ishlatiladi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3378",
+        "question": "UI testlash uchun qaysi vositalarni tanlagan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Testing"
+    },
+    {
+        "id": "2890",
+        "question": "Tarmoq so'rovlarini amalga oshirish uchun native yechimlar qilganmisiz?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "3380",
+        "question": "So'nggi paytlarda qanday turdagi, tushunishga to'g'ri kelgan vazifalarni bajardingiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "3381",
+        "question": "Chatning sekinlashuvi bilan bog'liq muammolarni qanday hal qilgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "3384",
+        "question": "List elementlari bilan qanday muammolar bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2889",
+        "question": "Android'da tarmoq bilan ishlash uchun nima ishlatiladi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "3387",
+        "question": "Elementning yomon layout'ini qanday tuzatish mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2888",
+        "question": "StateFlow nima uchun kerak?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3389",
+        "question": "Bizning harakatlarimizdan keyin dasturning ishlash tezligi o'zgarishini qanday aniqlash mumkin?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "2678",
+        "question": "Birinchi o'rgangan tilingiz qaysi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "3391",
+        "question": "Ilova orqali serverga fayllarni yuklashni qanday amalga oshirgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "3392",
+        "question": "Serverga fayllarni yuborish uchun qaysi API yoki boshqa vositalardan foydalanasiz?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3393",
+        "question": "Serverdan fayllarni yuklab olish va ko'rish imkoniyatini qanday amalga oshirgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "2885",
+        "question": "MVVM patterni haqida gapirib bering",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3397",
+        "question": "Intent'da faylga ssilkani (URI) qanday uzatish mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2884",
+        "question": "Jetpack ViewModel haqida gapirib bering",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3399",
+        "question": "Eski yechim o'rniga Paging 3 kutubxonasini integratsiya qilishga arziydimi yoki yo'qligini qanday aniqlaysiz?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "2881",
+        "question": "DataStore Preferences bilan ishlaganmisiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3401",
+        "question": "Korutinlar bilan qanday kutilmagan muammolar paydo bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "2880",
+        "question": "Android ilovalarida qanday storage types mavjud?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3403",
+        "question": "Fragmentlar kommunikatsiyasini callback'lar orqali qanday qilish mumkinligi haqida g'oyalar bormi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3404",
+        "question": "Presenter'ning view'ga so'rovlarini bekor qilish uchun qanday mexanizmlar mavjud?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3405",
+        "question": "Sizningcha, OnDetachedFromWindow metodi qachon chaqiriladi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2677",
+        "question": "Dasturlashni o'rganishni nimadan boshlagansiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "2805",
+        "question": "Facade patterniga duch kelganmisiz?",
+        "chance": "6",
+        "tag": "Patterns"
+    },
+    {
+        "id": "2879",
+        "question": "BroadcastReceiver xabarlarni qabul qila olishi uchun uni qanday ulash kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3411",
+        "question": "ViewTreeObserver'dan foydalanishga misollar keltira olasizmi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2878",
+        "question": "IntentService bilan ishlaganmisiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3415",
+        "question": "View holatini saqlash qanday amalga oshadi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4630",
+        "question": "Agar sizning biror klassingiz obyektini serializatsiya qilish kerak bo'lsa, lekin uning maydonlaridan biri serializatsiya qilinmaydigan bo'lsa, nima qilish kerak?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3423",
+        "question": "Qaysi hollarda commitAllowingStateLoss'ni chaqirish kerak bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4628",
+        "question": "Serializatsiya nima?",
+        "chance": "6",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "4624",
+        "question": "final va finalize nima va ular nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3438",
+        "question": "Backend'ga fayllarni yuklashni qanday amalga oshirgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "3450",
+        "question": "Nima uchun faylni serverga stream yordamida yuborib bo'lmaydi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "3453",
+        "question": "WorkManager ishining natijasini ilovaga qanday qaytarish mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3456",
+        "question": "Tizim servisni qaysi paytda qayta ishga tushirishi mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3465",
+        "question": "Agar Activity servisdan keyin ishga tushsa, shu servisga ulanish mumkinmi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3468",
+        "question": "WorkManager natijani qanday uzatadi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3471",
+        "question": "Handler va Looper yordamida asosiy potokda xabarlarni qanday qabul qilish mumkin?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3475",
+        "question": "Potokda Looper borligini tekshirish qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3476",
+        "question": "Agar potok bo'sh navbatni (message queue) qayta ishlasa nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3478",
+        "question": "Analitika kutubxonasi uchun ThreadPool'ni qanday sozlagan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3485",
+        "question": "Tizim yadroni (CPU core) bo'shatib, uni boshqasiga berish kerakligini qachon tushunadi?",
+        "chance": "6",
+        "tag": "OS Concepts"
+    },
+    {
+        "id": "3488",
+        "question": "LeakCanary memory leak sodir bo'lganini qanday tushunadi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3491",
+        "question": "Heap dumpda leak borligini qanday tushunish mumkin?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3497",
+        "question": "LeakCanary yo'q qilingan Activity'ga ssilkani qanday topadi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3500",
+        "question": "Agar obyektga ssilkalar bo'lmasa, uni qanday topish mumkin?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3505",
+        "question": "Obyektni qanday qilib bir muncha vaqt saqlab qolishimiz mumkin?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3513",
+        "question": "Tizim ro'yxatni chizish chastotasini (frame rate) qanday kafolatlaydi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3515",
+        "question": "Rendering yetarli tezlikda ishlamayotganini avtomatik ravishda qanday topish mumkin?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "3519",
+        "question": "Ikki jadvaldan ma'lumotlarni so'rash algoritmi qanday ko'rinishda va uning murakkabligi qanday?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "3529",
+        "question": "Relyatsion jadvalda har bir element uchun unikal ma'lumotni qanday saqlash mumkin?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "3537",
+        "question": "Hozirgi ish joyingizda jamoada sizning darajangizdagi nechta dasturchi bor edi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "3567",
+        "question": "Java'da kutubxona uchun utility class qanday yaratgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3571",
+        "question": "Kotlin'da NullPointerException olish mumkinmi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3581",
+        "question": "Data class'ning qanday metodlari bor?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3586",
+        "question": "Data class'dagi componentN() nima uchun xizmat qiladi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3589",
+        "question": "Data class yaratishda qanday talablar bor?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3593",
+        "question": "Sealed klasslarning abstrakt klasslardan farqi nimada?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3595",
+        "question": "Executor'lar qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3598",
+        "question": "Ilovada xotiradan foydalanishni qanday optimallashtirish mumkin?",
+        "chance": "6",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "3606",
+        "question": "Nima uchun fragmentda UI yaratish uchun alohida callback (onCreateView) kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3610",
+        "question": "Ko'p sonli elementlardan iborat ro'yxat uchun qaysi layoutni tanlash kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3613",
+        "question": "ItemDecoration nima qilishga imkon beradi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3616",
+        "question": "RecyclerView'da animatsiyalar qanday qilinadi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3618",
+        "question": "Jetpack nima?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3622",
+        "question": "Data Binding'dan foydalanganmisiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3626",
+        "question": "Sizningcha, nima uchun LifeCycle kutubxonasini yaratishga qaror qilishgan?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3631",
+        "question": "Boshqaruv va ishlab chiqishga qancha vaqt ketadi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "3637",
+        "question": "Delegatlar Java kompilyatsiyasi darajasida qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3644",
+        "question": "Nima tezroq ishlaydi: delegat yoki getter/setter?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3664",
+        "question": "Kotlin'dagi tiplar Java'dagi tiplardan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "3674",
+        "question": "Korutinlarning Java'dagi potoklardan konseptual farqi nimada?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "3681",
+        "question": "Nima uchun fragment callback'lari Activity callback'laridan farq qiladi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3684",
+        "question": "Fragmentdan tashqarida ma'lumotlarni qanday saqlash mumkin?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3686",
+        "question": "ViewModel qaysi paytgacha holatni saqlashni kafolatlaydi?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3694",
+        "question": "Java'da obyektlar nima?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3696",
+        "question": "Referencelarning barcha turlari obyektni o'chirishdan himoya qiladimi?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "3698",
+        "question": "Primitivlar nima?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "4622",
+        "question": "Agar ilovada bir nechta potok yaratilsa, stack/heap xotirasi hajmi o'zgaradimi?",
+        "chance": "6",
+        "tag": "JVM"
+    },
+    {
+        "id": "2803",
+        "question": "Nima uchun merosxo'rlik yomon yoki noqulay bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "3705",
+        "question": "LinkedHashMap'ga duch kelganmisiz?",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "3706",
+        "question": "Data class'dan meros olish mumkinmi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4618",
+        "question": "Agar Java kodidan Kotlin'ning internal maydoniga murojaat qilinsa nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "4616",
+        "question": "Tilning qaysi vositalari yordamida threads yaratish mumkin?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "4608",
+        "question": "Data layer'da nima saqlanadi?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3716",
+        "question": "Nothing tipining nechta instansi bor?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4605",
+        "question": "Java'da obyekt yaratish uchun qaysi patterndan foydalanish mumkin?",
+        "chance": "6",
+        "tag": "Patterns"
+    },
+    {
+        "id": "3723",
+        "question": "Kompilyator darajasida barcha funksiyalarni inline qilish mumkinmi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "2877",
+        "question": "Custom view va custom layout'ni qanday birlashtirish mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3728",
+        "question": "Ilovaga kirishning eng erta nuqtasini qanday 'ushlash' (detect qilish) mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2876",
+        "question": "ViewGroup nima va uning qanday turlari bo'ladi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "3734",
+        "question": "Bundle'ga nima qo'yish mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2802",
+        "question": "Qaysi hollarda merosxo'rlik foydali, qaysilarida esa yo'q?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "3740",
+        "question": "Katta hajmdagi ma'lumotni, masalan, rasmni Activity'ga qanday to'g'ri uzatish kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2782",
+        "question": "Fragmentdan Activity metodini qanday chaqirish mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "2766",
+        "question": "Bizda ilovani profillash uchun qurilma yo'q. Kodni tekshirish uchun nima qilgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "4529",
+        "question": "Job (Coroutine Job) nimani anglatadi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4530",
+        "question": "Korutinlarda xatoliklarni qayta ishlashning qanday usullarini bilasiz?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4531",
+        "question": "Xatoliklarni qayta ishlashda launch va async o'rtasida farqlar bormi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4532",
+        "question": "coroutineScope va supervisorScope o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4533",
+        "question": "Biz korutinani bekor qilganimizni scope qanday biladi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4534",
+        "question": "Korutinalarni bekor qila olmaydigan holatlar bormi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4535",
+        "question": "O'z korutinangizni bekor qilinmaydigan (non-cancellable) qanday qilgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4536",
+        "question": "runBlocking, runBlockingTest va runTest nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Testing"
+    },
+    {
+        "id": "4537",
+        "question": "Korutinlarda mutex qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4538",
+        "question": "Nima uchun korutinlar bilan synchronized bloki va shunga o'xshash tiplarni ishlatish tavsiya etilmaydi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4541",
+        "question": "Flow nimani anglatadi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4542",
+        "question": "Animatsiya paytida sizda onDraw sekundiga necha marta sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4543",
+        "question": "Nima uchun animator ichida layout'ni o'zgartirish yomon?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4544",
+        "question": "Bottom navigation bilan navigatsiyani stackini saqlaydigan qilib qanday amalga oshirasiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4545",
+        "question": "Ma'lumotlarni saqlashning qanday usullarini bilasiz?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4546",
+        "question": "Room va SQLite o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4547",
+        "question": "Tokenlarni qayerda saqlaysiz?",
+        "chance": "6",
+        "tag": "Security"
+    },
+    {
+        "id": "4548",
+        "question": "Testlarga qanday qaraysiz?",
+        "chance": "6",
+        "tag": "Testing"
+    },
+    {
+        "id": "4549",
+        "question": "Intent orqali rasmni uzatish mumkinmi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4550",
+        "question": "Generics'dan qayerda foydalangansiz?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "4551",
+        "question": "Upper bounds va lower bounds cheklovlari haqida gapirib bering",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "4552",
+        "question": "PECS (Producer Extends, Consumer Super) prinsipi haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "4553",
+        "question": "Star projection (*) haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4554",
+        "question": "Heap pollution haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "4555",
+        "question": "Runtime'da generik tipiga kirish mumkinmi?",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "2764",
+        "question": "Ilovani profillash nimani anglatadi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "4557",
+        "question": "Inline klasslardan foydalanganmisiz?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4558",
+        "question": "Structured concurrency haqida nima deya olasiz?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4559",
+        "question": "CoroutineScope - bu nima?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4560",
+        "question": "Agar scope ichida korutina ishdan chiqsa, scope bilan nima bo'ladi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4562",
+        "question": "Back pressure haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4563",
+        "question": "Flow'dan potoklarni qanday almashtirishingiz mumkin? Flow qaysi potokda ishlaydi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4564",
+        "question": "Flow xatoliklarini qayta ishlash haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4565",
+        "question": "Flow'ning qanday operatorlari bor?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4566",
+        "question": "List, Set, Map'ning farqlari va qaysi hollarda ularni ishlatish kerakligini aytib bera olasizmi?",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "4568",
+        "question": "LinkedList'da elementga kirish, qo'shish/o'chirish murakkabligi haqida nima deya olasiz?",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "4569",
+        "question": "Kotlin'da umuman qanday delegat turlari borligini bilasizmi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4570",
+        "question": "Kotlin'da class delegatsiyasi ishlash prinsipini tushuntirib bera olasizmi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4571",
+        "question": "Qanday standart delegatlarni bilasiz?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4572",
+        "question": "lazy delegati potok uchun xavfsizmi (thread-safe)?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4573",
+        "question": "Kotlin'dagi access modifikatorlarni ayting",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4574",
+        "question": "internal (modifikatori) haqida nima deya olasiz?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4575",
+        "question": "Private fieldning qiymatini ola olasizmi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4576",
+        "question": "Tashqaridan private fieldga qanday kirish mumkin?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4577",
+        "question": "Garbage collector'da obyektlar qayerda saqlanadi?",
+        "chance": "6",
+        "tag": "JVM"
+    },
+    {
+        "id": "4578",
+        "question": "Old va Young generation'lar haqida gapirib bering",
+        "chance": "6",
+        "tag": "JVM"
+    },
+    {
+        "id": "4579",
+        "question": "Heap va stack ichida nima borligini ayting",
+        "chance": "6",
+        "tag": "JVM"
+    },
+    {
+        "id": "4580",
+        "question": "Qanday reference turlari borligini aytib bering",
+        "chance": "6",
+        "tag": "Java Core"
+    },
+    {
+        "id": "4582",
+        "question": "Bir nechta modullari bo'lgan loyihalarda ko'plab Android Manifest'lar bo'lishi mumkin, bu nima uchun qilinadi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4585",
+        "question": "WorkManager qachon ishlay boshlaydi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4586",
+        "question": "Ekranda UI chizishni boshlash uchun Android loyihasida nima qilish kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4587",
+        "question": "XML'siz UI qanday chizish mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4588",
+        "question": "View'da animatsiyalarni qilishning qanday usullari bor?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4589",
+        "question": "Agar ekranlar orasidagi o'tishni animatsiya qilish kerak bo'lsa nima qilish kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4590",
+        "question": "Ishni asosiy potokdan chiqarishning qanday usullari bor?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4591",
+        "question": "Handler ishni sinxron bajarishga qanday yordam beradi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4592",
+        "question": "Handler yordamida tarmoqqa so'rov qilish mumkinmi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4593",
+        "question": "Handler thread yaratish usulini bilasizmi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4594",
+        "question": "Coroutine uchun bir vaqtning o'zida ikkita tarmoq so'rovini, ikkalasi ham bajarilishi uchun qanday ishga tushirish mumkin?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4595",
+        "question": "RxJava uchun bir vaqtning o'zida ikkita tarmoq so'rovini qanday ishga tushirish mumkin?",
+        "chance": "6",
+        "tag": "RxJava"
+    },
+    {
+        "id": "4596",
+        "question": "Korutinalar uchun ishga tushirilgan ikkita tarmoq so'rovining parallel bajarilishini zip (operatori) kafolatlaydimi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4597",
+        "question": "Android ilovalarida dependency injection nima uchun kerak?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "4598",
+        "question": "Dagger va Koin freymvorklari nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "4599",
+        "question": "Dagger'ning @Provides va @Binds annotatsiyalari haqida gapirib bering",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "4600",
+        "question": "@Provides mavjud bo'lganda, @Binds nima uchun kerak?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "4601",
+        "question": "@Subcomponent va @Component (dependencies?) annotatsiyalari nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "4606",
+        "question": "Kotlin'da statik o'zgaruvchini qanday qilish mumkin?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "4609",
+        "question": "Manifest'da komponentlarni e'lon qilish sabablari haqida gapirib bering",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "4612",
+        "question": "SQLite ishlatganda kod qaysi paytda generatsiya qilinadi?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "4615",
+        "question": "Agar asosiy potokda ishni uzoq vaqt bajarsa nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "4617",
+        "question": "Access modifikatorlar nima?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "4621",
+        "question": "Stack va heap xotirasining hajmi qanday?",
+        "chance": "6",
+        "tag": "JVM"
+    },
+    {
+        "id": "4623",
+        "question": "Garbage collector obyektni yo'q qilish mumkinligini qanday tushunadi?",
+        "chance": "6",
+        "tag": "JVM"
+    },
+    {
+        "id": "4625",
+        "question": "Java'dagi kolleksiyalar ierarxiyasini tasvirlab bering",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "4627",
+        "question": "Set va List kolleksiyalarining asosiy farqlari",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "5805",
+        "question": "DiffUtil nima uchun kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "5703",
+        "question": "Servislarning hayot sikli qanday?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "5704",
+        "question": "IntentService Service'dan farqi",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "5705",
+        "question": "Servislarda onBind metodi nima uchun kerak?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "5706",
+        "question": "Activity va fragment o'zaro aloqasini qanday tashkil qilish mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "5707",
+        "question": "Fragmentga parametrlarni qanday uzatish mumkin?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "5708",
+        "question": "Nima uchun parametrlarni fragment konstruktoriga uzatib bo'lmaydi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "5709",
+        "question": "O'z broadcast xabaringizni yuborish mumkinmi?",
+        "chance": "6",
+        "tag": "Android Core"
+    },
+    {
+        "id": "5710",
+        "question": "Android'da ko'p potokli kodni tashkil qilish uchun Thread ishlatish mumkinmi? Qanday muammolar bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "5711",
+        "question": "Suspend funksiya nima?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "5712",
+        "question": "Suspend funksiyaning bajarilishini to'xtatib turish imkoniyati qanday ta'minlanadi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "5713",
+        "question": "Agar domain layer boshqa layer'larga bog'liq bo'lmasa, u data layer bilan qanday o'zaro aloqada bo'ladi?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "5714",
+        "question": "MV* patternlari (MVP, MVVM, MVI) nimani anglatadi?",
+        "chance": "6",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "5715",
+        "question": "Ma'lumotlar strukturalari nima uchun kerak?",
+        "chance": "6",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "5716",
+        "question": "Iterator nima?",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "5717",
+        "question": "Ma'lumotlarni iterator bilan aylanib chiqqandan so'ng, bu ma'lumotlarni olish ketma-ketligi kafolatlanadimi?",
+        "chance": "6",
+        "tag": "Java Collections"
+    },
+    {
+        "id": "5718",
+        "question": "List massivdan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "5720",
+        "question": "Qandaydir elementlarni bir joyga to'plash kerak bo'lgan, lekin bir xil elementlar bo'lishi mumkin bo'lmagan loyihani qanday amalga oshirgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Algoritmlar, strukturalar"
+    },
+    {
+        "id": "5721",
+        "question": "== qilganda nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Kotlin"
+    },
+    {
+        "id": "5723",
+        "question": "public, private, protected access darajalari o'rtasidagi farqlar nimada?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "5724",
+        "question": "Git'da odatda qanday operatsiyalarni bajarasiz?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    ##################################################
+    ##################################################
+    {
+        "id": "5725",
+        "question": "Как использовал Gradle в своей работе",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5726",
+        "question": "Какой опыт работы с Android Application Components",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5727",
+        "question": "Какие механизмы в Android позволяют сделать так, чтобы наше приложение не умерло",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5728",
+        "question": "Что такое doze mode",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5729",
+        "question": "Что знаешь про up buckets",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5730",
+        "question": "Какого типа диалогами приходилось работать",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5731",
+        "question": "Какие методы будут вызваны у Activity b ,когда мы откроем диалог",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5732",
+        "question": "Основные классы которые  есть в Coroutines",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5733",
+        "question": "Нужно запустить синхронный код и получить его результат,как это будешь делать",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5734",
+        "question": "Что самое сложное приходилось делать в Git",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5735",
+        "question": "Что знаешь про историю files storage в Android",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5736",
+        "question": "С какими локами работал",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5737",
+        "question": "Что такое DI",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5738",
+        "question": "С какими DI framework работал",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5739",
+        "question": "Зачем нужны компоненты и модули в Dagger",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5740",
+        "question": "Почему плохо закидывать все зависимости в один компонент.  Как это сделать по другому",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5741",
+        "question": "Как добиться того, чтобы Activity были доступны объекты из up компонента",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5742",
+        "question": "Какой опыт в тестировании",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5743",
+        "question": "Какие классы покрываешь юнит-тестами",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5744",
+        "question": "Что знаешь о модификациях",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5745",
+        "question": "Что такое PendingIntent",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5747",
+        "question": "Как приложение понимает что оно может обработать тот или иной Intent",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5748",
+        "question": "Что значит флаг экспорт",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5749",
+        "question": "Насколько приходилось работать с разными каналами для модификаций",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5750",
+        "question": "Расскажи про опыт с профайлингом",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5751",
+        "question": "Если профайлер показывает тебе что какой-нибудь фрейм занял 120 миллисекунд, что это значит",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5752",
+        "question": "Что будешь делать если команда с тобой не согласна",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5753",
+        "question": "Расскажи о конфликтной ситуации на работе",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5754",
+        "question": "Как построишь коммуникацию между фрагментом и сервисом",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5755",
+        "question": "Как добавишь возможность работать с приложением оффлайн",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5756",
+        "question": "Где будешь искать проблему медленного холодного запуска приложения",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5757",
+        "question": "API медленно работает,поэтому ваша команда решила сделать prefetch данных, как это реализуешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5758",
+        "question": "Каким образом структуры данных реализованы в Java и Kotlin",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5759",
+        "question": "Как происходит инициализация",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5760",
+        "question": "Каким образом определяются размеры хэш-таблицы",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5761",
+        "question": "По какому еще  условию сравнивается объект, кроме как хэш-кода",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5762",
+        "question": "Как происходит вставка значения в HashMap",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5763",
+        "question": "Как деревья реализованы в Java",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5764",
+        "question": "Как устроен set",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5768",
+        "question": "Как вставить значение в HashMap ,чтобы не потерять никаких данных",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5769",
+        "question": "Отправляешь запрос,но соединение с интернетом пропало, что происходит с запросом",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5770",
+        "question": "Что произойдет с корутином, когда вылетает exception",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5773",
+        "question": "Что такое асинхронность и параллелизм",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5774",
+        "question": "В чем отличия асинхронности и параллелизма",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5775",
+        "question": "Как оцениваешь свой уровень в разработке",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5776",
+        "question": "Для чего нужны корутины",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5777",
+        "question": "Насколько быстрее будет выполнить работу с корутинами, по сравнению с тем чтобы функцию расчитать без корутинов и потоков",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5778",
+        "question": "В чем различие Default диспатчер и IO диспатчер",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5779",
+        "question": "Когда 1 физический ядро делает два потока, это будет происходить синхронно или параллельно",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5782",
+        "question": "Есть альтернатива SharedPreference",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5783",
+        "question": "За счет чего в корутинах возможна кооперативная многозадачность",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5784",
+        "question": "Какие проблемы решают разные виды тестов",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5785",
+        "question": "Какие виды permission бывают",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5786",
+        "question": "Какие важные атрибуты указываются в теге application",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5787",
+        "question": "Что значит android:exported=\"true\" / \"false\"",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5788",
+        "question": "Как остановить сервис",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5789",
+        "question": "Как получить все приложения установленные на телефоне",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5790",
+        "question": "Как расшифровывается APK",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5791",
+        "question": "что такое DEX",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5792",
+        "question": "Зачем нужна виртуальная машина",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5793",
+        "question": "Как происходит создание APK из kotlin кода",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5794",
+        "question": "AAB (Android boundle) в чём разница",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5795",
+        "question": "Как запросить что бы система выдела больше ОЗУ на приложение",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5796",
+        "question": "В чём разница между serializable parsializable",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5798",
+        "question": "Как добавить синхронно/асинхронно фрагмент",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5799",
+        "question": "Что происходит когда вызываеться новое Activity освобождаеться ли память от старого",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5800",
+        "question": "Как бороться с тем что из-за deeplink активити может открыться много раз",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5801",
+        "question": "Что такое Task и где это используется",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5802",
+        "question": "Какое событие вызывается при нажатии юзера по экрану",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5803",
+        "question": "Как вызвать перерисовку кастом view",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5804",
+        "question": "Какой класс нужно использовать что бы отрисовывать в background thread view",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5806",
+        "question": "Что такое git rebase и чем он отличается от merge",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5807",
+        "question": "В чём отличие андроид 4 и 5",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5808",
+        "question": "В чём отличие андроид 5 и 6",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5809",
+        "question": "В чём отличие андроид 6 и 7",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5810",
+        "question": "В чём отличие андроид 7 и 8",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5811",
+        "question": "В чём отличие андроид 8 и 9",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5812",
+        "question": "В чём отличие андроид 9 и 10",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5813",
+        "question": "В чём отличие андроид 10 и 11",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5814",
+        "question": "В чём отличие андроид 11 и 12",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5815",
+        "question": "В чём отличие Dalvik Virtual Machine и ART(Android Run Time )",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5816",
+        "question": "В чём отличие dagger 1 / 2",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5817",
+        "question": "В чём отличие АПК с подписью и без подписи",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5818",
+        "question": "Что такое JIT",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5819",
+        "question": "Разница межу pull/fetch",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5820",
+        "question": "Как расшифровывается xml",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5821",
+        "question": "Что значит модификатор native у метода класса",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5822",
+        "question": "Перечислите методы класса Object/Any",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5823",
+        "question": "Перечислите маркеры интерфейсы",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5824",
+        "question": "Как сравниваются объекты в java",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5825",
+        "question": "Что делает метод Object.finalize()",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5826",
+        "question": "Что такое try(BufferReader){ … }catch{ … }",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5827",
+        "question": "К чему можно применить модификатор final",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5828",
+        "question": "зачем нужна аннотация @CallSupper",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5829",
+        "question": "К чему можно применить модификатор static",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5830",
+        "question": "Перегрузка и переопределение метода в чём разница",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5831",
+        "question": "Какой модификатор применяется к методу если он не прописан явно",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5832",
+        "question": "Что будет выводиться HasMap.get() если equal/HashCode не переопределены",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5833",
+        "question": "Можно ли переопределить static метод в классе наследнике",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5834",
+        "question": "Можно ли переопределить конструкторы в java",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5835",
+        "question": "Опиши как лучше всего использовать модификаторы доступа в Java",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5836",
+        "question": "Опиши как лучше всего использовать модиффВ каком порядке вызываеться конструктор, конструктор супер класса, статический инит  блок  икаторы доступа в Java",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5837",
+        "question": "Как называется метод в котором будет описана работа сервиса",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5838",
+        "question": "Как называется action для интент фильтра после перезагрузки телефона",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5839",
+        "question": "Foreground сервис чем отличается от обычного",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5840",
+        "question": "Какие виды reciaver знаешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5841",
+        "question": "Какие виды библиотек знаешь и в чём их различия",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "5842",
+        "question": "От какого класса наследуются Application",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6213",
+        "question": "Отличие sealed и enum классов",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6069",
+        "question": "От какого класса наследуются Application",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6072",
+        "question": "Зачем нужен контекст, назовите его основные функции",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6076",
+        "question": "Библиотека для нахождения утечек памяти",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6098",
+        "question": "В чём отличие контекста Application и Activity",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6105",
+        "question": "Что такое ProGuard",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6108",
+        "question": "Что такое рефлексия",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6112",
+        "question": "Опишите инкапсуляцию, наследование, полиморфизм, абстракцию",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6117",
+        "question": "Почему запрещено множественное наследование и как этот запрет обойти",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6121",
+        "question": "Как програмно запретить создание объекта класса",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6124",
+        "question": "Разница HashSet, LinkedHashSet, TreeSet",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6126",
+        "question": "Разница PriorityQueue, Deque",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6131",
+        "question": "Разница Iteration, Enumiration",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6133",
+        "question": "Какие методы имеет класс Iteration",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6135",
+        "question": "Какие виды дженериков знаешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6138",
+        "question": "В чём особенность String класса является ли он иммутабельным",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6142",
+        "question": "Почему мы не создаём String через конструктор new String ()",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6146",
+        "question": "Что такое String pool",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6152",
+        "question": "Все наследники какого класса unchecked",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6157",
+        "question": "Отличие exeption Kotlin/Java",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6161",
+        "question": "Integer a =127; int b = 127 ; Integer a1 =128; int b1 = 128 a==b a1 == b1",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6165",
+        "question": "Почему Integer.MAX_VALUE + 1 == Integer.MIN_VALUE",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6170",
+        "question": "Что такое инстанциация и инициализация",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6173",
+        "question": "Работает ли Switch() с double/flowable",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6180",
+        "question": "Что такое ключевое слово transient",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6184",
+        "question": "Что такое Анонимный класс",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6191",
+        "question": "В чём отличие вложенного статического от не статического класса",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6196",
+        "question": "Разница между throw и throws",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6200",
+        "question": "Какие виды ссылок есть в Java и в чём их отличия",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6203",
+        "question": "Все способы как создать поток",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6210",
+        "question": "Как сделать метод потокобезопастным, пока исполняется в одном потоке не может быть вызван в другом",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6211",
+        "question": "Что значит voletile переменная",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6216",
+        "question": "Swich в котлине",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6217",
+        "question": "Какая главная проблема by lazy {} инициализации и что это значит",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6218",
+        "question": "Какие функции определены сразу у дата классов",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6219",
+        "question": "Как работают extention функции",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6220",
+        "question": "Как синхронизировать корутины",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6221",
+        "question": "Разница между lateinit / by lazy(){}",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6222",
+        "question": "Как понять что мы в первый раз открыли активити",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6225",
+        "question": "В чём разница между action и categhory у intent",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6231",
+        "question": "Зачем при повороте экрана пересоздаётся activity",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6236",
+        "question": "Является ли LayoutInflater сингелтоном и почему",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6237",
+        "question": "Какую функцию необходимо переопределить что бы ложить информацию в бандл , и как называется тот в котором мы получаем информацию себе назад",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6238",
+        "question": "Можно ли сделать так что бы активити не пересоздавалась при повороте экрана",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6240",
+        "question": "Как изменить что бы в портретной ориентации была одна колонка recycler view а при смени  ориентации на ландскейп было 2 или более рядка",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6241",
+        "question": "Как вызвать onDestroy не проходя через onPause, onStop",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6242",
+        "question": "Расскажи приоритеты при убивании процессов",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6243",
+        "question": "Перечисли все возможности передачи данных между фрагментами",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6245",
+        "question": "Как из одного активити передать данные в другое активити",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6249",
+        "question": "Расскажи все типы данных в Java/Kotlin",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6252",
+        "question": "В чём разница между FragmentManager / Fragment trasition",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6255",
+        "question": "Какие launchMode занеш",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6257",
+        "question": "В чём разница между Activity / AppCompatActivty",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6258",
+        "question": "Что значит windowSoftInputMode",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6260",
+        "question": "Сколько конструкторов у кастомного view должно быть",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6262",
+        "question": "Как добавить кастомные атрибуты у кастомного view",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6264",
+        "question": "Что такое canvas",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6267",
+        "question": "Как сделать так что бы в Layout объекты располагались по кругу",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6269",
+        "question": "Как сделать так что бы вьюшка маштабирывалась в зависимости от того какое она  занимает пространство (flexable layouts)",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6271",
+        "question": "Что такое denscitie либо плотность пикселей",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6273",
+        "question": "Как мы создаём свой RecyclerViewAdapter",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6275",
+        "question": "Какие функции необходимо переопределить для наследника RecyclerView",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6277",
+        "question": "Как решить вопрос с разными view для RecyclerView",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6279",
+        "question": "в чём суть патерна ViewHolder",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6281",
+        "question": "Какой класс можно использовать что бы ловить разные жесты",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6284",
+        "question": "Что такое патерн adapter",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6286",
+        "question": "Что такое диалог и в чём его отличие от диалог фрагмента",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6289",
+        "question": "В чём отличие sneack bar от toast",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6291",
+        "question": "Что такое Penging Intent",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6294",
+        "question": "в каком методе мы выполняем работу Intentservise",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6296",
+        "question": "Как в Ретрофите в гет методе поставить атрибут в путь в контретом месте",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6299",
+        "question": "Как в Ретрофите в пост методе добавить значение",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6302",
+        "question": "Как в Ретрофите передать значение url как параметр функции",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6305",
+        "question": "Как в Ретрофите изменять все запросы",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6308",
+        "question": "Как в Ретрофите добавить возможность возвращать типы Rxjava",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6310",
+        "question": "Как создать реторфит",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6313",
+        "question": "Какие основные составляющие базы данных Room",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6315",
+        "question": "Какие аннотации для методов Dao знаешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6320",
+        "question": "Как в дагере заинжектить интерфейс",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6322",
+        "question": "Как передать контекст в дагер",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6324",
+        "question": "Что такое subcomponent в дагер",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6335",
+        "question": "Что такое Component dependencies дагер",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6339",
+        "question": "Что такое LifecycleOwner",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6344",
+        "question": "View Model vs OnSavedInstanceState",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6347",
+        "question": "Paging 2 Какие методы должен переопределять класс наследник PagingSourse",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6355",
+        "question": "Paging 3 Какие методы должен переопределять класс наследник PagingSourse",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6357",
+        "question": "Как создать свой WorkManager",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6361",
+        "question": "Какие виды WorkRequest знаешь и какие критерии к ним можно применить",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6363",
+        "question": "Как передать и как получить данные из WorkManager",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6365",
+        "question": "Как создать notification",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6369",
+        "question": "Какие виды анимаций знаешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6374",
+        "question": "Какую функцию необходимо переопределить у ViewPager",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6378",
+        "question": "Почему необходимо использовать @Binds вместо @Provide",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6384",
+        "question": "Перечисли два способа передавать объекты в Даггер при создании его истанса",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6385",
+        "question": "Что такое Scope в Dagger и как создать кастом скоуп",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6387",
+        "question": "Что такое multibinding в Даггер",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6391",
+        "question": "Что необходимо использовать что бы заанимировать добавление/удаление itemos в  recyclerView",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6393",
+        "question": "Как создать Dagger Hilt",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6397",
+        "question": "Как заинжектить в поле в Dagger Hilt",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6400",
+        "question": "Какие готовые компонеты с готовым скоупом есть в Dagger Hilt и как молуль добавить к  этой компоненте",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6403",
+        "question": "Как добавить контекст в метод из Dagger Hilt",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6405",
+        "question": "Как провайдить по разному созданные инстансы одного и того же класса в Dagger Hilt",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6407",
+        "question": "Как заинжектить VievModel Dagger",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6409",
+        "question": "Как заинжектить VievModel Dagger Hilt",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6411",
+        "question": "Какие способы создания observable знаешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6413",
+        "question": "В чём отличие Callable и Runable",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6415",
+        "question": "В чём отличие map и flatMap",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6417",
+        "question": "Какие ещё виды map знаешь в RxJava",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6419",
+        "question": "Как изменить поток в котором будут выполняться операции над излученными данными и в  котором будут излучаться данные",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6422",
+        "question": "Назовите все операторы Комбинирования потоков в RxJava",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6425",
+        "question": "Как решить проблему утечек памяти в RxJava",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6427",
+        "question": "Как бороться с проблемой backpreashure RxJava",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6431",
+        "question": "Какой самый экономичный тип графического файла",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6432",
+        "question": "Что такое Exequtor",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6435",
+        "question": "Опиши модель взаимодействия MVC",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6439",
+        "question": "В чём разница между функциями коллекций assosiateWidth(), assosiateBy()",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6441",
+        "question": "Что делает функция коллекций partition()",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6446",
+        "question": "Как называется лейаут в котором объекты могут наслаиваться друг на друга",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6448",
+        "question": "Как преобразовать горячий поток в холодный в RxJava и наоборот",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6451",
+        "question": "Как как избавиться от 4 конструкторов в castomView",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6453",
+        "question": "Какие функции должен переопределять класс на который делегируют что-то",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6455",
+        "question": "Какие scope функции kotlin знаешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6458",
+        "question": "Как работает jetpackCompose",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "6460",
+        "question": "Как в jetpackCompose создать recyclerView",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "7316",
+        "question": "От какого класса наследуются Application",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10708",
+        "question": "Какая была твоя роль — ты был частью группы или инициатором решений",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10709",
+        "question": "Расскажи про кейс, когда произошел факап",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10710",
+        "question": "Как сделать так, чтобы подобные факапы не происходили в будущем",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10711",
+        "question": "Расскажи какие UI штуки делал",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10712",
+        "question": "Что такое TransactionTooLargeException",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10713",
+        "question": "Для чего нужен бандл",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10714",
+        "question": "Откуда приходит и куда уходит бандл",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10715",
+        "question": "С помощью чего лучше делать анимацию в item",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10716",
+        "question": "Как можно оптимизировать перфоманс списка",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10717",
+        "question": "Почему ты пошел в Android разработку",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10718",
+        "question": "Кто был твоим наставником",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10719",
+        "question": "Почему перестал работать на предыдущем месте",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10720",
+        "question": "Как ты делал тестовое задание, какие материалы использовал",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10721",
+        "question": "При сборке как меняются требования к оперативной памяти при использовании многомодульной архитектуры",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10722",
+        "question": "Что дает нам, как разработчикам, повысить качество продукта и упростить его тестирование",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10723",
+        "question": "Как можно уменьшить количество рекомпозиций помимо side эффектов",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10724",
+        "question": "Как используем Modifiers",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10725",
+        "question": "Как у тебя с Core Android",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10726",
+        "question": "Что расскажешь про жизненный цикл Activity",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10727",
+        "question": "Для чего нужна многопоточность, какие инструменты используешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10729",
+        "question": "Расскажи про делегаты",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10730",
+        "question": "Расскажи про лямбды и про метод референса",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10731",
+        "question": "В какие стороны может быть направлена вариантность в дженерике",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10733",
+        "question": "Как происходит хранение данных в Android",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10734",
+        "question": "Зачем используется чистая архитектура",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10735",
+        "question": "Почему main activity отличается от activity при просмотрах фото и при просмотрах метрик",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10736",
+        "question": "Зачем нужны теги permissions",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10737",
+        "question": "Почему в приложении много манифестов",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10738",
+        "question": "В каких случаях используется библиотека hilt",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10739",
+        "question": "Какие есть аналоги библиотеки hilt",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10740",
+        "question": "Что обычно происходит в методе onCreate",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10742",
+        "question": "Какие способы есть делать навигацию в приложении кроме библиотеки навигаций",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10744",
+        "question": "Что такое Use Case",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10746",
+        "question": "Без чего сервис не запустится в новых версиях Android",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10747",
+        "question": "Расскажи про ресиверы и контент-провайдеры",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10748",
+        "question": "Что такое WorkManager",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10749",
+        "question": "Как операционная система приоретизирует приложения",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10751",
+        "question": "Расскажи про коллекцию Map",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10752",
+        "question": "На что влияют коллизии в Hash Map",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10755",
+        "question": "Какая особенность у Data Class относительно других Kotlin Classes",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10756",
+        "question": "Зачем нужны Intentes",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10757",
+        "question": "Какие типы Intentes бывают",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10758",
+        "question": "Какие отличия наследования от композиции",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10759",
+        "question": "Какие преимущества Android перед другими операционными системами",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10760",
+        "question": "Какой у тебя опыт с View",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10761",
+        "question": "В чем измеряется производительность layout",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10762",
+        "question": "Что такое Kotlin Delegation",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10763",
+        "question": "Расскажи про паттерны проектирования",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10765",
+        "question": "Что такое px, dp, sp",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10766",
+        "question": "В чем разница между px, dp, sp",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10767",
+        "question": "Что такое Dagger",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10768",
+        "question": "Зачем нужны Kotlin extensions",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10769",
+        "question": "Расскажи о контрактах equals и hashCode",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10770",
+        "question": "Расскажи про стек и хип",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10771",
+        "question": "Какие паттерны реализуют очередь и стек",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10772",
+        "question": "Что такое унарный, бинарный и тернарный оператор",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10774",
+        "question": "Чем отличаются inner классы от nested",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10775",
+        "question": "В чем разница между функциями расширения let, run, also, apply",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10776",
+        "question": "Что такое фрэграунд сервис",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10777",
+        "question": "Чем отличается дата пуши от идентификейшен пуши",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10778",
+        "question": "Чем отличается dml от ddl",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10779",
+        "question": "Что означает принцип Барбары Лисков",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10780",
+        "question": "Что знаешь про принципы kiss, dry",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10781",
+        "question": "Какие шаблоны проектирования ты знаешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10782",
+        "question": "Расскажи про companion obdject в котлин",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10783",
+        "question": "Что такое выделенная память в куче",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10784",
+        "question": "В чем заключается передача объекта по ссылке и значению",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "10785",
+        "question": "В чем отличие горячих и холодных потоков",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "4556",
+        "question": "Что знаешь про ключевое слово reified",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "4602",
+        "question": "Много проектов с нуля было",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "4610",
+        "question": "Через какой класс вызываются методы get, replace",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "4604",
+        "question": "Что произойдет если вместо ключевого слова class используем object",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2779",
+        "question": "Чем ты занимался до IT",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2781",
+        "question": "Пробовал последнюю версию Android",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2798",
+        "question": "Есть опыт рисования на canvas",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2799",
+        "question": "Какой опыт работы с векторной графикой",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2800",
+        "question": "Как svg строку показать в виде векторного файла",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2801",
+        "question": "На что можно заменить наследование и какие для этого есть способы",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2767",
+        "question": "Можно ли сделать, чтобы любое приложение стартовало быстро",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2760",
+        "question": "На что бы обратил внимание при работе с фрагментами",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2762",
+        "question": "Можно ли в большой список сразу добавлять много элементов",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2768",
+        "question": "Назови способы передавать данные между двумя приложениями",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2772",
+        "question": "Зачем два приложения подписывать одной подписью",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2774",
+        "question": "Есть ли механизмы в системе, которые позволяют реализовать доступ без кастомных решений",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2776",
+        "question": "Из какого ты города",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2823",
+        "question": "Можешь привести пример god object",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2824",
+        "question": "Есть ли что-то, что хотел бы улучшить в андроиде",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2825",
+        "question": "Как бы улучшил LazyColumn",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2828",
+        "question": "Что происходит, когда мы на старых версиях Android используем лямбда-выражения",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2829",
+        "question": "Что бы использовал вместо лямбда-выражений на старых версиях Android",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2831",
+        "question": "В андроиде существуют мэпы, в которые можно положить примитивные типы",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2832",
+        "question": "Каким критериям должны соответствать ссылочные типы",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2833",
+        "question": "Какие переменные можно использовать в data class",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2835",
+        "question": "Какой хеш-код у списка по умолчанию",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2836",
+        "question": "Где хранятся ссылочные типы и что с ними происходит во время работы приложения",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2838",
+        "question": "Расскажи про базовый класс для всех объектов в Kotlin",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2839",
+        "question": "Какие в базовом классе Kotlin есть методы и что они делают",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2843",
+        "question": "Для чего data-классы и sealed-классы используются",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2844",
+        "question": "Как с помощью sealed класса можно реализовывать разные состояния",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2845",
+        "question": "Расскажи про инициализаторы в классах в Kotlin",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2846",
+        "question": "Какие модификаторы доступа могут быть в типах в Kotlin",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2847",
+        "question": "Какой модификатор доступа в Kotlin по умолчанию",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2848",
+        "question": "Каким образом осуществлять проверки на null",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2851",
+        "question": "Что такое hashmap и set и когда их лучше использовать",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2852",
+        "question": "Насколько безопасно обращение по ключу в hashmap, которого не существует",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2854",
+        "question": "Какие есть возможности у класс-наследника",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2855",
+        "question": "Как класс-наследник оперирует функционалом класса-родителя",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2857",
+        "question": "Как показать, что методы абстрактного класса обязательны к переопределению",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2858",
+        "question": "Могут ли у абстрактного класса быть обычные методы",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2859",
+        "question": "Как добавить реализацию interface к классу",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2860",
+        "question": "В каких случаях необходимо реализовывать базовые методы в interface",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2861",
+        "question": "Что из базовых конструкций нельзя использовать в interface",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2862",
+        "question": "Как в interface оперировать со свойствами",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2863",
+        "question": "Каким образом добавить базовую реализацию для свойства",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2864",
+        "question": "Как в переопределяемом методе вызвать суперреализацию из interface",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2865",
+        "question": "Каким образом разделить методы и свойства класса и объекта",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2866",
+        "question": "Каким образом создать единственный экземпляр класса",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2867",
+        "question": "Каким образом можно добавить функционал в уже существующий тип",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2868",
+        "question": "Как добавляется расширение и что можно добавить",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2869",
+        "question": "Свойства какого вида можно добавить как расширение",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2870",
+        "question": "Как можно работать с многопоточностью в Kotlin",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2872",
+        "question": "Что делает кодовое слово suspend",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "2875",
+        "question": "Что использовать в качестве корневого элемента разметки, чтобы отобразить view",
+        "chance": "6",
+        "tag": "Нет"
+    }
+]
