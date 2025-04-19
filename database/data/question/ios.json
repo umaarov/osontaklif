@@ -1,0 +1,3320 @@
+[
+    {
+        "id": "7324",
+        "question": "Copy-on-write optimizatsiyasining mohiyati nimada?",
+        "chance": "90",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7322",
+        "question": "SOLID nima?",
+        "chance": "72",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7318",
+        "question": "O'z tajribangiz haqida gapirib bering.",
+        "chance": "72",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7331",
+        "question": "weak va unowned o'rtasidagi farq nimada?",
+        "chance": "63",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7325",
+        "question": "Strukturalar va klasslar nima bilan farqlanadi?",
+        "chance": "63",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "10813",
+        "question": "Ko'p potoklilik bilan bog'liq qanday muammolar mavjud?",
+        "chance": "63",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7337",
+        "question": "Qanday patternlarni bilasiz?",
+        "chance": "54",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7320",
+        "question": "Value type'lar nima?",
+        "chance": "54",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7327",
+        "question": "Auto Layout nima?",
+        "chance": "54",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7323",
+        "question": "Xotira (dasturda) qanday tuzilgan?",
+        "chance": "54",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7319",
+        "question": "O'zingiz haqingizda gapirib bering.",
+        "chance": "54",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7329",
+        "question": "Swiftda kolleksiyalarning qanday turlari mavjud?",
+        "chance": "54",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7321",
+        "question": "Reference typelar nima?",
+        "chance": "54",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7380",
+        "question": "Value type'ning reference type'dan farqlari bormi?",
+        "chance": "54",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7774",
+        "question": "Associated type nima?",
+        "chance": "45",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7339",
+        "question": "Optionals nima?",
+        "chance": "45",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7332",
+        "question": "Asinxron vazifa nima?",
+        "chance": "45",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7359",
+        "question": "Ko'p potoklilik nima?",
+        "chance": "45",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7345",
+        "question": "Dispetcherizatsiya (method dispatch) nima?",
+        "chance": "45",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10861",
+        "question": "Obyektning hayotiy sikli haqida gapirib bering.",
+        "chance": "45",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7330",
+        "question": "Qanday arxitekturalar bilan to'qnash kelgansiz?",
+        "chance": "36",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7351",
+        "question": "Sinxron vazifa nima?",
+        "chance": "36",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7335",
+        "question": "frame boundsdan nima bilan farq qiladi?",
+        "chance": "36",
+        "tag": "UIKit"
+    },
+    {
+        "id": "11066",
+        "question": "Enum, raw value va associated value nima?",
+        "chance": "36",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7416",
+        "question": "Stack va Heap nima?",
+        "chance": "36",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7631",
+        "question": "NSOperationQueue yaxshiroqmi yoki GCD?",
+        "chance": "36",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7336",
+        "question": "UIViewControllerning hayotiy sikli.",
+        "chance": "36",
+        "tag": "UIKit"
+    },
+    {
+        "id": "7762",
+        "question": "open va public o'rtasidagi farq nimada?",
+        "chance": "36",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7696",
+        "question": "Sinxron va asinxron so'rovlar o'rtasidagi farq nimada?",
+        "chance": "36",
+        "tag": "Networking"
+    },
+    {
+        "id": "7533",
+        "question": "ARC (Automatic Reference Counting) haqida gapirib bering.",
+        "chance": "36",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7794",
+        "question": "Dependency Injection haqida gapirib bering.",
+        "chance": "36",
+        "tag": "Patterns"
+    },
+    {
+        "id": "7664",
+        "question": "Race condition muammosini qanday hal qilish mumkin?",
+        "chance": "36",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10860",
+        "question": "unowned reference tipi nima uchun kerak?",
+        "chance": "36",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7347",
+        "question": "Hashable nima?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7376",
+        "question": "Retain Cycle nima?",
+        "chance": "27",
+        "tag": "Xotira"
+    },
+    {
+        "id": "7344",
+        "question": "Qanday access modifikatorlari mavjud?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7350",
+        "question": "Generiklar nima?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7343",
+        "question": "Qaysi dasturlash tillarini bilasiz?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7391",
+        "question": "Copy-on-write qaysi elementlar uchun ishlaydi?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7367",
+        "question": "Deadlock nima?",
+        "chance": "27",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7361",
+        "question": "Ilovaning hayotiy sikli (iOS).",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7632",
+        "question": "OOP'ning asosiy prinsiplarini ajratib ko'rsata olasizmi?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7408",
+        "question": "Swiftda inkapsulyatsiya qanday tuzilgan?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7363",
+        "question": "Responder chain qanday tuzilgan?",
+        "chance": "27",
+        "tag": "UIKit"
+    },
+    {
+        "id": "7607",
+        "question": "Stack ma'lumotlar strukturasi nimani anglatadi?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7636",
+        "question": "Dictionary uchun kalit va qiymat nima bo'lishi mumkin?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11011",
+        "question": "Nima hisobiga stack heap'dan tezroq ishlaydi?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7507",
+        "question": "Swiftdagi kolleksiyalar qaysi tipga kiradi: value yoki reference?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10994",
+        "question": "Ilovada nechta heap va stack bo'lishi mumkin?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7352",
+        "question": "MVC va MVVM o'rtasidagi farq nimada?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7334",
+        "question": "iOS'da ko'p potoklilik uchun nima(lar) ishlatiladi?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10979",
+        "question": "Obyektga yo'naltirilgan loyihalashda qanday patternlar mavjud?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10810",
+        "question": "Capture list haqida gapirib bering.",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7484",
+        "question": "Initsializatorlarning qanday ikki turi mavjud?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10821",
+        "question": "UIView va CALayer o'rtasidagi eng asosiy farq haqida gapirib bering.",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7326",
+        "question": "Qaysi loyihalarda amaliyot o'tayapsiz?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7333",
+        "question": "weak xotira modifikatori nima?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7791",
+        "question": "MVVM haqida gapirib bering.",
+        "chance": "27",
+        "tag": "Patterns"
+    },
+    {
+        "id": "7328",
+        "question": "Swift'da merosxo'rlik qanday tuzilgan?",
+        "chance": "27",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7781",
+        "question": "Potoklar o'rtasida ma'lumotlarni qanday sinxronlashtirish mumkin?",
+        "chance": "18",
+        "tag": "CoreData"
+    },
+    {
+        "id": "7346",
+        "question": "Optimizatsiyaning mohiyati nimadan iborat?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7775",
+        "question": "Qachon Array o'rniga Set ishlatish kerak?",
+        "chance": "18",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "10792",
+        "question": "Dictionary nima uchun kerak?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7723",
+        "question": "Actor (Swift concurrency) nima?",
+        "chance": "18",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7742",
+        "question": "Garbage collector va ARC o'rtasidagi farq nimada?",
+        "chance": "18",
+        "tag": "Xotira"
+    },
+    {
+        "id": "7369",
+        "question": "Asinxronlikning ko'p potoklilikdan farqi nimada?",
+        "chance": "18",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7342",
+        "question": "Swift'dagi Extension'lar uchun qaysi dispetcherizatsiya ishlatiladi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7743",
+        "question": "MemoryLayout nima va protokolning hajmini qanday hisoblash mumkin?",
+        "chance": "18",
+        "tag": "Xotira"
+    },
+    {
+        "id": "7340",
+        "question": "Nima uchun iOS, sizga bunda nima shunchalik yoqadi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7703",
+        "question": "Mutex nima?",
+        "chance": "18",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7341",
+        "question": "Memory leakni qanday aniqlagansiz?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7665",
+        "question": "Dispatch Group (GCD'da) nima?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7706",
+        "question": "RunLoop nima?",
+        "chance": "18",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7711",
+        "question": "Grand Central Dispatch (GCD) nima?",
+        "chance": "18",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7753",
+        "question": "Kolleksiyalar haqida gapirib bering.",
+        "chance": "18",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7647",
+        "question": "Swift'da qanday ma'lumotlar tiplari mavjud?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7360",
+        "question": "View va Layer (CALayer) o'rtasidagi farq nimada?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7648",
+        "question": "Swift'da ma'lumotlar tiplari qayerda saqlanadi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7629",
+        "question": "Autorelease pool nima?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7356",
+        "question": "Queue nima?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7652",
+        "question": "Collection protokoli Array tipidan nima bilan farq qiladi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7617",
+        "question": "Ma'lumotlarni uzatishning qanday usullarini bilasiz?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7624",
+        "question": "Strong va weak referencelar nima bilan farqlanadi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7358",
+        "question": "Arxitektura nimada yordam beradi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7608",
+        "question": "Qanday data strukturalar mavjud?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7348",
+        "question": "SOLID'dagi \"L\" nima uchun javob beradi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7604",
+        "question": "Open/Closed prinsipi nimani anglatadi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7357",
+        "question": "VIPER arxitekturasining afzalliklarini sanab o'ting.",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7626",
+        "question": "Heap asosida nima?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7656",
+        "question": "ViewControllerning qanday hayotiy sikl metodlarini bilasiz?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7355",
+        "question": "unowned nima?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7524",
+        "question": "Swift'da strukturalardan tashqari yana nimalar value tiplariga kirishini bilasizmi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7354",
+        "question": "SwiftUI nima va uning afzalliklari qanday?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7526",
+        "question": "Enum value type'larga kiradimi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10992",
+        "question": "iOS'dagi xotirani boshqaruvi (memory management) haqida gapirib bering.",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11001",
+        "question": "Wrapped (masalan, Property Wrappers) nima?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7486",
+        "question": "Nima uchun Swift klasslar uchun avtomatik memberwise initsializator yarata olmaydi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11060",
+        "question": "View'lar iyerarxiyasida tugmani bosish hodisasini kim oxirgi bo'lib qayta ishlashi mumkin?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10990",
+        "question": "MVC va MVP o'rtasidagi farqlar haqida gapirib bering.",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10907",
+        "question": "Value type qachon heap'da saqlanishi mumkin?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7427",
+        "question": "Queuelarning qanday turlari mavjud?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10843",
+        "question": "Rasmlarning asossiz uzoq yuklanishi muammosini qanday hal qilish mumkin?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10822",
+        "question": "Bosishlarni qayta ishlash mexanizmi qanday ishlaydi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11076",
+        "question": "Semafor va mutex o'rtasidagi farq nima?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10974",
+        "question": "viewWillAppear metodi qaysi paytda chaqiriladi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11082",
+        "question": "cherry-pick (Git'da) nima?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10884",
+        "question": "Autolayout va frame (layouting)ning afzalliklari va kamchiliklari nimada?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7472",
+        "question": "Dasturlash prinsiplarining qanday turlari mavjud?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10811",
+        "question": "Serial va concurrent queuelar o'rtasidagi farq nimada?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7353",
+        "question": "Ilovada animatsiyalarni qanday yaratasiz?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10816",
+        "question": "ViewController'ning hayotiy sikli haqida gapirib bering.",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7449",
+        "question": "\"Content Hugging Priority\" xususiyatlari nima uchun kerak?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7349",
+        "question": "Standart kutubxonalardan SOLID prinsiplarini buzilishiga misol keltiring.",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7536",
+        "question": "Obyektga dastlab qancha (strong) reference mavjud bo'ladi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11090",
+        "question": "rebase mergedan (Git'da) nima bilan farqlanadi?",
+        "chance": "18",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7443",
+        "question": "Swift'dagi dictionary qanday tuzilgan?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7442",
+        "question": "Massiv ma'lumotlarini qanday (algoritmik) murakkabliklar bilan saralashimiz mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7379",
+        "question": "Qachon value type, qachon reference type ishlatish yaxshiroq?",
+        "chance": "9",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7441",
+        "question": "Swift'dagi massiv bo'yicha qidirishning murakkabligi qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7378",
+        "question": "Capture list haqida nima bilasiz?",
+        "chance": "9",
+        "tag": "Xotira"
+    },
+    {
+        "id": "7439",
+        "question": "OOP'ning qanday kamchiliklari bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7438",
+        "question": "Nima uchun dasturchi bo'lishga qaror qildingiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7437",
+        "question": "UIKit'dagi animatsiyalar nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7436",
+        "question": "Skroll qilish paytida balandlik va kenglik qanday o'zgaradi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7377",
+        "question": "Memory leak'lar nima?",
+        "chance": "9",
+        "tag": "Xotira"
+    },
+    {
+        "id": "7435",
+        "question": "CALayer nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7434",
+        "question": "Ilovalar bosishlarga qanday reaksiya qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7375",
+        "question": "strong xotira modifikatori nima?",
+        "chance": "9",
+        "tag": "Xotira"
+    },
+    {
+        "id": "7433",
+        "question": "UIResponderning vorislari kimlar?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7374",
+        "question": "ARC qanday tuzilgan?",
+        "chance": "9",
+        "tag": "Xotira"
+    },
+    {
+        "id": "7431",
+        "question": "UIView nimaning vorisi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7430",
+        "question": "UIWindow nimaning vorisi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7429",
+        "question": "UIKit nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7428",
+        "question": "++ operatsiyasi nima qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7373",
+        "question": "Singleton pattern nima?",
+        "chance": "9",
+        "tag": "Patterns"
+    },
+    {
+        "id": "7372",
+        "question": "Agar layer mavjud bo'lsa, UIView nima uchun kerak?",
+        "chance": "9",
+        "tag": "CoreGraphics"
+    },
+    {
+        "id": "7426",
+        "question": "Barriers nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7371",
+        "question": "Polimorfizm nima?",
+        "chance": "9",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "7424",
+        "question": "Swift Dictionary kalit tipiga qanday cheklov (Hashable) qo'yadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7370",
+        "question": "Thread nima?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7422",
+        "question": "Massivga elementni qanday qo'shish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7420",
+        "question": "Alignment (xotirada) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7368",
+        "question": "Semafor nima?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7419",
+        "question": "Massivning xotiradagi hajmi unga nima va qancha solinganiga qarab qancha bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7418",
+        "question": "Massivlar qanday tuzilgan?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7517",
+        "question": "Agar sizda layer bo'lsa, foydalanuvchi unga bosganini qanday bilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7417",
+        "question": "Dasturda Stack nima uchun kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7415",
+        "question": "Yana qanday tiplar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7512",
+        "question": "iOS'da ma'lumotlarni qanday saqlash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7414",
+        "question": "Swift'da static nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7511",
+        "question": "Off-main thread (asosiy potokdan tashqari potok) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7510",
+        "question": "Jadvalning (UITableView) sekin ishlashiga nimalar sabab bo'lishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7509",
+        "question": "Ilovadagi iOS jadvalining sekin ishlashini qanday tuzatish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7508",
+        "question": "UIKit'da yozasizmi yoki SwiftUI'dami?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7413",
+        "question": "Abstrakt klasslar haqida gapirganda, protokollar klasslardan nima bilan farqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7412",
+        "question": "open klass - finalmi yoki final emasmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7366",
+        "question": "GCD (Grand Central Dispatch) nima?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7513",
+        "question": "Qachondir Combine'da yozganmisiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7515",
+        "question": "Layer'ni (CALayer) qayerda uchratish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7516",
+        "question": "UIViewda layer bo'lmasligi mumkinmi va aksincha?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7365",
+        "question": "Race condition nima?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7364",
+        "question": "Ilovaning hayotiy siklida qanday holatlar mavjud?",
+        "chance": "9",
+        "tag": "UIKit"
+    },
+    {
+        "id": "7518",
+        "question": "Responder chain'da kimlar bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7523",
+        "question": "Nima uchun strukturada shu struktura tipidagi maydonni e'lon qila olmaymiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7528",
+        "question": "Value tip o'zini saqlay olmaydi. Bu barcha value tiplari vakillari uchun to'g'rimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7531",
+        "question": "Strukturani bir nechta otadan meros qilib olish mumkinmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7532",
+        "question": "Deinit nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7537",
+        "question": "Side table nima uchun qilingan?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7538",
+        "question": "Bizning loyihalarimizda memory leak'lar bilan qanday kurashamiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7540",
+        "question": "Agar obyektga (masalan, unowned reference orqali u yo'q qilinganidan keyin) murojaat qilsak nima sodir bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7542",
+        "question": "Asinxronlik va ko'p potoklilik majburiy ravishda birga keladimi yoki ular alohida tushunchalarmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7544",
+        "question": "Nima uchun (UITableViewda) yacheykalarni qayta ishlatish kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7546",
+        "question": "Reaktiv dasturlash qanday muammoni hal qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7547",
+        "question": "Nima uchun asosiy potokni yuklash yomon va buni qilmaslikning qanday usullari bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7550",
+        "question": "Obyektga strong reference mavjud bo'lib, lekin obyektning o'zi mavjud bo'lmasligi mumkinmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7552",
+        "question": "Unowned nima qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7553",
+        "question": "Core Graphics yoki Core Animation bilan ishlash tajribangiz bormi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7554",
+        "question": "Core Animation qanday kengaytiriladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7555",
+        "question": "Kolleksiyalar bilan qanday operatsiyalarni bajarasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7556",
+        "question": "Loyihani qanday (modullarga/qatlamlarga) ajratasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7506",
+        "question": "Reader-writer muammosi haqida eshitganmisiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7560",
+        "question": "Sizda MVVM qanday realizatsiya qilingan?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7411",
+        "question": "open class - public'mi yoki private'mi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7562",
+        "question": "synchronized nima qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7563",
+        "question": "volatile nima uchun kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7564",
+        "question": "synchronized qanday ishlaydi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7505",
+        "question": "Serial Dispatch Queue'dagi vazifalar har doim bir xil potokda bajariladimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7567",
+        "question": "Object nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7568",
+        "question": "Object (singleton) qachon yaratiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7569",
+        "question": "companion object nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7570",
+        "question": "Agar klass ichiga object va companion object qo'shilsa, ular o'rtasida qanday farq bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7635",
+        "question": "unowned va strong o'rtasidagi farq nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7504",
+        "question": "Queuelar yordamida ko'p potoklilikni qanday qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7410",
+        "question": "Swift'da openni boshqa so'zlar bilan qanday ifodalash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7503",
+        "question": "Queue potokdan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7502",
+        "question": "Capture List'da har doim weak yoki unowned yozish kerakmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7501",
+        "question": "Retain Cycle'ning oldini qanday olish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7500",
+        "question": "Qanday completion handler yozgansiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7409",
+        "question": "Oddiy (internal/public) class open classdan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7499",
+        "question": "Stable ABI (Application Binary Interface) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7498",
+        "question": "Sizningcha, nima uchun odamlar Objective-C'dan Swift'ga o'tishdi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7496",
+        "question": "Swift'da nimani yoqtirmaysiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7495",
+        "question": "Swift'dagi eng sevimli xususiyatingiz qaysi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7494",
+        "question": "Infratuzilma va instrumentlarni (iOS development uchun) qanday baholaysiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7493",
+        "question": "Singleton patternining afzalliklari va kamchiliklari nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7492",
+        "question": "Protokol tipidagi fieldga weak referenceni qanday qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7405",
+        "question": "Foydalanuvchining himoyalangan ma'lumotlarini qayerda saqlagan bo'lar edingiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7491",
+        "question": "WebSocket'ni testlash bilan to'qnash kelishga to'g'ri kelganmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7490",
+        "question": "WebSocket uchun qanday yechimdan (kutubxonadan) foydalangansiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7403",
+        "question": "Swift'da referencelarning qanday turlari mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7489",
+        "question": "Migratsiyalar bilan ishlash tajribangiz haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7488",
+        "question": "Core Data Persistent Store Coordinator kontekstni ishlab chiquvchidan izolyatsiya qiladimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7402",
+        "question": "nil va NaN o'rtasidagi farq nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7485",
+        "question": "convenience initsializator designated initsializatordan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7401",
+        "question": "Swift'dagi massiv (Array) - bu klassmi yoki strukturami?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7400",
+        "question": "Sizga nima qiziqroq - nativ yoki krossplatforma ishlab chiqish?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7481",
+        "question": "Klasslarni initsializatsiya qilish xotira ajratish bilan qanday bog'liq?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7480",
+        "question": "Reference orqali uzatishning (pass by reference) qanday afzalliklari va kamchiliklari bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7399",
+        "question": "iOS dasturlashda qanday yutuqlarga erishgansiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7479",
+        "question": "Semantikalar nima bilan farqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7478",
+        "question": "Swift'dagi ikkita semantika (value va reference) haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7477",
+        "question": "Sizga dasturlashni boshlashda eng ko'p nima yordam berdi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7476",
+        "question": "PreferenceKey (SwiftUI'da) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7398",
+        "question": "Sizni mobil dasturlash nimasi bilan jalb qildi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7397",
+        "question": "Garbage collector qanday ishlaydi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7396",
+        "question": "Garbage collector nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7475",
+        "question": "matchedGeometryEffect (SwiftUI'da) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7474",
+        "question": "Generiklardan foydalanish qaysi dasturlash prinsipiga rioya qilishga imkon beradi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7473",
+        "question": "Array va struct nusxalanishi o'rtasida qanday farq bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7471",
+        "question": "Protokolga Yo'naltirilgan Dasturlash nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7470",
+        "question": "OOP nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7469",
+        "question": "Reference tiplari va qiymat tiplari o'rtasidagi farq nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7645",
+        "question": "Qaysi metodologiyalar bo'yicha ishlagansiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7641",
+        "question": "Qachon loadView metodini o'zgartirish kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7639",
+        "question": "Array haqida nima bilasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7637",
+        "question": "Klass obyektlari va struktura obyektlariga qanday murojaat qilinadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7634",
+        "question": "weak va unowned referencelar o'rtasidagi farq nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7638",
+        "question": "Witness Table (protokol uchun) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7640",
+        "question": "Notification Center nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7633",
+        "question": "Side table (ARC uchun) qachon paydo bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7642",
+        "question": "Qaysi vaziyatlarda MVC'ni qo'llash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7643",
+        "question": "Katta loyihani MVC'da qilgan bo'lar edingizmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7644",
+        "question": "RTSP metodlarini bilasizmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7646",
+        "question": "Oxirgi ish joyingizda nechta dasturchi bor edi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7630",
+        "question": "dSYM fayli nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7628",
+        "question": "Toll-free bridging nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7650",
+        "question": "Klasslar va strukturalar o'rtasidagi farq nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7651",
+        "question": "Nusxalash paytida strukturalarning ishlash mexanizmi qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7627",
+        "question": "Message dispatch faqat testlashda ishlatiladimi yoki boshqa paytlarda hammi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7654",
+        "question": "Swift dasturlash tili tipizatsiyalanganmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7623",
+        "question": "Weak referencelar nima uchun kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7622",
+        "question": "Strong referencelar nima uchun kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7660",
+        "question": "Escaping (closure) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7621",
+        "question": "Qandaydir tashqi kutubxonalardan foydalanganmisiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7662",
+        "question": "GCD nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7663",
+        "question": "GCD'ning qanday instrumentlari mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7620",
+        "question": "Layout'ning (Auto Layout?) afzalliklari va kamchiliklari qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7468",
+        "question": "Qaysi texnologiyalar bilan ishlash tajribangiz bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7666",
+        "question": "VIP cycle bilan bog'liq arxitektura haqida eshitganmisiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7667",
+        "question": "Ikki bir xil state'ni yuborish bilan nima qilgan bo'lar edingiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7668",
+        "question": "iOS'da katta hajmdagi yacheykalarga ega ro'yxatni qanday realizatsiya qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7393",
+        "question": "Memory leak nima va u nima uchun yuzaga keladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7670",
+        "question": "iPhone'lar ekranlarining rezolyutsiyasi qanday?",
+        "chance": "9",
+        "tag": "UIKit"
+    },
+    {
+        "id": "7392",
+        "question": "Protokolni implementatsiya qilish nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7672",
+        "question": "IBOutlet va IBAction nimani anglatadi, ular nima uchun kerak va preprotsessor uchun ular nimani bildiradi?",
+        "chance": "9",
+        "tag": "UIKit"
+    },
+    {
+        "id": "7619",
+        "question": "Layout'ning qanday usullari sizga tanish?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7674",
+        "question": "Ko'p potoklilik UIKit bilan qanday ishlaydi?",
+        "chance": "9",
+        "tag": "UIKit"
+    },
+    {
+        "id": "7675",
+        "question": "Agar klaviatura paydo bo'lganda interfeysning muhim qismini yashirsa nima qilish mumkin?",
+        "chance": "9",
+        "tag": "UIKit"
+    },
+    {
+        "id": "7676",
+        "question": "Nima uchun biz IBOutletlarni viewDidUnloadda release qilishimiz kerak edi?",
+        "chance": "9",
+        "tag": "UIKit"
+    },
+    {
+        "id": "7618",
+        "question": "Referencelarning qanday turlari bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7678",
+        "question": "UIButtonning merosxo'rlik iyerarxiyasi.",
+        "chance": "9",
+        "tag": "UIKit"
+    },
+    {
+        "id": "7680",
+        "question": "SwiftUI'dagi modifikatorlar nima?",
+        "chance": "9",
+        "tag": "SwiftUI"
+    },
+    {
+        "id": "7681",
+        "question": "Agar view'ga modifikator qo'llanilsa nima bo'ladi?",
+        "chance": "9",
+        "tag": "SwiftUI"
+    },
+    {
+        "id": "7682",
+        "question": "Viewning qanday kategoriyalarini bilasiz?",
+        "chance": "9",
+        "tag": "SwiftUI"
+    },
+    {
+        "id": "7683",
+        "question": "ViewModifier (SwiftUI'da) nima?",
+        "chance": "9",
+        "tag": "SwiftUI"
+    },
+    {
+        "id": "7684",
+        "question": "Property wrapper (Swift'da) nima?",
+        "chance": "9",
+        "tag": "SwiftUI"
+    },
+    {
+        "id": "7616",
+        "question": "Nima uchun aynan shu arxitekturani tanladingiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7686",
+        "question": "Reference semantikasini e'lon qiladigan property wrapper'larni ayting.",
+        "chance": "9",
+        "tag": "SwiftUI"
+    },
+    {
+        "id": "7615",
+        "question": "MVVM MVP'dan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7690",
+        "question": "Qaysi modifikatorlar View hayotiy sikli hodisalarini o'zgartiradi?",
+        "chance": "9",
+        "tag": "SwiftUI"
+    },
+    {
+        "id": "7691",
+        "question": "Sinxron va asinxron ulanishining afzalliklari va kamchiliklari.",
+        "chance": "9",
+        "tag": "Networking"
+    },
+    {
+        "id": "7692",
+        "question": "HTTP nimani anglatadi?",
+        "chance": "9",
+        "tag": "Networking"
+    },
+    {
+        "id": "7614",
+        "question": "Hash-jadvallar haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7694",
+        "question": "HEAD, GET, POST, PUT (HTTP metodlari) o'rtasidagi farqlar qanday?",
+        "chance": "9",
+        "tag": "Networking"
+    },
+    {
+        "id": "7695",
+        "question": "Internetdan nimadir qanday yuklab olish mumkin?",
+        "chance": "9",
+        "tag": "Networking"
+    },
+    {
+        "id": "7465",
+        "question": "5 yildan keyin o'zingizni kim sifatida ko'rasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7697",
+        "question": "Internetdan rasmni qanday yuklab olish va uni ImageViewda ko'rsatish kerak — bularning barchasi tugmani bosgandan keyin sodir bo'lishi kerak.",
+        "chance": "9",
+        "tag": "Networking"
+    },
+    {
+        "id": "7698",
+        "question": "REST arxitekturasi.",
+        "chance": "9",
+        "tag": "Networking"
+    },
+    {
+        "id": "7613",
+        "question": "Qachon massivlardan foydalanasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7700",
+        "question": "Barcha lazy konteynerlarni/view'larni (SwiftUI'da) sanab o'ting.",
+        "chance": "9",
+        "tag": "SwiftUI"
+    },
+    {
+        "id": "7612",
+        "question": "Qachon Dictionarydan foydalanasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7702",
+        "question": "Race condition nima?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7464",
+        "question": "Mac Studio sizga qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7704",
+        "question": "Potokni qanday ishga tushirish mumkin?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7390",
+        "question": "Biz value type obyektini yaratganimizda, o'zgaruvchi nimani saqlaydi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7611",
+        "question": "Qachon Setdan foydalanasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7707",
+        "question": "Livelock nima?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7708",
+        "question": "RunLoop qachon ishlatiladi?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7610",
+        "question": "Set Dictionarydan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7710",
+        "question": "iOS uchun dasturlashda nima uchun POSIX-potoklardan foydalanish mumkin?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7463",
+        "question": "CocoaPods nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7712",
+        "question": "Dispatch queue nima?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7713",
+        "question": "Queue'ning 2 turi mavjud, sanab bering va ular haqida gapiring.",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7714",
+        "question": "Quality of Service nima?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7715",
+        "question": "Data race'ni tushuntiring.",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7716",
+        "question": "Priority inversion nima?",
+        "chance": "9",
+        "tag": "Multithreading"
+    },
+    {
+        "id": "7609",
+        "question": "Ma'lumotlar strukturalarini qayerda ishlatish kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "7462",
+        "question": "Xcode'ning qaysi instrumentlaridan foydalanasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10804",
+        "question": "Agar strukturaning xususiyatida shu strukturani ko'rsatsak nima bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10807",
+        "question": "Kompilyator generiklarni qanday qabul qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10808",
+        "question": "IRS (?) haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10809",
+        "question": "Side table'da qanday havolalar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10812",
+        "question": "Concurrent navbatga sync vazifasini qo'shishning mohiyati nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10814",
+        "question": "iOS'dagi deadlock'ning eng yorqin misoli qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10815",
+        "question": "GCD'da qanday instrumentlar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10817",
+        "question": "ViewController'ning hayotiy siklini chaqirish uchun nima qilish kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10818",
+        "question": "Auto Layout'da nima hisoblanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10819",
+        "question": "left leadingdan (Auto Layout'da) nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10820",
+        "question": "boundsning origin qiymati qaysi holatda o'zgarishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10823",
+        "question": "Tugmaning bosilish maydonini qanday kattalashtirish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10824",
+        "question": "Bosishlarni va tayminglarni \"ushlash\"ga qaysi mexanizm yordam beradi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10825",
+        "question": "Swift kolleksiyalari boshqalardan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10826",
+        "question": "Nima uchun Hashable Equatableni realizatsiya qilishi kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10827",
+        "question": "Xesh-jadvalda bir nechta bir xil qiymatlar yotgan holat qanday ataladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10828",
+        "question": "Kolliziyaga qarshi qanday kurashish metodlari mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10829",
+        "question": "Ekranga teginganimizda tizimda nima sodir bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10831",
+        "question": "Tizim tegish qaysi view'ga tushganini qanday tushunadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10832",
+        "question": "Qachon view'da hitTestni chaqirishning ma'nosi yo'q?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10833",
+        "question": "Agar barcha subview'lar bir xil o'lchamda bo'lsa va otaning ustiga bir-birining ustiga to'liq tushsa, qaysi view'ni qaytaramiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10834",
+        "question": "addSubviewni chaqirganimizda, ular subviews massiviga qanday tartibda qo'yiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10835",
+        "question": "addSubview boshiga yoki oxiriga qo'shadimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10836",
+        "question": "userInteractionEnabled = false bo'lganda view tegishni qayta ishlay olmaydigan qanday holatlar bo'lishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10837",
+        "question": "clipsToBounds xususiyati nima uchun javob beradi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10838",
+        "question": "Objective-C va Swift o'rtasida qanday asosiy farqlar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10839",
+        "question": "Massivga ma'lumotlarni joylashtirishda qanday nyuanslar bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10840",
+        "question": "Baryerlar va Semaforlar nimaga asoslanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10841",
+        "question": "Closure'lar bilan ishlashda qanday nyuanslar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10842",
+        "question": "Nima yaxshiroq: closure'larmi yoki delegate?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10844",
+        "question": "Keshni tozalashni (cache invalidation) qanday realizatsiya qilgan bo'lar edingiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10845",
+        "question": "Sanani saqlash xotirasi va UIImageni saqlash xotirasi o'rtasida qanday farq bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10846",
+        "question": "Reference tiplari va qiymat bo'yicha saqlanadigan tiplar qayerda saqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10847",
+        "question": "ARC qaysi vaqtda ishlaydi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10848",
+        "question": "Agar potoklar ustidan maksimal nazorat kerak bo'lsa, nimadan foydalanish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10849",
+        "question": "RunLoop navbatlar uchun umumiy(mi), yoki har bir (potok) uchun o'zining RunLoopi bormi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10850",
+        "question": "HTTP so'rovlari va WebSocket'lar bilan ishlashda qanday asosiy farqlar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10851",
+        "question": "Loyiha uchun yaxshi pattern tanlash uchun qanday mezonlar kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10852",
+        "question": "Strategiya patterni nimadan iborat?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10853",
+        "question": "Chain of Responsibility patterni nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10854",
+        "question": "Qanday anti-patternlar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10855",
+        "question": "Loyihalar uchun sertifikatlarning qanday turlari mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10856",
+        "question": "Sertifikatlar tizimi (iOS provisioning) qanday ishlaydi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10857",
+        "question": "Value va reference type'lar xotirada qanday saqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10862",
+        "question": "Referencelarni (weak, unowned) qaysi tiplar bilan ishlatish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10863",
+        "question": "Greetings 3 (?) va Greetings 1 (?) o'rtasidagi farq nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10864",
+        "question": "Kompilyator chaqirilishi kerak bo'lgan metodni qanday topadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10865",
+        "question": "Potoklarni sinxronlash muammosini hal qilish uchun qanday instrumentlar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10866",
+        "question": "async/await qanday tuzilgan?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10867",
+        "question": "main va global navbatlar qaysi turga kiradi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10868",
+        "question": "Agar serial navbatda asinxron Task (Task { ... }) ishga tushirilsa, u navbatdagi boshqa vazifalarga nisbatan qanday bajariladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10869",
+        "question": "Bosishni ichki kolleksiya yoki ota boshqaradimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10870",
+        "question": "Kolleksiyalarni (UICollectionView/UITableView) qanday yangilash kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10871",
+        "question": "Compositional Layout haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10872",
+        "question": "Memory leak nima bilan xavfli?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10873",
+        "question": "Memory leaklarni qanday ko'rish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10874",
+        "question": "Agar barcha (reference tipidagi) o'zgaruvchilar weak qilinsa, qanday muammo bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10876",
+        "question": "Garbage collector va ARC nima bilan farqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10877",
+        "question": "Memory graph (debugger) haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10878",
+        "question": "Ekranni ko'rsatish uchun qanday mexanizm mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10879",
+        "question": "UINavigationControllerda keyingi ekranni ko'rsatish uchun qanday metod mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10880",
+        "question": "Agar bir nechta ekran (modally) ochilsa va oxirgisiga dismiss qilinsa nima bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10881",
+        "question": "NavigationController stackidagi root ekranga qaytish uchun nimani chaqirish kerak edi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10882",
+        "question": "View'larda layout qilishning qanday usullari bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10883",
+        "question": "Auto Layout yordamida layout qilish nima, frame yordamida layout qilish nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10885",
+        "question": "Auto Layoutda Content Compression Resistance va Content Hugging Priority nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10886",
+        "question": "intrinsicContentSize nima qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10887",
+        "question": "Agar ekran ham albom, ham portret orientatsiyasiga ega bo'lsa, nimani ishlatish qulayroq: Auto Layout yoki frame?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10888",
+        "question": "Frame'larni ishlatishning eng yorqin misoli qayerda?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10889",
+        "question": "Har bir yacheykani frame yordamida layout qilishning o'ziga xosligi nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10890",
+        "question": "Prioritylar bilan qanday muammolar bo'lishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10891",
+        "question": "Starvation (potoklar kontekstida) bilan bog'liq qanday muammolar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10892",
+        "question": "GCD yordamida vazifaning bajarilishini qanday to'xtatish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10893",
+        "question": "URLSessionDataTask vazifani sinxron yoki asinxron bajaradimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10894",
+        "question": "Kelgan satr tufayli yuzaga kelgan krashni qanday tuzatasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10895",
+        "question": "Rasmlarni saqlash/keshlash qanday amalga oshiriladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10896",
+        "question": "Rasmlarni keshlash bilan ishlashni optimallashtirishning qanday variantlari bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10899",
+        "question": "Qat'iy tipizatsiyalangan til nimani anglatadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10902",
+        "question": "Massivning ajratib olingan qismi qanday tipda bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10903",
+        "question": "Kolleksiya bo'ylab qanday iteratsiya qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10904",
+        "question": "String bo'ylab qanday iteratsiya qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10905",
+        "question": "Struktura yoki klass Dictionary kaliti bo'lishi uchun nima qilish kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10906",
+        "question": "Stack qaysi paytda yaratiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10908",
+        "question": "Closure'lar value type'ni qanday ushlab olishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10909",
+        "question": "Stack qanday tozalanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10910",
+        "question": "Side table (ARC uchun) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10911",
+        "question": "Yacheykalarda rasmlarning miltillashini qanday tuzatish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10912",
+        "question": "Yacheykalarni qayta ishlatish muammosini qanday hal qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10913",
+        "question": "Auto Layout parametrlari (constraints) nima beradi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10914",
+        "question": "Layout qilishning qanday usullari bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10915",
+        "question": "Kontrollerning qaysi hayotiy sikl metodida uning view'sini qayta aniqlash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10916",
+        "question": "Kontrollerning view'sini nima uchun qayta aniqlash kerak bo'lishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10917",
+        "question": "init metodi nima qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10918",
+        "question": "Kontrollerda sodir bo'ladigan hamma narsa qaysi potokda bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10919",
+        "question": "init metodi qaysi potokda ishlaydi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10920",
+        "question": "Ilovani to'xtatgandan keyin ActivityIndicatorning ishlashda davom etishining sababi nimada bo'lishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10921",
+        "question": "Potoklar bilan ishlash uchun qanday instrumentlar mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10922",
+        "question": "Faqat bitta yadroli qurilmada ko'p potoklilik qanday ishlaydi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10923",
+        "question": "Operationning standart tipi qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10924",
+        "question": "Asosiy kolleksiyalarning potok xavfsizligi bilan bog'liq qanday muammolar bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10925",
+        "question": "Potokni xavfsiz qilishning qanday usullari bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10926",
+        "question": "Faqat o'z instrumentlaringiz bilan keshlashni qanday qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10927",
+        "question": "Taksi uchun ilova yoki qaydlar daftarchasi ilovasini yaratish paytida tarmoq bilan ishlashda qanday farq bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10928",
+        "question": "Creational patternlar nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10929",
+        "question": "Behavioral patternlar nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10930",
+        "question": "Agar massiv nusxasini yaratsak nima bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10931",
+        "question": "Nusxalashni optimallashtiruvchi mexanizm (Copy-on-Write) haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10933",
+        "question": "Nima uchun standart tip Double, Float emas?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10934",
+        "question": "Double Floatdan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10935",
+        "question": "Array Setdan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10936",
+        "question": "Custom struktura Dictionaryda kalit bo'lishi uchun nima qilish kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10937",
+        "question": "Dictionaryda qiymatlar (kalitlar) qanday taqqoslanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10938",
+        "question": "Bir kolleksiya ikkinchisiga kirishini tekshirish massivda tezroqmi yoki set'dami?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10939",
+        "question": "Strukturaga o'z initsializatoringizni qo'shib, shu bilan birga standart initsializatorni qoldirishning qanday usuli bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10940",
+        "question": "Protokolda mavjud bo'lgan o'zgaruvchilar nimani realizatsiya qilishi kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10941",
+        "question": "Agar o'zgaruvchi uchun { get set } qo'yilsa, bu nimani anglatadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10942",
+        "question": "Protokolda joylashgan funksiyaga body qanday berish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10943",
+        "question": "Protokolni qanday cheklash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10944",
+        "question": "Bu obyekt protokolni implementatsiya qilishini qaysi usul yordamida bilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10947",
+        "question": "Qaysi dasturlash tillari bilan ishlaysiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10948",
+        "question": "Qaysi yo'nalishda rivojlanish istagi bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10949",
+        "question": "Qanday vazifalar bilan ishlashni xohlar edingiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10950",
+        "question": "Qanday vazifalar bilan shug'ullanishni xohlamas edingiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10951",
+        "question": "Bog'liqliklarda qaysi obyektlar ishtirok etadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10952",
+        "question": "Operatorni generik T tipi uchun qanday aniqlash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10953",
+        "question": "Arrayga funksiya qanday qo'shish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10954",
+        "question": "Massivning barcha elementlarini qanday yig'ish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10955",
+        "question": "Arraydagi element tipini qanday cheklash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10956",
+        "question": "View'da xaritalarni qanday sozlash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10957",
+        "question": "Har xil qiymatlarni sanab o'tadigan tipni qanday yaratasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10958",
+        "question": "Layout'ni chaqirishdan oldin constraint'da qanday o'zgarishlar qilish kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10959",
+        "question": "Header nolga yopilishi uchun balandlik constraint'ini qanday o'zgartirish kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10960",
+        "question": "Standart massiv kolleksiyalari Value yoki Reference Type'larmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10961",
+        "question": "Massiv oxiriga element qo'shishning algoritmik murakkabligi qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10962",
+        "question": "Massiv boshiga element qo'shishning murakkabligi qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10964",
+        "question": "Reference tiplari uchun xotirani boshqarish qanday amalga oshiriladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10965",
+        "question": "unowned havola va weak havola nima bilan farqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10969",
+        "question": "Global haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10970",
+        "question": "Agar global (concurrent) queuega vazifalarni sinxron joylashtirsak, ular qanday tartibda bajariladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10971",
+        "question": "Agar DispatchQueue.global()ni chaqirsak nima bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10972",
+        "question": "Agar vazifani navbatga qo'ysangiz, keyin uni bekor qilish mumkinmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10973",
+        "question": "Agar ikkita (concurrent) queudan bitta o'zgaruvchini o'zgartirishga harakat qilsak, biror narsa bo'ladimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10975",
+        "question": "UIViewController ishlab turganda ilova yopilganda nima ishga tushadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10976",
+        "question": "ViewModel va Presenter o'rtasidagi farq nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10977",
+        "question": "MVVM arxitekturasining afzalliklari va kamchiliklari.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10980",
+        "question": "Nima uchun singleton anti-pattern (hisoblanishi mumkin)?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10981",
+        "question": "Singleton polimorfizmni qanday buzadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10982",
+        "question": "Koddagi dublikatlarni qanday topish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10983",
+        "question": "Massivning yarmini qanday olish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10984",
+        "question": "Ideal loyiha haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10985",
+        "question": "Ishda nima demotivatsiya qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10986",
+        "question": "Apple orqali avtorizatsiyani qanday qo'shish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10987",
+        "question": "Refaktoringning tipik usullari haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10988",
+        "question": "Elementlarni MVC'dan Clean Swift'ga (VIP) qanday o'tkazgansiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10989",
+        "question": "Dasturlash bo'yicha qanday kitoblarni o'qigansiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10993",
+        "question": "Reference tipidagi view'lar qanday saqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10997",
+        "question": "Kompilyator optimizatsiyalari haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10998",
+        "question": "Agar klassni @objc deb belgilasak nima bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "10999",
+        "question": "Tizim ilovani qachon o'ldirmasligi haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11002",
+        "question": "CALayer uchun maxsus xususiyatlarni qanday yozish va ularni animatsiya qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11003",
+        "question": "Kontrollerning hayotiy sikli funksiyalarining chaqirilishi haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11004",
+        "question": "Qaysi metod bilan animatsiyani ishga tushirish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11005",
+        "question": "Kod revyu o'tkazayotganda nimaga e'tibor berasiz?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11006",
+        "question": "Kontrollerni keraksiz kod bilan to'ldirmaslik uchun MVC'dan qanday foydalanish kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11007",
+        "question": "Biznes logika qayerda saqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11008",
+        "question": "SOLID'dagi D harfi haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11010",
+        "question": "Protokollar qaysi tiplarga kiradi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11013",
+        "question": "Virtual table witness table'dan nima bilan farqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11014",
+        "question": "Optional xotirada qanday saqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11015",
+        "question": "Enum'da qanday case'lar bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11016",
+        "question": "layoutSubviews metodi qachon chaqiriladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11017",
+        "question": "View'ga otstuplarni qaysi hayotiy sikl metodida o'rnatish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11018",
+        "question": "Animatsiyalar bilan qayerda ishlagan yaxshiroq?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11019",
+        "question": "ARC'da qanday referencelar bor?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11020",
+        "question": "Obyekt xotirada mavjud bo'lishi uchun unga qancha va qanday turdagi havola ko'rsatishi kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11022",
+        "question": "UIViewControllerning qaysi bosqichida View o'zining (yakuniy) o'lchami haqida biladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11023",
+        "question": "Closure'larda har doim selfni ko'rsatish talab qilinadimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11024",
+        "question": "UIView.animate ichida UI o'zgarishlarini yozish kerakmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11025",
+        "question": "Escaping va non-escaping closurelar: qayerda selfni yozish talab qilinadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11026",
+        "question": "Nima uchun escaping closurelarda self talab qilinadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11027",
+        "question": "async blokida self yozish kerakmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11029",
+        "question": "Klass obyektlarini massivda weak havola orqali qanday saqlash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11030",
+        "question": "Baryer operatsiyasi ishga tushirilganda parallel navbat bilan nima sodir bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11031",
+        "question": "Sinxron vazifalarni qanday bekor qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11032",
+        "question": "DispatchWorkItemdagi bekor qilish mexanizmi haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11033",
+        "question": "Operationdagi bekor qilish mexanizmi haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11034",
+        "question": "DispatchWorkItemda vazifa statusini kuzatib borish kerakmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11035",
+        "question": "Strukturani UserDefaults bilan qanday saqlash va o'qish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11036",
+        "question": "UserDefaultsda kodlash va dekodlash haqida gapirib bering.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11037",
+        "question": "Datani nimaga konvertatsiya qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11038",
+        "question": "Strukturani protokolga moslashtirish kerakmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11039",
+        "question": "Keychain va UserDefaults o'rtasidagi farq nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11040",
+        "question": "Bitta akkauntdagi ikkita ilova o'rtasida ma'lumot uzatish uchun nimadan foydalanish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11041",
+        "question": "Animatsiyaga ma'lum bir soniyada o'zgartirish kiritganda, joriy frame qiymatini qanday olish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11042",
+        "question": "Kontroller yaratilgandan so'ng darhol uning view nusxasi yaratiladimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11043",
+        "question": "View nusxasi qachon yaratiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11044",
+        "question": "Kontrollerning hayotiy siklining qaysi metodida bizga birinchi marta view'ning yakuniy o'lchamlari ma'lum bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11045",
+        "question": "Associated type Swift'ning qaysi mexanizmiga o'xshaydi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11046",
+        "question": "Swift'dagi Copy-on-write'ga o'xshash mexanizmlarga kim ega?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11047",
+        "question": "Agar o'z strukturamizni yaratsak, u copy-on-write'ni qo'llab-quvvatlaydimi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11048",
+        "question": "Swift'da dispetcherizatsiya qaysi vaqtda va qanday sharoitlarda ishlay boshlaydi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11049",
+        "question": "Statik dispetcherizatsiyani qanday yoqish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11053",
+        "question": "SOLID prinsiplaridan qaysi biriga amal qilish qiyin bo'lishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11054",
+        "question": "Dependency inversion va dependency injection o'rtasidagi farq nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11055",
+        "question": "AVN (?) va INP (?) o'rtasidagi farq.",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11056",
+        "question": "Swift'da ko'p merosxo'rlik bormi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11058",
+        "question": "Yacheykani qanday kengaytirish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11059",
+        "question": "Agar target'ga nil qo'ysak nima bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11061",
+        "question": "Value stackda, reference heap'da joylashadi, teskari holat bo'lishi mumkinmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11065",
+        "question": "RSI (?) yordamida retail release (?) qaysi paytda qo'yiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11070",
+        "question": "Protokoldagi optional funksiya qaysi prinsipni buzishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11079",
+        "question": "Work Item (DispatchWorkItem) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11080",
+        "question": "Priority inversion muammosi qanday paydo bo'lishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11081",
+        "question": "Gitflow nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11083",
+        "question": "Qanday dizayn prinsiplari mavjud?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11084",
+        "question": "MVVM va MVP o'rtasidagi farqlar nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11085",
+        "question": "Compositional Layout'ni qanday realizatsiya qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11086",
+        "question": "userInteractionEnabled = false bo'lgan view'ni hodisalarni qayta ishlashga qanday o'rgatish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11087",
+        "question": "Optionallar SOLID prinsiplaridan qaysi birini buzishi mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11088",
+        "question": "Copy-on-write (?) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11091",
+        "question": "Ichma-ich joylashmagan ikkita siklga ega funksiya bor, uning bajarilish murakkabligi qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11092",
+        "question": "Massivdan oxirgi elementni olishning murakkabligi qanday?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11093",
+        "question": "Relatsion va norelatsion ma'lumotlar bazalari o'rtasidagi farq nimada?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11094",
+        "question": "Argument qabul qiladigan funksiya bor, unga integer tashlandi, nima sodir bo'ladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11095",
+        "question": "Tiplarning qat'iyligi nima uchun kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11096",
+        "question": "Funksiya Double qabul qilishi kerak edi, lekin biz funksiya ko'rsatsak nima bo'lar edi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11097",
+        "question": "Funksiya Double qabul qilishi kerak edi, lekin biz mos kelmaydigan tip (?) yozsak nima bo'lar edi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11098",
+        "question": "Xotirada stek va heap qanday ishlatiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11099",
+        "question": "Klass boshqa meros ololmasligi uchun nima qilish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11100",
+        "question": "Klass (obyekti) yaratilganda kodni qanday ishga tushirish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11101",
+        "question": "Foydalanuvchi qaysi temani tanlagani haqidagi ma'lumot qayerda saqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11102",
+        "question": "Galereyadan rasmni qanday olish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11103",
+        "question": "Notification Service Extension nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11104",
+        "question": "Push (notification) sizga ko'rinmaguncha uni o'zgartirish mumkinmi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11105",
+        "question": "TestFlight nima uchun kerak?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11106",
+        "question": "Muhitga qarab ilova ikonasini qanday o'zgartirish mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11107",
+        "question": "Swift'da xato qayerda yo'l qo'yilganini qanday aniqlash mumkin?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11108",
+        "question": "CASD (?) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11109",
+        "question": "Pod (CocoaPods) nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11110",
+        "question": "Fastlane nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11111",
+        "question": "Docker nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11112",
+        "question": "RxSwift nima?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11113",
+        "question": "Side table qachon yaratiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11114",
+        "question": "Side table bo'lmaganda havolalar qayerda saqlanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11116",
+        "question": "Stack heap'dan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    }
+]
