@@ -21,11 +21,12 @@ class ProfessionSeeder extends Seeder
             'Frontend',
             'DevOps',
             'CSharp',
-            'C++',
             'Golang',
             'SQL',
+            'C++',
             'Quality Assurance',
             'Project Manager',
+            'SEO'
         ];
 
         foreach ($professions as $name) {
