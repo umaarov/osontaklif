@@ -1,0 +1,6237 @@
+[
+    {
+        "id": "1632",
+        "question": "O'zingiz haqingizda gapirib bering",
+        "chance": "96",
+        "tag": "HR"
+    },
+    {
+        "id": "1633",
+        "question": "Event loop haqida gapirib bering",
+        "chance": "66",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1634",
+        "question": "Nima uchun frontend va javascript yo'nalishini tanladingiz?",
+        "chance": "60",
+        "tag": "HR"
+    },
+    {
+        "id": "1478",
+        "question": "Closure nima?",
+        "chance": "46",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1635",
+        "question": "Promise nima va uning qanday statelari bor?",
+        "chance": "46",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1636",
+        "question": "JSda kod yozgan loyihalaringiz haqida gapirib bering",
+        "chance": "36",
+        "tag": "HR"
+    },
+    {
+        "id": "1638",
+        "question": "Siz bajargan eng qiziqarli vazifa qaysi edi?",
+        "chance": "26",
+        "tag": "HR"
+    },
+    {
+        "id": "1621",
+        "question": "Virtual DOM nima?",
+        "chance": "26",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1637",
+        "question": "JavaScriptda qanday ma'lumot turlari mavjud?",
+        "chance": "26",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1639",
+        "question": "let vardan nima bilan farq qiladi?",
+        "chance": "26",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1640",
+        "question": "Frontend bo'yicha qanday tajribangiz bor?",
+        "chance": "23",
+        "tag": "HR"
+    },
+    {
+        "id": "1642",
+        "question": "Yaqin kelajak uchun rejalaringiz qanday?",
+        "chance": "23",
+        "tag": "HR"
+    },
+    {
+        "id": "1641",
+        "question": "var constdan nima bilan farq qiladi?",
+        "chance": "23",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1481",
+        "question": "call, apply, bind metodlarining farqi",
+        "chance": "20",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1646",
+        "question": "== va === o'rtasidagi farq nima?",
+        "chance": "20",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1643",
+        "question": "Function expression va function declaration o'rtasidagi farq haqida nimalarni bilasiz?",
+        "chance": "20",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1647",
+        "question": "Makro va mikro tasklar nima?",
+        "chance": "20",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1645",
+        "question": "Oldingi loyihada qanday majburiyatlaringiz bo'lgan?",
+        "chance": "20",
+        "tag": "HR"
+    },
+    {
+        "id": "1654",
+        "question": "O'zgaruvchilarni e'lon qilishning qanday usullari bor, farqlarini ayting",
+        "chance": "16",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1660",
+        "question": "forEach va map o'rtasidagi farq nimada?",
+        "chance": "16",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1649",
+        "question": "null va undefined o'rtasidagi farq nimada?",
+        "chance": "16",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1661",
+        "question": "Generic nima?",
+        "chance": "16",
+        "tag": "TypeScript"
+    },
+    {
+        "id": "1662",
+        "question": "JSda event loop nima uchun kerak?",
+        "chance": "16",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1650",
+        "question": "Semantic versioning haqida gapirib bera olasizmi?",
+        "chance": "16",
+        "tag": "Tools"
+    },
+    {
+        "id": "1651",
+        "question": "this nima?",
+        "chance": "16",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1659",
+        "question": "Ma'lumotlarni localStorageda saqlashning cookie'larda saqlashdan farqi nimada?",
+        "chance": "16",
+        "tag": "WEB"
+    },
+    {
+        "id": "1653",
+        "question": "Qaysi texnologiyalardan foydalanasiz?",
+        "chance": "16",
+        "tag": "HR"
+    },
+    {
+        "id": "1656",
+        "question": "Qanday hooklar bo'ladi?",
+        "chance": "16",
+        "tag": "React"
+    },
+    {
+        "id": "1667",
+        "question": "Qaysi hooklar bilan ishlashga to'g'ri kelgan?",
+        "chance": "13",
+        "tag": "React"
+    },
+    {
+        "id": "1678",
+        "question": "position xususiyatining qanday qiymatlari bo'ladi?",
+        "chance": "13",
+        "tag": "CSS"
+    },
+    {
+        "id": "1689",
+        "question": "Massivlarning qanday metodlarini bilasiz?",
+        "chance": "13",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1677",
+        "question": "State manager nima va qaysilari bilan ishlashga to'g'ri kelgan?",
+        "chance": "13",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1674",
+        "question": "useEffect qanday ishlatiladi?",
+        "chance": "13",
+        "tag": "React"
+    },
+    {
+        "id": "1676",
+        "question": "HTML semantikasi nima?",
+        "chance": "13",
+        "tag": "HTML"
+    },
+    {
+        "id": "1552",
+        "question": "BEM metodologiyasi nima?",
+        "chance": "13",
+        "tag": "CSS"
+    },
+    {
+        "id": "1669",
+        "question": "React bo'yicha o'z tajribangiz haqida gapirib bering",
+        "chance": "13",
+        "tag": "React"
+    },
+    {
+        "id": "1673",
+        "question": "Ushbu loyiha ustida ishlash paytida duch kelgan eng murakkab vazifa haqida gapirib bering",
+        "chance": "13",
+        "tag": "HR"
+    },
+    {
+        "id": "1680",
+        "question": "Qaysi stekdan foydalangansiz?",
+        "chance": "13",
+        "tag": "HR"
+    },
+    {
+        "id": "1687",
+        "question": "let va const o'rtasidagi farq nimada?",
+        "chance": "13",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1696",
+        "question": "Prototip nima?",
+        "chance": "13",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1682",
+        "question": "Jamoada ishlash tajribangiz haqida gapirib bering",
+        "chance": "13",
+        "tag": "HR"
+    },
+    {
+        "id": "1692",
+        "question": "Necha yillik tajribangiz bor?",
+        "chance": "13",
+        "tag": "HR"
+    },
+    {
+        "id": "1623",
+        "question": "REST API nima?",
+        "chance": "13",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "1622",
+        "question": "DOM tree nima?",
+        "chance": "13",
+        "tag": "HTML"
+    },
+    {
+        "id": "1694",
+        "question": "O'zingizning pet-projectlaringiz haqida gapirib bering",
+        "chance": "13",
+        "tag": "HR"
+    },
+    {
+        "id": "1684",
+        "question": "Ikki tomonlama bog'lanish (two-way binding) nima?",
+        "chance": "13",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1670",
+        "question": "HTTP so'rovi qanday qilinadi?",
+        "chance": "13",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1750",
+        "question": "Git-flow nima?",
+        "chance": "10",
+        "tag": "Git"
+    },
+    {
+        "id": "1747",
+        "question": "Nimani ishlatish afzalroq: TypeScript yoki JavaScript?",
+        "chance": "10",
+        "tag": "TypeScript"
+    },
+    {
+        "id": "1751",
+        "question": "Map va Set haqida gapirib bering",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1742",
+        "question": "Ma'lumotlarni localStorageda saqlashning sessionStorageda saqlashdan farqi nimada?",
+        "chance": "10",
+        "tag": "WEB"
+    },
+    {
+        "id": "1739",
+        "question": "Hook nima?",
+        "chance": "10",
+        "tag": "React"
+    },
+    {
+        "id": "1745",
+        "question": "Makro va mikro tasklar o'rtasidagi farq nimada?",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1746",
+        "question": "Pseudo element nima?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1748",
+        "question": "Ishda qanday vazifalarni hal qilgansiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "1749",
+        "question": "IIFE (Immediately Invoked Function Expression) nima?",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1743",
+        "question": "CSS (Cascading Style Sheets) nima?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1734",
+        "question": "Props (React/Vue) nima?",
+        "chance": "10",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1732",
+        "question": "JSX nima?",
+        "chance": "10",
+        "tag": "React"
+    },
+    {
+        "id": "1737",
+        "question": "React nima?",
+        "chance": "10",
+        "tag": "React"
+    },
+    {
+        "id": "1744",
+        "question": "Qanday selektorlarni bilasiz?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1752",
+        "question": "CSS'dagi cascade so'zi nimani anglatadi?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1725",
+        "question": "Ternar operator nima?",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1726",
+        "question": "Destrukturizatsiya nima?",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1722",
+        "question": "Pseudo klasslar nima?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1721",
+        "question": "margin va padding o'rtasidagi farq",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1723",
+        "question": "display xususiyati - asosiy qiymatlari va u qanday ishlaydi?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1728",
+        "question": "event.preventDefault() va event.stopPropagation() nima uchun kerak?",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1717",
+        "question": "Hozir qayerda ishlayapsiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "1719",
+        "question": "Blokni gorizontal va vertikal bo'yicha markazga qanday joylashtirish mumkin?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1714",
+        "question": "Kod revyu qanday tashkil qilingan edi?",
+        "chance": "10",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "1711",
+        "question": "setTimeout qanday ishlaydi?",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1715",
+        "question": "Jamoa bilan qanday muloqot qilasiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "1720",
+        "question": "Inline stillar nima va ular qanday prioritetga ega?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1731",
+        "question": "Prototipik merosxo'rlik nima?",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1753",
+        "question": "CSS'da merosxo'rlik qanday ishlaydi?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1703",
+        "question": "Closure nima uchun kerak?",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1704",
+        "question": "async/await haqida gapirib bering",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1707",
+        "question": "Vuex nima uchun ishlatiladi?",
+        "chance": "10",
+        "tag": "Vue"
+    },
+    {
+        "id": "1553",
+        "question": "Elementni yashirishning qanday usullari bor?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1624",
+        "question": "HTTP nima?",
+        "chance": "10",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "1625",
+        "question": "CORS (Cross-Origin Resource Sharing) nima?",
+        "chance": "10",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "1708",
+        "question": "Boshqa freymvorklar bilan qanday tajribangiz bo'lgan?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "1754",
+        "question": "HTMLda qaysi asosiy ishlatiladigan teglarni bilasiz?",
+        "chance": "10",
+        "tag": "HTML"
+    },
+    {
+        "id": "1701",
+        "question": "Nima uchun IT sohasiga kelgansiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "1709",
+        "question": "React qanday muammolarni hal qiladi?",
+        "chance": "10",
+        "tag": "React"
+    },
+    {
+        "id": "1710",
+        "question": "Qilgan eng qiziqarli loyihangiz qaysi?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "1712",
+        "question": "Testlar bilan ishlash haqida gapirib bering",
+        "chance": "10",
+        "tag": "Testing"
+    },
+    {
+        "id": "1713",
+        "question": "Qaysi preprotsessorlar bilan ishlagansiz?",
+        "chance": "10",
+        "tag": "CSS"
+    },
+    {
+        "id": "1716",
+        "question": "Dasturlash darajangizni qanday baholaysiz?",
+        "chance": "10",
+        "tag": "HR"
+    },
+    {
+        "id": "1755",
+        "question": "Pure function nima?",
+        "chance": "10",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1867",
+        "question": "Nima uchun rasmlar uchun kenglik va balandlikni ko'rsatish muhim?",
+        "chance": "6",
+        "tag": "HTML"
+    },
+    {
+        "id": "1868",
+        "question": "Hozirgi ishingizda qanday vazifalarni hal qilayotganingiz va nimalarga duch kelayotganingiz haqida gapirib bering",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "1860",
+        "question": "Promise.all() nima uchun kerak?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1857",
+        "question": "Ishtirok etgan eng murakkab loyihangiz qaysi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "1861",
+        "question": "Hozir qanday rivojlanyapsiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "1869",
+        "question": "var, let, const o'zgaruvchilari qachon ishlatiladi?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1851",
+        "question": "event.preventDefault() va event.stopPropagation() o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1850",
+        "question": "JSda obyektlarni qanday solishtirish mumkin?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1852",
+        "question": "Qayta chizishlarni (rerenders) qanday optimallashtirish mumkin?",
+        "chance": "6",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1855",
+        "question": "Map oddiy obyekt (object literal)dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1856",
+        "question": "TypeScript nima?",
+        "chance": "6",
+        "tag": "TypeScript"
+    },
+    {
+        "id": "1858",
+        "question": "Map, Set nima uchun kerak?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1859",
+        "question": "useLayoutEffect va useEffect o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "React"
+    },
+    {
+        "id": "1862",
+        "question": "CSSdagi specificity so'zi nimani anglatadi?",
+        "chance": "6",
+        "tag": "CSS"
+    },
+    {
+        "id": "1863",
+        "question": "Tiplarni o'zgartirish (type coercion/conversion) haqida gapirib bering",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1865",
+        "question": "JSda qanday funksiyalar turlari bor?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1847",
+        "question": "Qayerda o'qigansiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "1849",
+        "question": "SessionStorage va cookie o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "WEB"
+    },
+    {
+        "id": "1844",
+        "question": "Kim bo'lib ishlagansiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "1843",
+        "question": "Utility tiplar (TypeScript utility types) haqida gapirib bering",
+        "chance": "6",
+        "tag": "TypeScript"
+    },
+    {
+        "id": "1845",
+        "question": "call, apply va bind nima?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1841",
+        "question": "IIFE funksiyasi nima uchun kerak?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1840",
+        "question": "SSR (Server-Side Rendering) nima?",
+        "chance": "6",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1842",
+        "question": "Ishda Map va Set'dan nima maqsadda foydalangansiz?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1846",
+        "question": "TypeScriptning qanday afzalliklari bor?",
+        "chance": "6",
+        "tag": "TypeScript"
+    },
+    {
+        "id": "1854",
+        "question": "Promise.all() qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1870",
+        "question": "JS'da funksiya nima?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1835",
+        "question": "Cookie'larning asosiy xususiyatlari qanday?",
+        "chance": "6",
+        "tag": "WEB"
+    },
+    {
+        "id": "1834",
+        "question": "Field massiv ekanligini qanday tekshirish mumkin?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1836",
+        "question": "useContext nima?",
+        "chance": "6",
+        "tag": "React"
+    },
+    {
+        "id": "1833",
+        "question": "Vue komponentasining hayot sikli haqida gapirib bering",
+        "chance": "6",
+        "tag": "Vue"
+    },
+    {
+        "id": "1832",
+        "question": "Vue.js'da reaktivlik qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Vue"
+    },
+    {
+        "id": "1794",
+        "question": "SOLID nima?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "1837",
+        "question": "Margin collapsing nima?",
+        "chance": "6",
+        "tag": "CSS"
+    },
+    {
+        "id": "1828",
+        "question": "Virtual DOM nima uchun kerak?",
+        "chance": "6",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1830",
+        "question": "Redux nima?",
+        "chance": "6",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1826",
+        "question": "map, reduce va filter qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1825",
+        "question": "O'z-o'zini chaqiruvchi funksiya (IIFE) nima?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1831",
+        "question": "Redux nima uchun kerak?",
+        "chance": "6",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1838",
+        "question": "BEM metodologiyasining afzalligi nimada?",
+        "chance": "6",
+        "tag": "CSS"
+    },
+    {
+        "id": "1821",
+        "question": "Dasturlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "1820",
+        "question": "v-show va v-if direktivalarining farqlarini ayting",
+        "chance": "6",
+        "tag": "Vue"
+    },
+    {
+        "id": "1822",
+        "question": "Qaysi freymvork bilan ishlash ko'proq yoqdi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "1817",
+        "question": "String interpolation nima?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1819",
+        "question": "Event listenerni qanday qo'shish mumkin?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1823",
+        "question": "JS'da qanday data strukturalari bor?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1814",
+        "question": "Mixins nima?",
+        "chance": "6",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1813",
+        "question": "Asinxron kod bilan ishlashning qanday usullarini bilasiz?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1815",
+        "question": "Ma'lumotlarni ota komponentdan bola komponentga qanday uzatish mumkin?",
+        "chance": "6",
+        "tag": "Frontend"
+    },
+    {
+        "id": "1811",
+        "question": "Elementga sichqoncha olib borganda, qo'shni elementlarni siljitmasdan uni qanday kattalashtirish mumkin?",
+        "chance": "6",
+        "tag": "CSS"
+    },
+    {
+        "id": "1810",
+        "question": "Elementlarni yangi qatorga o'tkazish uchun javob beradigan Flexbox xususiyati",
+        "chance": "6",
+        "tag": "CSS"
+    },
+    {
+        "id": "1812",
+        "question": "Spread operatori (...) nima uchun kerak?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1816",
+        "question": "$emit (Vue) nima qiladi?",
+        "chance": "6",
+        "tag": "Vue"
+    },
+    {
+        "id": "1824",
+        "question": "apply() metodi nima qiladi?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1839",
+        "question": "Event bubbling nima?",
+        "chance": "6",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1871",
+        "question": "DOM nima uchun zarur?",
+        "chance": "6",
+        "tag": "HTML"
+    },
+    {
+        "id": "1800",
+        "question": "Adaptiv verstka nima?",
+        "chance": "6",
+        "tag": "CSS"
+    },
+    {
+        "id": "1799",
+        "question": "box-sizing: border-box nima qiladi?",
+        "chance": "6",
+        "tag": "CSS"
+    },
+    {
+        "id": "1801",
+        "question": "O'lchamlarni ko'rsatishda vh, vw nima uchun xizmat qiladi?",
+        "chance": "6",
+        "tag": "CSS"
+    },
+    {
+        "id": "1796",
+        "question": "Brauzer qanday ishlaydi?",
+        "chance": "6",
+        "tag": "WEB"
+    },
+    ################
+    {
+        "id": "1792",
+        "question": "О каких уязвимостях слышал",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1798",
+        "question": "Что такое селектор",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1803",
+        "question": "Из чего строится размер элементы",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1785",
+        "question": "Как можно ускорить загрузку сайта",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1781",
+        "question": "Какое у тебя образование",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1787",
+        "question": "Почему react лучше, чем jquerry",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1778",
+        "question": "Как работает new",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1777",
+        "question": "В какую сторону бы хотел развиваться как специалист",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1779",
+        "question": "Как относишься к код ревью",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1789",
+        "question": "Сколько людей в команде",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1804",
+        "question": "За что отвечает z-index",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1773",
+        "question": "Зачем появились promise",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1772",
+        "question": "Приведи пример микрозадач",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1774",
+        "question": "Расскажи про своё самообучение",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1770",
+        "question": "Расскажи про компоненты в react",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1769",
+        "question": "Зачем используется директива usestate",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1771",
+        "question": "Перечисли методы life cycle",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1775",
+        "question": "Зачем нужны разные хештеги",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1767",
+        "question": "Что знаешь о примитивных типах данных в javascript",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1768",
+        "question": "Расскажи про замыкание",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1776",
+        "question": "Как react работает",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1805",
+        "question": "Что знаешь о приоритете селекторов",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1627",
+        "question": "Что такое ооп",
+        "chance": "6",
+        "tag": "Общие"
+    },
+    {
+        "id": "1626",
+        "question": "Какие методы http запросов знаешь",
+        "chance": "6",
+        "tag": "Общие"
+    },
+    {
+        "id": "1809",
+        "question": "Какие псевдоэлементы знаешь и используешь",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1876",
+        "question": "Какие есть способы общения между компонентами",
+        "chance": "6",
+        "tag": "Нет"
+    },
+    {
+        "id": "1606",
+        "question": "Что такое нотация о-большое",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1605",
+        "question": "Что такое протокол-soap",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1542",
+        "question": "Для чего нужен тег noscript",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1604",
+        "question": "Что такое https",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1603",
+        "question": "Где именно хранятся данные session и как сервер понимает как сопоставить конкретные данные session конкретному http запросу",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1541",
+        "question": "На какие события video или audio можно подписаться",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1510",
+        "question": "Что такое httponly cookies",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1602",
+        "question": "В чем отличия http/1 от http/2",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1601",
+        "question": "Назови 5 классов ошибок при http запросе",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1540",
+        "question": "Дай пояснения, для какой цели добавленны след. элементы: Article, aside, audio, canvas, figcaption, figure, footer, header, hgroup, output, section, video",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1600",
+        "question": "Если через консоль, примеру curl'oм, запросить сайт, что мы увидим",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1599",
+        "question": "Что такое graphql",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1539",
+        "question": "Перечислите строчные элементы, которые вам известны(хотя бы 5)",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1509",
+        "question": "В чем отличия html5 от html4.01 и Xhtml1.0",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1494",
+        "question": "Объясни, как работает наследование в javascript",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1598",
+        "question": "Что такое гиперссылка",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1597",
+        "question": "Является ли service workers частью спецификации html 5",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1538",
+        "question": "Перечислите блочные элементы, которые вам известны(хотя бы 5)",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1596",
+        "question": "Является ли web workers частью спецификации html 5",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1595",
+        "question": "Какие drag-события вам известны",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1537",
+        "question": "Что такое webgl",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1508",
+        "question": "Если рассматривать html5 как открытую web-платформу, на чем она строится, из каких компонентов состоит",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1594",
+        "question": "Является ли, drag and drop частью спецификации",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1593",
+        "question": "Является ли websql частью спецификации html 5",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1536",
+        "question": "В каких случаях лучше выбрать canvas, а в каких svg",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1592",
+        "question": "Что такое websql",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1591",
+        "question": "Что такое критический путь рендеринга веб-страниц",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1535",
+        "question": "В чём разница между canvas и svg",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1507",
+        "question": "Как следует оформлять страницу, в которой контент может быть на разных языках",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1493",
+        "question": "Что делает и для чего нужна функци function.Prototype.Bind",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1486",
+        "question": "Как уничтожить объект web worker",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1590",
+        "question": "Что такое fouc (flash of unstyled content)",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1589",
+        "question": "Каково преимущество в подгрузке внешних ресурсов с нескольких доменов",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1534",
+        "question": "Что такое canvas в html 5",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1588",
+        "question": "Как можно оптимизировать загрузку внешних ресурсов на странице",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1587",
+        "question": "Как проверить что куки включены",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1533",
+        "question": "Что такое svg",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1506",
+        "question": "Какая связь между sgml, html, xml и xhtml",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1586",
+        "question": "Что такое feature detection (определение возможностей браузера)",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1585",
+        "question": "Что такое прогрессивный jpeg",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1532",
+        "question": "Знаешь ли тег dfn и за что он отвечает",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1584",
+        "question": "Можешь ли пояснить разницу между progressive enhancement и graceful degradation",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1583",
+        "question": "Можетешь ли пояснить разницу между progressive enhancement и graceful degradation",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1531",
+        "question": "Какие элементы в html5 могут иметь aria атрибут",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1505",
+        "question": "Могут ли возникнуть проблемы при подаче страниц с типом application/xhtml+xml",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1492",
+        "question": "В чем разница между host-объектами и нативными объектами",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1582",
+        "question": "Используешь perfect pixel или что-то аналогичное",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1581",
+        "question": "Объясни, как браузер определяет, на какие элементы накладывать css стили",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1530",
+        "question": "Какой формат видео файлов сейчас поддерживается html5",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1580",
+        "question": "Какие есть подводные камни в оптимизации производительности css",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1579",
+        "question": "Как оптимизировать страницы для печати",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1529",
+        "question": "Какой метод запускает проигрывание аудио-файла",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1504",
+        "question": "В чем разница между html и xhtml",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1578",
+        "question": "Можно ли использовать css grid и flexbox вместе",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1577",
+        "question": "Что такое css grid",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1528",
+        "question": "Для чего нужен атрибут autocomplete какие параметры принимает",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1576",
+        "question": "Как можно гибко изменять размеры flex элементов",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1575",
+        "question": "Flex-flow сокращение, расскажите",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1527",
+        "question": "Что такое свойство valueasnumber",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1503",
+        "question": "Что такое стандартный режим (standards mode)",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1491",
+        "question": "Как организуешь свой код (module pattern, наследование)",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1485",
+        "question": "Как создать поток web worker в javascript",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1482",
+        "question": "Что-такое хэш-таблица",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1574",
+        "question": "Какое правило flexbox задает вывод flex items в одну строку или в несколько строк",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1573",
+        "question": "Какое свойство flexbox отвечает за направление flex items",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1526",
+        "question": "Что такое элемент output в html 5",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1572",
+        "question": "Какие оси есть в flexbox",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1571",
+        "question": "Как задать flexbox",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1525",
+        "question": "Что такое элемент datalist в html 5",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1502",
+        "question": "Что такое режим совместимости (quirks mode)",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1570",
+        "question": "Что такое flexbox",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1569",
+        "question": "Когда-нибудь использовал сеточную верстку (grid system, grid design) если да, какая любимая",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1524",
+        "question": "Какие новые элементы форм введены в html 5",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1568",
+        "question": "Как обеспечиваешь отображение страниц в старых/ограниченных браузерах",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1567",
+        "question": "Как css спрайты реализуются на странице или сайте",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1523",
+        "question": "Что такое относительная ссылка",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1501",
+        "question": "Для чего необходим viewport",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1490",
+        "question": "Объясните \"javascript module pattern\" и где он (паттерн) применяется",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1566",
+        "question": "Что такое css спрайты",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1565",
+        "question": "Какие знаешь методы запрета обтекания (clearing) и какие где применяются",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1522",
+        "question": "Что такое абсолютная ссылка",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1564",
+        "question": "Как работают плавающие элементы (floats)",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1563",
+        "question": "Что такое плавающие элементы (floats)",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1521",
+        "question": "Что такое аттрибут target и какие значения он принимает и что делает",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1500",
+        "question": "Для чего нужны data атрибуты",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1562",
+        "question": "Чем отличается reset.Css от normalize.Css",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1896",
+        "question": "Какие есть типы привязок в angular",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1894",
+        "question": "Какой тип возвращает синхронная функция",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1892",
+        "question": "Расскажи о том что такое promise race",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1890",
+        "question": "Что такое fiction function expression и для чего она нужна",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1888",
+        "question": "Особенности работы с function expression и function declaration",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1886",
+        "question": "Почему именно angular",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1561",
+        "question": "Что такое \"normalize\" css",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1520",
+        "question": "Какие теги практически обязательно должны быть в ```head```",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1560",
+        "question": "Для чего нужен \"normalize\" css",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1559",
+        "question": "Для чего нужен \"reset\" css",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1519",
+        "question": "Как можно с помощью meta-тега, указать http - заголовок",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1499",
+        "question": "Что такое doctype и для чего он нужен",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1489",
+        "question": "Что такое необъявленные (undeclared) переменные",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1484",
+        "question": "Какие ограничения накладываются на поток web worker",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1558",
+        "question": "Что такое \"reset\" css",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1557",
+        "question": "Как работают свойства flex-grow и flex-shrink",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1518",
+        "question": "Что такое meta теги",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1556",
+        "question": "Что такое блочная модель",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1631",
+        "question": "Как избежать баг flash of unstyled content",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1555",
+        "question": "Для чего нужен flex",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1517",
+        "question": "Что такое прогрессивный рендеринг",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1498",
+        "question": "В чем различие article и section",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1630",
+        "question": "В чем смысл инкапсуляции",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1629",
+        "question": "Для кого необходима семантическая верстка",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1554",
+        "question": "Какие методологии знаешь",
+        "chance": "3",
+        "tag": "CSS"
+    },
+    {
+        "id": "1628",
+        "question": "Какие решения по оптимизации страницы знаешь",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1516",
+        "question": "Дай описание след. разделам в файле манифеста кеша: Cache, network и fallback.",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1551",
+        "question": "Существует ли тег basefont и за что он отвечает",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1515",
+        "question": "Что такое кэш приложения в html5",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1497",
+        "question": "Как работают cookies",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1488",
+        "question": "Что такое неопределенные (undefined) переменные",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1550",
+        "question": "Расскажи про тег keygen",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1620",
+        "question": "Что такое функциональное программирование",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1619",
+        "question": "Назови паттерны, которые относятся к поведенческим",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1549",
+        "question": "Что такое \"якорь\"",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1514",
+        "question": "Нужно ли в 5-м хтмл закрывать /> одиночные теги",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1618",
+        "question": "Назови паттерны, которые относятся к структурным",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1617",
+        "question": "Назови паттерны, которые относятся к порождающим",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1887",
+        "question": "Какие примитивные данные в javascript знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1548",
+        "question": "Для чего существует тег q",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1889",
+        "question": "Для чего нужны методы call apply bind",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1616",
+        "question": "Какие классификации паттернов проектирования знаешь",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1891",
+        "question": "В чём преимущество синтаксического сахара в виде async await над promise",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1615",
+        "question": "Чем отличаются между собой shadow dom и virtual dom и regular dom",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1893",
+        "question": "Что является результатом выполнения асинхронных функций",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1547",
+        "question": "Какое событие сработает при потери фокуса элементом формы",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1895",
+        "question": "Как работает angular",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1513",
+        "question": "Каким способом, возможно вложить js-объект в localstorage",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1897",
+        "question": "Отличия между привязками в angular",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1496",
+        "question": "Какая разница между <script> <script async> <scrypt defer>",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1899",
+        "question": "Какой особенностью обладает pipe",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1614",
+        "question": "Что такое shadow dom",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1901",
+        "question": "Что такое observable",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1613",
+        "question": "Что такое dci",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1903",
+        "question": "Сходство и отличия observable от promise",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1546",
+        "question": "Какие теги запрещены в html5",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1905",
+        "question": "Какие операторы работы с потоками знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1612",
+        "question": "Что такое архитектурный-паттерн mvvm",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1907",
+        "question": "В качестве чего можно использовать функцию",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1611",
+        "question": "Что такое архитектурный-паттерн mvp",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1909",
+        "question": "Расскажи поподробнее об null и undefined",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1545",
+        "question": "Отличие I от em и strong от b т. д.",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1911",
+        "question": "Можно ли перезапустить остановленный promise",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1512",
+        "question": "Объясни разницу между cookies, sessionstorage и localstorage",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1913",
+        "question": "Почему vue",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1610",
+        "question": "Что такое архитектурный-паттерн mvc",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1915",
+        "question": "С чем используешь vue",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1609",
+        "question": "Что такое hmac",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1917",
+        "question": "Если бы собеседовал middle, какой вопрос бы задал",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1544",
+        "question": "Какие категории считаются основными категориями контента",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1919",
+        "question": "Что делает второй аргумент resolve",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1608",
+        "question": "Опиши работу нескольких сетевых протоколов на высоком уровне",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1921",
+        "question": "Что произойдёт если я использую await на то что не является promise",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1607",
+        "question": "Опиши несколько способов коммуникаций между серверов и клиентом",
+        "chance": "3",
+        "tag": "Общие"
+    },
+    {
+        "id": "1923",
+        "question": "Что чаще всего нарушают в accessibility по опыту",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1543",
+        "question": "Что такое категории контента в html5, cколько их, расскажи о них.",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1925",
+        "question": "Расскажи своими словами что такое vuex",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1511",
+        "question": "Что такое secure (\"безопасные\") cookies",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1927",
+        "question": "Зачем frontend программисту знать алгоритмы и понимать оценку сложности алгоритмов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1495",
+        "question": "Какие отличия классов id знаешь",
+        "chance": "3",
+        "tag": "HTML"
+    },
+    {
+        "id": "1929",
+        "question": "Сколько понадобиться сравнений для того чтобы найти нужный элемент из 8",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1487",
+        "question": "Зачем в html 5 введены события server-sent",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1483",
+        "question": "Что такое web workers и зачем они нужны",
+        "chance": "3",
+        "tag": "Javascript"
+    },
+    {
+        "id": "1933",
+        "question": "Как организовывал изоляцию css в компонентах vue у себя на проектах",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1935",
+        "question": "Сталкивался ли во vue, с таким понятием как потеря реактивности",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1937",
+        "question": "Какие css - ные раскладки знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1939",
+        "question": "Какая есть хорошая верстка",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1941",
+        "question": "При каких значениях свойство позишн работает за индекс",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1943",
+        "question": "Уживаются ли джеквери и реакт на одной странице",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1945",
+        "question": "Много ли данных нужно обрабатывать в приложении",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1947",
+        "question": "Какие есть правила для написания хуков",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1949",
+        "question": "Расскажи про особое свойство реакт",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1951",
+        "question": "Почему выбрал библиотеку create react up",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1953",
+        "question": "Расскажи как коммитишь код",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1956",
+        "question": "Что не нравится в программировании",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1958",
+        "question": "Как оцениваешь трудность",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1960",
+        "question": "Как взаимодействуют front-end и back-end",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1962",
+        "question": "Что такое репозиторий",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1964",
+        "question": "Каким образом html превращается в страницу",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1966",
+        "question": "Почему реакт",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1968",
+        "question": "Что делает веб пак",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1970",
+        "question": "В чем отличие между серверным ренгом и спа",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1972",
+        "question": "Что будет если передать функцию по ссылке",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1974",
+        "question": "Откуда взялся css",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1976",
+        "question": "С какими инструментами работал",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1978",
+        "question": "Чем нравится redux",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1980",
+        "question": "Какие преимущества redux",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1982",
+        "question": "Что нужно сделать, чтобы поменять данные в хранилище redux",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1984",
+        "question": "Как развернуть строку в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1986",
+        "question": "Что сделать, чтобы settimeout выполнился позже",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1988",
+        "question": "Как обратиться к методу в цепочке",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1990",
+        "question": "От чего зависит this",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1992",
+        "question": "Как оцениваешь качество своего кода",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1994",
+        "question": "Что такое z-index",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1996",
+        "question": "Что такое inline blok в отличии от inline элемента",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1998",
+        "question": "Что будешь делать, чтобы претендовать на эту зп",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2000",
+        "question": "Зачем изучение функционального языка",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2002",
+        "question": "Какой план развития в обучении",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2004",
+        "question": "Какие библиотеки популярны в react",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2006",
+        "question": "Какие популярные подходы изобрели для redux",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2008",
+        "question": "Какие протоколы взаимодействия знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2010",
+        "question": "Зачем нужны сокеты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2012",
+        "question": "Какие структуры используете в проекте",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2014",
+        "question": "Зачем отправляется http запрос",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2016",
+        "question": "Что такое dns",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2018",
+        "question": "Какие особенности в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2020",
+        "question": "Какой смысл замыканий, если бы не было функций высшего порядка",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2022",
+        "question": "Какую проблему решает асинхронность в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2024",
+        "question": "Зачем создавались библиотеки react и другие",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2026",
+        "question": "Как часто происходит рендер",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2028",
+        "question": "Чем занимается компания",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2030",
+        "question": "Что такое доступность интерфейсов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2099",
+        "question": "Как бы повернул блок на 45 градусов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2034",
+        "question": "Как мы отрисовывается сайт для пользователя",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2036",
+        "question": "Как задать последовательность выполнения скриптов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2097",
+        "question": "Как сделать тень падающую от блока",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2038",
+        "question": "Как оптимизировать сайт",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2095",
+        "question": "С каким селектором можно добавлять стили на каждый элемент страницы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2040",
+        "question": "Что если микрозадача создаст еще микрозадачу",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2042",
+        "question": "Чем отличается пропс от стейта",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2093",
+        "question": "Как изменить стили кнопок с атрибутом disabled",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2091",
+        "question": "Как стилизовать инпут для загрузки файлов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2089",
+        "question": "Какое свойство используется для перевода текста в заглавные/строчные буквы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2087",
+        "question": "!Important для чего используется",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2085",
+        "question": "Как убрать маркер у списка",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2083",
+        "question": "Какие виды инпутов бывают",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2081",
+        "question": "Как изменить курсор",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2079",
+        "question": "Что такое семантические элементы и для чего они нужны",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2077",
+        "question": "Чем border отличается от outline",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2075",
+        "question": "Как бы реализовал кастомный чекбокс",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2073",
+        "question": "Для чего приходилось копировать объекты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2072",
+        "question": "С какими нововведениями es6 знаком",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2071",
+        "question": "Зачем нужен redux thunk  и можно ли обойтись без него",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2070",
+        "question": "С какими перебирающими массивами знаком",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2069",
+        "question": "Как бы сортировал массивы с числами",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2068",
+        "question": "Какое свойство css использовал бы для сохранения доступности",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2067",
+        "question": "Как бы строил сетку сайта",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2074",
+        "question": "Keyframes для чего нужен и как работает",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2066",
+        "question": "Как изучал frontend в сторону верстки или только js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2076",
+        "question": "Как обрабатывает web страницу браузер",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2065",
+        "question": "Как происходит merge or rebase в компании",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2078",
+        "question": "Как при нажатии на ссылку открывать страницу в другом окне",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2064",
+        "question": "Приходилось ли делать нетипичные вещи в git",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2080",
+        "question": "Свойство overflow, что делает и когда использовать",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2063",
+        "question": "Как привычнее работать с git",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2082",
+        "question": "Как изменить направление оси flexbox контейнера",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2084",
+        "question": "За что отвечает justify-content и align-tiems у flexbox контейнера",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2062",
+        "question": "Какой подход использовал в построении архитектуры",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2086",
+        "question": "Какие бывают значение у background-size",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2061",
+        "question": "Как происходит работа с задачами в проекте",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2088",
+        "question": "Как работают медиа запросы про мобильные приложения",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2060",
+        "question": "В какой команде работаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2090",
+        "question": "Для чего рекомендуется использовать атрибуты data",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2059",
+        "question": "Что больше нравится react or vue",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2092",
+        "question": "Что такое селектор атрибутов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2094",
+        "question": "Как изменить стили для элемента span",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2096",
+        "question": "Какое свойство позволяет вам спрятать элемент, но сохранить занимаемое им пространство на странице",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2098",
+        "question": "Как сделать тень падающую от текста",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2058",
+        "question": "Как попал в разработку",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2057",
+        "question": "Какие методы массивов мутируют его",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2056",
+        "question": "Какое отличие между двумя видами задания функции",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2102",
+        "question": "Для чего используются препроцессоры",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2055",
+        "question": "Какие способы создания функций знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2054",
+        "question": "Зачем придумали async/await",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2106",
+        "question": "Что такое шаблонные литералы, и для чего они нужны",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2053",
+        "question": "Сколько есть способов что-то сделать асинхронно",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2052",
+        "question": "Зачем нужен линтер",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2051",
+        "question": "Как пользовался линтер js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2110",
+        "question": "Какие значения будут являться falsy значениями",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2050",
+        "question": "Какое значение box-size стоит в браузере по умолчанию",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2114",
+        "question": "Как получить свойство объекта",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2049",
+        "question": "Как значения box-size влияют на размер элемента",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2048",
+        "question": "Какие есть значения у box-sizing",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2047",
+        "question": "Почему селекторы перенаследуются",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2118",
+        "question": "Какие основные реакт хуки знаешь и используешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2046",
+        "question": "Как использовать селектор",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2045",
+        "question": "Зачем нужна семантика",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2122",
+        "question": "Вычисляемые свойства, что такое, как использовать",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2044",
+        "question": "Для чего скрипт подключают в концe body",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2043",
+        "question": "Что выбираешь ооп или функции",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2126",
+        "question": "Как обрабатываются значения формы в vuex",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2130",
+        "question": "Какие альтернативы пулинга знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2134",
+        "question": "Как происходит аутентификация",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2136",
+        "question": "Что такое синтаксическая сложность",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2138",
+        "question": "Как относишься к работе в команде",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2140",
+        "question": "Что используешь в качестве системы контроля версий",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2142",
+        "question": "Какие различия между redux и mobx",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2146",
+        "question": "Что такое инверсия контроля",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2150",
+        "question": "В чём разница в работе eventloop на сервере и в браузере",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2154",
+        "question": "Какие проекты вёл самостоятельно",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2158",
+        "question": "Какое отношение к jquery",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2162",
+        "question": "Что такое хостинг js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2166",
+        "question": "Что не стоит писать в рендере",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2170",
+        "question": "Какие есть альтернативы у redux",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2174",
+        "question": "Где лучше осуществлять запросы в backend",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2178",
+        "question": "Какими способами можно реализовать двустороннее связывание для input",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2182",
+        "question": "Что такое computed свойства",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2186",
+        "question": "Как отрисовать компонент по условию",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2190",
+        "question": "Особенности использования пользовательской директивы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2194",
+        "question": "Зачем указывать key при использовании директивы v-for",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2198",
+        "question": "Какие модификаторы есть у v-model",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2202",
+        "question": "Как динамически изменять стили у элемента",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2206",
+        "question": "Что такое телепорты в vue",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2210",
+        "question": "В какой последователности будут вызываться хуки при использовании хуков жизненного цикла в миксине и подключении его в компонент",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2214",
+        "question": "Расскажи о мутациях в vuex",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2218",
+        "question": "Как принудительно обновлять компонент в vue",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2222",
+        "question": "Какие способы хранения данных в браузере знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2226",
+        "question": "Для чего нужен хук usecontext",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "2230",
+        "question": "Какие семантические группы знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3464",
+        "question": "Что мешало начать получать коммерческий опыт",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3466",
+        "question": "Что делают выражения в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3467",
+        "question": "Как работают модули в es modules",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3469",
+        "question": "Чем можно заменить es modules/require",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3473",
+        "question": "Откуда берутся незаданные свойства у массивов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3498",
+        "question": "Как задать свои свойства массиву",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3501",
+        "question": "Что знаешь про дискрипторы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3504",
+        "question": "Почему мы не можем обратиться к элементу в input",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3508",
+        "question": "Сколько тегов нужно чтобы собрать html страницу",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3511",
+        "question": "Как еще можно структурировать html страницу",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3514",
+        "question": "Зачем нужны 6 групп заголовков в html",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3516",
+        "question": "Можно ли добавлять несколько заголовков h1",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3517",
+        "question": "Как проверить правильную иерархию html заголовков",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3521",
+        "question": "Как семантически разделять контент на странице",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3525",
+        "question": "В чем разница между aside article и section",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3527",
+        "question": "Приходилось оформлять контент в виде таблиц",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3531",
+        "question": "К чему бы склонялся для создания блока таблиц",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3535",
+        "question": "Как выглядит структура таблицы в html",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3539",
+        "question": "В чем проблема адаптации таблиц html",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3542",
+        "question": "Какие форматы изображений",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3544",
+        "question": "Как сделать webp с фолбеком",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3546",
+        "question": "Как можно вставить svg в html документ",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3548",
+        "question": "Как использовал iframe",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3551",
+        "question": "Как узнать что iframe загрузился",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3553",
+        "question": "Как общаться между iframe и самой страницой",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3556",
+        "question": "Как достигается изоляция при использовании бэм",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3559",
+        "question": "Какие есть и как работают циклы в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3561",
+        "question": "В чём отличие цикла for от while",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3563",
+        "question": "Какие знаешь способы клонирования объектов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3565",
+        "question": "Как можно работать с датами в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3568",
+        "question": "Для чего нужно utc",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3569",
+        "question": "Как мы можем замерить скорость работы участка кода с date.Now",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3572",
+        "question": "Почему патчинг прототипа это плохо",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3575",
+        "question": "Какие есть способы фокусировки на элементе",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3578",
+        "question": "В чём разница между тегами div, img, p",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3582",
+        "question": "Что произойдет если мы напишем невалидную разметку",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3585",
+        "question": "Какие есть подходы к адаптивности",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3588",
+        "question": "Расскажи про импорты и модульность в css",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3590",
+        "question": "Для чего используешь sass",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3592",
+        "question": "Минус использование амперсанда в препроцессорах",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3594",
+        "question": "Какие есть варианты позиционирования в css",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3596",
+        "question": "Как мы можем заставить элемент быть выше другого",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3597",
+        "question": "Чем мы можем создать контекст позиционирования",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3599",
+        "question": "Как бороться с переполнением контентом",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3601",
+        "question": "В чем ключевое отличие мутабельных и имутабельных типов данных",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3603",
+        "question": "Чем отличается замыкание от области видимости",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3605",
+        "question": "Что такое ассинхронность",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3607",
+        "question": "В чем отличие синхронного кода от ассинхронного",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3609",
+        "question": "Зачем нужен use strict",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3611",
+        "question": "Как работают функции",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3612",
+        "question": "Как работает eventloop в web api",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3614",
+        "question": "Как взаимодействуешь с eventloop",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3615",
+        "question": "В чем принципиальная разница очереди и стека",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3620",
+        "question": "Как понять что dom загружен",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3621",
+        "question": "За счет чего достигается интерактивность в вебе",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3623",
+        "question": "Какие типы ивентов существуют",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3625",
+        "question": "Как между собой связаны html, css и js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3627",
+        "question": "Если у нас есть css, зачем существуют теги strong, center, etc",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3628",
+        "question": "Что такое и зачем нужен iframe",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3630",
+        "question": "Какие особенности whitespace в html",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3632",
+        "question": "Какие недостатки есть в использовании iframe",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3634",
+        "question": "Почему для поисковых систем так важно, чтобы использовался (ssr)",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3636",
+        "question": "В чем заключаются недостатки ssr",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3638",
+        "question": "Расскажи про user agent стили и способы работы с ними",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3640",
+        "question": "Чем отличаются способы центрирования",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3642",
+        "question": "Как использовать способы центрирования",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3646",
+        "question": "Какие имеются способы горизонтального центрирования",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3649",
+        "question": "Какие есть способы центрирования через inline-block",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3652",
+        "question": "В чем разница между es и commonjs модулями",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3654",
+        "question": "Зачем нужен eslint",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3657",
+        "question": "Зачем нужен docker",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3659",
+        "question": "Что такое и как работает ci/cd",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3662",
+        "question": "Зачем нужен nginx",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3666",
+        "question": "В чем преимущества node.Js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3669",
+        "question": "Можем ли мы получить картинку по http",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3672",
+        "question": "Как браузер понимает что картинка является картинкой",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3677",
+        "question": "Какими способами мы можем получить картинку с сервера",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3848",
+        "question": "Каким образом браузер понимает тип содержимого в ответе от api(картинка, текст, etc)",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3851",
+        "question": "Как браузер понимает что нужно загрузить картинку",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3854",
+        "question": "Как браузер понимает что нужно отображать именно картинку а не текст",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3857",
+        "question": "Что такое коды ответа и чем они отличаются друг от друга",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3860",
+        "question": "Какие методы запросов бывают",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3862",
+        "question": "Как будешь делать html форму",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3865",
+        "question": "Что значит type submit",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3868",
+        "question": "Кто придумывает названия html тегам",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3871",
+        "question": "Откуда берутся базовые стили для тегов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3873",
+        "question": "Какие проблемы могут возникнуть если всю верстку делать на дивах",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3874",
+        "question": "Что такое html entities",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3875",
+        "question": "Где можно найти списки с html entities",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3877",
+        "question": "Какие особенности position: sticky ты знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3882",
+        "question": "Как бы эмулировал поведение position: sticky",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3886",
+        "question": "Что такое es модули",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3891",
+        "question": "Что такое и чем опасен xss",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3895",
+        "question": "Как защитить cookie от js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3899",
+        "question": "Что такое csrf",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3903",
+        "question": "В чем опасность работы с innerhtml",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3908",
+        "question": "Как обезопасить себя от потенциально опасного клиентского ввода",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3911",
+        "question": "Какие еще знаешь парадигмы программирования",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3914",
+        "question": "Чем описание класса отличается от экземпляра класса",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3916",
+        "question": "Что такое cqrs",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3919",
+        "question": "Что такое grasp",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3923",
+        "question": "Что такое dry, kiss",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3925",
+        "question": "Как понимаешь что код написан хорошо",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3926",
+        "question": "Что еще является важной частью понимания кода",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3929",
+        "question": "Что такое html, js и css",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3931",
+        "question": "Какие основные вещи присущи html",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3934",
+        "question": "В чем смысл таких тегов как section, header",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3938",
+        "question": "Почему мы не можем вместо тегов section и header использовать обычный div",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3942",
+        "question": "Какая будет разница для конечного пользователя в разных тегах",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3947",
+        "question": "Как называется характеристика html которая говорит о том как можно использовать разные теги для конкретных ситуаций",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3949",
+        "question": "Чем семантика отличается от доступности(a11y)",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3953",
+        "question": "В чем отличия разных подходов подключения стилей",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3955",
+        "question": "Какие знаешь подходы по написанию css",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3957",
+        "question": "Как в css работают разные приоритеты стилей",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3959",
+        "question": "В чем отличие адаптивного дизайна от отзывчивого",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3961",
+        "question": "Какой тип у функции",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3964",
+        "question": "Чем похожи массивы, объекты и функции",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "3966",
+        "question": "Какие есть операторы в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4684",
+        "question": "Почему c#",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4245",
+        "question": "Что такое делегирование",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4248",
+        "question": "Что такое событийная модель в браузере",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4250",
+        "question": "Что использовать, что всплытие событий не происходило",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4252",
+        "question": "Зачем нужен вью",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4254",
+        "question": "Какие проблемы решают vue а какие jquery",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4256",
+        "question": "Знаком ли с модификаторами для v-bind",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4258",
+        "question": "Что быстрее, dom или virtual dom",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4260",
+        "question": "Что такое watch и computed, как оно работает",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4262",
+        "question": "Зачем нужна блочная область видимости если уже есть функциональная",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4263",
+        "question": "Чем ооп в js отличается от ооп в других языках",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4266",
+        "question": "В чем заключается отличие классов в js от классов в других языках",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4269",
+        "question": "Как бы добавлял статический метод в prototype",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4272",
+        "question": "Как сделать какое либо свойство объекта неизменяемым",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4274",
+        "question": "В чем отличие атрибутов от свойств в html тегах",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4276",
+        "question": "Как получается так что на всех элементах есть одни теже свойства(class, id, etc)",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4279",
+        "question": "В чем отличие .Getelementsbyclassname от .Queryselectrorall",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4280",
+        "question": "Зачем нужна система контроля версий",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4282",
+        "question": "Как наши изменения попадают в ветку",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4286",
+        "question": "Как можно заставить git что-то забыть",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4288",
+        "question": "Как можно переименовать коммит",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4292",
+        "question": "В чем отличие amend от squash",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4294",
+        "question": "Что такое cherry-pick",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4298",
+        "question": "Что такое семантические коммиты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4301",
+        "question": "Зачем вообще что то оптимизировать",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4317",
+        "question": "Что такое force layout и почему это плохо",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4320",
+        "question": "Как мы будем через js анимировать что либо",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4323",
+        "question": "Утечки памяти, что это такое и почему плохо",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4325",
+        "question": "Как происходит процесс утечки",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4328",
+        "question": "Мы можем повлиять на сборку мусора",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4331",
+        "question": "Как исправить утечку памяти",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4334",
+        "question": "Что такое компонент",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4337",
+        "question": "Зачем мы разбиваем код на компоненты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4339",
+        "question": "Как определить что состояние является глобальным",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4342",
+        "question": "Почему нельзя использовать контекст в качестве хранилища состояния",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4343",
+        "question": "Почему react не реактивный",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4344",
+        "question": "Что такое двустороннее и однонаправленное связывание данных",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4345",
+        "question": "Расскажи про типы операторов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4346",
+        "question": "Чем spa отличается от классического сайта",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4631",
+        "question": "Зачем нам разбивать приложение отдельно на backend и frontend",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4634",
+        "question": "Что дает https помимо шифрования",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4636",
+        "question": "Как мы можем ускорить загрузку ресурсов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4674",
+        "question": "Как исправить ситуацию когда база разрослась и база тормозит",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4675",
+        "question": "Что делать когда база стала слишком жирной и отчет создается очень долго,а нужен сейчас",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4677",
+        "question": "Куда будем складывать отчеты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4678",
+        "question": "Как бы спроектировал запрос базы данных без orm",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4680",
+        "question": "Что делать если один и тот же отчет запросили много раз",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4681",
+        "question": "Разным ролям нужно по разному предоставить dataset ,как бы это сделал",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4682",
+        "question": "Что если получение отчетов отложенное",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4685",
+        "question": "Помимо ютуба какими источниками информации пользуешься",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4686",
+        "question": "Как докатился до cqrs",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4687",
+        "question": "Что интересно во фронтенде",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4688",
+        "question": "Что думаешь насчет stackblitz",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4689",
+        "question": "Что будет если забиндить два контекста подряд",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4696",
+        "question": "Почему асинхронность это важно",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4697",
+        "question": "Какие есть проблемы у di",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4698",
+        "question": "Как вам живется с таким большим монорепозиторием",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4699",
+        "question": "Что вызывает трудности на работе",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4701",
+        "question": "Что не нравится в angular",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4702",
+        "question": "Какие есть альтернативы ssr",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4704",
+        "question": "Когда без ssr не обойтись",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4706",
+        "question": "Что такое amp страницы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4707",
+        "question": "Каким сайтам может быть полезно amp",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4709",
+        "question": "В каких случаях на проект стоит брать typescript",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4710",
+        "question": "Что думаешь про jsdoc как альтернатива typescript",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4712",
+        "question": "Какой современный тулинг используешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4713",
+        "question": "Когда нужно использовать типы, а когда интерфейсы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4714",
+        "question": "Какие знаешь способы оптимизации релайаута",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4716",
+        "question": "Почему у нас в css нет селектора на родителе",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4717",
+        "question": "Какие достоинства у инкрементального  dom против виртуального",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4719",
+        "question": "Как стал мейнтейнром phatomjs",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4721",
+        "question": "Ошибка которая больше всего запомнилась",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4722",
+        "question": "Самая большая боль на текущей работе",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4724",
+        "question": "Какие возникнут сложности если придется менять работу",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4726",
+        "question": "Как правильно выбрать фреймворк",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4728",
+        "question": "Как понять что у тебя кровавый энтерпрайз",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4730",
+        "question": "Как убедить разработчиков взять angular",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4731",
+        "question": "Зачем переписывать легаси на новые технологии",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4738",
+        "question": "В каком случае нужно spa",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4739",
+        "question": "Как определить  что у тебя микрофронтенды",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4741",
+        "question": "Какие плюсы и минусы есть у bff (backend for frontend)",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4742",
+        "question": "Что лучше использовать rest или graphql",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4744",
+        "question": "Как должен выглядеть идеальный tdd",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4745",
+        "question": "Какие возникали сложности на пути к разработке",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4746",
+        "question": "Как работаешь с формами в spa",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4748",
+        "question": "Как очистить форму",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4749",
+        "question": "Зачем нам нужен механизм двустороннего связывания",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4751",
+        "question": "В чем заключались проблемы со сбросом формы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4752",
+        "question": "Расскажи про пробелы в html",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4754",
+        "question": "Чем отличается блочный от инлайнового элемента",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4755",
+        "question": "Как растянуть элемент на 100%",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4757",
+        "question": "Как сбросить фон у элемента",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4758",
+        "question": "Как найти все скрытые элементы на странице",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4760",
+        "question": "Как выполнить действие когда произошел скролл до нужного места",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4761",
+        "question": "Откуда у примитива появляются методы (.Tosting(), etc...)",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4762",
+        "question": "Как можно запретить изменение объекта",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4764",
+        "question": "В чем разница циклов for .. In и for .. Of",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4765",
+        "question": "Какие параметры могут повлиять на скорость загрузки контента для пользователя",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4767",
+        "question": "Как мы можем подсказать браузеру подготовиться к загрузке ресурсов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4768",
+        "question": "Как браузер понимает что ресурс нужно закешировать",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4770",
+        "question": "Зачем нужен хеш в названиях файлов (на примере vue cli)",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4772",
+        "question": "Как работает hot reload (на примере vue cli)",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4781",
+        "question": "С какими проблемами сталкивался при подключении кастомных шрифтов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4783",
+        "question": "Многочисленное присваивание значения в data подряд будет вызывать ререндер",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4785",
+        "question": "Сколько стажировался",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4790",
+        "question": "Как начал работать",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4791",
+        "question": "Как с английским",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4793",
+        "question": "Когда лучше использовать id а когда class",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4794",
+        "question": "В чем разница стилей с селектором id и класса",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4795",
+        "question": "Какя разница между различными видами позиционирования элементов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4797",
+        "question": "Какие свойства media отличные от screen знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4799",
+        "question": "Как можно сверстать стрелочку",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4800",
+        "question": "Как удалить обработчик события",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4802",
+        "question": "В чём разница между object.Getownpropertynames и object.Keys",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4804",
+        "question": "Для чего нужен package-lock.Json",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4805",
+        "question": "Чем отличаются put и post запросы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4807",
+        "question": "Что такое staging area в git",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4809",
+        "question": "Как изучал верстку",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4810",
+        "question": "Если нужно повернуть элемент на 45 градусов,как бы это сделал",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4812",
+        "question": "В чем разница между flex и grid",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4814",
+        "question": "Как сделать сайт responsive",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4816",
+        "question": "Чем em отличается от rem",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4817",
+        "question": "Как сделать чтобы изображение грузилась  маленького размера на мобильных",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4818",
+        "question": "Как можно проверить что число nan",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4820",
+        "question": "Каким образом можно проверить что число целое",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4822",
+        "question": "Как поменять значения двух переменных местами",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4829",
+        "question": "В чем основная разница между slice и splice",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4830",
+        "question": "Как отсортировать массив чисел по возрастанию",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4832",
+        "question": "Как узнать что объект пустой",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4833",
+        "question": "Что делает метод freeze",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4835",
+        "question": "Как поменять порядок элементов массива",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4837",
+        "question": "Что делает spread оператор со строкой",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4838",
+        "question": "Каким способом можно удалить все дубликаты из массива",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4840",
+        "question": "Как удалить все элементы с массива",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4842",
+        "question": "Как отсортировать в массиве только нечетные числа",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4844",
+        "question": "Какого рода проекты приходилось делать на next.Js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4846",
+        "question": "Какой был опыт работы с backend",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4849",
+        "question": "Что понимаешь под http запросом options",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4851",
+        "question": "Что такое cdn",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4852",
+        "question": "Для чего нужен cdn",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4854",
+        "question": "Расскажи про отдельные домены для статики",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4898",
+        "question": "Расскажи о своих знаниях в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4899",
+        "question": "Какие были фриланc заказы связанные с js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4900",
+        "question": "Какого рода обязанности выполняешь во время стажировки",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4901",
+        "question": "В чем разница между div и span",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4902",
+        "question": "Что такое inline-block",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4903",
+        "question": "Что выведется в консоли ,если приписать this в console.Log",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4904",
+        "question": "Как проверить что объект это массив",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4905",
+        "question": "Для чего нужны логические операторы && и ||",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4906",
+        "question": "Откуда черпаешь новые знания",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4907",
+        "question": "Как попал в unit city",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4908",
+        "question": "Разница между подключением скриптов async и defer",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4909",
+        "question": "Какие перебирающие методы массивов знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4910",
+        "question": "В чем кардинальная разница между for и foreach",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4911",
+        "question": "Когда стоит использовать метод reduce",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4912",
+        "question": "В чем плюсы ssr",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4913",
+        "question": "Какие в http есть заголовки которые отвечают за кеширование",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4914",
+        "question": "Как поставить cookies-файл так,чтобы он удалились через 3 дня",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4915",
+        "question": "Какие поля в cookies есть,отвечающие за security",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4916",
+        "question": "Какого рода проекты в этой компании делаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4917",
+        "question": "Как долго работаешь в этой компании",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4918",
+        "question": "Какая команда в проектах",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4919",
+        "question": "Что изучал в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4920",
+        "question": "Какими способами изучал js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4921",
+        "question": "Когда начал заниматься codewars",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4922",
+        "question": "Какие книги по js изучал",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4923",
+        "question": "Какой опыт работы был с bem",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4924",
+        "question": "Расскажи про систему сборки проектов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4925",
+        "question": "Расскажи про опыт в вёрстке",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4926",
+        "question": "Расскажи про опыт работы с анимациями",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4927",
+        "question": "Почему оператор называется тернарным",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4928",
+        "question": "В каких случаях используются array.Foreach и array.Map",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4929",
+        "question": "Как понять, что в переменной находится массив",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4930",
+        "question": "Как удалить eventlistener",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4931",
+        "question": "Как с помощью js можно передвигать вперед/назад по истории браузера",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4932",
+        "question": "Как получить текущий url страницы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4933",
+        "question": "Как заредиректить пользователя на url",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4934",
+        "question": "В чём разница между spread и rest операторами",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4935",
+        "question": "Для чего используются spread и rest операторы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4936",
+        "question": "Что такое promise.All",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4937",
+        "question": "Как поставить cookie в браузере",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4938",
+        "question": "Расскажи про последний проект, над которым ты работал",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4939",
+        "question": "Что произойдёт, если написать typeof null",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4940",
+        "question": "Какими способами можно изменить контекст объекта",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4941",
+        "question": "Что такое массив arguments",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4942",
+        "question": "В каком случае важен порядок: при копировании объекта или массива",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4943",
+        "question": "Что такое методы массива",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4944",
+        "question": "В каких случаях лучше использовать map",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4945",
+        "question": "В каких случаях лучше использовать foreach",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4946",
+        "question": "Какой способ изменяет массив",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4947",
+        "question": "Какие инструменты используешь при взаимодействии с сервером",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4948",
+        "question": "Какие статусы есть у promise",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4949",
+        "question": "Что использовали до promise",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4950",
+        "question": "Кому видны данные, хранящиеся в local storage, session storage и cookies",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4951",
+        "question": "В каком формате хранятся данные в local storage",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4952",
+        "question": "Для чего нужен react",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4953",
+        "question": "Какие преимущества есть у react",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4954",
+        "question": "Как можно использовать в рамках jsx js код",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4955",
+        "question": "Что не допускается писать в js коде в рамках jsx",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4956",
+        "question": "Что можно использовать при написании js кода в рамках jsx",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4957",
+        "question": "Какой тип данных представляет из себя virtual dom в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4958",
+        "question": "Почему нельзя напрямую использовать браузерный dom",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4959",
+        "question": "Что такое state и props",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4960",
+        "question": "Как нужно изменять состояние компонентов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4961",
+        "question": "Что возвращает usestate",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4962",
+        "question": "В чём находятся значения функции",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4963",
+        "question": "Что такое useeffect",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4964",
+        "question": "Что можно использовать в useeffect",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4965",
+        "question": "Для чего указывается массив зависимостей",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4966",
+        "question": "Приведи примеры того, что можно использовать в useeffect, помимо запросов на сервер",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4967",
+        "question": "Что такое побочные эффекты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4968",
+        "question": "Как работаешь со списками",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4969",
+        "question": "Что используется для отображения списка данных в jsx",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4970",
+        "question": "Для чего используются ключи в jsx",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4971",
+        "question": "Какие есть ключи в jsx",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4972",
+        "question": "Расскажи про упрявляемые и неуправляемые компоненты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4973",
+        "question": "Как работает поток данных между redux и компонентом",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4974",
+        "question": "Как можно изменить состояние в redux",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4975",
+        "question": "Какой способ помогает бороться с прокидыванием, помимо redux",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4632",
+        "question": "Как работает http",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4977",
+        "question": "Что такое константа",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4978",
+        "question": "Что такое массив",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4979",
+        "question": "Какая цель у оператора присваивания",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4980",
+        "question": "Как происходит взаимодействие клиентов и сервера",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4981",
+        "question": "Что такое область видимости",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4982",
+        "question": "Сколько может длиться тех собеседование",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4983",
+        "question": "Что такое json",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4984",
+        "question": "Какие числовые значения имеют true/false",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4985",
+        "question": "Как преобразуется строка в число",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4986",
+        "question": "Что такое singleton",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4987",
+        "question": "Что такое классы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4988",
+        "question": "Что такое паттерны проектирования",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4989",
+        "question": "Что такое debug",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4990",
+        "question": "Как стал it специалистом",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4991",
+        "question": "Как решить проблему несовместимости некоторых css-cвойств в браузере",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4992",
+        "question": "Когда используются теги div и span",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4993",
+        "question": "Расскажи про частный случай - settimeout 0",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4994",
+        "question": "Назови основные методы перебора массивов и объектов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4995",
+        "question": "Какая ключевая особенность react-рендера",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4996",
+        "question": "Для чего в react используется react-router-dom",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4997",
+        "question": "Что такое spa",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4998",
+        "question": "Что такое сrud и его параметры запроса",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4999",
+        "question": "Какие типы данных  поддерживаются в typescript",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5000",
+        "question": "Как происходит загрузка страницы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5001",
+        "question": "Как браузер парсит html файл",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5002",
+        "question": "Что происходит с внешними ресурсами который считывает браузер при парсинге html",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5003",
+        "question": "Что такое метатеги и для чего они нужны",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5004",
+        "question": "Какие внесли новые теги в html5 и какие теги устарели",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5005",
+        "question": "Что такое screen reader и аccessibility",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5006",
+        "question": "Для чего нужна методология в html",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5007",
+        "question": "Какие бывают css unity",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5008",
+        "question": "Какие популярные форматы картинок используются в веб-верстке",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5009",
+        "question": "Как оптимизировать загрузку картинок на странице",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5010",
+        "question": "Что лучше использовать шрифт svg или sprite",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5011",
+        "question": "Опиши псевдоклассы и псевдоэлементы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5012",
+        "question": "Что такое боксовая модель, из чего она состоит, и какие бывают виды",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5013",
+        "question": "Что такое margin collaps и для чего",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5014",
+        "question": "Что такое float",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5015",
+        "question": "Как отменить обтекание картинки текстом",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5016",
+        "question": "Что такое поток",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5017",
+        "question": "Почему flow плохо влияет на перформанс страницы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5018",
+        "question": "В чем смысл работы flex-box",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5019",
+        "question": "Чем отличается display: block от display: inline",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5020",
+        "question": "Что такое adaptive и responsive web-страницы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5021",
+        "question": "Чем отличается display: none от visibility hidden",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5022",
+        "question": "Что такое вендорные префиксы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5023",
+        "question": "Что необходимо указать в css для срабатывания данных брэкпоинтов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5024",
+        "question": "Почему стали популярны препроцессоры",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5025",
+        "question": "В чем отличие переменных в css от пременных в препроцессорах",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5026",
+        "question": "В чем отличие импортов в css от импортов в препроцессорах",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5027",
+        "question": "Как выбрать правильные библиотеки для подключения к проекту",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5028",
+        "question": "Что такое код quality в html и css",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5136",
+        "question": "Какие псевдоклассы знаешь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5029",
+        "question": "Расскажи о hexagonal архитектуре и откуда она возникла",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5030",
+        "question": "Что такое архитектура портов и адаптеров",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5031",
+        "question": "Для чего нужен адаптер",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5032",
+        "question": "Как вписывается graphql в гексагональную архитектуру",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5033",
+        "question": "Как адаптер связан с овп паттерном",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5034",
+        "question": "Как связан cqrs с event sourcing",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5035",
+        "question": "Расскажи о внедрении зависимостей",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5036",
+        "question": "Как из react осуществить доступ к данным",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5037",
+        "question": "Какие могут быть оптимизации для снижения обмена данных между front-end и сервером",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5038",
+        "question": "Людям какого возраста преподаёшь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5039",
+        "question": "Какой язык программирования используешь в работе",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5040",
+        "question": "Какие языки программирования преподаёшь",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5041",
+        "question": "В чём сходства js и python",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5042",
+        "question": "В чём разница между js и python",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5043",
+        "question": "Что создаёт scope переменных",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5044",
+        "question": "Какие блоки порождают новые контексты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5045",
+        "question": "Зачем создавать самовызывающуюся функции, если есть создание контекста через фигурные скобки",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5046",
+        "question": "С помощью чего можно рассчитать идентификатор в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5047",
+        "question": "Расскажи про асинхронность в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5048",
+        "question": "С какими абстракциями встречался",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5049",
+        "question": "Почему обычные генераторы позволяют написать асинхронный код",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5050",
+        "question": "Расскажи про оптимизацию рендеринга в react",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5051",
+        "question": "Есть ли в react shadow dom или только virtual",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5052",
+        "question": "Какие существуют способы реализации роутинга",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5053",
+        "question": "С какими структурами проекта знаком",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5054",
+        "question": "Какие парадигмы можно использовать на typescript",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5055",
+        "question": "Чем отличается функциональное программирование на typescript от других подходов на других языках",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5056",
+        "question": "Сравни паттерны которые использовал на других языках с паттернами с typescript",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5057",
+        "question": "Чем черевато при написанни кода на типах и интерфейсах",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5058",
+        "question": "Как мы можем порождать классы динамически в run-time",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5059",
+        "question": "Как можно описать класс в typescript которые мы создаем в функции возвращая наружу",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5060",
+        "question": "Каким образом необходимо восстановить объекты из json таким способом, чтобы сохранились метаданные",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5061",
+        "question": "Расскажи про шаблонное проектирование которое ты использовал в разработке",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5062",
+        "question": "Расскажи про mobx",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5063",
+        "question": "Сравни mobx с другими  системами управления state",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5064",
+        "question": "Где функции не могут быть чистыми",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5065",
+        "question": "Какие используешь подходы для написания приложения которую проще  поддерживать, чем делать первоначальную разработку",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5066",
+        "question": "На что можно заменить интерфейсы в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5067",
+        "question": "Чем можно описывать контракты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5068",
+        "question": "Какая машинерия нужна для слоеной архитектуры или domain-driver design,  и для чего",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5069",
+        "question": "Какие применял шаблоны проектирования (очередь сообщений,  ассинхронные пулы, enterprise bus, разделение сommand–query )",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5070",
+        "question": "Приведи пример архитектурных решений для проектов на node.Js какой был  опыт и какой результат",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5071",
+        "question": "Расскажи про высоконагруженние системы и системы реального времени",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5072",
+        "question": "В чем разница систем приближенных к реальному времени и системами  реального времени на производстве",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5073",
+        "question": "Какие проблемы с подключением языков встречал",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5074",
+        "question": "Какие есть доступы или подходы к базам данных из прикладного кода (active record)",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5075",
+        "question": "Расскажи недостатки с обзором и системами модульности которые используются в js,  node.Js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5076",
+        "question": "В чем особенности command js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5077",
+        "question": "Что есть из систем модульности помимо ecmascript-модулей и command js модулей",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5078",
+        "question": "Расскажи про механизмы в node js, domain и async hooks",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5079",
+        "question": "Расскажи про graceful shutdown и где применяется",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5080",
+        "question": "Какова была общая архитектура системы вашего проекта",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5081",
+        "question": "Как был организован процесс вашего проекта",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5082",
+        "question": "Расскажи что интересного разрабатывал",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5083",
+        "question": "Как работаешь с ассинхронным js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5084",
+        "question": "С помощью чего собираешь приложения",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5085",
+        "question": "Как деплоишь приложения",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5086",
+        "question": "Как мониторишь ошибки js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5087",
+        "question": "Максимально широко расскажи о http протоколе",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5088",
+        "question": "Какие методы общения имеются в протоколе http",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5089",
+        "question": "Что такое  crud",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5090",
+        "question": "Как реализовывается crud",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5091",
+        "question": "Какие бывают коды ответов с сервера",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5092",
+        "question": "В чем отличие кодов 400, 500",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5093",
+        "question": "Что такое атрибут  doctype в html разметке",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5094",
+        "question": "В чем разница работы режимов( async , defer или type) тега script",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5095",
+        "question": "Для чего используется тег link",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5096",
+        "question": "Для чего необходим атрибут rel тега link",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5097",
+        "question": "Что будет вызвав this стрелочной функцией",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5098",
+        "question": "Для чего в условии нужна стрелочная функция",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5099",
+        "question": "Назови инструменты которые использовал для написания ассинхронных вызовов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5100",
+        "question": "Что разбирали в движке браузера",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5101",
+        "question": "В чем разница между  async и await",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5102",
+        "question": "Для чего придумали функции async и await",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5103",
+        "question": "В чем плюсы и минусы data binding в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5104",
+        "question": "Как бы спроектировал приложение для автомобильного паркинга на vue.Js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5105",
+        "question": "В чем отличие async/await от promise",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5106",
+        "question": "Что такое ссылочный тип данных",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5107",
+        "question": "Как сравниваются массивы и объекты в js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5108",
+        "question": "Что такое приведение типов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5109",
+        "question": "Что происходит при нестрогом сравнении",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5110",
+        "question": "Как понимаешь что такое передача по ссылке",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5111",
+        "question": "Что передается вторым аргументом методам call, apply, bind",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5112",
+        "question": "Что такое боксинг",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5113",
+        "question": "Почему при обращении к примитивной строке, можно обратиться и как к объекту",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5114",
+        "question": "Как происходит tostring",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5115",
+        "question": "Как запретить изменять контекст",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5116",
+        "question": "К какой категории относятся промисы",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5117",
+        "question": "В чем отличие created от mounted",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5118",
+        "question": "В чем отличие created от before created",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5119",
+        "question": "В чем отличие box-sizing: border box от box-sizing: content box",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5120",
+        "question": "Какие использовал шаблоны в html",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5121",
+        "question": "Расскажи про методологию шаблона",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5122",
+        "question": "Как сбрасываешь стили",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5123",
+        "question": "Какие хуки добавляют для подключения ротера",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5124",
+        "question": "Что такое шаблоны и строки",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5125",
+        "question": "Как работает import и export",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5126",
+        "question": "Какие знаешь методы итерации",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5127",
+        "question": "Что такое позднее статическое связывание в php",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5128",
+        "question": "Что такое функция высшего порядка",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5129",
+        "question": "Какие фрэймворки писали на php",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5130",
+        "question": "Как перехватываешь глобально ошибки по бэкенду",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5131",
+        "question": "В чем была суть ваших проектов",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5132",
+        "question": "Чем отличается ссылочная функция от обычной",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5133",
+        "question": "Расскажи подробнее про текущие проекты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5134",
+        "question": "Сколько находишься в сфере front-end",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5135",
+        "question": "Расскажите про свой box-sizing",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5137",
+        "question": "Arrow functions - to avoid using bind-method чем от обычной отличается",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5138",
+        "question": "Какими способами можно клонировать объект",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5139",
+        "question": "Как пишите страничку на vue",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5140",
+        "question": "Из каких секций состоит компонент vue",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5141",
+        "question": "Почему методы жизненного цикла нельзя писать через прилоченную функцию",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5142",
+        "question": "Почему свойство дата должна быть в функции",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5143",
+        "question": "С какими библиотеками vue работали",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5144",
+        "question": "Из чего состоит vuex js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5145",
+        "question": "Как взаимодействовать с vuex js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5146",
+        "question": "В чем заключается основная концепция flux",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5147",
+        "question": "Какую концепцию реализует vuex js",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5148",
+        "question": "Расскажи чем  сейчас занимаешься",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5149",
+        "question": "нравиться заниматься отдельными задачами, например написать отдельный код",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5150",
+        "question": "А чем отличаются типы данных друг от друга",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5151",
+        "question": "Как работает передача по ссылке и по значению",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "5152",
+        "question": "А что значит объект передается по ссылке",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1954",
+        "question": "Как следишь за код стаймом",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "4976",
+        "question": "Что такое переменная",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1898",
+        "question": "Что такое pipe",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1900",
+        "question": "Какая есть важная особенность у pipe",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1902",
+        "question": "К какой структуре данных в javascript близок observable",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1904",
+        "question": "Отличия subject behaviorsubject replaysubject",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1906",
+        "question": "Почему функции массивов являются объектом",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1908",
+        "question": "Как узнать где начать, а где закончить при использовании for",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1910",
+        "question": "Можно ли применить bind на стрелочную функцию",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1912",
+        "question": "В каких случаях можно использовать локальное состояние, а в каких глобальный state",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1914",
+        "question": "Что нравится во vue",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1916",
+        "question": "В чём разница между junior, middle и senior",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1918",
+        "question": "Какая самая важная отличительная черта promise",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1920",
+        "question": "Что используете async await или send",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1922",
+        "question": "Почему none в javascript это число",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1924",
+        "question": "Зачем был добавлен атрибут roll",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1926",
+        "question": "Какую последнюю статью или книжку читал связанную с frontend",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1928",
+        "question": "Как дать оценку сложности бинарному коду",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1930",
+        "question": "Расскажи про последнюю интересную вещь которую узнал про css",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1931",
+        "question": "Расскажи как видится идеальный процесс работы в команде над задачей",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1932",
+        "question": "Зачем, для чего и как во vue нужны слоты",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1934",
+        "question": "Что будешь делать если проект на vue не работает в e11",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1936",
+        "question": "Какие варианты есть у позишн",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1938",
+        "question": "Любишь верстать",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1940",
+        "question": "Когда использовать флексы и греды",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1942",
+        "question": "Что будет с релетив, если сказать ему топ 5 пикселей",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1944",
+        "question": "Расскажи какие библиотеки использовал для интересных ui решений",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1946",
+        "question": "Что знаешь про оптимизацию",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1948",
+        "question": "Расскажи как относишься к виртуал дом",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1950",
+        "question": "Как расставляешь ключи у списка",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1952",
+        "question": "Что можешь рассказать об version",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1955",
+        "question": "Если не разработка, то что",
+        "chance": "3",
+        "tag": "Нет"
+    },
+    {
+        "id": "1957",
+        "question": "Назови 3 интересных человека в сфере it",
+        "chance": "3",
+        "tag": "Нет"
+    }
+]
