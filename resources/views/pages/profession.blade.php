@@ -40,7 +40,7 @@
                 </tbody>
             </table>
 
-            <!-- Simple Numeric Pagination -->
+            <!-- Pagination -->
             <div class="pagination-container">
                 @if ($questions->lastPage() > 1)
                     <div class="simple-pagination">
