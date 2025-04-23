@@ -23,7 +23,7 @@ class PageController extends Controller
 
         $search = $request->query('search');
         $sort = $request->query('sort', 'desc');
-        $perPage = 50;
+        $perPage = 100;
 
         $questions = $profession->questions()
             ->when($search, function ($query, $search) {
@@ -45,7 +45,7 @@ class PageController extends Controller
     final function mock(Request $request): object
     {
         $positions = Profession::all();
-        $perPage = 50;
+        $perPage = 100;
 
         $query = Interview::query()->with('profession');
 

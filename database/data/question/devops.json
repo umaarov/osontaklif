@@ -1,0 +1,5168 @@
+[
+    {
+        "id": "11530",
+        "question": "Ish tajribangiz haqida gapirib bering.",
+        "chance": "93",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11538",
+        "question": "Hozirgi ish joyingiz haqida gapirib bering: oddiy ish kuni qanday o'tadi, qanday vazifalarni hal qilishga to'g'ri keladi?",
+        "chance": "86",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11719",
+        "question": "Qaysi instruksiyasiz Dockerfile mavjud bo'la olmaydi?",
+        "chance": "80",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6274",
+        "question": "Dockerfile'da CMD ENTRYPOINT'dan nima bilan farq qiladi?",
+        "chance": "66",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6239",
+        "question": "DevOps nima?",
+        "chance": "66",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6246",
+        "question": "COPY ADD'dan (Dockerfile'da) nima bilan farq qiladi?",
+        "chance": "60",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11531",
+        "question": "Terraform yordamida qanday vazifalarni bajargansiz?",
+        "chance": "60",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11551",
+        "question": "Ansible bilan ishlash tajribangiz qanday?",
+        "chance": "46",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11613",
+        "question": "Qaysi instrumentlardan foydalangansiz?",
+        "chance": "46",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6251",
+        "question": "O'zingiz haqingizda gapirib bering.",
+        "chance": "46",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11710",
+        "question": "Sizningcha, ideal CI/CD pipeline qanday ko'rinishda bo'lishi kerak, unda nimalar bo'lishi kerak, nima nimadan keyin kelishi kerak?",
+        "chance": "46",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6247",
+        "question": "Deployment Delivery'dan nima bilan farq qiladi?",
+        "chance": "46",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6447",
+        "question": "Pod va konteyner (Kubernetes'da) o'rtasidagi farq nimada?",
+        "chance": "40",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11553",
+        "question": "CI/CD nima?",
+        "chance": "40",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11586",
+        "question": "GitLab CI bilan ishlash tajribangiz qanday?",
+        "chance": "40",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11554",
+        "question": "Databaselar bilan ishlash tajribangiz qanday?",
+        "chance": "40",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11540",
+        "question": "Prometheus nima?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6463",
+        "question": "Rollar playbook'lardan (Ansible'da) nima bilan farq qiladi?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6421",
+        "question": "Zombi protsesslar nima?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6398",
+        "question": "inode nima?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11532",
+        "question": "Kafka nima?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6408",
+        "question": "Load average nimani ko'rsatadi?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11550",
+        "question": "GitLab CI'da include'lar, anchor'lardan foydalanib qanchalik murakkab pipeline'lar yozishga to'g'ri kelgan?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11533",
+        "question": "Kubernetes nima?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6250",
+        "question": "Konteynerizatsiya va virtualizatsiya o'rtasidagi farq nimada?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6472",
+        "question": "Terraform Ansible'dan nima bilan farq qiladi? ELK stack nima?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11543",
+        "question": "Docker bilan ishlash tajribangiz qanday?",
+        "chance": "33",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6436",
+        "question": "Deployment va DaemonSet (Kubernetes'da) o'rtasidagi farq nimada?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12150",
+        "question": "Swap nima va u kerakmi?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12006",
+        "question": "Helm, Helm charts nima?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11560",
+        "question": "Pod (Kubernetes'da) nima?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11661",
+        "question": "Monitoring nima, qanday instrumentlardan foydalanish mumkin?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11957",
+        "question": "ReplicaSet, Deployment (Kubernetes'da) nima?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11541",
+        "question": "ELK stack nima?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11544",
+        "question": "TeamCity bilan ishlash tajribangiz qanday?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11561",
+        "question": "Namespace (Kubernetes'da) nima?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11659",
+        "question": "Dockerfile'ni mustaqil yozish tajribangiz qanday?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11665",
+        "question": "Helm chart'lardan foydalanish tajribangiz qanday?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6360",
+        "question": "HTTP va HTTPS nima bilan farqlanadi?",
+        "chance": "26",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11655",
+        "question": "Ansible'dagi facts nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11644",
+        "question": "git rebase va git merge o'rtasidagi farq nimada?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6445",
+        "question": "Qanday Probe'lar (Kubernetes'da) mavjud?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6244",
+        "question": "TCP va UDP o'rtasidagi farq nimada?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11801",
+        "question": "Sizning ideal CI/CD workflow haqidagi tasavvuringiz qanday?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6412",
+        "question": "OOM Killer nima uchun kerak?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11536",
+        "question": "Docker'dagi multistage build nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6402",
+        "question": "Qaysi sababga ko'ra inode'lar tugashi mumkin?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11995",
+        "question": "Virtual mashinaning konteynerlardan farqlari.",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6535",
+        "question": "Nima uchun bu ish sizga kerak?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11783",
+        "question": "Gitflow bilan ishlash tajribangiz qanday?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6470",
+        "question": "State'ni qayerda saqlagan ma'qul?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6464",
+        "question": "Idempotentlik nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6483",
+        "question": "Kubernetes nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11740",
+        "question": "Pod'da qo'shimcha konteynerlarning qanday turlari bo'ladi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11720",
+        "question": "Qaysi CI/CD tizimlari bilan ishlashga to'g'ri kelgan?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11713",
+        "question": "Bu lavozimda nima bilan shug'ullanishni, nima bilan ishlashni xohlaysiz?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11721",
+        "question": "GitLab'da deploy qanday qilinadi?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6433",
+        "question": "Entrypoint / CMD (Dockerfile'da) nima?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12065",
+        "question": "AWS bilan qanday tajribangiz bor?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11663",
+        "question": "Bulutli texnologiyalar bilan ishlash tajribangiz qanday?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11758",
+        "question": "Jenkins bilan ishlash tajribangiz qanday?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11738",
+        "question": "Xavfsizlikka kelsak, maxfiy o'zgaruvchilarni qayerda saqlash kerak?",
+        "chance": "20",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11654",
+        "question": "Handler'lar (Ansible'da) nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11636",
+        "question": "Web-serverdan qanday javob kodlarini olamiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6266",
+        "question": "Firewall nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11631",
+        "question": "Zombi protsessni qanday \"o'ldirish\" mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6292",
+        "question": "Nima yaxshiroq: mikroservislarmi yoki monolitlarmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11632",
+        "question": "Orphan protsess zombi protsessdan qanday farq qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11616",
+        "question": "Playbook'larni mustaqil yozish tajribangiz qanday?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11629",
+        "question": "/etc/fstab'da nima saqlanadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11633",
+        "question": "HTTPS qanday ishlaydi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11660",
+        "question": "Qaysi servislar bilan ishlagansiz va ular bilan bevosita nima qilgansiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11576",
+        "question": "Load balancer nima beradi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11555",
+        "question": "PostgreSQL bilan ishlash tajribangiz qanday?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11587",
+        "question": "Ansible nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11552",
+        "question": "SQL va NoSQL bazalari bilan ishlash tajribangiz qanday?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6428",
+        "question": "Kata Containers nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6426",
+        "question": "Docker nima, Docker daemon nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6424",
+        "question": "Kubernetes nima? Ochiq Standartlar (OCI, CRI, CNI, CSI, SMI, CPI) nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11549",
+        "question": "Docker'dagi host tarmoq turi nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11547",
+        "question": "Docker LXC'dan nima bilan farq qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6321",
+        "question": "Dockerfile'dagi layers nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6414",
+        "question": "Linux qaysi protsessni yakunlashni qanday tanlaydi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11537",
+        "question": "Kubernetes bo'yicha savol: konteyner pod'dan nima bilan farq qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6410",
+        "question": "OOM (Out of Memory) nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6317",
+        "question": "Blue-green deployment nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6406",
+        "question": "Qaysi fayl tizimida dinamik inode'lar bo'lishi mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6259",
+        "question": "Nima uchun DevOps mutaxassislarining maoshlari eng yuqorilardan biri hisoblanadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6401",
+        "question": "Qaysi turdagi tizimlarda inode'lar tugashi mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6399",
+        "question": "inode nima uchun kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6312",
+        "question": "Error Budget nima uchun kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6416",
+        "question": "kill buyrug'i qaysi signalni yuboradi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6396",
+        "question": "systemdning asosiy afzalligi nimada?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11521",
+        "question": "Terraform'dagi provider'lar nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6395",
+        "question": "Hozir ko'proq nima ishlatiladi: initmi yoki systemdmi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6394",
+        "question": "Linux'ning yuklanish jarayoni qanday sodir bo'ladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11534",
+        "question": "Qaysi stack bilan ishlashga to'g'ri kelgan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6495",
+        "question": "UDP qachon ishlatiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6494",
+        "question": "Qanday protokollarni bilasiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6530",
+        "question": "DevOps / SRE / IE roli nimadan iborat?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6430",
+        "question": "Docker'dagi squash nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11927",
+        "question": "Ideal konveyerni (pipeline) tasvirlab bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11924",
+        "question": "kubelet komponenti nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11932",
+        "question": "Kubernetes'dagi node'ning hajmini qanday hisoblash mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11865",
+        "question": "Balansirovkani tashkil qilish uchun Nginx bilan ishlash tajribangiz qanday?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11838",
+        "question": "Grafana'ning nativ log yig'uvchisi Loki bilan qanchalik tanishsiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11872",
+        "question": "Linux'da qanday asosiy narsalarni administrlashga to'g'ri kelgan?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11947",
+        "question": "Ishlayotgan protsessni qanday topish mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6444",
+        "question": "Qaysi ilova uchun StatefulSet'dan foydalangan bo'lar edingiz va nima uchun?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11821",
+        "question": "Linux'da diskka fayl yaratishga urinishda \"joy yo'q\" xatoligi chiqdi, lekin joy bor. Bu nima bilan bog'liq bo'lishi mumkin?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11809",
+        "question": "Init konteyner nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11824",
+        "question": "Konteynerizatsiya, jumladan Docker, qaysi texnologiyalarga asoslanadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11800",
+        "question": "OpenShift bilan ishlash tajribangiz qanday?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11830",
+        "question": "Ansible'ni testlar bilan qanday qoplaysiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6462",
+        "question": "Ansible'da o'zgaruvchilarni belgilash usullarini sanab o'ting.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11726",
+        "question": "API nima va u nima uchun kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11743",
+        "question": "GitLab CI artefaktlari job atributlari sifatida keshdan nima bilan farq qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11715",
+        "question": "Ansible bo'yicha savol: sizningcha, nima rol bo'lishi kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11775",
+        "question": "Pipeline kodida linterlar bilan ishlash tajribangiz qanday?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11837",
+        "question": "Mobil qurilmalar uchun CI/CD ishlab chiqish tajribangiz qanday?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12129",
+        "question": "Monitoringning qanday modellarini bilasiz va ular nima bilan farqlanadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11701",
+        "question": "O'z loyihangizda qanday DevOps amaliyotlarini joriy qilgansiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11668",
+        "question": "Linux'dagi yuklanish bosqichlari va yuklovchilar.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11702",
+        "question": "Playbook'lar va rollarni saqlashni qanday amalga oshirgansiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6491",
+        "question": "Qaysi HTTP xabar yoki xato kodlarini bilasiz va ular nimani anglatadi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6303",
+        "question": "GitLab Runner qanday ishlaydi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6488",
+        "question": "O'zingizning ijobiy tomonlaringiz haqida gapirib bering.",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6248",
+        "question": "DevOps Agile'dan nima bilan farq qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6270",
+        "question": "Terraform nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11546",
+        "question": "Docker KVM'dan nima bilan farq qiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11667",
+        "question": "Sekretlarni qanday ishlatasiz?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11685",
+        "question": "git push git pulldan nima bilan farq qiladi va har biri nima uchun ishlatiladi?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11696",
+        "question": "Kubernetes'dagi ServiceMonitor nima?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6326",
+        "question": "Multi-stage (Dockerfile'da) nima uchun kerak?",
+        "chance": "13",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6467",
+        "question": "PostgreSQL'ning uzilishlarga chidamliligini ta'minlashning qaysi usulini tanlagan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6466",
+        "question": "Ansible uchun shablonizator qanday nomlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6362",
+        "question": "HTTP matnli yoki binar protokolmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6465",
+        "question": "Ansible'ni qanday to'g'ri o'rnatish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6295",
+        "question": "Image konteynerdan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6359",
+        "question": "Yetkazib berishning qanday kafolatlari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6461",
+        "question": "vars va defaults direktoriyalari (Ansible role'da) o'rtasida qanday farq bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6459",
+        "question": "Ansible'ning eng katta kamchiligi nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6358",
+        "question": "Yetkazib berish kafolati nima hisobiga ta'minlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6293",
+        "question": "Qaysi mikroservislarni gorizontal masshtablash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6457",
+        "question": "Konfiguratsiyani boshqarish instrumentlari (Ansible, Puppet, Chef, Salt) nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6456",
+        "question": "Kubernetes'dan ilovalarni publikatsiya qilishning qanday usullarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6356",
+        "question": "Klient-server o'tkazuvchanlik qobiliyatini qaysi buyruq bilan o'lchash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6454",
+        "question": "NodePort va ClusterIP (Kubernetes Service turlari) o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6452",
+        "question": "Headless servis boshqa har qanday servisdan (Kubernetes'da) nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6353",
+        "question": "Bir hostdan ikkinchisiga marshrutni qaysi buyruq bilan kuzatishimiz mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6351",
+        "question": "Docker runner'ning qanday turlari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6348",
+        "question": "Dockerfile'ga kirishni nima hisobiga cheklash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6290",
+        "question": "Immutable Infrastructure nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6265",
+        "question": "Uzoqdagi yoki lokal hostdagi port ochiqligini qanday tekshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6343",
+        "question": "Volume va hostga oddiy hududni bog'lash (bind mount) o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6442",
+        "question": "DaemonSet'ning amaliy qo'llanilishi qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6440",
+        "question": "Image'ga o'zgartirish kiritilgandan so'ng nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6341",
+        "question": "Dockerfile'da ishga tushirilgan konteynerga qanday kirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6288",
+        "question": "Jenkins'da build muvaffaqiyatli/muvaffaqiyatsiz bo'lganligi haqida notifikatsiyani qanday qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6437",
+        "question": "Squash nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6337",
+        "question": "Xatoning o'zini va kontekstini (xatodan oldingi va keyingi 10 qatorni) qanday ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6434",
+        "question": "Nima uchun Kubernetes'da konteynerni root'dan ishga tushirish yomon?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6333",
+        "question": "Log faylidan faqat xatolarni qanday chiqarish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6287",
+        "question": "Build artefaktlarini qayerda va qanday saqlash kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6331",
+        "question": "Loglarning faqat oxirgi 100 qatorini qanday chiqarish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11527",
+        "question": "TCP window haqida nima bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6329",
+        "question": "Ishlayotgan konteynerdagi loglarni qanday ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6285",
+        "question": "CI/CD'dagi webhook'lar nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11526",
+        "question": "Argo CD yordamida nima qila olamiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11525",
+        "question": "TCP qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11524",
+        "question": "Lock state (Terraform'da) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11523",
+        "question": "Configuration drift nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6327",
+        "question": "Qaysi hollarda multi-stage build ishlatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11522",
+        "question": "Terraform'da o'z provider'ingizni qanday yaratish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11529",
+        "question": "Unix nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11528",
+        "question": "UDP orqali ma'lumotlarning kafolatlangan yetkazilishini qanday amalga oshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11539",
+        "question": "Docker'dagi host tarmoq turi nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12274",
+        "question": "CRD (Custom Resource Definition) bulut bilan qanday bog'liq?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6423",
+        "question": "Qaysi biri: SIGTERM yoki SIGKILL zombi protsesslarni keltirib chiqarishi mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6323",
+        "question": "Qatlamga yum update kiritilgandan so'ng, Dockerfile keshni tashlash kerakligini qanday tushunadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11545",
+        "question": "Tarantool bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6283",
+        "question": "CI/CD'ning asosiy bosqichlari haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6263",
+        "question": "Linux'da permissions qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6261",
+        "question": "Proxy nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6540",
+        "question": "Suhbatga qanday tayyorlanish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6420",
+        "question": "Qaysi hollarda SIGKILL'dan foydalanish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6418",
+        "question": "SIGTERM / SIGKILL signallari o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6532",
+        "question": "Junior DevOps nimalarni bilishi kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6319",
+        "question": "CMD / ENTRYPOINT nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6282",
+        "question": "Dasturlash jamoasining Cloud provider'larga kirishini qanday ta'minlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11558",
+        "question": "Blackhole nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6526",
+        "question": "RxJS dasturlash: switchMap, concatMap qachon ishlatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6524",
+        "question": "AOT (Ahead-of-Time) kompilyatsiyasi nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6523",
+        "question": "\"main branch'ga rebase qilish\" nimani anglatadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11562",
+        "question": "Bitta namespace'dagi ilova klaster ichidagi boshqa namespace'dagi ilovani ko'ra oladimi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11563",
+        "question": "Turli namespace'lardagi ilovalarning o'zaro aloqasini qanday cheklash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11564",
+        "question": "Joblar (Kubernetesda) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11567",
+        "question": "PV (PersistentVolume), PVC (PersistentVolumeClaim) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11573",
+        "question": "NodePort (Service turi) nima beradi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6522",
+        "question": "main branch'ga qanday rebase qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11582",
+        "question": "Selektor (Kubernetes'da) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11583",
+        "question": "Init protsess (PID 1) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6520",
+        "question": "Qachon Terraform Module'dan foydalanish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11585",
+        "question": "Protsess potokdan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6519",
+        "question": "Stateful ilovaning qanday kamchiliklari bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6518",
+        "question": "Helm Chart'ni qanday avtomatik deploy qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6316",
+        "question": "Pod Deployment'dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11589",
+        "question": "Nima uchun Docker'ni o'rnatib, obraz yaratsangiz, u ishga tushmasligi mumkin, bunga nima sabab bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6280",
+        "question": "AWS DevOps bilan qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11594",
+        "question": "Nima uchun konteynerni root'dan ishga tushirish yomon?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11597",
+        "question": "ReplicaSet nima va u nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11599",
+        "question": "StatefulSet bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11601",
+        "question": "StatefulSet'ning asosiy parametri qaysi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11604",
+        "question": "Siz Deployment elementini yaratganingizda nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6517",
+        "question": "Kubernetes'da GitOps uchun qanday yechimlarni bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6516",
+        "question": "CI/CD uchun qanday yechimlarni bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6404",
+        "question": "inode'ning nullanishi nimaga olib kelishi mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6515",
+        "question": "AWS'da ko'tarilishi kerak bo'lgan katta loyiha bor, qanday Dizayn Pattern (arxitektura patterni?) taklif qilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6514",
+        "question": "Qaysi Cloudlarni bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6314",
+        "question": "Docker Compose Docker Swarm'dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6513",
+        "question": "Data Center'dagi Private Subnet'dagi serverga uydan qanday kirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6512",
+        "question": "Database Server'dan yuklamani qanday kamaytirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6511",
+        "question": "SQL Database limitini qanday tekshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6510",
+        "question": "Web-saytning sekin ishlashini qanday troubleshoot qilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6278",
+        "question": "Pod'larni availability zone'lar bo'ylab bir tekisda qanday taqsimlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6509",
+        "question": "Qaysi Enterprise Firewall'larni bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6508",
+        "question": "RPO 2 soatga mos kelishi kerak, qanchalik tez-tez Backup qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6507",
+        "question": "Mikroservislarning qanday xarakteristikalarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6311",
+        "question": "Tizim sifatini o'lchash uchun qanday metrikalar mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6505",
+        "question": "Eng xavfli Linux buyrug'i qaysi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6504",
+        "question": "Qaysi LISTENING portlarida joriy ulanishlarni ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6503",
+        "question": "Joriy ulanishlarni qanday ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6501",
+        "question": "RedHat Linux'da qaysi buyruq bilan servislar tizim yuklanganda avtomatik start olishini qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6309",
+        "question": "Monitoring trassirovka (tracing)dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6276",
+        "question": "Platforma sifatida Kubernetes'ning afzalligi nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6256",
+        "question": "3-4 yil ichida DevOps pozitsiyasining ahamiyati qanchalik oshdi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6500",
+        "question": "Linux'da barcha ishlayotgan protsesslarni qaysi buyruq bilan ko'rsatish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6499",
+        "question": "DNS qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6392",
+        "question": "free available'dan (xotira kontekstida) nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6498",
+        "question": "Ushbu CIDR 10.20.0.0/23 ning Subnet Mask'asi qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6497",
+        "question": "ping ::1 buyrug'i nimani anglatadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6390",
+        "question": "free (buyrug'i)dagi bo'limlarning farqlari nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6307",
+        "question": "Mikroservislar to'g'ri ishlayotganini qanday tushunish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6496",
+        "question": "OSI Modeli darajalarining qanday turlarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6389",
+        "question": "Operativ xotiraning yuklanganligini qaysi buyruq yordamida ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6493",
+        "question": "DNS yozuvlari nimani anglatadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6306",
+        "question": "GitLab kodni yuklab olgandan keyin nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6492",
+        "question": "Qanday DNS yozuvlarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11653",
+        "question": "Agar sizda ko'p mashinalar bo'lsa va Ansible hamda Python bo'lmasa, (dasturlarni) qanday o'rnatasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11652",
+        "question": "Playbook'lar yoki rollarni nima orqali ishga tushirasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6490",
+        "question": "Ishdagi muvaffaqiyatsizlik haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11651",
+        "question": "Rollar uchun handler'lar va shablonlardan foydalanish tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11650",
+        "question": "Rol (Ansible'da) nimalardan, qaysi papkalardan, qaysi fayllardan iborat?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6489",
+        "question": "O'zingizning kamchiliklaringiz haqida gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6502",
+        "question": "Linux'dagi /proc direktoriyasi ichida nima bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11649",
+        "question": "Rollarda o'zgaruvchilarning iyerarxiyasi qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11648",
+        "question": "Rollarda o'zgaruvchilarni qayerda ko'rsatish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11669",
+        "question": "i-node qanday ma'lumotni saqlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11666",
+        "question": "O'z ilovalaringizga qanday monitoringni ulayapsiz, nima bilan monitor qilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11664",
+        "question": "ArgoCD yordamida production'ga kodni ideal deploy qilishni qanday amalga oshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11670",
+        "question": "Linux va Unix o'rtasidagi farq nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11671",
+        "question": "User space va kernel space nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11672",
+        "question": "ELK stack bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11673",
+        "question": "Klient mashinalaringizdan, servislar va hokazolardan loglarni nima bilan yig'asiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11675",
+        "question": "Sizning metriklaringizning saqlanish vaqti nimaga bog'liq?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11662",
+        "question": "Klasterga avtorizatsiyani qanday ulash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11677",
+        "question": "Servislar uchun bildirishnomalarni qanday sozlagan bo'lar edingiz, bu nimaga bog'liq bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11679",
+        "question": "Siz oladigan bildirishnomalarning ishonchliligini qanday ta'minlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11680",
+        "question": "Endpoint'lardagi sertifikatlar holatini yangilash va monitoring qilish uchun qanday markazlashtirilgan vositalardan foydalanasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11681",
+        "question": "Sertifikat holatining siklik monitoringini va uni rollarda avtomatik almashtirishni sozlash bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11658",
+        "question": "Docker va Kubernetes o'rtasidagi farq.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11683",
+        "question": "Qaysi hollarda foreachdan, qaysi hollarda countdan foydalanasiz, misol keltiring.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11684",
+        "question": "Terraform'da variables ishlatishning ustuvorligi qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11687",
+        "question": "git remote nima qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11688",
+        "question": "Repozitoriy yaratganingizdan so'ng u bilan ishlash mumkin bo'lishi uchun nima qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11689",
+        "question": "Redis'ning afzalliklari nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11691",
+        "question": "MongoDB'ning qanday afzalliklari bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11657",
+        "question": "Docker qaysi asosiy xususiyatlarga asoslanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11693",
+        "question": "Message Queues bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11656",
+        "question": "Docker izolyatsiyasi nimaga asoslanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11695",
+        "question": "Java uchun eng mashhur in-memory saqlovchi qaysi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11697",
+        "question": "Custom Resource Definition (CRD, Kubernetes'da) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11699",
+        "question": "Maxsus resurslarga kirish qanday mexanizmlar bilan tashkil etiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11700",
+        "question": "Kubernetes'dagi marshrutlar (Ingress routes) nima va ular nima uchun ishlatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11703",
+        "question": "CI'da o'zgaruvchilarni qanday shifrlaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11704",
+        "question": "Mobil dasturlash bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11705",
+        "question": "Docker'dan tashqari yana qanday konteynerizatsiya tizimlari bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11707",
+        "question": "Docker obrazni yig'ishda CI'dan dinamik atributni, u yerda ENV bo'lishi uchun qanday uzatish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11709",
+        "question": "Docker qaysi prinsiplarga asoslanib ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11711",
+        "question": "OpenShift yordamida ilovani qanday deploy qilgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11712",
+        "question": "Kubernetes konteynerida ishlayotgan ilovaga tashqaridan qanday kirishimiz mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11647",
+        "question": "Git'dagi konfliktlarni qanday hal qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11646",
+        "question": "Oxirgi kommitni qanday bekor qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11718",
+        "question": "Nima uchun Docker'da qatlamlar qancha kam bo'lsa, shuncha yaxshi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6487",
+        "question": "3-5 yildan keyin o'zingizni kim sifatida ko'rasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6383",
+        "question": "Agar diskni mount yordamida montaj qilsak, qayta yuklashdan keyin nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11645",
+        "question": "Cherry-pick (Git'da) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6486",
+        "question": "Qaysi skriptlash tillarini bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11643",
+        "question": "4-5 GB hajmdagi katta log faylini qanday ochib ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11642",
+        "question": "Biror servisning loglarini qayerda va qanday ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6485",
+        "question": "Kubernetes'ni qayerda ishlatish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6382",
+        "question": "Diskni qanday montaj qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6304",
+        "question": "Runner (GitLab Runner) kodni qayerdan oladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11728",
+        "question": "Linux'da web-serverlar (Nginx), pochta bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6272",
+        "question": "Docker'da resurslarni cheklash qanday tashkil qilingan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11730",
+        "question": "Zabbix'da bildirishnomalar tizimini qanday to'g'ri sozlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11731",
+        "question": "Docker konteynerlaridan qanday metriklarni olish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11732",
+        "question": "Docker konteyner yiqilganini qanday bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11733",
+        "question": "O'zingizning Linux bo'yicha bilimingizni qanday baholaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11734",
+        "question": "Linux'da Zabbix'ni o'rnatish uchun joy borligini qanday ko'rasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11641",
+        "question": "Biror saytning IP-manzilini qanday bilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11736",
+        "question": "Obrazni yig'ish bosqichida konteynerga tashqi qiymatni (masalan, build ID'ni) u yerda ENV bo'lishi uchun qanday uzatish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11640",
+        "question": "ulimits haqida nima eshitgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6484",
+        "question": "Qaysi freymvorklarni bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11639",
+        "question": "Nginx limitlarini qanday oshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11638",
+        "question": "Nginx'da va nima tomondan qanday limitlar bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11742",
+        "question": "Bamboo (CI/CD) bilan qanchalik zich ishlashga to'g'ri kelgan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11637",
+        "question": "Nginx'ga 1024 dan ortiq ulanishlar kelganda u yiqilsa nima qilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6482",
+        "question": "Skriptlar yozish nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11635",
+        "question": "Brauzerda masalan, google.com'ni terganingizda nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11746",
+        "question": "Nima uchun mikroservis arxitekturasida \"1 konteyner = 1 protsess\" amaliyoti qabul qilingan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11747",
+        "question": "ADD va COPY instruksiyalaridan foydalanishda qanday eng yaxshi amaliyotlar mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11748",
+        "question": "Docker Compose bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11634",
+        "question": "HTTPS xavfsizligi nima hisobiga ta'minlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11750",
+        "question": "Pipeline'ning qaysi joyida yangi infratuzilmani ulash kerak, uni qandaydir tayyorlash kerakmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11751",
+        "question": "Artefakt instruksiyalari qanday ishlaydi, ularning natijasi nima va u qayerda saqlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11752",
+        "question": "Qoidalarga asoslangan logikani rasmiylashtirishda rules (masalan, GitLab CI'da) bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6481",
+        "question": "SaaS (Software as a Service) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6380",
+        "question": "HTTP so'rovida URL, body va yana nimalar bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11755",
+        "question": "Ishda sizni qanday faktorlar jalb qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11756",
+        "question": "Jira bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11759",
+        "question": "Jenkins'da qaysi turdagi pipeline'lardan foydalanasiz: Groovy (scripted) tilida yozasizmi yoki deklarativmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11761",
+        "question": "Pipeline'larni versiyalashni qanday amalga oshirasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11765",
+        "question": "Obrazlarni qanday versiyalash VA bularning barchasini Jenkins bilan qanday bog'lash kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11769",
+        "question": "Helm'da repozitoriylar yaratish tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11771",
+        "question": "Agar sizga bank sohasida Ansible'dagi bir nechta rollarni qo'llab-quvvatlash va rivojlantirish topshirilsa, ishni tashkil qilish jarayoniga qanday yondashgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11773",
+        "question": "Bank sohasida Ansible'dagi bir nechta rollarni qanday versiyalagan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11777",
+        "question": "Docker fayllarini dinamik parametrlash bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11778",
+        "question": "Docker Swarm bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11779",
+        "question": "Docker Swarm'ning Kubernetes'dan asosiy farqi nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11781",
+        "question": "Docker Swarm'da avtoskeylingni qanday qilish mumkin va bu mumkinmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11785",
+        "question": "Gitflow bilan ishlashda CI/CD logikasini qanday realizatsiya qilgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11787",
+        "question": "Maven, Gradle kabi ishlab chiqish tullinglari bilan qanchalik zich hamkorlik qilishga to'g'ri keladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11789",
+        "question": "Pod'lar uchun sidecar konteynerlar yozish tajribangiz qanday, keysni aytib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11790",
+        "question": "Rivojlanish uchun qaysi stek qiziqarli?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11791",
+        "question": "LA (Load Average) 10 nimani anglatadi, bu yaxshimi yoki yomonmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11793",
+        "question": "Infratuzilma kodini versiyalashni qanday amalga oshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11797",
+        "question": "Oldingi ish joylaringizda qanday qiziqarli keyslar bo'lgan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11894",
+        "question": "Cherry-pick (Git'da) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11808",
+        "question": "Konteynerlarning tarmoq orqali o'zaro aloqasi bo'yicha qanchalik murakkab masalalarni hal qilishga to'g'ri kelgan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11814",
+        "question": "Agar CI'da bir nechta jamoalarda umumiy task'lar bo'lsa nima qilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11815",
+        "question": "GitLab CI'dan foydalanib, bir nechta stage'lar o'rtasida ma'lumotlarni saqlash kerak bo'lsa nima qilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11816",
+        "question": "GitLab CI'dagi services elementi nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11818",
+        "question": "GitLab CI'da runner pipeline'ni nima ustida ishga tushiradi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6301",
+        "question": "Podman'da ID qanday bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11823",
+        "question": "Linux'da fayl deskriptorlari ro'yxatini (lsof) qanday ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6480",
+        "question": "PaaS (Platform as a Service) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11825",
+        "question": "Stage'lar va job'lar o'rtasida state'larni qanday saqlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11826",
+        "question": "GitLab CI'da maxfiy ma'lumotlarni qanday boshqarasiz, qanday uzatasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11827",
+        "question": "Ansible'da rollar, playbook'lar yozish, bularning barchasini konfiguratsiya qilish bilan qanchalik zich shug'ullanishga to'g'ri kelgan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11828",
+        "question": "Ansible Galaxy'da rollarni qanday ishlab chiqish va versiyalash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11829",
+        "question": "Rollarni qanday teglaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11630",
+        "question": "Protsessni qanday \"o'ldirish\" mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11831",
+        "question": "DBni Kubernetes'ga \"tiqish\" kerakmi, agar kerak bo'lsa nima uchun?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11832",
+        "question": "Kontroller (Kubernetes'da) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6479",
+        "question": "IaaS (Infrastructure as a Service) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11834",
+        "question": "Pod ichida nima(lar) bo'lishi kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6376",
+        "question": "Basic auth ma'lumotlarni qanday uzatadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11836",
+        "question": "Chart'larni (Helm) qanday versiyalaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11628",
+        "question": "Direktoriyalar uchun execute huquqi nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6478",
+        "question": "Agile va DevOps ITSM'dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11839",
+        "question": "Rollarni Git'da qanday joylashtirish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11840",
+        "question": "Playbook'da rollarni qanday chaqirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11627",
+        "question": "Fayl nomi qayerda saqlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11842",
+        "question": "Ansible Galaxy haqida nima bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11843",
+        "question": "Ansible Galaxy mexanikasini lokal ishlatish bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11844",
+        "question": "Docker elementi qaysi bazaviy Linux komponentlariga asoslangan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11626",
+        "question": "Siz fayl yaratganingizda standart qanday huquqlar yaratiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6477",
+        "question": "Continuous deployment nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6373",
+        "question": "Basic auth nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11848",
+        "question": "Nima uchun bitta konteynerda bir nechta protsessni ishga tushirmaydilar?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6300",
+        "question": "EXPOSE (Dockerfile) buyrug'i nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11850",
+        "question": "Agar sizga noldan butun CI/CD tizimini qurishni taklif qilishsa, qanday tullingni tanlagan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11625",
+        "question": "umask nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11852",
+        "question": "GitLab Registry bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11624",
+        "question": "truncate buyrug'i nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6476",
+        "question": "Continuous integration qaysi bosqichda tugaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11996",
+        "question": "Disklarni virtualkaga va konteynerga montaj qilishning farqlari.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11997",
+        "question": "Dockerfile'da qanday instruksiyalar bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "11999",
+        "question": "Obrazni qanday qayta nomlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12000",
+        "question": "Konteynerdan host mashinaga dampni qanday chiqarib olish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12001",
+        "question": "Ansible'dagi shell modullarining kamchiligi nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12002",
+        "question": "tfstate nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12003",
+        "question": "Agar dasturchilar ko'p bo'lsa, tfstate'ni qayerda saqlagan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12004",
+        "question": "Resurs (Terraform'da) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12005",
+        "question": "Terraform'dagi modul nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12007",
+        "question": "Helm'ning afzalliklari nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12008",
+        "question": "Helm relizini qanday orqaga qaytarish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12009",
+        "question": "Helm o'z relizi haqidagi ma'lumotlarni Kubernetes'da qayerda saqlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12010",
+        "question": "Helm template'laridan qanday foydalanish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12011",
+        "question": "Qaysi resurslar yordamida pod'larni yaratish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12012",
+        "question": "K8s'da Job'larni qaysi resurs yaratadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12014",
+        "question": "Qaysi komponenta pod'ni node'da ishga tushiradi, qaysi biri tarmoq uchun javob beradi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12016",
+        "question": "Nima uchun biz ReplicaSet'ni to'g'ridan-to'g'ri emas, balki Deployment orqali ishlatamiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12017",
+        "question": "Deployment va ReplicaSet bilan pod'larni yangilashning farqlari.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12018",
+        "question": "Deployment va StatefulSet'ning farqlari.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12019",
+        "question": "Deployment va StatefulSet'ning PV bilan ishlashi qanday farqlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12020",
+        "question": "ReplicaSet va StatefulSet'dagi pod'lar qanday nomlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12021",
+        "question": "Agar xotira limiti oshib ketsa, konteyner bilan nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12022",
+        "question": "Agar CPU limiti oshib ketsa, konteyner bilan nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12023",
+        "question": "Quality of Services (Kubernetes'da) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12024",
+        "question": "Kubernetes QoS'ga qarab pod'larni qanday tartibda o'ldiradi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12025",
+        "question": "Agar pod readiness probe'dan o'tmasa nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12026",
+        "question": "Agar pod liveness probe'dan o'tmasa nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12027",
+        "question": "Servis (Kubernetes Service) turlarini bilasizmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12028",
+        "question": "Klaster ichiga tashqaridan qanday kirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12029",
+        "question": "Klaster ichidan Ingress'ga trafikni qanday yo'naltirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12030",
+        "question": "Ingress kontrollerining tashqi IP'siga qanday murojaat qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12031",
+        "question": "K8s'dagi operatorlar, operator patterni.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12032",
+        "question": "Qaysi Git patternlarini ishlatgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12033",
+        "question": "GitLab'da job'ning tugma orqali ishga tushirilishini qanday aniqlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12034",
+        "question": "Git'dagi ma'lum resurslarni tahrirlashda pipeline'ni ishga tushirish opsiyalarini qanday aniqlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12035",
+        "question": "Pod'larni qanday debug qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12036",
+        "question": "CrashLoopBackOff sababini qanday bilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12037",
+        "question": "Konteyner ichidan boshqa resursning mavjudligini qanday tekshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12038",
+        "question": "Secrets ConfigMap'lardan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12039",
+        "question": "kubeadm bilan ishlaganmisiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12040",
+        "question": "Python'da list dictdan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12041",
+        "question": "Python'da so'rov body'sini qanday olish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12042",
+        "question": "Siz ma'lumotni qayerdan olasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12043",
+        "question": "Junior'dan Middle'ga o'tish qanday kechdi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12044",
+        "question": "Oxirgi vazifalar, jamoada ishlashga misollar, qaysi tillardan foydalangansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12045",
+        "question": "SQL'da INSERT, SELECT sintaksisi qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12046",
+        "question": "HAVING nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12047",
+        "question": "Image (obraz) nimani anglatadi, qatlamlar nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12048",
+        "question": "Dockerfile'ning barcha buyruqlari qatlam yaratadimi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12049",
+        "question": "Image'ni qanday optimallashtirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12050",
+        "question": "Multistage orqali optimallashtirish.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12051",
+        "question": "Kubernetes'da ishga tushirilgan ilovalar o'zaro qanday aloqa qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12052",
+        "question": "Kubernetes'dagi ilovaga foydalanuvchilar kirishini qanday ta'minlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12053",
+        "question": "Qaysi Ingress kontrollerlari bilan ishlagansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12054",
+        "question": "Kubernetes'da ilova resurslarini qanday cheklash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12055",
+        "question": "Pod'da bir nechta konteyner bo'lishi mumkinmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12056",
+        "question": "Agar Helm'da elementlarni olib tashlash kerak bo'lsa nima qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12057",
+        "question": "Helm versiyalari, versiyalash qanday olib boriladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12058",
+        "question": "Versiya o'zgaruvchilari, ular qanday olinadi, yaratiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12059",
+        "question": "GitLab CI'da takrorlanuvchi job'larni qanday qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12060",
+        "question": "Nuqta (.) bilan boshlanadigan qadamlar nimani anglatadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12061",
+        "question": "State file nima uchun?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12062",
+        "question": "State file shifrlanadimi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12063",
+        "question": "State file'ni saqlash uchun GitLab, GitHub tavsiya etiladimi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12064",
+        "question": "Siz Terraform'da kod yozdingiz, plan'ni ishga tushirdingiz, chiqdingiz. Shundan so'ng hamkasbingiz o'z kodini yozdi, plan'ni bajardi, chiqdi. Keyin siz o'z infratuzilmangizni apply qilishingiz kerak, qandaydir xatolar bo'ladimi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12066",
+        "question": "Kubernetes'da MB backupini qanday tashkil qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12067",
+        "question": "O'chishga chidamli K8s klasterini qanday qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12068",
+        "question": "WebSocket bilan ishlaganmisiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12069",
+        "question": "Groovy nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12070",
+        "question": "Nima uchun DevOps muhandisi bo'lishni xohlaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12071",
+        "question": "Nginx'ni qanday deploy qilgansiz, nimalarni sozlagansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12072",
+        "question": "Apache HTTP Server bilan ishlaganmisiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12073",
+        "question": "Loglarni qanday vizualizatsiya qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12074",
+        "question": "Qaysi Linux OS'lari bilan ishlagansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12076",
+        "question": "Bash'da qanday skriptlar yozgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12077",
+        "question": "Manba kodlaridan paketlarni qanday yig'gansiz, bash skriptlariga misol keltiring.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12078",
+        "question": "Bat (.bat) skriptlarini yozganmisiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12079",
+        "question": "Systemd servislar uchun qanday konfiguratsiyalar yozgansiz, misol keltiring.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12080",
+        "question": "Zabbix'ni qanday o'rnatgansiz va sozlagansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12081",
+        "question": "Qanday konteynerlar (obrazlar) yozgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12082",
+        "question": "Astra (Linux)'da tizimdagi versiyadan farqli Python versiyasini qanday o'rnatish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12083",
+        "question": "Astra'da Node.js'ni qanday o'rnatish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12084",
+        "question": "Standart Astra'da apt orqali paketlarni o'rnatish mumkin bo'lishi uchun nima qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12085",
+        "question": "Astra'da msodbcsql'ni qanday o'rnatish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12086",
+        "question": "ESXi'da nima qilgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12087",
+        "question": "Buildroot'dan qanday foydalangansiz, gapirib bering.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12088",
+        "question": "LDAP nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12090",
+        "question": "Top CPU Metrikalari qaysilar?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12091",
+        "question": "Protsessni fayl deskriptorlarini bo'shatishga qanday majburlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12092",
+        "question": "Job'lar o'rtasida o'zgaruvchini qanday o'tkazish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12093",
+        "question": "CLI orqali konteynerning DNS sozlamalarini runtime'da o'zgartirish mumkinmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12095",
+        "question": "exec formasi shell formasidan qanday farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12096",
+        "question": "Konteynerni qo'shimcha sozlashni qanday qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12097",
+        "question": "Qanday servislar bo'ladi, ular past darajada qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12098",
+        "question": "Bulutdagi load balancer qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12099",
+        "question": "ReplicaSet nimani kuzatib boradi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12100",
+        "question": "Agar biz Deployment'ni deploy qilsak, u uchun qandaydir holat saqlanadimi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12101",
+        "question": "Deployment va StatefulSet o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12102",
+        "question": "ReplicaSet qaysi xususiyat hisobiga boshqarishi kerak bo'lgan pod'larni topadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12103",
+        "question": "Agar biz ReplicaSet bilan servislar ishga tushirsak, Nginx versiyasini o'zgartirsak va pod'lar qayta ishga tushirilmaganini ko'rsak, buning sababi nimada?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12104",
+        "question": "Katta klasterlar uchun qanday tavsiyalar bergan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12105",
+        "question": "Persistent Volume uchun turli zonalarga taqsimlash, ya'ni xotiraga kirish, nima hisobiga amalga oshiriladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12106",
+        "question": "Pod'ning ustuvorligiga asoslangan holda node ishining to'g'ri yakunlanishi nima hisobiga erishiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12107",
+        "question": "Pod'ning ma'lum bir tezlikda va ma'lum vaqt boshqaruvlari bo'yicha yakunlanishi nima hisobiga erishiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12108",
+        "question": "Tomlarning (Volumes) qanday uch asosiy turi bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12110",
+        "question": "Pod o'ldirilgandan keyin Persistent Volume state'i bilan nima bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12111",
+        "question": "Pod Disruption Budget (PDB) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12112",
+        "question": "Klasterga kirish xavfsizligini taqsimlashni sozlash uchun qaysi servisdan foydalanasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12113",
+        "question": "RBAC bilan o'zaro ta'sirni yaxshilash uchun qanday servislardan foydalangansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12114",
+        "question": "Klasterni nima bilan backup qilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12115",
+        "question": "Kubernetes ichidagi ilova xavfsizligini oshirish uchun qanday amaliyotlarni bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12116",
+        "question": "IaC (Infrastructure as Code) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12117",
+        "question": "Sizningcha, IaC (Infrastructure as Code) hamma joyda kerakmi va nima uchun?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12118",
+        "question": "IaC'ning qanday afzalliklari va kamchiliklarini ko'ryapsiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12119",
+        "question": "IaC yordamida infratuzilmani tavsiflashning qanday ikkita asosiy metodi mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12120",
+        "question": "Infratuzilmaning deklarativ va imperativ tavsiflari nima bilan farqlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12121",
+        "question": "IaC yondashuviga amal qilishimizga yordam beradigan qanday instrumentlarni bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12122",
+        "question": "Terraform va Salt nima bilan farqlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12124",
+        "question": "Agar siz state'ni mashinadan o'chirib, provider'ga yuklagan bo'lsangiz, terraform init qilsangiz u yuklanadimi yoki nima bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12126",
+        "question": "Terraform qaysi faylda nima yozilganini qanday tushunadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12127",
+        "question": "Helm chart'larni deploy qilish vositasi sifatida Terraform'dan foydalanish bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12128",
+        "question": "Terraform obyektlarini deploy qilgandan keyin olishimiz mumkin bo'lgan ma'lumotlarni qaysi fayl yordamida chiqarishimiz mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12130",
+        "question": "Monitoring tizimining tipik arxitekturasi qanday ko'rinishda bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12131",
+        "question": "ELK uchun grok fayllarini yozish tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12132",
+        "question": "Umuman olganda nimalarga qiziqasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12133",
+        "question": "Sizda ish va shaxsiy hayot o'rtasidagi balans qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12134",
+        "question": "Middle senior'dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12135",
+        "question": "Sizning tushunchangizda senior darajasiga qanday yetishish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12136",
+        "question": "Vazifalarni vaqt sarfiga qarab yoki freymvorklar orqali baholash bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12137",
+        "question": "Agar sizda biznes uchun muhim vazifa bo'lsa va aniq deadline bo'lsa, ish jarayonida ulgurmayotganingizni tushunsangiz va qo'shimcha ish paydo bo'lsa, masalani hal qilishning qanday variantlari bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12138",
+        "question": "Faraz qilaylik, sizning jamoangiz qo'llab-quvvatlaydigan muhim servis bor, u qo'shni jamoaning API endpointiga bog'liq va bir paytda 500 xatolik qaytarishni boshladi, klientlar shikoyat qilmoqda, nima qilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12139",
+        "question": "Agar sizga katta vazifa tushsa va uning 70%ini qanday qilishni bilsangiz nima qilasiz, qanday yo'l tutasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12140",
+        "question": "Jamoatdan mustaqil ishlash mahoratingizni 0 dan 10 gacha qanday baholaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12141",
+        "question": "Jamoa bilan to'g'ri hamkorlik qilish mahoratingizni 0 dan 10 gacha qanday baholaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12142",
+        "question": "Turli vaqt mintaqalaridagi jamoa a'zolari bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12143",
+        "question": "Yuqori yuklamali ilovalar uchun ikkita oiladan - RH va Debian - qaysi Linux distributivini tanlagan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12144",
+        "question": "Linux'da fayllar, kataloglar bilan ishlash uchun qaysi buyruqlar ishlatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12145",
+        "question": "Serverda katta yuklama bo'lgan taqdirda, troubleshooting protsedurasini qanday o'tkazasiz, nimani ko'rasiz, qaysi utilitalardan foydalanasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12146",
+        "question": "htop ekranida qanday muhim momentlar va punktlarni ko'rishingiz mumkin, ular nimani anglatadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12147",
+        "question": "Orphan protsess nimani anglatadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12148",
+        "question": "Protsess zombi bo'lishi uchun ota-onadan qanday statusni olishi kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12149",
+        "question": "Protsess nima, Linux mashinasida protsess yaratilish tarixi qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12151",
+        "question": "Swap qayerda joylashadi, qanday qurilmadan foydalanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12152",
+        "question": "Anonim sahifa nima va ular swap'ga qanday aloqador?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12153",
+        "question": "Shareable memory nima va u nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12155",
+        "question": "Nima uchun EKS o'rniga ECS'ni tanladingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12156",
+        "question": "Biznes uchun byudjet nuqtai nazaridan ECS va EKS narxini 0 dan 10 gacha qanday baholaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12157",
+        "question": "ECS'dagi konteynerni yuklab oladigan yoki ishga tushiradigan agent uchun GitHub kirish huquqlarini qanday va qaysi servis yordamida ajratgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12158",
+        "question": "AWS bulutida sizda nimalar realizatsiya qilingan edi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12159",
+        "question": "Amazonda Kafka servisi qanday nomlanadi va nima uchun siz uni ishlatmadingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12160",
+        "question": "AWS Glue, Athena, Spark bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12161",
+        "question": "Sizda RDS ostida qanday servislar bor edi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12162",
+        "question": "RDS Aurora'da avtoskeyling bazaviy funksiyami yoki uni deploy qilayotganda yoqish kerakmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12163",
+        "question": "RDS Aurora'da replikatsiyani nechta zonada yoqish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12164",
+        "question": "SNS (Simple Notification Service) nima, nima qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12165",
+        "question": "CloudFront nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12166",
+        "question": "CloudFront yordamida servislar ishlatish byudjetini qanday tejashimiz mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12167",
+        "question": "AWS'dagi SQS va MSK o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12168",
+        "question": "ElastiCache bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12169",
+        "question": "AWS'da oddiy statik lending sahifasini qanday joylashtirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12170",
+        "question": "CloudFormation nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12171",
+        "question": "Terraform'da nimalarni \"ko'targansiz\"?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12172",
+        "question": "OpsWorks nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12173",
+        "question": "Agar bizda bir nechta konteyner bo'lsa, ularni bir nechta worker node'larga joylashtiramizmi va nima uchun?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12174",
+        "question": "Kubernetes bo'yicha savol: control plane nimalardan iborat?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12175",
+        "question": "Kubernetes bo'yicha savol: worker node nimalardan iborat?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12176",
+        "question": "Kubernetes control plane va worker node: nima nima uchun javob beradi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12177",
+        "question": "Namespace'larni yaratish va deployment'larni ishga tushirish nima orqali amalga oshiriladi: API-server orqalimi yoki boshqa narsami?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12178",
+        "question": "Kubernetes bo'yicha savol: servislarga tarmoq orqali kirishni ta'minlash uchun uchta asosiy servis turini ayting.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12179",
+        "question": "Kubernetes'dagi Cluster API nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12180",
+        "question": "Kubernetes'dagi Node API (Kubelet API) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12181",
+        "question": "Helm bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12182",
+        "question": "Bitta klasterda maksimal qancha node, pod, modul (?) va konteyner joylashtirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12183",
+        "question": "Nima uchun Kubernetes node'larida swap o'chiriladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12184",
+        "question": "Kubernetes node'laridan tashqari yana qayerda swap o'chiriladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12185",
+        "question": "UDP portining mavjudligini qanday tekshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12186",
+        "question": "Sizning og'zaki ingliz tili darajangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12187",
+        "question": "Big Data bo'yicha qanday instrumentlardan foydalanasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12188",
+        "question": "Siz ko'z ostingizga olib qo'ygan qanday vakansiyalar bor va u yerda qanday talablar qo'yilgan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12189",
+        "question": "Barman (PostgreSQL uchun) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12190",
+        "question": "Linux server qanday yuklanadi, qaysi bosqichlar?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12191",
+        "question": "Agar ovozi o'chirilgan Linux operatsion tizimida operativ xotira limitiga duch kelsak nima bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12192",
+        "question": "OOM killer nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12193",
+        "question": "OOM killer qaysi protsesslarni o'ldiradi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12194",
+        "question": "OOM killer uchun nima muhimroq: protsessning xotira iste'moli yoki uning prioriteti?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12195",
+        "question": "OOM killer protsessni birinchi bo'lib o'ldirmasligi uchun nima qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12196",
+        "question": "Agar siz serverga SSH orqali ulansangiz va sizga boshqa foydalanuvchilar shu akkaunt orqali SSH ulanolmayotgani haqida tiketlar kelsa, muammo nimada bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12197",
+        "question": "SSH yordamida tarmoq muammolari mavjudligini qanday tekshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12198",
+        "question": "Agar SSH qotib qolsa nima qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12199",
+        "question": "Agar boshqa foydalanuvchi shu terminaldan foydalansa, diskda va operativ xotirada joy bo'lsa, lekin papkalar yaratib bo'lmasa, sabab nima bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12200",
+        "question": "Agar sizga boshqa xodimdan serverni yuritish topshirilsa va uni Confluence'da tasvirlash kerak bo'lsa, lekin siz bu qanday serverligini bilmasangiz va faqat kirish kalitlari bo'lsa, qanday harakat qilgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12201",
+        "question": "iptablesni nima almashtirdi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12202",
+        "question": "Serverda Nginx borligini qanday osonroq tekshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12203",
+        "question": "Server kim bilan aloqa qilayotganini qanday tushunish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12204",
+        "question": "Sizdan tashqari serverdan kim foydalanayotganini qanday tushunish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12205",
+        "question": "Serverdagi boshqa foydalanuvchilarning faol sessiyalarini qanday ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12206",
+        "question": "--rm deb nomlangan faylni qanday o'chirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12207",
+        "question": "Shebang (#!) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12208",
+        "question": "Bash skriptidagi birinchi qator qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12209",
+        "question": "Shebang'da bash, sh'dan tashqari yana nimalarni muammosiz yozish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12210",
+        "question": "Bash skriptlarda xatolarni qanday qayta ishlaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12211",
+        "question": "Bash'da \"yoki\" sharti qanday yoziladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12212",
+        "question": "Bir nechta bash buyruqlarini konsolda bir qatorda bo'lishini va ishlashini qanday qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12213",
+        "question": "Agar hamkasbingiz /usr/bin/chmodni o'chirib yuborsa va donor OS bo'lmasa, muammoni qanday hal qilasiz, bu tizimdagi fayllarga permission'larni, mod'ni qanday o'zgartirasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12215",
+        "question": "Python bo'yicha savol: har qanday Python kutubxonasidan foydalanish uchun nima qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12216",
+        "question": "Eng asosiy Python kutubxonasi qaysi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12217",
+        "question": "Har qanday Python skriptiga loglashni qanday ulash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12218",
+        "question": "Python'da kengaytirilgan loglash uchun qanday kutubxonalarni bilasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12219",
+        "question": "Python'da funksiya qaysi kalit so'z bilan belgilanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12220",
+        "question": "Python'da agar siz funksiya ichida o'zgaruvchi e'lon qilsangiz, uni boshqa funksiyada qayta ishlata olasizmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12221",
+        "question": "Python'da funksiyalar o'rtasida o'zgaruvchilardan foydalanish uchun nima qilish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12222",
+        "question": "Python'da ikkita funksiya o'rtasida global o'zgaruvchining ko'rinishini qanday cheklash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12223",
+        "question": "Python'da statik o'zgaruvchi (class variable) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12224",
+        "question": "Ajratilgan muhitga bog'liqliklarni qaysi modul (pip) yordamida o'rnatish kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12225",
+        "question": "Bir so'z bilan Python'dagi barcha elementlar qanday nomlanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12226",
+        "question": "Yig'ish doirasida multistaging nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12227",
+        "question": "CI/CD'da yig'ish jarayoni qanday sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12228",
+        "question": "Ilovani yig'ish jarayonida qanday testlash bosqichlari va turlari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12230",
+        "question": "Sizningcha, bitta workflow'da yig'ish, testlash va obrazni artefaktlar omboriga joylashtirishni yaratish, qo'shimchasiga o'sha yerda deploy qilish qadamlarini qo'shish to'g'rimi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12231",
+        "question": "Bepul GitLab'da merge request'larni qanday tekshirish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12232",
+        "question": "Jenkins GitLab CI'dagi pull request, merge request va branch'larni ko'rishga imkon bermasligi muammosini qanday hal qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12233",
+        "question": "Agar menda build info bo'lmasa, bu qaysi branch \"yiqilganini\" qanday tushunish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12234",
+        "question": "Sekretlarni qanday olish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12235",
+        "question": "Helm template'larini GitLab'da qanday saqlash kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12236",
+        "question": "Helm'da chart'larni yangilashni qanday amalga oshirasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12237",
+        "question": "Argo CD o'zgarishlarni necha soniyada \"yetkazadi\"?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12238",
+        "question": "Argo CD deployment'ining qanday afzalliklari bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12239",
+        "question": "Terraform'dagi akkaunt nima, ulardan qanchalik tez-tez foydalanasiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12240",
+        "question": "Terraform manifestiga nimalar yozgansiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12241",
+        "question": "Terraform manifestida qanday elementlar ko'rsatiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12242",
+        "question": "Terraform'da state nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12243",
+        "question": "Resurslarni qayta yaratishda Terraform qanday yondashuvdan foydalanadi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12244",
+        "question": "Redis bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12245",
+        "question": "Redis nima, nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12246",
+        "question": "Nima hisobiga Redis bunchalik tez?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12247",
+        "question": "Redis analoglari bo'lgan bulutli yechimlarni ishlatish bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12248",
+        "question": "Xabar brokerlari nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12249",
+        "question": "Nima uchun Kafka bunchalik tez?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12250",
+        "question": "Kafka xabarlarni qanday yozadi va ularni qanday beradi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12251",
+        "question": "Kafka qanday asosiy xususiyatlardan iborat?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12252",
+        "question": "Replica count nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12253",
+        "question": "Agar sizda 4 ta node bo'lsa, replica count'ga 6 yoki 5 ni ko'rsatish mumkinmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12254",
+        "question": "Tashqi ma'lumotlar bazalarini ularga ma'lumot yuklash uchun Kafka'ga ulash bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12255",
+        "question": "Debezium nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12256",
+        "question": "Kafka Connector nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12257",
+        "question": "Agar biz satrlarni olishni xohlasak, ma'lumotlarga tezkor kirish uchun nimani ishlatgan yaxshiroq: Kafka yoki ClickHouse?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12258",
+        "question": "Kafka'dagi producer nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12259",
+        "question": "Sentry'dan foydalanish tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12260",
+        "question": "VictoriaMetrics bilan qanday ishlash kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12261",
+        "question": "Qaysi biri ko'proq (resurs) \"yeydi\": Prometheus yoki VictoriaMetrics?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12262",
+        "question": "Grafana nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12263",
+        "question": "ELK stack nimalardan iborat?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12264",
+        "question": "Windows'da Logstash'ni nima bilan almashtirgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12265",
+        "question": "Keep-alive nima va u nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12266",
+        "question": "Kubernetes bo'yicha savol: sidecar nima va u nima uchun kerak?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12267",
+        "question": "Sekretlarni saqlash uchun sidecar'lar bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12268",
+        "question": "Sizda Kubernetes'da balansirovka qanday realizatsiya qilingan?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12269",
+        "question": "Bulutli Kubernetes bilan bir qatorda ba'zi pod'larni fizik serverlarda saqlashni qanday qilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12270",
+        "question": "Masshtablashning qanday turlari mavjud?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12271",
+        "question": "Gorizontal masshtablash vertikaldan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12272",
+        "question": "Sizda qanday bulut (platformasi ishlatiladi)?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12273",
+        "question": "CRD (Custom Resource Definition) nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12275",
+        "question": "Vaultning injector sidecari qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12276",
+        "question": "Agar men Vaultda sekretni yangilasam, ilovalar yangilangan sekretni qanday oladi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12277",
+        "question": "Agar oltita pod replikasi bo'lsa va ularda bir xil sekret bo'lsa, Kubernetes sekretlarni qanday yangilaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12278",
+        "question": "Port forwarding nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12280",
+        "question": "Siz DevOps'ga qanday kirib keldingiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12281",
+        "question": "O'z DevOps bilim darajangizni qanday baholaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12282",
+        "question": "Jamoada vazifalar doskalari bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12283",
+        "question": "Dokumentatsiya (yozish) bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12284",
+        "question": "Linux bo'yicha savol: ikkita harfdan iborat beshta buyruqni ayting.",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12285",
+        "question": "Linux'da faylni qanday qayta nomlash mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12286",
+        "question": "OS haqida tafsilotlarni: qaysi versiya, qaysi tizim, oilasini qanday bilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12287",
+        "question": "OS yuklangan yadroni qanday bilish mumkin?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12288",
+        "question": "Linux'dagi CLI nima?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12289",
+        "question": "Qaysi Linux oilasi bilan ishlaysiz?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12290",
+        "question": "CentOS Linux'da sizda SELinux hamma joyda o'chirilganmi yoki aktivmi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12291",
+        "question": "Linux konsoli bilan ishlash tajribangiz qanday: kirish, buyruqlarni bajarish, huquqlarni berish va hk",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12292",
+        "question": "Tizim foydalanuvchilari haqidagi ma'lumotlar qayerda saqlanadi?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12293",
+        "question": "Tizimda mavjud bo'lgan guruhlar haqidagi ma'lumotlar qayerda saqlanadi?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12294",
+        "question": "Tizimdagi foydalanuvchilarni qanday ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12295",
+        "question": "Linux'da dastur ayni paytda qaysi fayllar bilan ishlayotganini qanday ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12296",
+        "question": "Mashinadagi ochiq portlarni ko'rish",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12297",
+        "question": "netstat buyrug'ini qaysi kalitlar bilan kiritasiz va ular nimani anglatadi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12298",
+        "question": "netstat'siz ochiq portlarni va portlarga qaysi IP-adreslardan murojaat qilish mumkinligini qanday ko'rish mumkin?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12299",
+        "question": "iptables haqida nimalarni bilasiz?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12300",
+        "question": "Firewall iptables'dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12301",
+        "question": "Yadro modulini qaysi buyruq bilan yuklash mumkin?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12302",
+        "question": "Ishingizdagi rutin vazifalarni avtomatlashtirish uchun qaysi tillardan foydalanasiz?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12303",
+        "question": "Bash'da shartni bir qatorda qanday yozish mumkin?",
+        "chance": "6",
+        "tag": "Scripting"
+    },
+    {
+        "id": "12304",
+        "question": "Bash'da custom xatoliklarni qanday qayta ishlaysiz?",
+        "chance": "6",
+        "tag": "Scripting"
+    },
+    {
+        "id": "12305",
+        "question": "Ishingizda nimani avtomatlashtirasiz? Yaqinda yozgan yoki esingizda qolgan skript misoli",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12306",
+        "question": "Shell skriptni har doim root'dan bajariladigan qilib qanday yozish mumkin?",
+        "chance": "6",
+        "tag": "Scripting"
+    },
+    {
+        "id": "12308",
+        "question": "Klientlar Prometheus'ga metrikalarni berishi uchun nima qilish kerak?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12309",
+        "question": "Prometheus'dagi eksporterlar",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12310",
+        "question": "Eksporterlar metrikalarni qanday beradi?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12311",
+        "question": "Grafana'dan qanchalik tez-tez foydalangansiz?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12312",
+        "question": "Grafana'dagi data source nima?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12313",
+        "question": "Grafana'dagi dashboard'lar nima?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12314",
+        "question": "Grafana'da dashboard va data source'dan tashqari yana qanday komponentlar bor?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12315",
+        "question": "Grafana panelida grafiklarni qanday sozlash kerak?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12316",
+        "question": "Grafana VictoriaMetrics'dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12317",
+        "question": "Metrikalar qayerda saqlanadi?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12318",
+        "question": "Docker bo'yicha savol: gipervizor nima?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "12319",
+        "question": "docker-compose'da yaml fayli o'rniga json faylini qanday ishlatish mumkin?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "12320",
+        "question": "Memory swap qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12321",
+        "question": "Docker'dagi container network module nima?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "12322",
+        "question": "Docker'da montaj qilishning (mounting) qanday uch turi bor?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "12323",
+        "question": "Docker'dagi konteyner nima?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "12324",
+        "question": "Konteyner ishga tushganda qaysi operatsion tizimning qaysi yadrosi ishlatiladi?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "12325",
+        "question": "Docker konteyneri ichida nima ishlatiladi?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "12327",
+        "question": "Kubernetes'da qanday elementlar (entities) bor: minimaldan boshlab o'sish tartibida?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12328",
+        "question": "Sanoatda Kuberni deploy qilish uchun nima yaxshi odat (good practice) hisoblanadi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12329",
+        "question": "Vanilla Kubernetes nimani anglatadi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12330",
+        "question": "Bulut bor, bare metal bor. Vanilla Kuber logikasini qanday qurasiz?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12331",
+        "question": "Kuberni bare metal'ga va bulutga qanday o'rnatasiz?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12332",
+        "question": "Pause konteyneri haqida nima eshitgansiz?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12333",
+        "question": "Buyruqlarni tekshiradigan konteynerlar qanday nomlanadi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12335",
+        "question": "Init konteynerlar nima uchun ishlatiladi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12336",
+        "question": "Deployment nima uchun ishlatiladi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12337",
+        "question": "Replication Controller haqida nima eshitgansiz?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12338",
+        "question": "Kimdir ReplicaSet'dan foydalanadimi? Sizningcha, ReplicaSet'dan foydalanish normal holatmi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12339",
+        "question": "Kubernetes'da problar (probes) nima uchun kerak?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12340",
+        "question": "Kubernetes'da nechta prob mavjud?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12341",
+        "question": "Pod deploy bo'lganda birinchi qaysi prob ishga tushadi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12342",
+        "question": "Pod eviction nima uchun ishlatiladi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12343",
+        "question": "Umuman olganda eviction yoki evict nimani anglatadi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12344",
+        "question": "Qaysidir nodada (ishga tushishni) taqiqlaydigan qanday qoidalar bor?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12345",
+        "question": "Kerakli podlar kerakli nodlarda, masalan, GPU va ML hisoblashlari uchun qandaydir vorkerlarda ishlashi uchun qaysi qoidadan foydalanasiz: taint, pod affinity yoki boshqasidanmi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12346",
+        "question": "Ansible qaysi yondashuvni ishlatadi: deklarativ yoki imperativ?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12347",
+        "question": "Deklarativ yondashuv nima?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12348",
+        "question": "Imperativ yondashuv nima?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12349",
+        "question": "Deklarativ va imperativdan tashqari yana qanday uchinchi yondashuv bor?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "12350",
+        "question": "Nima uchun biz Ansible'da barcha pleybuklarda deklarativ yondashuvni to'liq ishlata olmaymiz?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12351",
+        "question": "Inventory, dynamic inventory nima?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12352",
+        "question": "Agar bizda inventory yaml kengaytmali bo'lsa, host'ni qanday e'lon qilish kerak?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12353",
+        "question": "Standart bo'yicha Ansible nechta host'da bir vaqtning o'zida ssenariylarni bajarishga ruxsat beradi?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12354",
+        "question": "Ansible pleybuk nimadan iborat?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12355",
+        "question": "Agar ixtiyoriy pleybukni konsol orqali ishga tushirsangiz, u yerda qanday birinchi yozuv paydo bo'ladi?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12356",
+        "question": "Ansible'da facts qachon bajariladi?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12357",
+        "question": "GitLab CI yordamida qanday loyihalarni yig'gansiz?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12358",
+        "question": "GitLab workflow haqida nima deya olasiz?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12359",
+        "question": "Dev, test yoki boshqa konturga deploy qilish uchun qaysi branch'dan foydalanasiz?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12360",
+        "question": "Branch'larga noto'g'ri narsani push qilib yubormaslik uchun qanday himoya mavjud?",
+        "chance": "6",
+        "tag": "Git"
+    },
+    {
+        "id": "12361",
+        "question": "GitLab CI'dagi rules va workflow haqida gapirib bering",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12362",
+        "question": "Branch'larni build triggerlarini sozlashda qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12363",
+        "question": "Trigger bo'yicha branch yig'ilishi uchun qanday shart yozasiz?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12364",
+        "question": "GitOps konsepsiyasi nimadan iborat?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12365",
+        "question": "ClickHouse bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "12366",
+        "question": "Elasticsearch bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12367",
+        "question": "ClickHouse nima uchun ishlatiladi?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "12368",
+        "question": "Elastic Stack, ELK, EFK haqida nima eshitgansiz?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12369",
+        "question": "Elasticsearch nima uchun kerak?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12370",
+        "question": "Elasticsearch loglarni qayerda saqlaydi?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12371",
+        "question": "Fluentd va Logstash o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12372",
+        "question": "Nima yaxshiroq: Fluentd yoki Logstash?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12373",
+        "question": "Agar Kuber bo'lsa va Elasticsearch'ga ma'lumotlarni yuborish kerak bo'lsa, qaysi eksporter ishlatiladi?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12374",
+        "question": "Mikroservis arxitekturalarida nosozliklarni tezkor qidirish bo'yicha qanday ko'nikma bor? Troubleshooting bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12375",
+        "question": "Troubleshooting protsedurasini nima bilan amalga oshirasiz?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12376",
+        "question": "Xatoni oldindan qanday validatsiya qilish mumkin, dasturchilar nimadir push qilishidan va production'da ilova ishdan chiqishidan oldin ularni ogohlantirish?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12377",
+        "question": "Podlarni turli data-centerlardagi turli nodlarga qanday qilib to'g'ri taqsimlash mumkin?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12378",
+        "question": "Nodani Kuber klasteridan qanday chiqarish mumkin?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12379",
+        "question": "Kuberda limits va requests nima?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12381",
+        "question": "Qaysi turdagi volume'ni qaysi holatda va qaysi ilova bilan ishlatgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12382",
+        "question": "Admission webhooks nima?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12383",
+        "question": "Admission webhook'larning qanday ikki turi bor?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12384",
+        "question": "Admission webhook'lardan foydalanishning eng keng tarqalgan misollari qanday?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12385",
+        "question": "Namespaces yordamida nimani cheklash mumkin?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12386",
+        "question": "Agar biz ilovani deployment yordamida deploy qilsak, replica set'ga kirib, u yerda ilova versiyasini o'zgartirsak nima sodir bo'ladi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12387",
+        "question": "Hozir ko'proq nima ishlatiladi: Ingress'dagi ingress class yoki application'da to'g'ridan-to'g'ri ingress controller ko'rsatishmi?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12388",
+        "question": "Kuberda ConfigMap nima?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12389",
+        "question": "Pod Disruption Budget'ni qo'llash bo'yicha qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12390",
+        "question": "Galera Cluster bo'yicha savol: lider uchun ovoz beradigan tashqi vositani sozlashda qanday tajribangiz bor?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "12391",
+        "question": "AWS Outpost nima?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "12392",
+        "question": "Python o'rnatilmagan mashinada Ansible bilan ishni qanday boshlash mumkin?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12393",
+        "question": "Pleybuk tasklarining mashinalarda ketma-ket bajarilishini parallel bajarilishga qanday o'zgartirishimiz mumkin?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12394",
+        "question": "Rolda (Ansible role) nima uchun ikkita o'zgaruvchilar papkasi bor va ular qaysilar?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12395",
+        "question": "Virtualkalarni yoki Kuber elementlarini qanday vositalar bilan backup qilgansiz?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12396",
+        "question": "200 ta server uchun monitoringni qanday sozlagan bo'lar edingiz? Qanday yondashuv, qanday vositalar ishlatgan bo'lar edingiz, qanday loyihalashtirgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12397",
+        "question": "Prometheus va Zabbix'ning ishlashi qanday farqlanadi?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12398",
+        "question": "Monitoringning qanday elementlarini bilasiz? U ko'pincha nimadan iborat?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12400",
+        "question": "Qayerga qarab harakatlanyapsiz? Qaysi pozitsiyalarni ko'rib chiqyapsiz: tizim administratorligi yoki ko'proq DevOps, ishlab chiqish jarayonlarimi?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12401",
+        "question": "Ko'proq yolg'iz ishlash yoqadimi yoki jamoada?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12402",
+        "question": "Qanday hajmdagi jamoada ishlashga muvaffaq bo'lgansiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12403",
+        "question": "Agar muammo yuzaga kelsa, kimga murojaat qilasiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12404",
+        "question": "Muammo yuzaga kelganda, masalani o'zingiz hal qilishga qancha vaqt urinib ko'rasiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12405",
+        "question": "Ping'ga javob bermaydigan lokal server bilan bog'liq muammolarni qanday diagnostika qilish mumkin?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12406",
+        "question": "Rutin vazifalarga qanday qaraysiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12407",
+        "question": "Rutin vazifalar uchun vaqtning qancha foizi siz uchun maqbul?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12408",
+        "question": "O'zingiz uchun karyera o'sishining qanday istiqbollarini ko'ryapsiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12409",
+        "question": "Soft skill'lar va hard skill'lar nuqtai nazaridan nima bilan shug'ullanishni yoqtirasiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12410",
+        "question": "Vaqtingizning qancha foizi odamlar bilan ishlashga va qanchasi kod, texnika, infratuzilma bilan ishlashga sarflanishini xohlar edingiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "12411",
+        "question": "PostgreSQL uchun backup yaratishni qanday sozlagan bo'lar edingiz, bunda tashqi vositalardan emas, balki ichki mexanizmlardan foydalanib?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "12412",
+        "question": "Qanday load balancerlarni bilasiz, ular bilan ishlash tajribangiz bo'lganmi, bunda qanday texnologiyalardan foydalangansiz?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12413",
+        "question": "OSI modelining yettinchi (Application) darajasida muammolar yuzaga kelganda qaysi troubleshooting utilitalaridan foydalanasiz, bir nechtasini ayting",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12414",
+        "question": "Linux yadrosi nima, uning vazifalari qanday?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12415",
+        "question": "Linux'da qanday qismlar bor?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12416",
+        "question": "Scheduler nima, uning vazifalari qanday?",
+        "chance": "6",
+        "tag": "OS Concepts"
+    },
+    {
+        "id": "12417",
+        "question": "Process context nima?",
+        "chance": "6",
+        "tag": "OS Concepts"
+    },
+    {
+        "id": "12418",
+        "question": "Context switching nima?",
+        "chance": "6",
+        "tag": "OS Concepts"
+    },
+    {
+        "id": "12419",
+        "question": "Pipeline nimani anglatadi, qanday bosqichlari bor?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12420",
+        "question": "DevOps konsepsiya sifatida nima beradi?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12421",
+        "question": "Build'ni muhitga (environment) qanday yetkazish kerak?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12422",
+        "question": "Bizda master branch bor, dasturchiga feature uchun so'rov keldi, keyin nima?",
+        "chance": "6",
+        "tag": "Git"
+    },
+    {
+        "id": "12423",
+        "question": "Reliz branch'laridan deploy qayerga ketadi?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12424",
+        "question": "CD (Continuous Deployment) va CD (Continuous Delivery) nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "12425",
+        "question": "Protsessor maksimal qancha RAM (OP) manzili bilan o'zaro aloqada bo'lishi mumkin?",
+        "chance": "6",
+        "tag": "Hardware"
+    },
+    {
+        "id": "12426",
+        "question": "Disk bilan ishlash qanday sodir bo'ladi?",
+        "chance": "6",
+        "tag": "OS Concepts"
+    },
+    {
+        "id": "12427",
+        "question": "Router switchdan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12428",
+        "question": "Qaysi hollarda Kubernetes, qaysi hollarda docker-compose ishlatish qulay?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12429",
+        "question": "Infrastrukturaviy kod (Infrastructure as Code - IaC) konsepsiyasining ma'nosi nimada?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12430",
+        "question": "DevOps kompaniya uchun qanday qadriyat olib keladi?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12431",
+        "question": "Deploy qilingan muhit va serverlarni sozlash uchun vositalarni ayting",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12432",
+        "question": "SRE (Site Reliability Engineering) nima, u DevOps'dan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12433",
+        "question": "DevOps muhandisining SRE muhandisidan farqi nimada?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "12434",
+        "question": "SLA, SLO, SLI nima?",
+        "chance": "6",
+        "tag": "SRE"
+    },
+    {
+        "id": "12435",
+        "question": "Protsessning qanday holatlari bo'ladi?",
+        "chance": "6",
+        "tag": "OS Concepts"
+    },
+    {
+        "id": "12436",
+        "question": "Dasturchi server 'qotyapti' (lag) deyapti. Ishlash samaradorligi tahlilini qanday o'tkazasiz?",
+        "chance": "6",
+        "tag": "Troubleshooting"
+    },
+    {
+        "id": "12438",
+        "question": "Ilova bor, uni ishga tushiramiz va u 0 ga teng bo'lmagan kod bilan yakunlanadi. Uni qanday debug qilish mumkin?",
+        "chance": "6",
+        "tag": "Troubleshooting"
+    },
+    {
+        "id": "12439",
+        "question": "Soket nima?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12440",
+        "question": "SIGKILL'ni ignore qilish mumkinmi?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12441",
+        "question": "TCP/IP steki haqida gapirib bering",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12442",
+        "question": "TCP/IP modelining qanday darajalari bor?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12443",
+        "question": "TCP ulanishni qanday o'rnatadi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12444",
+        "question": "Subnet mask nima? U nima uchun kerak?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12445",
+        "question": "Ping aloqasi uchun qaysi port raqami ishlatiladi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12446",
+        "question": "Server 169.254 diapazonidagi IP adres oldi, bu nimadan dalolat beradi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12447",
+        "question": "DHCP qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12448",
+        "question": "NAT (Network Address Translation) qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "12449",
+        "question": "Jadvaldagi kalit (key) nima?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "12450",
+        "question": "Bir hisobdan boshqasiga pul o'tkazishni qanday himoya qilish mumkin?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "12451",
+        "question": "Katta jadval bo'yicha o'qish tezligini qanday oshirish mumkin?",
+        "chance": "6",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "12452",
+        "question": "HTTP protokoli nima, u nima uchun kerak?",
+        "chance": "6",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "12453",
+        "question": "Qaysi HTTP metodlarni bilasiz?",
+        "chance": "6",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "12454",
+        "question": "HTTP versiyalari haqida gapirib bering, ular nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "12455",
+        "question": "HTTP 2.0'ning 1 ga nisbatan qanday afzalliklari bor?",
+        "chance": "6",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "12456",
+        "question": "Simmetrik shifrlash assimetrik shifrlashdan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "Security"
+    },
+    {
+        "id": "12457",
+        "question": "Assimetrik shifrlashga misol keltiring",
+        "chance": "6",
+        "tag": "Security"
+    },
+    {
+        "id": "12459",
+        "question": "Mutable va immutable ma'lumot turlariga misol keltiring",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "12460",
+        "question": "*args va **kwargs nima? Ularni Python'da qanday ishlatish mumkin?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "12461",
+        "question": "Python'da lambda ifodasi nima?",
+        "chance": "6",
+        "tag": "Python"
+    },
+    {
+        "id": "12462",
+        "question": "OOPning asosiy prinsiplari qaysilar?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "12463",
+        "question": "Inkapsulyatsiya nima? Bu nima uchun kerak?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "12464",
+        "question": "Getter va setter nima?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "12465",
+        "question": "Abstraksiya nima?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "12466",
+        "question": "Inheritance nima, u nima uchun?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "12467",
+        "question": "Polimorfizm nima?",
+        "chance": "6",
+        "tag": "OOP"
+    },
+    {
+        "id": "12468",
+        "question": "chroot mexanizmi qanday ishlaydi?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12469",
+        "question": "cgroups nima uchun kerak?",
+        "chance": "6",
+        "tag": "Linux"
+    },
+    {
+        "id": "12470",
+        "question": "IaaS, PaaS va SaaS o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "Cloud"
+    },
+    {
+        "id": "12471",
+        "question": "Ansible'da teglar nima uchun kerak?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "12472",
+        "question": "Prometheus'da qanday metrika turlarini bilasiz?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "12473",
+        "question": "Route (OpenShift) va Ingress (Kubernetes) o'rtasidagi farq nima?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "12474",
+        "question": "To'g'ri Ansible roli qanday ko'rinishda bo'lishi kerak?",
+        "chance": "6",
+        "tag": "Ansible"
+    },
+    {
+        "id": "6253",
+        "question": "Qayerdansiz?",
+        "chance": "6",
+        "tag": "HR"
+    },
+    {
+        "id": "6268",
+        "question": "Firewall nima uchun kerak?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "6297",
+        "question": "Docker konteynerida yaratilgan saqlangan fayl bilan konteyner to'xtatilgandan keyin nima bo'ladi?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "6298",
+        "question": "Lokal hisob qaydnomasi Docker konteynerida 'docker run alpine id' buyrug'i bajarildi: Qaysi ID chiqariladi?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "6364",
+        "question": "REST metodlari qanday?",
+        "chance": "6",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "6366",
+        "question": "REST metodlari nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "6367",
+        "question": "REST metodlari qachon ishlatiladi?",
+        "chance": "6",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "6368",
+        "question": "GET va POST bir-biridan nima bilan farq qiladi?",
+        "chance": "6",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "6469",
+        "question": "Terraform nima uchun kerak?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "6471",
+        "question": "Ikki Terraform'ni ishga tushirish nimaga olib keladi?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "6473",
+        "question": "EFK nuqtai nazaridan faqat ma'lum ilovalardan loglashni qanday qurgan bo'lar edingiz?",
+        "chance": "6",
+        "tag": "Monitoring"
+    },
+    {
+        "id": "6474",
+        "question": "Prometheus CI/CD (job?) bir vali (value/data point?) necha soat yashaydi?",
+        "chance": "6",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "6475",
+        "question": "3 ta jamoa uchun to'liq CI/CD siklini qanday tashkil qilish mumkin?",
+        "chance": "6",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "11535",
+        "question": "DNS'da MX-yozuvi nima uchun kerak?",
+        "chance": "6",
+        "tag": "Networking"
+    },
+    {
+        "id": "11542",
+        "question": "Sizningcha, biznesda DevOps nima uchun kerak?",
+        "chance": "6",
+        "tag": "DevOps"
+    },
+    {
+        "id": "11548",
+        "question": "Qanday vazifalarni LXC hal qila oladi, qaysilarini esa Docker bilan hal qilish yaxshiroq?",
+        "chance": "6",
+        "tag": "Docker"
+    },
+    {
+        "id": "11556",
+        "question": "Liquibase bilan ishlash tajribangiz qanday?",
+        "chance": "6",
+        "tag": "Tools"
+    },
+    {
+        "id": "11557",
+        "question": "Kubernetes'da qanday konteyner turlari bor?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    },
+    {
+        "id": "11559",
+        "question": "Agile nima? Scrum nima?",
+        "chance": "6",
+        "tag": "SDLC"
+    },
+    {
+        "id": "11579",
+        "question": "Labels nima?",
+        "chance": "6",
+        "tag": "Kubernetes"
+    }
+]

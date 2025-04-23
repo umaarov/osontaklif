@@ -1,0 +1,1586 @@
+[
+    {
+        "id": "3005",
+        "question": "O'zingiz haqingizda gapirib bering",
+        "chance": "100",
+        "tag": "HR"
+    },
+    {
+        "id": "3006",
+        "question": "CI/CD nima?",
+        "chance": "81",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "3007",
+        "question": "Agile nima?",
+        "chance": "72",
+        "tag": "Agile"
+    },
+    {
+        "id": "3008",
+        "question": "Biznes-analitik nima bilan shug'ullanadi?",
+        "chance": "54",
+        "tag": "BA"
+    },
+    {
+        "id": "3010",
+        "question": "Biznes-analitikda talablarning qanday turlari bo'ladi?",
+        "chance": "45",
+        "tag": "BA"
+    },
+    {
+        "id": "3009",
+        "question": "DevOps haqida nimalarni bilasiz?",
+        "chance": "45",
+        "tag": "DevOps"
+    },
+    {
+        "id": "3011",
+        "question": "Loyihaning qanday fazalarini bilasiz?",
+        "chance": "45",
+        "tag": "PM"
+    },
+    {
+        "id": "3016",
+        "question": "Kanban nima?",
+        "chance": "36",
+        "tag": "Agile"
+    },
+    {
+        "id": "3013",
+        "question": "Dasturiy ta'minotni ishlab chiqish jarayonini qanday tasavvur qilasiz?",
+        "chance": "36",
+        "tag": "SDLC"
+    },
+    {
+        "id": "3014",
+        "question": "Testlashning qanday turlarini bilasiz?",
+        "chance": "36",
+        "tag": "Testing"
+    },
+    {
+        "id": "3015",
+        "question": "Scrum nima?",
+        "chance": "36",
+        "tag": "Agile"
+    },
+    {
+        "id": "3012",
+        "question": "Scrum va Kanban o'rtasidagi farq nima?",
+        "chance": "36",
+        "tag": "Agile"
+    },
+    {
+        "id": "3019",
+        "question": "Dasturiy ta'minotni ishlab chiqish bo'yicha o'z jamoangizni tasvirlab bering",
+        "chance": "27",
+        "tag": "HR"
+    },
+    {
+        "id": "3018",
+        "question": "Unit-testlash haqida nimalarni bilasiz?",
+        "chance": "27",
+        "tag": "Testing"
+    },
+    {
+        "id": "3017",
+        "question": "PMBoK (Project Management Body of Knowledge) nima?",
+        "chance": "27",
+        "tag": "PM"
+    },
+    {
+        "id": "3023",
+        "question": "Jamoa bilan shaxsiy munosabatlar darajasida qanchalik yaqinlashasiz?",
+        "chance": "27",
+        "tag": "HR"
+    },
+    {
+        "id": "3020",
+        "question": "Gitflow haqida biror narsa eshitganmisiz?",
+        "chance": "27",
+        "tag": "Git"
+    },
+    {
+        "id": "3024",
+        "question": "Qachon biz loyihani yakunlangan deb hisoblaymiz?",
+        "chance": "27",
+        "tag": "PM"
+    },
+    {
+        "id": "3025",
+        "question": "Qaysi freymvorklar Agile'ga tegishli?",
+        "chance": "27",
+        "tag": "Agile"
+    },
+    {
+        "id": "3021",
+        "question": "Scrum'da qanday rollar bor?",
+        "chance": "27",
+        "tag": "Agile"
+    },
+    {
+        "id": "3031",
+        "question": "Agile metodologiyalari haqida gapirib bering?",
+        "chance": "18",
+        "tag": "Agile"
+    },
+    {
+        "id": "3033",
+        "question": "O'zgaruvchan vaziyatlarga qanchalik oson moslashasiz?",
+        "chance": "18",
+        "tag": "HR"
+    },
+    {
+        "id": "3030",
+        "question": "Manual va avtomatlashtirilgan testlash o'rtasidagi farq nima?",
+        "chance": "18",
+        "tag": "Testing"
+    },
+    {
+        "id": "3035",
+        "question": "Code review haqida biror narsa bilasizmi?",
+        "chance": "18",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "3029",
+        "question": "Biznes-analitik ishining natijasi nima bo'lishi kerak?",
+        "chance": "18",
+        "tag": "BA"
+    },
+    {
+        "id": "3032",
+        "question": "Loyiha (project) nima?",
+        "chance": "18",
+        "tag": "PM"
+    },
+    {
+        "id": "3034",
+        "question": "Kod sifatiga qanday ishonch hosil qilish mumkin?",
+        "chance": "18",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "3054",
+        "question": "Nima uchun PM (Project Manager) likni tanladingiz?",
+        "chance": "18",
+        "tag": "HR"
+    },
+    {
+        "id": "3028",
+        "question": "Project manager nima bilan shug'ullanadi?",
+        "chance": "18",
+        "tag": "PM"
+    },
+    {
+        "id": "3053",
+        "question": "Agile qachon paydo bo'lgan?",
+        "chance": "18",
+        "tag": "Agile"
+    },
+    {
+        "id": "3051",
+        "question": "Scrum va Kanban'dan tashqari yana qanday freymvorklarni bilasiz?",
+        "chance": "18",
+        "tag": "Agile"
+    },
+    {
+        "id": "3052",
+        "question": "Initsializatsiya bosqichida nima sodir bo'ladi?",
+        "chance": "18",
+        "tag": "PM"
+    },
+    {
+        "id": "3047",
+        "question": "Kreativligingiz qanday?",
+        "chance": "18",
+        "tag": "HR"
+    },
+    {
+        "id": "3042",
+        "question": "Project manager Scrum master va Product owner'dan nima bilan farq qiladi?",
+        "chance": "18",
+        "tag": "PM"
+    },
+    {
+        "id": "3046",
+        "question": "Qanday lidersiz?",
+        "chance": "18",
+        "tag": "HR"
+    },
+    {
+        "id": "3044",
+        "question": "Agar Scrum bo'lmasa, loyihani qanday boshqarasiz?",
+        "chance": "18",
+        "tag": "PM"
+    },
+    {
+        "id": "3045",
+        "question": "IT'da qaysi yo'nalishda rivojlanmoqchisiz?",
+        "chance": "18",
+        "tag": "HR"
+    },
+    {
+        "id": "3041",
+        "question": "Regressiv testlash nima?",
+        "chance": "18",
+        "tag": "Testing"
+    },
+    {
+        "id": "3039",
+        "question": "Ish uchun freymvorkni qanday tanlaysiz?",
+        "chance": "18",
+        "tag": "PM"
+    },
+    {
+        "id": "3048",
+        "question": "CI/CD nima uchun kerak?",
+        "chance": "18",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "3043",
+        "question": "Scrum'ga qanday alternativa bor?",
+        "chance": "18",
+        "tag": "Agile"
+    },
+    {
+        "id": "3038",
+        "question": "Biznes-tahlil bilan tanishmisiz?",
+        "chance": "18",
+        "tag": "BA"
+    },
+    {
+        "id": "3037",
+        "question": "Ingliz tilini bilish darajangiz qanday?",
+        "chance": "18",
+        "tag": "HR"
+    },
+    {
+        "id": "3040",
+        "question": "Testirovshchik (tester) nimani test qiladi?",
+        "chance": "18",
+        "tag": "Testing"
+    },
+    {
+        "id": "3050",
+        "question": "WBS (Work Breakdown Structure) nima?",
+        "chance": "18",
+        "tag": "PM"
+    },
+    {
+        "id": "3027",
+        "question": "Loyihalarni boshqarishning qanday usullarini bilasiz?",
+        "chance": "18",
+        "tag": "PM"
+    },
+    {
+        "id": "3026",
+        "question": "Testlash haqida nimalarni bilasiz?",
+        "chance": "18",
+        "tag": "Testing"
+    },
+    {
+        "id": "3036",
+        "question": "Unit-testlash avtomatlashtirilgan testlashga tengmi?",
+        "chance": "18",
+        "tag": "Testing"
+    },
+    {
+        "id": "3049",
+        "question": "CI/CD'dan qanday foydalanasiz?",
+        "chance": "18",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "3065",
+        "question": "Kanban-doskasi bilan ishlash uchun qaysi vositadan foydalanasiz?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3064",
+        "question": "Kanban-doskasi bilan ishlashning qanday qoidalari bor?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3063",
+        "question": "O'z amaliyotingizda qaysi metodologiyalarni qo'llaysiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3061",
+        "question": "Testlash nima uchun kerak?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3060",
+        "question": "Biznes-analitik ishida artefaktlar nima?",
+        "chance": "9",
+        "tag": "BA"
+    },
+    {
+        "id": "3059",
+        "question": "SSL-sertifikatlar haqida nimalarni bilasiz?",
+        "chance": "9",
+        "tag": "Security"
+    },
+    {
+        "id": "3058",
+        "question": "CI (Continuous Integration) CD (Continuous Delivery/Deployment) dan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "3062",
+        "question": "Test depth haqida nimalarni bilasiz?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3057",
+        "question": "Relizni chiqarish haqida yakuniy qarorni kim qabul qilishi kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3103",
+        "question": "Back-end bo'yicha qaysi dasturlash tillarini bilasiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3101",
+        "question": "Discovery fazasi natijasida qanday artefaktlar paydo bo'lishi kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3066",
+        "question": "What did you decide become in IT project manager",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3160",
+        "question": "IT sohasida PM (Project Manager) sifatida qancha vaqtdan beri ishlaysiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3100",
+        "question": "Discovery fazasi nima?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3056",
+        "question": "Loyiha muddatining buzilishini Product Owner bilan qanday muhokama qilish kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3055",
+        "question": "Agar loyihani o'z vaqtida tugatishga ulgurmasangiz, nima qilasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3098",
+        "question": "Story point nima?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3097",
+        "question": "O'zingiz loyihalarni boshqarishga to'g'ri kelganmi?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3096",
+        "question": "Kanban bo'yicha loyihalarni boshqarish prinsipi nimaga asoslanadi?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3094",
+        "question": "Loyihani yakunlash bosqichida nima sodir bo'ladi?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3093",
+        "question": "Waterfall modeli haqida nimalarni bilasiz?",
+        "chance": "9",
+        "tag": "SDLC"
+    },
+    {
+        "id": "3092",
+        "question": "Klassik menejment nazariyasiga qanchalik chuqur kirgansiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3090",
+        "question": "Product owner nima qiladi?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3089",
+        "question": "Repozitoriylarning qanday strukturasi ishlatiladi?",
+        "chance": "9",
+        "tag": "Git"
+    },
+    {
+        "id": "3088",
+        "question": "Dasturchilar kodni qanday yozadilar?",
+        "chance": "9",
+        "tag": "SDLC"
+    },
+    {
+        "id": "3087",
+        "question": "Kod qanday saqlanadi?",
+        "chance": "9",
+        "tag": "Git"
+    },
+    {
+        "id": "3086",
+        "question": "Ishlaydigan kod nima?",
+        "chance": "9",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "3085",
+        "question": "Kod saqlash repozitoriysi nima?",
+        "chance": "9",
+        "tag": "Git"
+    },
+    {
+        "id": "3084",
+        "question": "Konteyner virtual mashinadan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Docker"
+    },
+    {
+        "id": "3083",
+        "question": "Konteynerizatsiya haqida nimalarni bilasiz?",
+        "chance": "9",
+        "tag": "Docker"
+    },
+    {
+        "id": "3082",
+        "question": "Cloud native ishlab chiqish nima?",
+        "chance": "9",
+        "tag": "DevOps"
+    },
+    {
+        "id": "3080",
+        "question": "UI/UX dizayn nima yordamida yaratiladi?",
+        "chance": "9",
+        "tag": "UI/UX"
+    },
+    {
+        "id": "3079",
+        "question": "Mobil ilovani qaysi tillarda ishlab chiqish mumkin?",
+        "chance": "9",
+        "tag": "Mobile"
+    },
+    {
+        "id": "3078",
+        "question": "Frontend uchun qaysi dasturlash tillari ishlatiladi?",
+        "chance": "9",
+        "tag": "Frontend"
+    },
+    {
+        "id": "3077",
+        "question": "Flutter nima?",
+        "chance": "9",
+        "tag": "Flutter"
+    },
+    {
+        "id": "3091",
+        "question": "QA (Quality Assurance) nima bilan shug'ullanadi?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3076",
+        "question": "Frontend haqida nimalarni bilasiz?",
+        "chance": "9",
+        "tag": "Frontend"
+    },
+    {
+        "id": "3075",
+        "question": "Qaysi texnologiyalar back-end'ga tegishli?",
+        "chance": "9",
+        "tag": "Backend"
+    },
+    {
+        "id": "3074",
+        "question": "Texnologiyalar stekini (stack) qanday bilasiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3095",
+        "question": "Scrum'ning konstruksiyasi (tuzilishi) qanday?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3073",
+        "question": "Biznes-analitik Product Owner'dan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "BA"
+    },
+    {
+        "id": "3072",
+        "question": "Sales manager mahsulotni qanchalik chuqur bilishi kerak?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3071",
+        "question": "Sales manager va Project manager o'rtasidagi chegara qayerda?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3099",
+        "question": "SDLC qaysi bosqichlardan iborat?",
+        "chance": "9",
+        "tag": "SDLC"
+    },
+    {
+        "id": "3070",
+        "question": "Loyihada Sales manager nima bilan shug'ullanishi kerak?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3069",
+        "question": "IT project manager'ining ishini qanday tasavvur qilasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3102",
+        "question": "Dasturchilarning qanday turlari bo'ladi?",
+        "chance": "9",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "3159",
+        "question": "Qaysi loyiha eng murakkab bo'lgan?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3153",
+        "question": "Agar sprint rejalashtirilgan bo'lsa, PM (Project Manager) sifatida nima uchun javob berasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3154",
+        "question": "Nima uchun Scrum ishlamasligi mumkin?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3155",
+        "question": "Jamoani shakllantirish jarayonida qanchalik ishtirok etasiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3156",
+        "question": "Boshqargan eng katta loyihangiz qaysi?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3157",
+        "question": "Muvaffaqiyatsiz loyihalar bo'lganmi?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3158",
+        "question": "Muvaffaqiyatsizliklardan keyin qanday xulosalar chiqardingiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3161",
+        "question": "Product Owner bo'lish uchun sizga nima kerak?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3163",
+        "question": "O'z vazifalaringiz bilan qanday ishlaysiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3164",
+        "question": "SDLC haqida gapirib bering",
+        "chance": "9",
+        "tag": "SDLC"
+    },
+    {
+        "id": "3165",
+        "question": "Ideal jamoaga qanday rollarni kiritgan bo'lar edingiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3166",
+        "question": "Qaysi stek bilan ishlagansiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3167",
+        "question": "Loyiha uchun stekni qanday tanlaysiz?",
+        "chance": "9",
+        "tag": "Architecture"
+    },
+    {
+        "id": "3169",
+        "question": "Monolit nima?",
+        "chance": "9",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3170",
+        "question": "P2P (Peer-to-peer) server arxitekturasidan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3171",
+        "question": "P2P (Peer-to-peer) klient-server arxitekturasidan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "3172",
+        "question": "DevOps yondashuvlari bilan tanishmisiz?",
+        "chance": "9",
+        "tag": "DevOps"
+    },
+    {
+        "id": "3173",
+        "question": "Loyihalarda konteynerizatsiyadan foydalanasizmi?",
+        "chance": "9",
+        "tag": "Docker"
+    },
+    {
+        "id": "3174",
+        "question": "Git nima?",
+        "chance": "9",
+        "tag": "Git"
+    },
+    {
+        "id": "3175",
+        "question": "GitLab GitHub'dan nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3176",
+        "question": "CI repozitoriy bilan bog'liqlikda nima qilishga yordam beradi?",
+        "chance": "9",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "3177",
+        "question": "CI muhit (environment) va Git bilan ishlashda qanday yordam beradi?",
+        "chance": "9",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "3178",
+        "question": "Loyihangizda nechta testirovshchik (tester) bor?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3179",
+        "question": "Monolitga qanday testlash turlari qo'llaniladi?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3180",
+        "question": "Regressiv testlash PM (Project Manager) uchun nima maqsadda kerak?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3181",
+        "question": "Regressiv testlashni qanday optimallashtirish mumkin?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3182",
+        "question": "Avtomatik testlashda nima noto'g'ri (qanday kamchiliklar bor)?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3183",
+        "question": "Avtomatik testlar nimaga tegishli (qanday turlari bor)?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3184",
+        "question": "Unit-testlar DevOps va CI/CD jarayonlari bilan qanday bog'liq?",
+        "chance": "9",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "3185",
+        "question": "Loyihaning qaysi fazalaridan foydalanasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3186",
+        "question": "Loyiha fazalari nima uchun kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3187",
+        "question": "Menejmentdagi klassik uchburchakni ayting",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3188",
+        "question": "Nima uchun uchburchak cho'qqilarining o'zgarishi qolganlariga ta'sir qiladi?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3189",
+        "question": "Agar loyiha muddatlarini tezlashtirish kerak bo'lsa, nima qilish kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3190",
+        "question": "Mijozni dastlabki muddatlarga rioya qilishga qanday ishontirasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3191",
+        "question": "Ishingizda WBS (Work Breakdown Structure) dan foydalanasizmi?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3192",
+        "question": "Gant diagrammasini qayerda chizasiz?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3193",
+        "question": "Risk management nima?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3194",
+        "question": "Qachon sizga risk-menejment yordam bergan?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3195",
+        "question": "Agile'da nechta prinsip bor?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3196",
+        "question": "Metodologiya, freymvork nima?",
+        "chance": "9",
+        "tag": "SDLC"
+    },
+    {
+        "id": "3197",
+        "question": "Agile Scrum bilan qanday bog'liq?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3198",
+        "question": "Scrum qachon kerak?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3199",
+        "question": "Nima uchun Scrum qimmat?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3200",
+        "question": "Scrum klassik autsorsingda qanchalik qo'llanilishi mumkin?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3201",
+        "question": "Scrumban nima?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3202",
+        "question": "Scrumban-doskasidan qanday foydalanasiz?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3203",
+        "question": "Sizda Jira'da vazifalarni kim yaratadi?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3204",
+        "question": "Vazifalarni qanday dekompozitsiya qilasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3205",
+        "question": "Eng murakkab vaziyat qanday bo'lgan?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3206",
+        "question": "Bir vaqtning o'zida nechta loyihani olib borishga to'g'ri kelgan?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3208",
+        "question": "Jamoada nimaga yo'l qo'yib bo'lmaydi?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3209",
+        "question": "Jamoa kayfiyatini qanday sezasiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3210",
+        "question": "Kompaniya qanchalik katta?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3211",
+        "question": "Kompaniyangizda nechta dasturchi bor?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3212",
+        "question": "Kuchli charchoq bilan nima qilasiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3213",
+        "question": "Tartibli bo'lishga sizga nima yordam beradi?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3214",
+        "question": "O'z kuningizni qachon rejalashtirasiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3215",
+        "question": "PMBoK'da qanchalik yaxshi yo'nalish olasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3216",
+        "question": "PMBoK'ning qaysi oxirgi nashrini o'qigansiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3217",
+        "question": "Agile'dagi egilchan metodologiyalar bo'yicha qanchalik ishlashga muvaffaq bo'lgansiz?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3218",
+        "question": "Kanban'dan qanchalik foydalanasiz?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3219",
+        "question": "Kanban'ni qanchalik tushunasiz?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3220",
+        "question": "Project Managementda qanday vositalardan foydalanasiz?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3221",
+        "question": "Jirada nima qilasiz?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3222",
+        "question": "Unity nima?",
+        "chance": "9",
+        "tag": "GameDev"
+    },
+    {
+        "id": "3223",
+        "question": "Nima uchun Android va iOS uchun ishlab chiqishda turli tillar ishlatiladi?",
+        "chance": "9",
+        "tag": "Mobile"
+    },
+    {
+        "id": "3224",
+        "question": "Android va iOS uchun ishlab chiqishda qaysi tillar ishlatiladi?",
+        "chance": "9",
+        "tag": "Mobile"
+    },
+    {
+        "id": "3225",
+        "question": "CI/CD bilan kim shug'ullanadi?",
+        "chance": "9",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "3226",
+        "question": "Autsors kompaniyasi sizni uyaltirib qo'ysa (ishni bajarmasa) qanday harakat qilasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3227",
+        "question": "Loyiha o'z vaqtida topshirilishiga aniq ishonch hosil qilish uchun qanday harakat qilasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3228",
+        "question": "Agar UX/UI dizayner ishni sifatsiz va o'z vaqtida bajarmasa, nima choralar ko'rasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3229",
+        "question": "Buyurtmachiga narx yoki muddatlar yoqmagan vaziyatni qanday hal qilgan bo'lar edingiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3230",
+        "question": "Project Management'ni qanday va qayerda o'rgangansiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3231",
+        "question": "Dasturiy ta'minotni ishlab chiqish jamoasi ichida qanday lavozimlar bo'lishi mumkin?",
+        "chance": "9",
+        "tag": "SDLC"
+    },
+    {
+        "id": "3232",
+        "question": "Yaxshi veb-sayt yaratish uchun sizga kim kerak?",
+        "chance": "9",
+        "tag": "WEB"
+    },
+    {
+        "id": "3233",
+        "question": "QA (Quality Assurance) qanday kengaytiriladi?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3235",
+        "question": "QA tester nimani test qilishni qanday aniqlaydi?",
+        "chance": "9",
+        "tag": "Testing"
+    },
+    {
+        "id": "3236",
+        "question": "Klassik menejment haqida nimalarni bilasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3237",
+        "question": "Klassik menejment nuqtai nazaridan loyiha nima?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3238",
+        "question": "Biznes nuqtai nazaridan loyiha nima?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3240",
+        "question": "Freymvork yoki metodologiyaga misol keltiring",
+        "chance": "9",
+        "tag": "SDLC"
+    },
+    {
+        "id": "3241",
+        "question": "Nima oldin paydo bo'lgan: Agile yoki Scrum?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3242",
+        "question": "Scrum'ning asosiy atributlari (artefaktlari) qaysilar?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3243",
+        "question": "Kanban'dagi WIP limit nima?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3244",
+        "question": "Sourcing jarayoni nima?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3245",
+        "question": "Rekruting jarayoni nima?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3246",
+        "question": "Kasbga qanday kirib kelgansiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3247",
+        "question": "Nima uchun bu kasbni tanladingiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3248",
+        "question": "Kasb haqidagi kutilmalaringiz qanchalik oqlandi?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3249",
+        "question": "CMS loyihalari va noldan yozilgan loyihalar nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "WEB"
+    },
+    {
+        "id": "3250",
+        "question": "Ishlab chiqishda Git'dan foydalanasizmi?",
+        "chance": "9",
+        "tag": "Git"
+    },
+    {
+        "id": "3251",
+        "question": "Git nima uchun kerak?",
+        "chance": "9",
+        "tag": "Git"
+    },
+    {
+        "id": "3253",
+        "question": "O'z loyihalaringizda kod-revyudan qanday foydalangansiz?",
+        "chance": "9",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "3254",
+        "question": "Loyihalarda CI nima uchun kerak?",
+        "chance": "9",
+        "tag": "CI/CD"
+    },
+    {
+        "id": "3255",
+        "question": "Biznes-analitiklar va testerlar qanday bog'liq?",
+        "chance": "9",
+        "tag": "BA"
+    },
+    {
+        "id": "3256",
+        "question": "Yaxshi shakllantirilgan vazifaga qanday yondashuvlarni bilasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3257",
+        "question": "SMART (maqsad qo'yish mezoni) nima?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3258",
+        "question": "Ficha (feature) va vazifa (task) o'rtasidagi farq nima?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3259",
+        "question": "Vazifada bo'lishi kerak bo'lgan mezonlarni sanab bering",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3260",
+        "question": "PMP (Project Management Professional) nima?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3261",
+        "question": "PMP va PMBoK qanday bog'liq?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3262",
+        "question": "PMI (Project Management Institute) nuqtai nazaridan loyihaning eng muhim fazasi qaysi?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3263",
+        "question": "Nima uchun rejalashtirish bosqichi eng muhim?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3264",
+        "question": "Initsializatsiya bosqichining natijasi nima bo'lishi kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3265",
+        "question": "Agile-manifest nima ekanligini bilasizmi?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3266",
+        "question": "Nima oldin paydo bo'lgan: Kanban yoki Scrum?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3267",
+        "question": "Kross-funksional jamoa nima?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3268",
+        "question": "Kanban-doska Scrum'dagi kanban-doskadan (Scrum board) nima bilan farq qiladi?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3269",
+        "question": "Jamoaning samarali ishlashiga qanday erishish mumkin?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3270",
+        "question": "Jamoa ichidagi konfliktlarni bartaraf etishga to'g'ri kelganmi?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3271",
+        "question": "Konflikt ishtirokchilarini rollar bo'yicha qanday ajratgan bo'lar edingiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3272",
+        "question": "PM sifatidagi eng katta muvaffaqiyatsizligingiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3273",
+        "question": "Qanchalik tartibli insonsiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3274",
+        "question": "To-do list bilan qanday ishlaysiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3276",
+        "question": "Reja bo'yicha harakat qilishni afzal ko'rasizmi yoki egiluvchan vaziyatlarga qarab?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3277",
+        "question": "Qanday loyihalarni amalga oshirgansiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3278",
+        "question": "Qanday standartlar va metodologiyalar haqida bilasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3279",
+        "question": "PMI qanday kengaytiriladi?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3280",
+        "question": "PMI standartlaridan nimalarni bilasiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3281",
+        "question": "PMBoK qanday kengaytiriladi?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3282",
+        "question": "PMBoK nuqtai nazaridan loyiha nima?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3283",
+        "question": "Menejmentda qanday afzalliklar va kamchiliklar bor?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3285",
+        "question": "Agar buyurtmachi nima xohlayotganini bilmasa, loyihani qanday baholash mumkin?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3286",
+        "question": "Ishlab chiqish jamoasining samaradorligini qanday baholash mumkin?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3287",
+        "question": "Har bir alohida developerning samaradorligini qanday baholash mumkin?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3289",
+        "question": "Dasturchi nechta kommit qilganini kim kuzatishi kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3290",
+        "question": "Qaysi metriklarni buyurtmachiga berish kerak, qaysilarini esa jamoaga qoldirish kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3291",
+        "question": "PM uchun IT sohasidagi bilimlar qanchalik muhim?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3292",
+        "question": "Sizningcha, hozirda qaysi darajadagi PMsiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3294",
+        "question": "Ayni paytda qanday ish qidiryapsiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3295",
+        "question": "Shaxsiy rivojlanish strategiyangiz qanday?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3296",
+        "question": "Qaysi sohalarda o'zingizni mutaxassis deb hisoblaysiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3298",
+        "question": "Loyihalar bilan ishlashda zerikishni his qilsangiz nima qilasiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3299",
+        "question": "PM o'z ishi ustida qanday o'z-o'zini tahlil qilishni (self-analysis) o'tkazishi kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3301",
+        "question": "Retrospektivalarni qanday o'tkazasiz?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3302",
+        "question": "Estimation va commitment o'rtasidagi farq nima?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3303",
+        "question": "Qaysi paytda estimatsiya kommitmentga aylanadi?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3304",
+        "question": "Agar klient sahifaga o'zgartirish kiritishni so'rasa, bu ish uchun quote (narx/baholash) berasizmi?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3306",
+        "question": "Jamoangiz fichasining muvaffaqiyatini qanday aniqlaysiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3307",
+        "question": "Ishda nimadan zavq olasiz?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3308",
+        "question": "Menejment maktabi/instituti bilan qanchalik tanishsiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3310",
+        "question": "Rejalashtirish va qiymatni baholashning qanday metodlarini bilasiz va qo'llaysiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3311",
+        "question": "Nima uchun Agile hozir shunchalik mashhur?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3312",
+        "question": "Scrum va Kanban'dan tashqari yana qanday metodikalar mashhur?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3314",
+        "question": "Scrum'ning asosiy xususiyatlari",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3315",
+        "question": "Backlog'ni prioritetlash bilan kim shug'ullanadi?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3317",
+        "question": "Sprintni klonlash bilan kim shug'ullanadi?",
+        "chance": "9",
+        "tag": "Yo'q"
+    },
+    {
+        "id": "3318",
+        "question": "Sprintni kim bekor qilishi mumkin?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3320",
+        "question": "Daily Standup qancha davom etishi kerak?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3321",
+        "question": "Product Owner Daily Standup'da ishtirok etishi kerakmi?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3322",
+        "question": "Scrum Master Daily Standup'da ishtirok etishi kerakmi?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3323",
+        "question": "Scrum'da doska (board) bormi?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3324",
+        "question": "Nima egiluvchanroq: Scrum yoki Kanban?",
+        "chance": "9",
+        "tag": "Agile"
+    },
+    {
+        "id": "3326",
+        "question": "IT background'ingiz qanday?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3327",
+        "question": "IT loyihalari qanday amalga oshirilishi haqida qanday tasavvurlaringiz bor?",
+        "chance": "9",
+        "tag": "HR"
+    },
+    {
+        "id": "3328",
+        "question": "UI/UX haqida nimalarni bilasiz?",
+        "chance": "9",
+        "tag": "UI/UX"
+    },
+    {
+        "id": "3330",
+        "question": "Rejalashtirish bosqichida eng muhim nima qilish kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3331",
+        "question": "Sifatli rejaga ega bo'lish uchun PM nima qilishi kerak?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3332",
+        "question": "Menejment maktabi/instituti bilan qanchalik tanishsiz?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3333",
+        "question": "Hozir Trello kimga tegishli?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3335",
+        "question": "Excel'ni qanchalik yaxshi bilasiz?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3336",
+        "question": "Excel'ga qanday alternativalarni bilasiz?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3338",
+        "question": "Bugungi kunda IT'da qanday kasb kategoriyalari mavjud?",
+        "chance": "9",
+        "tag": "Umumiy"
+    },
+    {
+        "id": "3339",
+        "question": "Loyihada sifat uchun kim javobgar?",
+        "chance": "9",
+        "tag": "PM"
+    },
+    {
+        "id": "3340",
+        "question": "Loyiha jarayonlarini avtomatlashtirish bilan kim shug'ullanadi?",
+        "chance": "9",
+        "tag": "DevOps"
+    },
+    {
+        "id": "3081",
+        "question": "Figma'da ishlaganmisiz?",
+        "chance": "9",
+        "tag": "Tools"
+    },
+    {
+        "id": "3168",
+        "question": "Mikroservis arxitekturasi bilan ishlaganmisiz?",
+        "chance": "9",
+        "tag": "Arxitektura"
+    }
+]
