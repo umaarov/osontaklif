@@ -1901,25 +1901,9 @@
         "chance": "3",
         "tag": "Yo'q"
     },
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    #
-    {
-        "id": "1608",
-        "question": "Bir nechta tarmoq protokollarining yuqori darajadagi ishlashini tasvirlab bering",
-        "chance": "3",
-        "tag": "Networking"
-    },
     {
         "id": "1921",
-        "question": "Agar men promise bo'lmagan narsaga await ishlatsam nima sodir bo'ladi?",
+        "question": "Agar promise bo'lmagan narsaga await ishlatsa nima bo'ladi?",
         "chance": "3",
         "tag": "Javascript"
     },
@@ -1934,12 +1918,6 @@
         "question": "HTML5'dagi kontent kategoriyalari nima, ular nechta, ular haqida gapirib bering.",
         "chance": "3",
         "tag": "HTML"
-    },
-    {
-        "id": "1925",
-        "question": "Vuex nima ekanligini o'z so'zlaringiz bilan aytib bering",
-        "chance": "3",
-        "tag": "Vue"
     },
     {
         "id": "1511",
@@ -2020,22 +1998,10 @@
         "tag": "React"
     },
     {
-        "id": "1949",
-        "question": "React'ning maxsus xususiyati (key?) haqida gapirib bering",
-        "chance": "3",
-        "tag": "React"
-    },
-    {
         "id": "1951",
         "question": "Nima uchun create-react-app kutubxonasini tanladingiz?",
         "chance": "3",
         "tag": "React"
-    },
-    {
-        "id": "1953",
-        "question": "Kodni qanday commit qilishiz haqida gapirib bering",
-        "chance": "3",
-        "tag": "Git"
     },
     {
         "id": "1956",
@@ -2117,19 +2083,13 @@
     },
     {
         "id": "1984",
-        "question": "JS'da satrni qanday teskari qilish mumkin?",
+        "question": "JS'da stringni qanday teskari qilish mumkin?",
         "chance": "3",
         "tag": "Javascript"
     },
     {
         "id": "1986",
         "question": "setTimeout kechroq bajarilishi uchun nima qilish kerak?",
-        "chance": "3",
-        "tag": "Javascript"
-    },
-    {
-        "id": "1988",
-        "question": "Zanjirdagi metodga qanday murojaat qilish mumkin?",
         "chance": "3",
         "tag": "Javascript"
     },
@@ -2148,12 +2108,6 @@
     {
         "id": "1994",
         "question": "z-index nima?",
-        "chance": "3",
-        "tag": "CSS"
-    },
-    {
-        "id": "1996",
-        "question": "inline-block inline elementdan farqli o'laroq nima?",
         "chance": "3",
         "tag": "CSS"
     },
@@ -2326,12 +2280,6 @@
         "tag": "CSS"
     },
     {
-        "id": "2075",
-        "question": "Custom chekboxni qanday amalga oshirgan bo'lar edingiz?",
-        "chance": "3",
-        "tag": "CSS"
-    },
-    {
         "id": "2072",
         "question": "ES6'ning qanday yangiliklari bilan tanishsiz?",
         "chance": "3",
@@ -2414,12 +2362,6 @@
         "question": "Loyihada vazifalar bilan ishlash qanday sodir bo'ladi?",
         "chance": "3",
         "tag": "PM"
-    },
-    {
-        "id": "2088",
-        "question": "Media query'lar mobil ilovalar haqida qanday ishlaydi?",
-        "chance": "3",
-        "tag": "CSS"
     },
     {
         "id": "2090",
@@ -2548,12 +2490,6 @@
         "tag": "Vue"
     },
     {
-        "id": "2044",
-        "question": "Nima uchun skriptni ```<body>``` oxirida ulashadi?",
-        "chance": "3",
-        "tag": "HTML"
-    },
-    {
         "id": "2043",
         "question": "Nimani tanlaysiz: OOP yoki Functional Programming?",
         "chance": "3",
@@ -2605,7 +2541,7 @@
         "id": "2146",
         "question": "Inversion of Control - IoC nima?",
         "chance": "3",
-        "tag": "Architecture"
+        "tag": "Arxitektura"
     },
     {
         "id": "2150",
@@ -2668,14 +2604,8 @@
         "tag": "Vue"
     },
     {
-        "id": "2210",
-        "question": "Miksinlarda hayot sikli hook'larini ishlatganda va uni komponentga ulaganda hook'lar qaysi ketma-ketlikda chaqiriladi?",
-        "chance": "3",
-        "tag": "Vue"
-    },
-    {
         "id": "2214",
-        "question": "Vuex'dagi mutatsiyalar (mutations) haqida gapirib bering",
+        "question": "Vuex'dagi mutations haqida gapirib bering",
         "chance": "3",
         "tag": "Vue"
     },
@@ -2829,1249 +2759,1113 @@
         "chance": "3",
         "tag": "Javascript"
     },
-    ##############
-    {
-        "id": "3556",
-        "question": "Как достигается изоляция при использовании бэм",
-        "chance": "3",
-        "tag": "Нет"
-    },
     {
         "id": "3559",
-        "question": "Какие есть и как работают циклы в js",
+        "question": "JS'da qanday sikllar bor va ular qanday ishlaydi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3561",
-        "question": "В чём отличие цикла for от while",
+        "question": "for siklining while'dan farqi nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3563",
-        "question": "Какие знаешь способы клонирования объектов",
+        "question": "Obyektlarni klonlashning qanday usullarini bilasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3565",
-        "question": "Как можно работать с датами в js",
+        "question": "JS'da sanalar bilan qanday ishlash mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3568",
-        "question": "Для чего нужно utc",
+        "question": "UTC (Coordinated Universal Time) nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Umumiy"
     },
     {
         "id": "3569",
-        "question": "Как мы можем замерить скорость работы участка кода с date.Now",
+        "question": "Date.now() bilan kod qismining ishlash tezligini qanday o'lchashimiz mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3572",
-        "question": "Почему патчинг прототипа это плохо",
+        "question": "Prototipni patch qilish (prototype patching) nima uchun yomon?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3575",
-        "question": "Какие есть способы фокусировки на элементе",
+        "question": "Elementga fokus berishning qanday usullari bor?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3578",
-        "question": "В чём разница между тегами div, img, p",
+        "question": "div, img, p teglarining farqi nimada?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "3582",
-        "question": "Что произойдет если мы напишем невалидную разметку",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3585",
-        "question": "Какие есть подходы к адаптивности",
+        "question": "Responsivlikka qanday yondashuvlar bor?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3588",
-        "question": "Расскажи про импорты и модульность в css",
+        "question": "CSS'dagi importlar va modullik haqida gapirib bering",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3590",
-        "question": "Для чего используешь sass",
+        "question": "Sass'dan nima uchun foydalanasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3592",
-        "question": "Минус использование амперсанда в препроцессорах",
+        "question": "Preprotsessorlarda ampersand (&) ishlatishning kamchiligi",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "3594",
-        "question": "Какие есть варианты позиционирования в css",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3596",
-        "question": "Как мы можем заставить элемент быть выше другого",
+        "question": "Elementni boshqasidan yuqoriroq bo'lishga qanday majbur qilishimiz mumkin?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "3597",
-        "question": "Чем мы можем создать контекст позиционирования",
-        "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "3599",
-        "question": "Как бороться с переполнением контентом",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3601",
-        "question": "В чем ключевое отличие мутабельных и имутабельных типов данных",
+        "question": "Mutable va immutable ma'lumot turlarining asosiy farqi nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3603",
-        "question": "Чем отличается замыкание от области видимости",
+        "question": "Closure scopedan nima bilan farq qiladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3605",
-        "question": "Что такое ассинхронность",
+        "question": "Asinxronlik nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Asinxronlik"
     },
     {
         "id": "3607",
-        "question": "В чем отличие синхронного кода от ассинхронного",
+        "question": "Sinxron kodning asinxron koddan farqi nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Asinxronlik"
     },
     {
         "id": "3609",
-        "question": "Зачем нужен use strict",
+        "question": "use strict nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3611",
-        "question": "Как работают функции",
+        "question": "Funksiyalar qanday ishlaydi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3612",
-        "question": "Как работает eventloop в web api",
+        "question": "Web API'larda event loop qanday ishlaydi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3614",
-        "question": "Как взаимодействуешь с eventloop",
+        "question": "Event loop bilan qanday o'zaro aloqada bo'lasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3615",
-        "question": "В чем принципиальная разница очереди и стека",
+        "question": "Queue va stackning prinsipial farqi nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Algoritmlar, strukturalar"
     },
     {
         "id": "3620",
-        "question": "Как понять что dom загружен",
+        "question": "DOM yuklanganini qanday tushunish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3621",
-        "question": "За счет чего достигается интерактивность в вебе",
+        "question": "Vebdagi interaktivlik nima hisobiga ta'minlanadi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "3623",
-        "question": "Какие типы ивентов существуют",
+        "question": "Qanday event turlari mavjud?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3625",
-        "question": "Как между собой связаны html, css и js",
+        "question": "HTML, CSS va JS o'zaro qanday bog'liq?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "3627",
-        "question": "Если у нас есть css, зачем существуют теги strong, center, etc",
+        "question": "Agar bizda CSS bo'lsa, nima uchun strong, center (deprecated) kabi teglar mavjud?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3628",
-        "question": "Что такое и зачем нужен iframe",
+        "question": "<iframe> nima va u nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3630",
-        "question": "Какие особенности whitespace в html",
+        "question": "HTML'dagi whitespace ning qanday o'ziga xosliklari bor?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3632",
-        "question": "Какие недостатки есть в использовании iframe",
+        "question": "<iframe> ishlatishning qanday kamchiliklari bor?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3634",
-        "question": "Почему для поисковых систем так важно, чтобы использовался (ssr)",
+        "question": "Nima uchun qidiruv tizimlari uchun (SSR) ishlatilishi shunchalik muhim?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "SEO"
     },
     {
         "id": "3636",
-        "question": "В чем заключаются недостатки ssr",
+        "question": "SSR'ning kamchiliklari nimadan iborat?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "3638",
-        "question": "Расскажи про user agent стили и способы работы с ними",
+        "question": "User agent stillari va ular bilan ishlash usullari haqida gapirib bering",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3640",
-        "question": "Чем отличаются способы центрирования",
+        "question": "Markazlashtirish usullari nima bilan farq qiladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3642",
-        "question": "Как использовать способы центрирования",
+        "question": "Markazlashtirish usullarini qanday ishlatish kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3646",
-        "question": "Какие имеются способы горизонтального центрирования",
+        "question": "Gorizontal markazlashtirishning qanday usullari mavjud?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3649",
-        "question": "Какие есть способы центрирования через inline-block",
+        "question": "inline-block orqali markazlashtirishning qanday usullari bor?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3652",
-        "question": "В чем разница между es и commonjs модулями",
+        "question": "ES Modules va CommonJS modullari o'rtasidagi farq nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3654",
-        "question": "Зачем нужен eslint",
+        "question": "ESLint nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Tools"
     },
     {
         "id": "3657",
-        "question": "Зачем нужен docker",
+        "question": "Docker nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Docker"
     },
     {
         "id": "3659",
-        "question": "Что такое и как работает ci/cd",
+        "question": "CI/CD nima va u qanday ishlaydi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CI/CD"
     },
     {
         "id": "3662",
-        "question": "Зачем нужен nginx",
+        "question": "Nginx nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Tools"
     },
     {
         "id": "3666",
-        "question": "В чем преимущества node.Js",
+        "question": "Node.js'ning afzalliklari nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Node.js"
     },
     {
         "id": "3669",
-        "question": "Можем ли мы получить картинку по http",
+        "question": "HTTP orqali rasm olishimiz mumkinmi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTTP / API"
     },
     {
         "id": "3672",
-        "question": "Как браузер понимает что картинка является картинкой",
+        "question": "Brauzer rasmni rasm ekanligini qanday tushunadi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "3677",
-        "question": "Какими способами мы можем получить картинку с сервера",
+        "question": "Serverdan rasmni qanday usullar bilan olishimiz mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "3848",
-        "question": "Каким образом браузер понимает тип содержимого в ответе от api(картинка, текст, etc)",
+        "question": "Brauzer API javobidagi kontent turini (rasm, matn va hk.) qanday tushunadi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTTP / API"
     },
     {
         "id": "3851",
-        "question": "Как браузер понимает что нужно загрузить картинку",
+        "question": "Brauzer rasmni yuklash kerakligini qanday tushunadi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "3854",
-        "question": "Как браузер понимает что нужно отображать именно картинку а не текст",
+        "question": "Brauzer aynan rasmni ko'rsatish kerakligini, matn emasligini qanday tushunadi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "3857",
-        "question": "Что такое коды ответа и чем они отличаются друг от друга",
+        "question": "Javob kodlari (HTTP status codes) nima va ular bir-biridan nima bilan farq qiladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTTP / API"
     },
     {
         "id": "3860",
-        "question": "Какие методы запросов бывают",
+        "question": "So'rov metodlarining qanday turlari bo'ladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTTP / API"
     },
     {
         "id": "3862",
-        "question": "Как будешь делать html форму",
+        "question": "HTML formani qanday qilasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3865",
-        "question": "Что значит type submit",
+        "question": "type=\"submit\" nimani anglatadi?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "3868",
-        "question": "Кто придумывает названия html тегам",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3871",
-        "question": "Откуда берутся базовые стили для тегов",
+        "question": "Teglar uchun default stillar qayerdan keladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3873",
-        "question": "Какие проблемы могут возникнуть если всю верстку делать на дивах",
+        "question": "Agar butun verstkani div'larda qilsa, qanday muammolar paydo bo'lishi mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3874",
-        "question": "Что такое html entities",
+        "question": "HTML entities nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3875",
-        "question": "Где можно найти списки с html entities",
+        "question": "HTML entities ro'yxatlarini qayerdan topish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3877",
-        "question": "Какие особенности position: sticky ты знаешь",
+        "question": "position: sticky'ning qanday o'ziga xosliklarini bilasiz?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "3882",
-        "question": "Как бы эмулировал поведение position: sticky",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3886",
-        "question": "Что такое es модули",
+        "question": "ES modullar nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3891",
-        "question": "Что такое и чем опасен xss",
+        "question": "XSS nima va u nima bilan xavfli?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Security"
     },
     {
         "id": "3895",
-        "question": "Как защитить cookie от js",
+        "question": "Cookie'ni JS'dan qanday himoya qilish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Security"
     },
     {
         "id": "3899",
-        "question": "Что такое csrf",
+        "question": "CSRF (Cross-Site Request Forgery) nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Security"
     },
     {
         "id": "3903",
-        "question": "В чем опасность работы с innerhtml",
+        "question": "innerHTML bilan ishlashning xavfi nimada?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "3908",
-        "question": "Как обезопасить себя от потенциально опасного клиентского ввода",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "Security"
     },
     {
         "id": "3911",
-        "question": "Какие еще знаешь парадигмы программирования",
+        "question": "Yana qanday dasturlash paradigmalarini bilasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Umumiy"
     },
     {
         "id": "3914",
-        "question": "Чем описание класса отличается от экземпляра класса",
+        "question": "Klass description klass instancedan nima bilan farq qiladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "OOP"
     },
     {
         "id": "3916",
-        "question": "Что такое cqrs",
+        "question": "CQRS (Command Query Responsibility Segregation) nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Arxitektura"
     },
     {
         "id": "3919",
-        "question": "Что такое grasp",
+        "question": "GRASP (General Responsibility Assignment Software Patterns) nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Паттерны"
     },
     {
         "id": "3923",
-        "question": "Что такое dry, kiss",
+        "question": "DRY, KISS nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Best Practices"
     },
     {
         "id": "3925",
-        "question": "Как понимаешь что код написан хорошо",
+        "question": "Kod yaxshi yozilganligini qanday tushunasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Best Practices"
     },
     {
         "id": "3926",
-        "question": "Что еще является важной частью понимания кода",
+        "question": "Kodnі tushunishning yana qanday muhim qismi bor?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Best Practices"
     },
     {
         "id": "3929",
-        "question": "Что такое html, js и css",
+        "question": "HTML, JS va CSS nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "3931",
-        "question": "Какие основные вещи присущи html",
+        "question": "HTML'ga xos bo'lgan asosiy narsalar qaysilar?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3934",
-        "question": "В чем смысл таких тегов как section, header",
+        "question": "section, header kabi teglarning ma'nosi nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3938",
-        "question": "Почему мы не можем вместо тегов section и header использовать обычный div",
+        "question": "Nima uchun biz section va header teglari o'rniga oddiy div ishlata olmaymiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3942",
-        "question": "Какая будет разница для конечного пользователя в разных тегах",
+        "question": "Turli teglar yakuniy foydalanuvchi uchun qanday farq qiladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3947",
-        "question": "Как называется характеристика html которая говорит о том как можно использовать разные теги для конкретных ситуаций",
+        "question": "Turli teglarni aniq vaziyatlar uchun qanday ishlatish mumkinligi haqida gapiradigan HTML xarakteristikasi qanday nomlanadi?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "3949",
-        "question": "Чем семантика отличается от доступности(a11y)",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "3953",
-        "question": "В чем отличия разных подходов подключения стилей",
+        "question": "Stillarni ulashning turli yondashuvlarining farqlari nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3955",
-        "question": "Какие знаешь подходы по написанию css",
+        "question": "CSS yozish bo'yicha qanday yondashuvlarni bilasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3957",
-        "question": "Как в css работают разные приоритеты стилей",
+        "question": "CSS'da stillarning turli prioritetlari qanday ishlaydi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3959",
-        "question": "В чем отличие адаптивного дизайна от отзывчивого",
+        "question": "Adaptiv dizayn responsiv dizayndan nima bilan farq qiladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "3961",
-        "question": "Какой тип у функции",
+        "question": "Funksiyaning tipi qanday?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3964",
-        "question": "Чем похожи массивы, объекты и функции",
+        "question": "Massivlar, obyektlar va funksiyalar nima bilan o'xshash?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "3966",
-        "question": "Какие есть операторы в js",
+        "question": "JS'da qanday operatorlar bor?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4684",
-        "question": "Почему c#",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4245",
-        "question": "Что такое делегирование",
+        "question": "Delegatsiya (event delegation?) nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4248",
-        "question": "Что такое событийная модель в браузере",
+        "question": "Brauzerdagi event model nima?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4250",
-        "question": "Что использовать, что всплытие событий не происходило",
-        "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4252",
-        "question": "Зачем нужен вью",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4254",
-        "question": "Какие проблемы решают vue а какие jquery",
+        "question": "Vue qanday muammolarni hal qiladi, jQuery qanday?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Vue"
     },
     {
         "id": "4256",
-        "question": "Знаком ли с модификаторами для v-bind",
+        "question": "v-bind uchun modifikatorlar bilan tanishmisiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Vue"
     },
     {
         "id": "4258",
-        "question": "Что быстрее, dom или virtual dom",
+        "question": "Nima tezroq: DOM yoki Virtual DOM?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4260",
-        "question": "Что такое watch и computed, как оно работает",
+        "question": "watch va computed (Vue?) nima, ular qanday ishlaydi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Vue"
     },
     {
         "id": "4262",
-        "question": "Зачем нужна блочная область видимости если уже есть функциональная",
+        "question": "Agar funksional ko'rinish doirasi mavjud bo'lsa, blokli ko'rinish doirasi nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4263",
-        "question": "Чем ооп в js отличается от ооп в других языках",
+        "question": "JS'dagi OOP boshqa tillardagi OOP'dan nima bilan farq qiladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "OOP"
     },
     {
         "id": "4266",
-        "question": "В чем заключается отличие классов в js от классов в других языках",
+        "question": "JS'dagi klasslarning boshqa tillardagi klasslardan farqi nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "OOP"
     },
     {
         "id": "4269",
-        "question": "Как бы добавлял статический метод в prototype",
+        "question": "Prototipga statik metodni qanday qo'shgan bo'lar edingiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4272",
-        "question": "Как сделать какое либо свойство объекта неизменяемым",
+        "question": "Obyektning qandaydir xususiyatini immutable qilib qanday qilish mumkin?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4274",
-        "question": "В чем отличие атрибутов от свойств в html тегах",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4276",
-        "question": "Как получается так что на всех элементах есть одни теже свойства(class, id, etc)",
+        "question": "Qanday qilib barcha elementlarda bir xil xususiyatlar (class, id va hk.) mavjud bo'ladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "4279",
-        "question": "В чем отличие .Getelementsbyclassname от .Queryselectrorall",
+        "question": ".getElementsByClassName() va .querySelectorAll() o'rtasidagi farq nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4280",
-        "question": "Зачем нужна система контроля версий",
+        "question": "Versiyalarni boshqarish tizimi nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Git"
     },
     {
         "id": "4282",
-        "question": "Как наши изменения попадают в ветку",
+        "question": "Bizning o'zgarishlarimiz branch'ga qanday tushadi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Git"
     },
     {
         "id": "4286",
-        "question": "Как можно заставить git что-то забыть",
+        "question": "Git'ni nimadirni unutishga qanday majbur qilish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Git"
     },
     {
         "id": "4288",
-        "question": "Как можно переименовать коммит",
+        "question": "Kommitni qanday qayta nomlash mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Git"
     },
     {
         "id": "4292",
-        "question": "В чем отличие amend от squash",
+        "question": "amend va squash (git) o'rtasidagi farq nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Git"
     },
     {
         "id": "4294",
-        "question": "Что такое cherry-pick",
+        "question": "cherry-pick (git) nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Git"
     },
     {
         "id": "4298",
-        "question": "Что такое семантические коммиты",
+        "question": "Semantik kommitlar nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Git"
     },
     {
         "id": "4301",
-        "question": "Зачем вообще что то оптимизировать",
+        "question": "Umuman nimadirni optimallashtirish nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Best Practices"
     },
     {
         "id": "4317",
-        "question": "Что такое force layout и почему это плохо",
+        "question": "Force layout (layout thrashing) nima va nima uchun bu yomon?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Performance"
     },
     {
         "id": "4320",
-        "question": "Как мы будем через js анимировать что либо",
+        "question": "JS orqali nimadirni qanday animatsiya qilamiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4323",
-        "question": "Утечки памяти, что это такое и почему плохо",
+        "question": "Memory leak nima va nima uchun yomon?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Performance"
     },
     {
         "id": "4325",
-        "question": "Как происходит процесс утечки",
+        "question": "Memory leak jarayoni qanday sodir bo'ladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Performance"
     },
     {
         "id": "4328",
-        "question": "Мы можем повлиять на сборку мусора",
+        "question": "Biz garbage collection'ga ta'sir qila olamizmi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4331",
-        "question": "Как исправить утечку памяти",
+        "question": "Memory leakni qanday tuzatish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Performance"
     },
     {
         "id": "4334",
-        "question": "Что такое компонент",
+        "question": "Komponent nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4337",
-        "question": "Зачем мы разбиваем код на компоненты",
+        "question": "Nima uchun biz kodni komponentlarga ajratamiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Best Practices"
     },
     {
         "id": "4339",
-        "question": "Как определить что состояние является глобальным",
+        "question": "State global ekanligini qanday aniqlash mumkin?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4342",
-        "question": "Почему нельзя использовать контекст в качестве хранилища состояния",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4343",
-        "question": "Почему react не реактивный",
+        "question": "Nima uchun React reaktiv emas?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "React"
     },
     {
         "id": "4344",
-        "question": "Что такое двустороннее и однонаправленное связывание данных",
+        "question": "Ikki tomonlama (two-way) va bir tomonlama (one-way) ma'lumotlarni bog'lash nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4345",
-        "question": "Расскажи про типы операторов",
+        "question": "Operator turlari haqida gapirib bering",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4346",
-        "question": "Чем spa отличается от классического сайта",
+        "question": "SPA (Single Page Application) klassik saytdan nima bilan farq qiladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4631",
-        "question": "Зачем нам разбивать приложение отдельно на backend и frontend",
+        "question": "Nima uchun biz ilovani alohida backend va frontend'ga ajratishimiz kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Arxitektura"
     },
     {
         "id": "4634",
-        "question": "Что дает https помимо шифрования",
+        "question": "HTTPS shifrlashdan tashqari nima beradi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Security"
     },
     {
         "id": "4636",
-        "question": "Как мы можем ускорить загрузку ресурсов",
+        "question": "Resurslar yuklanishini qanday tezlashtirishimiz mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "4674",
-        "question": "Как исправить ситуацию когда база разрослась и база тормозит",
+        "question": "Baza kengayib ketganda va sekinlashganda vaziyatni qanday tuzatish mumkin?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4675",
-        "question": "Что делать когда база стала слишком жирной и отчет создается очень долго,а нужен сейчас",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "Ma'lumotlar bazasi"
     },
     {
         "id": "4677",
-        "question": "Куда будем складывать отчеты",
+        "question": "Hisobotlarni qayerga qo'yamiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Ma'lumotlar bazasi"
     },
     {
         "id": "4678",
-        "question": "Как бы спроектировал запрос базы данных без orm",
+        "question": "ORM'siz ma'lumotlar bazasi so'rovini qanday loyihalashtirgan bo'lar edingiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Ma'lumotlar bazasi"
     },
     {
         "id": "4680",
-        "question": "Что делать если один и тот же отчет запросили много раз",
+        "question": "Agar bir xil hisobot ko'p marta so'ralsa nima qilish kerak?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4681",
-        "question": "Разным ролям нужно по разному предоставить dataset ,как бы это сделал",
-        "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4682",
-        "question": "Что если получение отчетов отложенное",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "Arxitektura"
     },
     {
         "id": "4685",
-        "question": "Помимо ютуба какими источниками информации пользуешься",
+        "question": "YouTube'dan tashqari qanday ma'lumot manbalaridan foydalanasiz?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4686",
-        "question": "Как докатился до cqrs",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4687",
-        "question": "Что интересно во фронтенде",
+        "question": "Frontend'da nima qiziq?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4688",
-        "question": "Что думаешь насчет stackblitz",
+        "question": "StackBlitz haqida nima deb o'ylaysiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Tools"
     },
     {
         "id": "4689",
-        "question": "Что будет если забиндить два контекста подряд",
+        "question": "Agar ikkita kontekstni ketma-ket bind qilsa nima bo'ladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4696",
-        "question": "Почему асинхронность это важно",
+        "question": "Nima uchun asinxronlik muhim?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Asinxronlik"
     },
     {
         "id": "4697",
-        "question": "Какие есть проблемы у di",
+        "question": "DI (Dependency Injection)ning qanday muammolari bor?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Arxitektura"
     },
     {
         "id": "4698",
-        "question": "Как вам живется с таким большим монорепозиторием",
+        "question": "Bunday katta monorepozitoriy bilan qanday yashayapsiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4699",
-        "question": "Что вызывает трудности на работе",
+        "question": "Ishda nima qiyinchiliklar tug'diradi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4701",
-        "question": "Что не нравится в angular",
+        "question": "Angular'da nima yoqmaydi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4702",
-        "question": "Какие есть альтернативы ssr",
+        "question": "SSR'ga qanday alternativalar bor?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4704",
-        "question": "Когда без ssr не обойтись",
+        "question": "Qachon SSR'siz iloj yo'q?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4706",
-        "question": "Что такое amp страницы",
+        "question": "AMP (Accelerated Mobile Pages) sahifalari nima?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "4707",
-        "question": "Каким сайтам может быть полезно amp",
+        "question": "Qaysi saytlarga AMP foydali bo'lishi mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "4709",
-        "question": "В каких случаях на проект стоит брать typescript",
+        "question": "Qaysi hollarda loyihaga TypeScript olish kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "TypeScript"
     },
     {
         "id": "4710",
-        "question": "Что думаешь про jsdoc как альтернатива typescript",
+        "question": "TypeScript'ga alternativa sifatida JSDoc haqida nima deb o'ylaysiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4712",
-        "question": "Какой современный тулинг используешь",
+        "question": "Qanday zamonaviy tooling (vositalar)dan foydalanasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Tools"
     },
     {
         "id": "4713",
-        "question": "Когда нужно использовать типы, а когда интерфейсы",
+        "question": "Qachon type, qachon interface ishlatish kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "TypeScript"
     },
     {
         "id": "4714",
-        "question": "Какие знаешь способы оптимизации релайаута",
+        "question": "Relayout (layout thrashing)ni optimallashtirishning qanday usullarini bilasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Performance"
     },
     {
         "id": "4716",
-        "question": "Почему у нас в css нет селектора на родителе",
+        "question": "Nima uchun bizda CSS'da ota element uchun selektor yo'q?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "4717",
-        "question": "Какие достоинства у инкрементального  dom против виртуального",
+        "question": "Inkremental DOM'ning Virtual DOM'ga nisbatan qanday afzalliklari bor?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4719",
-        "question": "Как стал мейнтейнром phatomjs",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4721",
-        "question": "Ошибка которая больше всего запомнилась",
+        "question": "Eng ko'p esda qolgan xato?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4722",
-        "question": "Самая большая боль на текущей работе",
+        "question": "Hozirgi ishdagi eng katta og'riq (muammo)?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4724",
-        "question": "Какие возникнут сложности если придется менять работу",
+        "question": "Agar ishni o'zgartirishga to'g'ri kelsa, qanday qiyinchiliklar paydo bo'ladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4726",
-        "question": "Как правильно выбрать фреймворк",
+        "question": "Freymvorkni qanday to'g'ri tanlash kerak?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4728",
-        "question": "Как понять что у тебя кровавый энтерпрайз",
-        "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4730",
-        "question": "Как убедить разработчиков взять angular",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "Arxitektura"
     },
     {
         "id": "4731",
-        "question": "Зачем переписывать легаси на новые технологии",
+        "question": "Legacy kodni yangi texnologiyalarga qayta yozish nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Best Practices"
     },
     {
         "id": "4738",
-        "question": "В каком случае нужно spa",
+        "question": "Qaysi holatda SPA (Single Page Application) kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4739",
-        "question": "Как определить  что у тебя микрофронтенды",
+        "question": "O'zingizda mikrofrontendlar borligini qanday aniqlash mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Arxitektura"
     },
     {
         "id": "4741",
-        "question": "Какие плюсы и минусы есть у bff (backend for frontend)",
+        "question": "BFF (Backend for Frontend) ning qanday afzalliklari va kamchiliklari bor?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Arxitektura"
     },
     {
         "id": "4742",
-        "question": "Что лучше использовать rest или graphql",
+        "question": "Nimani ishlatgan yaxshiroq: REST yoki GraphQL?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTTP / API"
     },
     {
         "id": "4744",
-        "question": "Как должен выглядеть идеальный tdd",
+        "question": "Ideal TDD (Test-Driven Development) qanday ko'rinishda bo'lishi kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Testing"
     },
     {
         "id": "4745",
-        "question": "Какие возникали сложности на пути к разработке",
+        "question": "Ishlab chiqish yo'lida qanday qiyinchiliklar paydo bo'lgan?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4746",
-        "question": "Как работаешь с формами в spa",
+        "question": "SPA'da formalar bilan qanday ishlaysiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4748",
-        "question": "Как очистить форму",
+        "question": "Formani qanday tozalash mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "4749",
-        "question": "Зачем нам нужен механизм двустороннего связывания",
+        "question": "Ikki tomonlama bog'lanish mexanizmi bizga nima uchun kerak?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4751",
-        "question": "В чем заключались проблемы со сбросом формы",
+        "question": "Formani reset qilish bilan bog'liq muammolar nimadan iborat edi?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4752",
-        "question": "Расскажи про пробелы в html",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "4754",
-        "question": "Чем отличается блочный от инлайнового элемента",
+        "question": "Blokli element inline elementdan nima bilan farq qiladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTML"
     },
     {
         "id": "4755",
-        "question": "Как растянуть элемент на 100%",
+        "question": "Elementni 100% ga qanday cho'zish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "4757",
-        "question": "Как сбросить фон у элемента",
+        "question": "Element fonini qanday reset qilish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "4758",
-        "question": "Как найти все скрытые элементы на странице",
+        "question": "Sahifadagi barcha yashirin elementlarni qanday topish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Tools"
     },
     {
         "id": "4760",
-        "question": "Как выполнить действие когда произошел скролл до нужного места",
+        "question": "Kerakli joyga scroll bo'lganda amalni qanday bajarish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4761",
-        "question": "Откуда у примитива появляются методы (.Tosting(), etc...)",
+        "question": "Primitivda metodlar (.toString() va hk.) qayerdan paydo bo'ladi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4762",
-        "question": "Как можно запретить изменение объекта",
+        "question": "Obyektni o'zgartirishni qanday taqiqlash mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4764",
-        "question": "В чем разница циклов for .. In и for .. Of",
+        "question": "for...in va for...of sikllarining farqi nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4765",
-        "question": "Какие параметры могут повлиять на скорость загрузки контента для пользователя",
+        "question": "Foydalanuvchi uchun kontent yuklanish tezligiga qaysi parametrlar ta'sir qilishi mumkin?",
         "chance": "3",
-        "tag": "Нет"
-    },
-    {
-        "id": "4767",
-        "question": "Как мы можем подсказать браузеру подготовиться к загрузке ресурсов",
-        "chance": "3",
-        "tag": "Нет"
+        "tag": "WEB"
     },
     {
         "id": "4768",
-        "question": "Как браузер понимает что ресурс нужно закешировать",
+        "question": "Brauzer resursni keshlash kerakligini qanday tushunadi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HTTP / API"
     },
     {
         "id": "4770",
-        "question": "Зачем нужен хеш в названиях файлов (на примере vue cli)",
+        "question": "Nima uchun fayl nomlarida xesh kerak (masalan, Vue CLI misolida)?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Tools"
     },
     {
         "id": "4772",
-        "question": "Как работает hot reload (на примере vue cli)",
+        "question": "Hot reload qanday ishlaydi (masalan, Vue CLI misolida)?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Tools"
     },
     {
         "id": "4781",
-        "question": "С какими проблемами сталкивался при подключении кастомных шрифтов",
+        "question": "Custom shriftlarni ulashda qanday muammolarga duch kelgansiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "4783",
-        "question": "Многочисленное присваивание значения в data подряд будет вызывать ререндер",
+        "question": "data'ga ketma-ket ko'p marta qiymat tayinlash re-render'ni keltirib chiqaradimi?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Frontend"
     },
     {
         "id": "4785",
-        "question": "Сколько стажировался",
+        "question": "Qancha vaqt stajirovka qilgansiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4790",
-        "question": "Как начал работать",
+        "question": "Qanday ish boshlagansiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4791",
-        "question": "Как с английским",
+        "question": "Ingliz tilini bilish darajangiz qanday?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "HR"
     },
     {
         "id": "4793",
-        "question": "Когда лучше использовать id а когда class",
+        "question": "Qachon id, qachon esa class ishlatgan ma'qul?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "4794",
-        "question": "В чем разница стилей с селектором id и класса",
+        "question": "id va class selektorli stillarning farqi nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "4795",
-        "question": "Какя разница между различными видами позиционирования элементов",
+        "question": "Elementlarni pozitsiyalashning turli xil turlari o'rtasidagi farq qanday?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "4797",
-        "question": "Какие свойства media отличные от screen знаешь",
+        "question": "screen'dan farqli qanday media xususiyatlarini bilasiz?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "4799",
-        "question": "Как можно сверстать стрелочку",
+        "question": "Strelkani qanday verstka qilish mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "CSS"
     },
     {
         "id": "4800",
-        "question": "Как удалить обработчик события",
+        "question": "Event handler qanday olib tashlash mumkin?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
     {
         "id": "4802",
-        "question": "В чём разница между object.Getownpropertynames и object.Keys",
+        "question": "Object.getOwnPropertyNames() va Object.keys() o'rtasidagi farq nimada?",
         "chance": "3",
-        "tag": "Нет"
+        "tag": "Javascript"
     },
+    #
+    #
+    #
     {
         "id": "4804",
         "question": "Для чего нужен package-lock.Json",
