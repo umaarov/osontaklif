@@ -11,8 +11,9 @@
                     {{-- <span class="question-count">({{ $profession->questions_count }} {{ trans_choice('messages.questions_count', $profession->questions_count) }})</span> --}}
                 </a>
             @else
-                <div class="item-card item-card-no-questions" data-profession-name="{{ $profession->name }}"
-                     style="cursor: pointer;">
+                <div class="item-card item-card-no-questions toast-trigger"
+                     data-profession-name="{{ $profession->name }}">
+                    style="cursor: pointer;">
                     <h4>{{ $profession->name }}</h4>
                     {{-- <p class="no-questions-notice">{{ __('No questions yet') }}</p> --}}
                 </div>
@@ -33,8 +34,10 @@
                 const noQuestionCards = document.querySelectorAll('.item-card-no-questions');
 
                 noQuestionCards.forEach(card => {
-                    card.addEventListener('click', function () {
-                        const professionName = this.dataset.professionName || this.querySelector('h4').textContent.trim(); // Get profession name
+                    card.addEventListener('click', function (e) {
+                        e.preventDefault();
+                        e.stopPropagation();
+                        const professionName = this.dataset.professionName || this.querySelector('h4').textContent.trim();
                         if (toastBody) {
                             toastBody.textContent = '"' + professionName + '" has no questions yet.';
                         }
