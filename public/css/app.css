@@ -60,7 +60,7 @@ html, body {
 /* Cards and Grids */
 .card-grid {
     display: grid;
-    grid-template-columns: repeat(1, 1fr); /* Consider responsive columns: repeat(auto-fill, minmax(250px, 1fr)); */
+    grid-template-columns: repeat(1, 1fr);
     gap: 20px;
     margin-top: 25px;
 }
@@ -84,12 +84,17 @@ html, body {
     transform: translateY(-2px);
 }
 
+.toast-trigger {
+    cursor: pointer;
+}
+
 .item-card-no-questions {
     background-color: #f8f9fa;
     color: #6c757d;
     cursor: not-allowed;
     border-color: #e0e0e0;
 }
+
 
 .item-card-no-questions:hover {
     box-shadow: none;
