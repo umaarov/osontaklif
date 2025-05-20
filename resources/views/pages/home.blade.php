@@ -13,7 +13,6 @@
             @else
                 <div class="item-card item-card-no-questions toast-trigger"
                      data-profession-name="{{ $profession->name }}">
-                    style="cursor: pointer;">
                     <h4>{{ $profession->name }}</h4>
                     {{-- <p class="no-questions-notice">{{ __('No questions yet') }}</p> --}}
                 </div>
