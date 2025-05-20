@@ -1,0 +1,1712 @@
+[
+    {
+        "id": "6092",
+        "question": "Go da kanallar qanday tuzilgan?",
+        "chance": "91",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6091",
+        "question": "Gorutinlar nima?",
+        "chance": "83",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "6051",
+        "question": "Interfeyslar nima?",
+        "chance": "75",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "5920",
+        "question": "Slices va massivlarning farqi nimada?",
+        "chance": "66",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5918",
+        "question": "Map qanday ishlaydi?",
+        "chance": "58",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "10610",
+        "question": "O'z tajribangiz haqida gapirib bering.",
+        "chance": "50",
+        "tag": "HR"
+    },
+    {
+        "id": "5850",
+        "question": "O'zingiz haqingizda gapirib bering.",
+        "chance": "50",
+        "tag": "HR"
+    },
+    {
+        "id": "5958",
+        "question": "Go'da Map qanday tuzilgan?",
+        "chance": "41",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "6036",
+        "question": "Go'da kontekstlar qanday tuzilgan?",
+        "chance": "33",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5919",
+        "question": "Slices qanday ishlaydi?",
+        "chance": "33",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "11215",
+        "question": "Tranzaksiyalar nima uchun kerak?",
+        "chance": "33",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6025",
+        "question": "Operatsion tizim doirasida protsess va potok (thread) o'rtasidagi farq nimada?",
+        "chance": "33",
+        "tag": "Operatsion tizimlar"
+    },
+    {
+        "id": "6094",
+        "question": "Kanallarning qanday turlari mavjud?",
+        "chance": "33",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6002",
+        "question": "Select qanday ishlaydi?",
+        "chance": "33",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "5973",
+        "question": "TCP va UDP o'rtasidagi farq nimada?",
+        "chance": "25",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "6000",
+        "question": "WaitGroup nima?",
+        "chance": "25",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6031",
+        "question": "Go'da OOP (Obyektga Yo'naltirilgan Dasturlash) qanday amalga oshirilgan?",
+        "chance": "25",
+        "tag": "Go OOP"
+    },
+    {
+        "id": "5844",
+        "question": "defer konstruksiyasi nima uchun kerak?",
+        "chance": "25",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6096",
+        "question": "Buferlangan va buferlanmagan kanallar o'rtasidagi farq nimada?",
+        "chance": "25",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6015",
+        "question": "Mutex nima, uning qanday turlari bor va ularni qanday ishlatish kerak?",
+        "chance": "25",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6073",
+        "question": "Go'ning qanday kamchiliklari bor?",
+        "chance": "25",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "11216",
+        "question": "Qanday indekslarni bilasiz?",
+        "chance": "25",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6041",
+        "question": "Go'dagi context nima?",
+        "chance": "25",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "11217",
+        "question": "Ma'lumotlar Bazasining qanday turlari bor?",
+        "chance": "25",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "5921",
+        "question": "Slicening massivdan asosiy farqi nimada?",
+        "chance": "25",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "6095",
+        "question": "Agar closed channelga yozishga harakat qilinsa nima bo'ladi?",
+        "chance": "25",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6175",
+        "question": "Replikatsiya nima?",
+        "chance": "25",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "5976",
+        "question": "HTTP 1.1 va HTTP 2 o'rtasidagi farqlar nimada?",
+        "chance": "16",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "5897",
+        "question": "Go'da qanday ma'lumot turlari mavjud?",
+        "chance": "16",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "11222",
+        "question": "Garbage collector haqida gapirib bering.",
+        "chance": "16",
+        "tag": "Dasturlash Konseptlari"
+    },
+    {
+        "id": "11221",
+        "question": "Go'da stringlar qanday tuzilgan?",
+        "chance": "16",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5922",
+        "question": "Map qanday tuzilgan?",
+        "chance": "16",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "11218",
+        "question": "SOLID nima?",
+        "chance": "16",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "6149",
+        "question": "WHERE va HAVING o'rtasidagi farq nimada?",
+        "chance": "16",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "5923",
+        "question": "append'da slice qanchaga kattalashadi?",
+        "chance": "16",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "11219",
+        "question": "Go'da qanday asosiy ma'lumotlar tuzilmalari mavjud?",
+        "chance": "16",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "6087",
+        "question": "Imperativ va deklarativ yondashuvlar o'rtasidagi farq nimada?",
+        "chance": "16",
+        "tag": "Dasturlash Konseptlari"
+    },
+    {
+        "id": "6093",
+        "question": "Gorutin threaddan nima bilan farq qiladi?",
+        "chance": "16",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "5924",
+        "question": "Slice bo'yicha iteratsiya map bo'yicha iteratsiyadan tezroq bo'lishi mumkinmi?",
+        "chance": "16",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "6177",
+        "question": "Sharding nima?",
+        "chance": "16",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6052",
+        "question": "Duck typing nima?",
+        "chance": "16",
+        "tag": "Dasturlash Konseptlari"
+    },
+    {
+        "id": "6071",
+        "question": "Go'ning qanday afzalliklari bor?",
+        "chance": "16",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5887",
+        "question": "Go'da funksiyani uzatishda standart xatti-harakat qanday?",
+        "chance": "16",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6028",
+        "question": "Golang'da inkapsulyatsiya qanday amalga oshirilgan?",
+        "chance": "16",
+        "tag": "Go OOP"
+    },
+    {
+        "id": "11220",
+        "question": "Linux'dagi kill buyrug'i nima qiladi?",
+        "chance": "16",
+        "tag": "Operatsion tizimlar"
+    },
+    {
+        "id": "6001",
+        "question": "Ko'p gorutinlarni qanday yakunlash mumkin?",
+        "chance": "16",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "6029",
+        "question": "Golang'da inheritance qanday amalga oshirilgan?",
+        "chance": "16",
+        "tag": "Go OOP"
+    },
+    {
+        "id": "5979",
+        "question": "HTTP nima?",
+        "chance": "16",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "5969",
+        "question": "Mikroservis arxitekturasi nima?",
+        "chance": "16",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "5981",
+        "question": "HTTP va HTTPS o'rtasidagi farqlar nimada?",
+        "chance": "16",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "6030",
+        "question": "Golang'da polimorfizm qanday amalga oshirilgan?",
+        "chance": "16",
+        "tag": "Go OOP"
+    },
+    {
+        "id": "5872",
+        "question": "Mahsulotda/o'z kodingizda qanday patternlar ishlatgansiz, gapirib bering.",
+        "chance": "8",
+        "tag": "Loyihalash Patternlari"
+    },
+    {
+        "id": "5871",
+        "question": "Singleton (Yolg'iz) patterni haqida gapirib bering.",
+        "chance": "8",
+        "tag": "Loyihalash Patternlari"
+    },
+    {
+        "id": "5854",
+        "question": "Gorutinlarni kim boshqaradi?",
+        "chance": "8",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "5900",
+        "question": "Stringni int'ga va aksincha qanday o'zgartirish mumkin?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5901",
+        "question": "Mos ravishda int(string) va string(int) qilish mumkinmi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5902",
+        "question": "int32 va int64 realizatsiyalari xotirada qancha joy egallaydi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5903",
+        "question": "int32 va int64 ning chegaraviy qiymatlari qanday?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5904",
+        "question": "Agar int'ni 0 ga va float'ni 0 ga bo'lsak qanday natija olamiz?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5870",
+        "question": "Factory patterni haqida gapirib bering.",
+        "chance": "8",
+        "tag": "Loyihalash Patternlari"
+    },
+    {
+        "id": "5898",
+        "question": "uint'ning int'dan farqi nimada?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5869",
+        "question": "Builder patterni haqida gapirib bering.",
+        "chance": "8",
+        "tag": "Loyihalash Patternlari"
+    },
+    {
+        "id": "5853",
+        "question": "Runtime (scheduler) nima?",
+        "chance": "8",
+        "tag": "Go Runtime"
+    },
+    {
+        "id": "5846",
+        "question": "Go'da runtime qanday tuzilgan?",
+        "chance": "8",
+        "tag": "Go Runtime"
+    },
+    {
+        "id": "5868",
+        "question": "Qaysi loyihalash patternlari bilan tanishsiz?",
+        "chance": "8",
+        "tag": "Loyihalash Patternlari"
+    },
+    {
+        "id": "5894",
+        "question": "String uchun belgilar sonini qanday aniqlash mumkin?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5867",
+        "question": "Patternda nechta navbat bor?",
+        "chance": "8",
+        "tag": "Loyihalash Patternlari"
+    },
+    {
+        "id": "5866",
+        "question": "GMP patterni haqida gapirib bering.",
+        "chance": "8",
+        "tag": "Go Runtime"
+    },
+    {
+        "id": "5890",
+        "question": "Stringdagi ma'lum bir belgini o'zgartirish mumkinmi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5938",
+        "question": "Map'ning qanday funksiyalari bor?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5889",
+        "question": "Golang tilida string ma'lumot turi o'zi nima?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5865",
+        "question": "Son baytlarda qancha og'irlikka ega?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5851",
+        "question": "Go'da garbage collector qanday ishlaydi?",
+        "chance": "8",
+        "tag": "Go Runtime"
+    },
+    {
+        "id": "5845",
+        "question": "defer konstruksiyasi qanday konsepsiyani amalga oshirishga yordam beradi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5888",
+        "question": "Bo'sh strukturaning og'irligi qancha?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5934",
+        "question": "Slices bilan qanday ishlash kerak?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5864",
+        "question": "Bo'sh string baytlarda qancha og'irlikka ega?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5933",
+        "question": "Agar make yoki short assign qilinmasa, Map'da nima bo'ladi?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5932",
+        "question": "Map'dagi key qanday xususiyatga ega bo'lishi kerak?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5886",
+        "question": "Receiver'da yulduzcha (*) bo'lsa - bu nimani anglatadi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5931",
+        "question": "Sliceda append qanday ishlaydi?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5930",
+        "question": "Agar massivga o'zgaruvchini qo'ysak nima bo'ladi?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5935",
+        "question": "Sizningcha, Map'lar tartiblangan (ordered) bo'ladimi?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5936",
+        "question": "Map'ni qanday to'g'ri e'lon qilish kerak?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5937",
+        "question": "Agar sliceda indeks bo'yicha va Map'da qidirilsa, biror narsani qanchalik tez topish mumkin?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5940",
+        "question": "Sliceni qanday e'lon qilish kerak?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5941",
+        "question": "Map'da qanday keylar bo'lishi mumkin?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5942",
+        "question": "Keylarda qanday ma'lumot turlarini ishlatish mumkin?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5861",
+        "question": "Gorutinlar qanday tuzilgan, ular stekda qancha xotira egallaydi?",
+        "chance": "8",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "5955",
+        "question": "copy funksiyasi nima?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5956",
+        "question": "Ikki sliceni qanday birlashtirish mumkin?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5959",
+        "question": "Nima uchun map'dagi key bo'yicha saqlanadigan qiymatga reference olish mumkin emas?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5961",
+        "question": "Map'ga qiymatlarni olish va yozish sintaksisining qanday o'ziga xosliklari bor?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5962",
+        "question": "Map'da kalit bo'yicha qidiruv qanday amalga oshiriladi?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5963",
+        "question": "Map'ni iteratsiya qilish tartibi qanday?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5964",
+        "question": "Sliceda len va capacity nima?",
+        "chance": "8",
+        "tag": "Go Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5965",
+        "question": "Hash table nima?",
+        "chance": "8",
+        "tag": "Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5966",
+        "question": "Massiv (array) nima?",
+        "chance": "8",
+        "tag": "Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "5967",
+        "question": "Xesh-funksiya nima?",
+        "chance": "8",
+        "tag": "Algoritmlar"
+    },
+    {
+        "id": "5968",
+        "question": "RPS (Requests Per Second) nima?",
+        "chance": "8",
+        "tag": "Tizim dizayni"
+    },
+    {
+        "id": "5970",
+        "question": "Mikroservis monolitdan nima bilan farq qiladi?",
+        "chance": "8",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "5971",
+        "question": "Mikroservis arxitekturasining afzalliklari va kamchiliklarini tasvirlab bering.",
+        "chance": "8",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "5972",
+        "question": "Monolitning afzalliklari va kamchiliklarini tasvirlab bering.",
+        "chance": "8",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "5974",
+        "question": "HTTP'ning qanday versiyalari mavjud?",
+        "chance": "8",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "5975",
+        "question": "HTTP3 haqida nima deya olasiz?",
+        "chance": "8",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "5977",
+        "question": "Protobuf'ni qanday debug qilish mumkin?",
+        "chance": "8",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "5978",
+        "question": "NAT nima?",
+        "chance": "8",
+        "tag": "Tarmoqlar"
+    },
+    {
+        "id": "5980",
+        "question": "HTTPS nima?",
+        "chance": "8",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "5982",
+        "question": "SSL nima?",
+        "chance": "8",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "5983",
+        "question": "TLS nima?",
+        "chance": "8",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "5984",
+        "question": "SSL va TLS o'rtasida farqlar bormi?",
+        "chance": "8",
+        "tag": "Protokollar"
+    },
+    {
+        "id": "5985",
+        "question": "Runtime'da o'zgaruvchining tipini qanday tekshirish mumkin?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5986",
+        "question": "Taqsimlangan tizimni qanday testlash mumkin?",
+        "chance": "8",
+        "tag": "Testlash"
+    },
+    {
+        "id": "5987",
+        "question": "Lock-free konsepsiyasi bilan tanishmisiz?",
+        "chance": "8",
+        "tag": "Parallelizm"
+    },
+    {
+        "id": "5988",
+        "question": "Lock-free ishlash prinsipini tasvirlab bera olasizmi?",
+        "chance": "8",
+        "tag": "Parallelizm"
+    },
+    {
+        "id": "5989",
+        "question": "Go'da xotira ishlatilishini qanday o'lchash mumkin? pprof nima?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5990",
+        "question": "Production'da performancedagi muammolarni topish usullari.",
+        "chance": "8",
+        "tag": "Performance"
+    },
+    {
+        "id": "5991",
+        "question": "Standart profilerni o'z ilovangizga qanday integratsiya qilish mumkin?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5993",
+        "question": "Slicesni turli gorutinalarga uzatish qanchalik xavfsiz?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "5995",
+        "question": "Nima uchun Map'ni thread-safe qilishmagan?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "5997",
+        "question": "Concurrency kontekstida slice qanchalik xavfsiz?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "5998",
+        "question": "Map thread-safe mi?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6003",
+        "question": "Go'da mutex'lar bilan ishlashda nimani yodda tutish kerak?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6004",
+        "question": "Select'dagi default'ning analogi haqida gapirib bering.",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6005",
+        "question": "WaitGroup nima uchun kerak?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6006",
+        "question": "sync.Map haqida nimalarni bilasiz?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6007",
+        "question": "Map va Mutex'larni ma'no jihatdan qanday birlashtirish mumkin?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6008",
+        "question": "RWMutex oddiy Mutex'dan nima bilan farq qiladi?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6009",
+        "question": "Starvation nima ekanligini tushuntirib bering.",
+        "chance": "8",
+        "tag": "Parallelizm"
+    },
+    {
+        "id": "6010",
+        "question": "Map'ni thread-safe qilish uchun qanday mutex'lardan foydalanasiz?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6011",
+        "question": "Select'dagi default nima ish bajaradi?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6012",
+        "question": "Map'ga konkurent yozishda nima sodir bo'ladi? Bu muammoni qanday hal qilish mumkin?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6013",
+        "question": "Map'ga konkurent yozish paytidagi xatodan qanday himoyalanish mumkin?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6014",
+        "question": "Go'da ma'lumotlarni sinxronizatsiya qilishning qanday usullari mavjud?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6016",
+        "question": "Atomics nima, ularning qanday turlari bor va ularni qachon va qanday ishlatgan ma'qul?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6017",
+        "question": "Lock-free ma'lumotlar tuzilmalari nima va Go'da shundaylari bormi?",
+        "chance": "8",
+        "tag": "Parallelizm"
+    },
+    {
+        "id": "6018",
+        "question": "defer va recovery yordamida panikani qanday qayta ishlash mumkin?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6019",
+        "question": "Bir xil []byte buferini bir nechta gorutinada ishlatish mumkinmi?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6020",
+        "question": "stdlib qanday mutex turlarini taqdim etadi?",
+        "chance": "8",
+        "tag": "Go Sinxronizatsiya"
+    },
+    {
+        "id": "6021",
+        "question": "Testlar va TDD kodning tashkil etilishiga qanday ta'sir qiladi?",
+        "chance": "8",
+        "tag": "Testlash"
+    },
+    {
+        "id": "6022",
+        "question": "Coupling va cohesion o'rtasidagi farq nimada?",
+        "chance": "8",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "6023",
+        "question": "Nima uchun TDD'da testlar koddan oldin yoziladi?",
+        "chance": "8",
+        "tag": "Testlash"
+    },
+    {
+        "id": "6024",
+        "question": "Agar kodning tuzilishi yomon bo'lsa, buni qanday tushunasiz?",
+        "chance": "8",
+        "tag": "Best Practices"
+    },
+    {
+        "id": "6026",
+        "question": "Protsesslararo aloqa qilishning qanday usullarini bilasiz?",
+        "chance": "8",
+        "tag": "Operatsion tizimlar"
+    },
+    {
+        "id": "6027",
+        "question": "Agar ikkita protsess operativ xotiraga kirishni so'rasa va faqat bittasi uchun bo'sh joy bo'lsa, nimadan foydalanish kerak?",
+        "chance": "8",
+        "tag": "Operatsion tizimlar"
+    },
+    {
+        "id": "6032",
+        "question": "Go va C#'da OOP qanday amalga oshirilganligini taqqoslang.",
+        "chance": "8",
+        "tag": "Dasturlash Konseptlari"
+    },
+    {
+        "id": "6033",
+        "question": "Go'da obyektga yo'naltirilgan model qanday tuzilgan?",
+        "chance": "8",
+        "tag": "Go OOP"
+    },
+    {
+        "id": "6034",
+        "question": "Nima uchun embedding — bu vorislik emas?",
+        "chance": "8",
+        "tag": "Go OOP"
+    },
+    {
+        "id": "6035",
+        "question": "Go'da generic kod yozishning qanday usullari mavjud?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6037",
+        "question": "Go'da kontekstlarning qanday ma'lum turlari bor?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6038",
+        "question": "Kontekstdan foydalanish holatlarini aytib bering.",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6039",
+        "question": "Ma'lumotlarning ichki kontekstini yaratishning qanday imkoniyatlari bor?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6042",
+        "question": "Blue-green deployment nima?",
+        "chance": "8",
+        "tag": "Infratuzilma va Deploy"
+    },
+    {
+        "id": "6043",
+        "question": "Canary deploy nima?",
+        "chance": "8",
+        "tag": "Infratuzilma va Deploy"
+    },
+    {
+        "id": "6044",
+        "question": "Dark yoki A/B deploy nima?",
+        "chance": "8",
+        "tag": "Infratuzilma va Deploy"
+    },
+    {
+        "id": "6045",
+        "question": "SLA (Service Level Agreement) nima?",
+        "chance": "8",
+        "tag": "Infratuzilma va Deploy"
+    },
+    {
+        "id": "6046",
+        "question": "SLO (Service Level Objective) nima?",
+        "chance": "8",
+        "tag": "Infratuzilma va Deploy"
+    },
+    {
+        "id": "6047",
+        "question": "SLI (Service Level Indicator) nima?",
+        "chance": "8",
+        "tag": "Infratuzilma va Deploy"
+    },
+    {
+        "id": "6048",
+        "question": "Qanday CI/CD vositalarini bilasiz?",
+        "chance": "8",
+        "tag": "Infratuzilma va Deploy"
+    },
+    {
+        "id": "6049",
+        "question": "Ilovani deploy qilishning uzluksizligi va barqarorligini qanday ta'minlash mumkin?",
+        "chance": "8",
+        "tag": "Infratuzilma va Deploy"
+    },
+    {
+        "id": "6053",
+        "question": "Interfeys turini qanday tekshirish mumkin?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6054",
+        "question": "Nima uchun bo'sh interfeysni har qanday turga keltirish mumkin?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6055",
+        "question": "Bo'sh interfeys oddiy interfeys bilan qanday bog'liq?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6056",
+        "question": "Nima bo'sh interfeys bo'lishi mumkin?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6057",
+        "question": "Bo'sh interfeys nima uchun kerak?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6058",
+        "question": "Bo'sh interfeys nima?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6059",
+        "question": "Strukturaning interfeysga mosligini tekshirishning qanday usuli bor?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6060",
+        "question": "Closer nima va uning ishlash prinsipi qanday?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6061",
+        "question": "Go interfeysi boshqa tillardagi interfeyslardan nima bilan farq qiladi?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6062",
+        "question": "Interfeysning ichki tuzilishi.",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6063",
+        "question": "nil interfeys nima?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6064",
+        "question": "Type switch nima?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6065",
+        "question": "Interfeysni boshqa turga qanday o'zgartirish (type assertion) mumkin?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6066",
+        "question": "Interfeys tavsifini qayerga joylashtirish kerak?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6067",
+        "question": "Kompilyatorga bizning tipimiz interfeysni amalga oshirishini qanday bildirish mumkin?",
+        "chance": "8",
+        "tag": "Go Interfeyslari"
+    },
+    {
+        "id": "6068",
+        "question": "Go nima?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6070",
+        "question": "Go'ning Java, Python tillaridan asosiy farqlari qanday?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6074",
+        "question": "Go'da package nima?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6077",
+        "question": "Paketlarni qanday yaratish va import qilish kerak?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6078",
+        "question": "CI/CD nima?",
+        "chance": "8",
+        "tag": "Infratuzilma va Deploy"
+    },
+    {
+        "id": "6079",
+        "question": "Linterlar nima?",
+        "chance": "8",
+        "tag": "Tools"
+    },
+    {
+        "id": "6080",
+        "question": "Linterlar nima uchun kerak?",
+        "chance": "8",
+        "tag": "Tools"
+    },
+    {
+        "id": "6081",
+        "question": "Linterlardan qanday foydalanish kerak?",
+        "chance": "8",
+        "tag": "Tools"
+    },
+    {
+        "id": "6082",
+        "question": "Prometheus nima?",
+        "chance": "8",
+        "tag": "Tools"
+    },
+    {
+        "id": "6083",
+        "question": "Grafana nima?",
+        "chance": "8",
+        "tag": "Tools"
+    },
+    {
+        "id": "6084",
+        "question": "Prometheus nima uchun kerak?",
+        "chance": "8",
+        "tag": "Tools"
+    },
+    {
+        "id": "6085",
+        "question": "Grafana nima uchun kerak?",
+        "chance": "8",
+        "tag": "Tools"
+    },
+    {
+        "id": "6086",
+        "question": "Go — imperativmi yoki deklarativmi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6088",
+        "question": "Standart logger'ning asosiy kamchiligi nima?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6089",
+        "question": "Go uchun yaxshi ORM bormi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6090",
+        "question": "Go dasturida Prometheus metrikalarining standart to'plami.",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "6099",
+        "question": "Gorutinlarning threadlarga nisbatan qanday kamchiliklari bor?",
+        "chance": "8",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "6101",
+        "question": "Agar kanal int turida bo'lsa va nol qabul qilinsa nima qilish kerak?",
+        "chance": "8",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6102",
+        "question": "Gorutinaning ishini qaysi kanal orqali tekshirish mumkin?",
+        "chance": "8",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6103",
+        "question": "Kanalni qanday yopish kerak?",
+        "chance": "8",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6104",
+        "question": "Kanallar bilan qanday amallarni bajarish mumkin?",
+        "chance": "8",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6106",
+        "question": "Yopiq kanaldan o'qishning qanday oqibatlari bor?",
+        "chance": "8",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6107",
+        "question": "Qaysi hollarda deadlock yuzaga keladi?",
+        "chance": "8",
+        "tag": "Parallelizm"
+    },
+    {
+        "id": "6109",
+        "question": "Gorutinalar bilan ishlashda deadlock nimani anglatadi?",
+        "chance": "8",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "6110",
+        "question": "nil kanal nima va unga yozish va undan o'qishda nima bo'ladi?",
+        "chance": "8",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6111",
+        "question": "Agar yopiq kanalni yopsa nima bo'ladi?",
+        "chance": "8",
+        "tag": "Go Kanallari"
+    },
+    {
+        "id": "6113",
+        "question": "ACID qisqartmasi qanday ochiladi?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6116",
+        "question": "Indekslarning qanday turlari mavjud?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6118",
+        "question": "MySQL'dagi indekslar nima?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6119",
+        "question": "Indekslar nima uchun ishlatiladi?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6120",
+        "question": "Indeksni qanday yaratish mumkin?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6127",
+        "question": "MySQL'dagi JOIN so'rovlarida indekslarni qanday ishlatish mumkin?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6136",
+        "question": "InnoDB va MyISAM o'rtasidagi farqlar nimada?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6137",
+        "question": "Ichki so'rovlar bilan JOIN qilish mumkinmi?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6139",
+        "question": "Deadlock'lar nima?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6140",
+        "question": "Deadlock'dan qanday qochish mumkin?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6144",
+        "question": "HAVING nima?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6147",
+        "question": "HAVING nima qiladi?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6153",
+        "question": "HAVING'ni ma'lumotlarni guruhlamasdan ishlatish mumkinmi?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6156",
+        "question": "EXPLAIN nima?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6160",
+        "question": "MySQL versiyasini qanday bilish mumkin?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6163",
+        "question": "ORDER BY RAND()'ni qanday optimallashtirish mumkin?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6169",
+        "question": "MySQL indeksini qanday o'chirish mumkin?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6171",
+        "question": "Ma'lumotlarni denormalizatsiya qilish qachon va nima uchun kerak bo'lishi mumkin?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6181",
+        "question": "Sinxron replikatsiyaning asinxrondan farqi nimada? Qaysi biri qaysi holat uchun yaxshiroq mos keladi?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6185",
+        "question": "Agar indeks 2 ta ustun uchun yaratilgan bo'lsa va so'rov ulardan faqat bittasini o'z ichiga olsa - u ishlaydimi?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "6189",
+        "question": "Massivning oxiridan va boshidan o'chirish jarayoni qanday tuzilgan?",
+        "chance": "8",
+        "tag": "Algoritmlar"
+    },
+    {
+        "id": "6193",
+        "question": "Kolliziyalarni hal qilishning qanday usullarini bilasiz?",
+        "chance": "8",
+        "tag": "Algoritmlar"
+    },
+    {
+        "id": "6197",
+        "question": "Slicedan element olishning asimptotik murakkabligi qanday?",
+        "chance": "8",
+        "tag": "Algoritmlar"
+    },
+    {
+        "id": "6208",
+        "question": "Ko'p stringlarni qanday samarali birlashtirish mumkin?",
+        "chance": "8",
+        "tag": "Algoritmlar"
+    },
+    {
+        "id": "6212",
+        "question": "Slice qaysi algoritm bo'yicha o'sadi?",
+        "chance": "8",
+        "tag": "Algoritmlar"
+    },
+    {
+        "id": "6215",
+        "question": "Gorutinlar xatoliklarga olib kelishi mumkin bo'lgan qanday holatlarni ayta olasiz?",
+        "chance": "8",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "11223",
+        "question": "Sharding va partitioning o'rtasidagi farq nimada?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11224",
+        "question": "Load balancingning qanday algoritmlarini bilasiz?",
+        "chance": "8",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "11225",
+        "question": "Saga pattern nima?",
+        "chance": "8",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "11227",
+        "question": "REST API nima?",
+        "chance": "8",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "11228",
+        "question": "recover nima?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "11229",
+        "question": "Kafka'dagi consumer group nima?",
+        "chance": "8",
+        "tag": "Kafka"
+    },
+    {
+        "id": "11230",
+        "question": "Tranzaksiya izolyatsiyasi darajalari nima?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11231",
+        "question": "Trigger nima?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11232",
+        "question": "Normalizatsiya nima?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11233",
+        "question": "Stream unary'dan nima bilan farq qiladi?",
+        "chance": "8",
+        "tag": "gRPC"
+    },
+    {
+        "id": "11234",
+        "question": "MongoDB PostgreSQL'dan nima bilan farq qiladi?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11235",
+        "question": "Unit testlar integratsion testlardan nima bilan farq qiladi?",
+        "chance": "8",
+        "tag": "Testlash"
+    },
+    {
+        "id": "11236",
+        "question": "merge rebase'dan nima bilan farq qiladi?",
+        "chance": "8",
+        "tag": "Git"
+    },
+    {
+        "id": "11237",
+        "question": "Konkurentlik parallellikdan nima bilan farq qiladi?",
+        "chance": "8",
+        "tag": "Parallelizm"
+    },
+    {
+        "id": "11238",
+        "question": "Generic programming vositalari qanday?",
+        "chance": "8",
+        "tag": "Dasturlash Konseptlari"
+    },
+    {
+        "id": "11239",
+        "question": "Sum type nima va uni qanday amalga oshirish mumkin?",
+        "chance": "8",
+        "tag": "Dasturlash Konseptlari"
+    },
+    {
+        "id": "11240",
+        "question": "Ext4 fayl tizimi qanday tuzilgan?",
+        "chance": "8",
+        "tag": "Operatsion tizimlar"
+    },
+    {
+        "id": "11241",
+        "question": "Git nima?",
+        "chance": "8",
+        "tag": "Git"
+    },
+    {
+        "id": "11243",
+        "question": "Work stealing nima?",
+        "chance": "8",
+        "tag": "Parallelizm"
+    },
+    {
+        "id": "11244",
+        "question": "Gorutinlarning OS potoklari oldidagi afzalliklarini ayting.",
+        "chance": "8",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "11245",
+        "question": "Agregat funksiyalarni ayting.",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11247",
+        "question": "Balancing algoritmlarining qanday turlari bor?",
+        "chance": "8",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "11248",
+        "question": "Qaysi ma'lumotlarni indekslash kerak emas?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11249",
+        "question": "JOIN'ning qanday turlari mavjud?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11250",
+        "question": "PostgreSQL'da qanday indeks turlari bor?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11251",
+        "question": "Optimizatsiyaning qanday usullari mavjud?",
+        "chance": "8",
+        "tag": "Performance"
+    },
+    {
+        "id": "11252",
+        "question": "Sinxronizatsiya primitivlarining qanday turlari bor?",
+        "chance": "8",
+        "tag": "Parallelizm"
+    },
+    {
+        "id": "11253",
+        "question": "Go'da ko'p vazifalilik qanday tuzilgan?",
+        "chance": "8",
+        "tag": "Go Runtime"
+    },
+    {
+        "id": "11254",
+        "question": "Heap qanday tuzilgan?",
+        "chance": "8",
+        "tag": "Ma'lumotlar Tuzilmalari"
+    },
+    {
+        "id": "11256",
+        "question": "Go'da set'ni qanday amalga oshirish mumkin?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "11257",
+        "question": "HTTP so'rovi qanday qismlardan iborat?",
+        "chance": "8",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "11259",
+        "question": "HTTP so'rovlarida taymautlar nima uchun kerak?",
+        "chance": "8",
+        "tag": "HTTP / API"
+    },
+    {
+        "id": "11260",
+        "question": "Keshlashtirish nima uchun kerak?",
+        "chance": "8",
+        "tag": "Performance"
+    },
+    {
+        "id": "11261",
+        "question": "Foreign key nima uchun kerak?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "11262",
+        "question": "Window funksiyalar nima uchun kerak?",
+        "chance": "8",
+        "tag": "Ma'lumotlar bazasi"
+    },
+    {
+        "id": "5862",
+        "question": "Slice baytlarda qancha og'irlikka ega?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "11263",
+        "question": "Oddiy va abstrakt klassning o'xshashligi va farqi nimada?",
+        "chance": "8",
+        "tag": "OOP"
+    },
+    {
+        "id": "5863",
+        "question": "Map baytlarda qancha og'irlikka ega?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5843",
+        "question": "Biror narsani uzatganda nusxa ko'chiradigan struktura qanday nomlanadi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5847",
+        "question": "O'zgaruvchining initsializatsiya qilingan qiymati qaysi paytda defer'ga uzatiladi, bu funksiyaning nomlanishi bilan qanday bog'liq?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5848",
+        "question": "Serializatsiya nima?",
+        "chance": "8",
+        "tag": "Dasturlash Konseptlari"
+    },
+    {
+        "id": "5849",
+        "question": "Serializatsiya nima uchun kerak?",
+        "chance": "8",
+        "tag": "Dasturlash Konseptlari"
+    },
+    {
+        "id": "5855",
+        "question": "Go'da qanday ko'p vazifalilik turi ishlatiladi va Go 1.15 versiyasigacha qanday bo'lgan?",
+        "chance": "8",
+        "tag": "Go Runtime"
+    },
+    {
+        "id": "5856",
+        "question": "Gorutinada o'zgaruvchi ajratilganda u qayerda joylashadi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5857",
+        "question": "Gorutinada o'zgaruvchini ajratishda qanday qoidalar mavjud?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5858",
+        "question": "Gorutinalar uchun xotira qayerda ajratiladi?",
+        "chance": "8",
+        "tag": "Go Gorutinlari"
+    },
+    {
+        "id": "5859",
+        "question": "Go'dagi garbage collector haqida qanchalik xabardorsiz?",
+        "chance": "8",
+        "tag": "Go Runtime"
+    },
+    {
+        "id": "5860",
+        "question": "Garbage collection mexanizmi qanday nomlanadi?",
+        "chance": "8",
+        "tag": "Go Runtime"
+    },
+    {
+        "id": "5873",
+        "question": "SaaS ilovalarini loyihalash uchun 12 faktorli ilova (12FA) konsepsiyasi bilan tanishmisiz?",
+        "chance": "8",
+        "tag": "Arxitektura"
+    },
+    {
+        "id": "5874",
+        "question": "Funksiyada qo'shimcha jingalak qavslar bloki nima uchun ishlatiladi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5875",
+        "question": "Closure nima?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5876",
+        "question": "Variable capture nima?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5877",
+        "question": "Golang'da funksiyaga uzatishda sukut bo'yicha qanday xatti-harakat ishlatiladi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5878",
+        "question": "Funksiyadan nechta qiymat qaytarish mumkin?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5879",
+        "question": "Paket uchun o'z metodlaringizni qanday yaratish mumkin?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5880",
+        "question": "Metod nomidan oldin nima turadi?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5881",
+        "question": "Metod nima? Ular qanday ko'rinishga ega?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    },
+    {
+        "id": "5884",
+        "question": "Stringni ierogliflar, kirillcha va hokazo ko'rinishida qanday o'qish mumkin?",
+        "chance": "8",
+        "tag": "Go Dasturlash Tili"
+    }
+]
