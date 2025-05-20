@@ -28,7 +28,7 @@
                     <tr>
                         <td>{{ ($questions->currentPage() - 1) * $questions->perPage() + $loop->iteration }}</td>
                         <td>
-                            <a href="{{ route('question', ['id' => $q->id, 'profession' => $profession->name]) }}"
+                            <a href="{{ route('question.show', ['question' => $q, 'professionSlug' => $profession->slug]) }}"
                                class="table-link">
                                 {{ $q->question }}
                             </a>
