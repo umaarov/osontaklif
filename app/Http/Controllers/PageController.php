@@ -9,8 +9,6 @@ use Carbon\Carbon;
 use Illuminate\Http\Request;
 use Illuminate\View\View;
 
-// Make sure it's imported
-
 class PageController extends Controller
 {
     final public function home(): View
