@@ -15,7 +15,7 @@
                 @endif
             </div>
             <div style="margin-top: 20px;">
-                <a href="{{ route('profession', ['name' => $profession]) }}" class="btn-outline">
+                <a href="{{ route('profession', ['profession' => $profession]) }}" class="btn-outline">
                     {{__('back_to_questions')}}
                 </a>
             </div>
